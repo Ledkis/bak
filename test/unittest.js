@@ -1,7 +1,8 @@
 const fs = require('fs'); 
+const wikiscrapper = require ('../lib/wikiscrapper');
 const wikiutils = require ('../lib/wikiutils');
 
-const { performanceWrapper,  tw} = require('./testutils');
+const {performanceWrapper, tw} = require('./testutils');
 
 function welcomtest(){
 	return 'UNIT TEST';
@@ -50,15 +51,50 @@ function philoBirthDateParserTEST(){
 	});
 }
 
+function wikiInfoBoxScrapTEST(){
+	const url = "http://fr.wikipedia.org/w/api.php?action=parse&page=Parm%C3%A9nide&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json";
+	const page = "Parménide";
+
+	const pageData = fs.readFileSync(`./test/data/${page}.html`, 'utf8');
+
+	const response = {text: {}};
+
+	response.text["*"] = pageData;
+
+	const res = performanceWrapper(wikiscrapper.scrapInfoBox, [response, page, url], 'scrapInfoBox');
+
+	console.log(res.infobox_v3);
+}
+
+
+function wikiPhiloScrapTEST(){
+	const url = "http://fr.wikipedia.org/w/api.php?action=parse&page=Liste_de_philosophes_par_ann%C3%A9e_de_naissance&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json";
+	const page = "Liste_de_philosophes_par_année_de_naissance";
+
+	const pageData = fs.readFileSync(`./test/data/${page}.html`, 'utf8');
+
+	const response = {text: {}};
+
+	response.text["*"] = pageData;
+
+	const res = performanceWrapper(wikiscrapper.scrapPhiloInfo, [response, page, url], 'scrapPhiloInfo');
+
+	console.log(res.links.length);
+}
+
+
 function* unittest (){
 	yield welcomtest;
 	// yield testWikiApi();
 	// yield philoBirthDateParserTEST; // TODO : manage async tests
-	yield mesureRegexPerformance;
+	// yield mesureRegexPerformance;
+	yield wikiInfoBoxScrapTEST;
+	yield wikiPhiloScrapTEST;
 }
 
-console.log(`\n\n\n\n__________________UNIT TEST____________________`)
-console.log(`\n\n_______________________________________________`)
+console.log(`\n\n\n\n`);
+console.log(`__________________UNIT TEST____________________\n\n`)
+console.log(`_______________________________________________`)
 for(let test of unittest()){
 	tw(test);		
 }
