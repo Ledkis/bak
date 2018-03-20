@@ -1,20 +1,8 @@
-const wikiapi = require('./lib/wikiapi');
+const config = require('config');
+const logger = require ('./lib/mylogger')('bak');
+const wikimanager = require('./lib/wikimanager');
 
-
-// wikiapi.fetchInfoBoxData('Parménide').then((res, err)=>{
-// 	if(err) {
-// 		throw err;
-// 	}
-
-// 	console.log(res.infobox_v3);
-// });
-
-wikiapi.fetchPhilosophesList().then((res, err)=>{
-	if(err) {
-		throw err;
-	}
-
-	console.log(res.links.length);
-});
+logger.info(`*** BAK: START***, NODE_ENV: ${config.get('NODE_ENV')}`)
+//wikimanager.main();
 
 // node --inspect-brk bak.js

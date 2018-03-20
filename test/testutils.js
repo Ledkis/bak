@@ -1,4 +1,5 @@
 const { performance } = require('perf_hooks');
+const logger = require ('../lib/mylogger')('unittest');
 const utils = require("../lib/utils");
 
 const testutils = {};
@@ -19,17 +20,17 @@ testutils.performanceWrapper = function(fn, args, mark){
 	performance.mark(`${mark}B`);
 	performance.measure(`${mark}A to ${mark}B`, `${mark}A`, `${mark}B`);
 	const measure = performance.getEntriesByName(`${mark}A to ${mark}B`)[0];
-	console.log(`time exec ${mark} : ${measure.duration} mills`);
+	logger.test(`time exec ${mark} : ${measure.duration} mills`);
 
 	return res;
 }
 
 testutils.tw = function(fn){
 	//testWrapper
-	console.log(`__________________${fn.name}____________________`)
+	logger.test(`__________________${fn.name}____________________`)
 	let res = testutils.performanceWrapper(fn, fn.name);
-	if(res) console.log('result: ' + res);
-	console.log(`________________________________________________`)
+	if(res) logger.test('result: ' + res);
+	logger.test(`________________________________________________`)
 }
 
 

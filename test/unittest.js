@@ -1,4 +1,5 @@
 const fs = require('fs'); 
+const logger = require ('../lib/mylogger')('unittest');
 const wikiscrapper = require ('../lib/wikiscrapper');
 const wikiutils = require ('../lib/wikiutils');
 
@@ -45,7 +46,7 @@ function philoBirthDateParserTEST(){
 		datas.forEach((line) => {
 			let bdInfo = wikiutils.philoBirthDateParser(line);
 
-			console.log(`raw: ${line}, birth: ${bdInfo.birth}, death: ${bdInfo.death}`);
+			logger.test(`raw: ${line}, birth: ${bdInfo.birth}, death: ${bdInfo.death}`);
 
 		});
 	});
@@ -63,7 +64,7 @@ function wikiInfoBoxScrapTEST(){
 
 	const res = performanceWrapper(wikiscrapper.scrapInfoBox, [response, page, url], 'scrapInfoBox');
 
-	console.log(res.infobox_v3);
+	logger.test(res.infobox_v3);
 }
 
 
@@ -79,7 +80,7 @@ function wikiPhiloScrapTEST(){
 
 	const res = performanceWrapper(wikiscrapper.scrapPhiloInfo, [response, page, url], 'scrapPhiloInfo');
 
-	console.log(res.links.length);
+	logger.test(res.links.length);
 }
 
 
@@ -111,9 +112,7 @@ function* unittest (){
 	yield* wikiscrapperUNITTEST();
 }
 
-console.log(`\n\n\n\n`);
-console.log(`__________________UNIT TEST____________________\n\n`)
-console.log(`_______________________________________________`)
+logger.test(`__________________UNIT TEST____________________`)
 for(let test of unittest()){
 	tw(test);		
 }
