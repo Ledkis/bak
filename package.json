@@ -4,7 +4,11 @@
   "private": true,
   "scripts": {
     "start": "node ./bak.js",
-    "debug": "node ./test/unittest.js"
+    "sstart": "node --inspect-brk ./bak.js",
+    "wip": "node ./wip.js",
+    "wwip": "node --inspect-brk ./wip.js",
+    "test": "node ./test/unittest.js",
+    "ttest": "node --inspect-brk ./test/unittest.js"
   },
   "engines": {
     "node": "~8.9.4",
