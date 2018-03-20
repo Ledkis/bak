@@ -1,8 +1,7 @@
 const wikiapi = require('./lib/wikiapi');
 
 
-
-// wikiapi.loadData('Parménide').then((res, err)=>{
+// wikiapi.fetchInfoBoxData('Parménide').then((res, err)=>{
 // 	if(err) {
 // 		throw err;
 // 	}
