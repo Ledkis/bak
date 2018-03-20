@@ -35,7 +35,7 @@ function testWikiApi(){
 
 function philoBirthDateParserTEST(){
 
-	return fs.readFile('./test/wiki_philo_dates.txt', 'utf8', function read(err, data) {
+	return fs.readFile('./test/data/wiki_philo_dates.txt', 'utf8', function read(err, data) {
 		if (err) {
 			throw err;
 		}
@@ -56,7 +56,7 @@ function wikiInfoBoxScrapTEST(){
 	const url = "http://fr.wikipedia.org/w/api.php?action=parse&page=Parm%C3%A9nide&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json";
 	const page = "Parménide";
 
-	const pageData = fs.readFileSync(`./test/data/${page}.html`, 'utf8');
+	const pageData = fs.readFileSync(`./data/raw/${page}.html`, 'utf8');
 
 	const response = {text: {}};
 
@@ -72,13 +72,13 @@ function wikiPhiloScrapTEST(){
 	const url = "http://fr.wikipedia.org/w/api.php?action=parse&page=Liste_de_philosophes_par_ann%C3%A9e_de_naissance&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json";
 	const page = "Liste_de_philosophes_par_année_de_naissance";
 
-	const pageData = fs.readFileSync(`./test/data/${page}.html`, 'utf8');
+	const pageData = fs.readFileSync(`./data/raw/${page}.html`, 'utf8');
 
 	const response = {text: {}};
 
 	response.text["*"] = pageData;
 
-	const res = performanceWrapper(wikiscrapper.scrapPhiloInfo, [response, page, url], 'scrapPhiloInfo');
+	const res = performanceWrapper(wikiscrapper.scrapPhilosPage, [response, page, url], 'scrapPhilosPage');
 
 	logger.test(res.links.length);
 }
@@ -93,13 +93,13 @@ function wikiPhiloScrapTEST(){
 
 
 function* wikiutilsUNITTEST(){
-	// yield philoBirthDateParserTEST; // TODO : manage async tests
-	yield mesureRegexPerformance;
+	yield philoBirthDateParserTEST; // TODO : manage async tests
+	// yield mesureRegexPerformance;
 }
 
 
 function* wikiscrapperUNITTEST(){
-	yield wikiInfoBoxScrapTEST;
+	// yield wikiInfoBoxScrapTEST;
 	yield wikiPhiloScrapTEST;
 }
 
@@ -114,7 +114,11 @@ function* unittest (){
 
 logger.test(`__________________UNIT TEST____________________`)
 for(let test of unittest()){
-	tw(test);		
+	try{
+		tw(test);		
+	} catch(err){
+		logger.err(err);		
+	}
 }
 
 // node ./test/unittest.js

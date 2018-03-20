@@ -30,7 +30,7 @@ testutils.tw = function(fn){
 	logger.test(`__________________${fn.name}____________________`)
 	let res = testutils.performanceWrapper(fn, fn.name);
 	if(res) logger.test('result: ' + res);
-	logger.test(`________________________________________________`)
+	logger.test(`__________________END__________________`)
 }
 
 
