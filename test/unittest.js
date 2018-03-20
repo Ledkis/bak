@@ -83,13 +83,32 @@ function wikiPhiloScrapTEST(){
 }
 
 
+
+
+//////////////////////////////////////////////////////////
+/** ____________________ TEST ZONE ____________________**/
+//////////////////////////////////////////////////////////
+
+
+
+function* wikiutilsUNITTEST(){
+	// yield philoBirthDateParserTEST; // TODO : manage async tests
+	yield mesureRegexPerformance;
+}
+
+
+function* wikiscrapperUNITTEST(){
+	yield wikiInfoBoxScrapTEST;
+	yield wikiPhiloScrapTEST;
+}
+
+
 function* unittest (){
 	yield welcomtest;
 	// yield testWikiApi();
-	// yield philoBirthDateParserTEST; // TODO : manage async tests
-	// yield mesureRegexPerformance;
-	yield wikiInfoBoxScrapTEST;
-	yield wikiPhiloScrapTEST;
+	
+	// yield* wikiutilsUNITTEST();
+	yield* wikiscrapperUNITTEST();
 }
 
 console.log(`\n\n\n\n`);
