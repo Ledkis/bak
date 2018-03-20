@@ -57,8 +57,11 @@ function* unittest (){
 	yield mesureRegexPerformance;
 }
 
+console.log(`\n\n\n\n__________________UNIT TEST____________________`)
+console.log(`\n\n_______________________________________________`)
 for(let test of unittest()){
 	tw(test);		
 }
 
+// node ./test/unittest.js
 // node --inspect-brk ./test/unittest.js
