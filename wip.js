@@ -9,7 +9,6 @@ const NODE_ENV = config.get('NODE_ENV');
 
 logger.info(`____________WIP: START____________`);
 logger.info(`NODE_ENV: ${NODE_ENV}`)
-//wikimanager.main();
 
 function fetchPapesList(opts){
 	const url = "http://fr.wikipedia.org/w/api.php?action=parse&page=Liste_des_papes&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json";
@@ -21,27 +20,28 @@ function fetchPapesList(opts){
 	return new Promise((resolve, reject) => {
         if(opts.online){
          wikipedia.page.data(page, { content: true , lang:'fr'}, (response, page, url) => {
-                // todo: Promise ?
+                // TODO: Promise && Remove try catch ?
+                try{
+                    if(response.error) return reject(response.error);
 
-                if(response.error) return reject(response.error);
-                    
-                const res = scrapPapesPage(response.parse, page, url);
-
-                resolve(res);
+                    resolve(scrapPapesPage(response.parse, page, url));
+                } catch(err){
+                    reject(err);
+                }
             });
          } else {
-
             fs.readFile(`./data/raw/${page}.html`, 'utf8', (err, data) => {
 
-                if (err) return reject(err);
+                try{
+                    if (err) return reject(err);
 
-                const response = {text: {}};
+                    const response = {text: {}};
+                    response.text["*"] = data;
 
-                response.text["*"] = data;
-
-                const res = scrapPapesPage(response, page, url);
-
-                resolve(res);
+                    resolve(scrapPapesPage(response, page, url));
+                } catch(err){
+                    reject(err);
+                }
             });
         }
     });
@@ -59,19 +59,33 @@ function scrapPapesPage(response, page, url){
 
     const $ = cheerio.load(response.text["*"]);
 
-    // get papes table
-    var tables = $('.wikitable');
+    // get papes table or table title
+    var elements = $('.mw-parser-output h3, .wikitable');
 
     // Validate result before parsing
-    if (tables.length === 0) {
+    if (elements.length === 0) {
         throw new Error('Unable to find any data!');
         return;
     }
 
-    //Loop on the tables
-    tableloop: for(let idTable = 0; idTable < tables.length; idTable++){
-        const table = tables[idTable];
-        const rows = $(table).find('tr');
+    let h3Context = '';
+
+    //Loop on the elements
+    tableloop: for(let idTable = 0; idTable < elements.length; idTable++){
+        
+        const element = elements[idTable];
+
+        if(element.name === 'h3'){
+            if(element.children[0].children.length > 0){
+                h3Context = $(element.children[0]).text();
+            } else {
+                h3Context = $(element.children[1]).text();
+            }
+            continue tableloop;
+        }
+
+        
+        const rows = $(element).find('tr');
 
         let fiedsTagList = [];
         //Loop on the rows
@@ -103,12 +117,18 @@ function scrapPapesPage(response, page, url){
 
             const pape = {};
 
+            pape.attribs = [];
+            pape.attribs.push(h3Context);
+
             //Loop on field
             for(let idField = 0; idField < fiedsTagList.length; idField++){
                 pape[fiedsTagList[idField]] = $(fields[idField].children[0]).text();
             }
 
-            //console.log(pape);
+            // if(parseInt(pape["Numéro"]) > 200){
+
+            //     console.log(`${pape["Numéro"]} : ${pape["context"]}`);
+            // }
 
             data.list.push(pape);
         }
@@ -120,7 +140,7 @@ function scrapPapesPage(response, page, url){
 
 
 
-fetchPapesList({online: true/*!(NODE_ENV === 'debug')*/}).then((res, err) => {
+fetchPapesList({online: !(NODE_ENV === 'debug')}).then((res, err) => {
     if(err) throw err;
     logger.info(`papes nbr: ${res.list.length}`)
 }).catch(error => { 
