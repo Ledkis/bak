@@ -1,5 +1,5 @@
 const config = require('config');
-const wikipedia = require("node-wikipedia");
+const wikipedia = require("./lib/my-node-wikipedia");
 const cheerio = require("cheerio");
 const fs = require('fs');
 const logger = require ('./lib/mylogger')('wip');
@@ -19,27 +19,32 @@ function fetchPapesList(opts){
 	logger.info(`fetchPapesList: ${page}`);
 
 	return new Promise((resolve, reject) => {
-		let res;
-
         if(opts.online){
-           wikipedia.page.data(page, { content: true , lang:'en'}, (response, page, url) => {
+         wikipedia.page.data(page, { content: true , lang:'fr'}, (response, page, url) => {
                 // todo: Promise ?
-                res = scrapPapesPage(response, page, url);			
+
+                if(response.error) return reject(response.error);
+                    
+                const res = scrapPapesPage(response.parse, page, url);
+
+                resolve(res);
             });
-       } else {
-           const pageData = fs.readFileSync(`./data/raw/${page}.html`, 'utf8');
-           const response = {text: {}};
+         } else {
 
-           response.text["*"] = pageData;
+            fs.readFile(`./data/raw/${page}.html`, 'utf8', (err, data) => {
 
-           res = scrapPapesPage(response, page, url);
-       }
+                if (err) return reject(err);
 
-       logger.info(`papes nbr: ${res.list.length}`)
+                const response = {text: {}};
 
-       resolve(res);
-   }).catch(error => { logger.err(error); });
-	;
+                response.text["*"] = data;
+
+                const res = scrapPapesPage(response, page, url);
+
+                resolve(res);
+            });
+        }
+    });
 }
 
 function scrapPapesPage(response, page, url){
@@ -51,76 +56,75 @@ function scrapPapesPage(response, page, url){
 
     data.list = [];
 
-    try{
 
-        const $ = cheerio.load(response.text["*"]);
+    const $ = cheerio.load(response.text["*"]);
 
-        // get papes table
-        var tables = $('.wikitable');
+    // get papes table
+    var tables = $('.wikitable');
 
-        // Validate result before parsing
-        if (tables.length === 0) {
-            throw new Error('Unable to find any data!');
-            return;
-        }
-
-        //Loop on the tables
-        tableloop: for(let idTable = 0; idTable < tables.length; idTable++){
-            const table = tables[idTable];
-            const rows = $(table).find('tr');
-
-            let fiedsTagList = [];
-            //Loop on the rows
-            rowloop: for(let idRow = 0; idRow < rows.length; idRow++){
-                const row = rows[idRow];
-
-                if(idRow === 0){
-
-                    const fieldsTag = $(row).find('th');
-
-                    //Loop on field tag
-                    for(let idField = 0; idField < fieldsTag.length; idField++){
-                        let node = fieldsTag[idField];
-                        if(node.children.length === 1){
-                            fiedsTagList[idField] = node.children[0].data;
-                        } else if(node.children.length === 2){
-                                fiedsTagList[idField] = node.children[0].attribs.title;
-                        } else {
-                            // Not a pape table
-                        }
-                    }
-
-                    continue rowloop;
-                }
-
-                const fields = $(row).find('td');
-
-                if(fields.length !== fiedsTagList.length) continue tableloop;
-
-                const pape = {};
-
-                //Loop on field
-                for(let idField = 0; idField < fiedsTagList.length; idField++){
-                    pape[fiedsTagList[idField]] = $(fields[idField].children[0]).text();
-                }
-
-                //console.log(pape);
-
-                data.list.push(pape);
-            }
-        }
-
-        return data;
-
-    } catch(err){
-        err.message = `Error while parsing papes: ${err.message}`;
-        logger.err(err);
-        return data;
+    // Validate result before parsing
+    if (tables.length === 0) {
+        throw new Error('Unable to find any data!');
+        return;
     }
+
+    //Loop on the tables
+    tableloop: for(let idTable = 0; idTable < tables.length; idTable++){
+        const table = tables[idTable];
+        const rows = $(table).find('tr');
+
+        let fiedsTagList = [];
+        //Loop on the rows
+        rowloop: for(let idRow = 0; idRow < rows.length; idRow++){
+            const row = rows[idRow];
+
+            if(idRow === 0){
+
+                const fieldsTag = $(row).find('th');
+
+                //Loop on field tag
+                for(let idField = 0; idField < fieldsTag.length; idField++){
+                    let node = fieldsTag[idField];
+                    if(node.children.length === 1){
+                        fiedsTagList[idField] = node.children[0].data;
+                    } else if(node.children.length === 2){
+                        fiedsTagList[idField] = node.children[0].attribs.title;
+                    } else {
+                        // Not a pape table
+                    }
+                }
+
+                continue rowloop;
+            }
+
+            const fields = $(row).find('td');
+
+            if(fields.length !== fiedsTagList.length) continue tableloop;
+
+            const pape = {};
+
+            //Loop on field
+            for(let idField = 0; idField < fiedsTagList.length; idField++){
+                pape[fiedsTagList[idField]] = $(fields[idField].children[0]).text();
+            }
+
+            //console.log(pape);
+
+            data.list.push(pape);
+        }
+    }
+
+    return data;
+
 }
 
 
 
-fetchPapesList({online: !(NODE_ENV === 'debug')});
+fetchPapesList({online: true/*!(NODE_ENV === 'debug')*/}).then((res, err) => {
+    if(err) throw err;
+    logger.info(`papes nbr: ${res.list.length}`)
+}).catch(error => { 
+    logger.err(error); 
+});
 
 // node --inspect-brk wip.js
