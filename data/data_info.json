@@ -1,0 +1,10 @@
+{
+    "philos": {
+        "page": "Liste_de_philosophes_par_année_de_naissance",
+        "callback": "scrapPhilosPage"
+    },
+    "papes": {
+        "page": "Liste_des_papes",
+        "callback": "scrapPapesPage"
+    }
+}
