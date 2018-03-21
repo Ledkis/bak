@@ -60,7 +60,7 @@ function scrapPapesPage(response, page, url){
     const $ = cheerio.load(response.text["*"]);
 
     // get papes table or table title
-    var elements = $('.mw-parser-output h3, .wikitable');
+    var elements = $('.mw-parser-output h3, caption, .wikitable');
 
     // Validate result before parsing
     if (elements.length === 0) {
@@ -68,7 +68,7 @@ function scrapPapesPage(response, page, url){
         return;
     }
 
-    let h3Context = '';
+    let h3Context, caption = '';
 
     //Loop on the elements
     tableloop: for(let idTable = 0; idTable < elements.length; idTable++){
@@ -82,6 +82,10 @@ function scrapPapesPage(response, page, url){
                 h3Context = $(element.children[1]).text();
             }
             continue tableloop;
+        }
+
+        if($(element).find('caption')){
+            caption = $(element).find('caption').text();
         }
 
         
@@ -118,24 +122,23 @@ function scrapPapesPage(response, page, url){
             const pape = {};
 
             pape.attribs = [];
-            pape.attribs.push(h3Context);
+            if(h3Context) pape.attribs.push(h3Context);
+            if(caption) pape.attribs.push(caption);
+
 
             //Loop on field
             for(let idField = 0; idField < fiedsTagList.length; idField++){
                 pape[fiedsTagList[idField]] = $(fields[idField].children[0]).text();
             }
 
-            // if(parseInt(pape["Numéro"]) > 200){
-
-            //     console.log(`${pape["Numéro"]} : ${pape["context"]}`);
-            // }
-
             data.list.push(pape);
+
         }
+        
+        caption = h3Context = '';
     }
 
     return data;
-
 }
 
 
