@@ -1,5 +1,5 @@
 const { performance } = require('perf_hooks');
-const logger = require ('../lib/mylogger')('unittest');
+const logger = require ('../lib/my-winston')('unittest');
 const utils = require("../lib/utils");
 
 const testutils = {};

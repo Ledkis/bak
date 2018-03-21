@@ -2,7 +2,7 @@ const config = require('config');
 const wikipedia = require("./lib/my-node-wikipedia");
 const cheerio = require("cheerio");
 const fs = require('fs');
-const logger = require ('./lib/mylogger')('wip');
+const logger = require ('./lib/my-winston')('wip');
 const wikimanager = require('./lib/wikimanager');
 
 const NODE_ENV = config.get('NODE_ENV');
