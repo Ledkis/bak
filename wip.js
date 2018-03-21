@@ -15,7 +15,7 @@ function fetchPapesList(opts){
 	const page = "Liste_des_papes";
 	//const page = "List_of_tz_database_time_zones";
 
-	logger.info(`fetchPapesList: ${page}`);
+	logger.info(`fetchPapesList: ${page}, opts: ${JSON.stringify(opts)}`);
 
 	return new Promise((resolve, reject) => {
         if(opts.online){
@@ -44,6 +44,20 @@ function fetchPapesList(opts){
                 }
             });
         }
+    }).then((res, err) => {
+        if(err) throw err;
+
+        if(opts.save){
+            return new Promise(function(resolve, reject) {
+                fs.writeFile(`data/json/${res.title}.json`, JSON.stringify(res, null, 4), function(err) {
+                    if (err) return reject(err);
+                    logger.info(`data/json/${res.title}.json saved`);
+                    resolve(res);
+                });
+            });
+        }
+        return res;
+
     });
 }
 
@@ -138,12 +152,13 @@ function scrapPapesPage(response, page, url){
         caption = h3Context = '';
     }
 
+    logger.info(`${data.list.length} papes scrapped`);
     return data;
 }
 
 
 
-fetchPapesList({online: !(NODE_ENV === 'debug')}).then((res, err) => {
+fetchPapesList({online: !(NODE_ENV === 'debug'), save:true}).then((res, err) => {
     if(err) throw err;
     logger.info(`papes nbr: ${res.list.length}`)
 }).catch(error => { 
