@@ -5,6 +5,8 @@
     },
     "papes": {
         "page": "Liste_des_papes",
-        "callback": "scrapPapesPage"
+        "callback": "scrapPapesPage",
+        "json": true,
+        "raw": true
     }
 }
