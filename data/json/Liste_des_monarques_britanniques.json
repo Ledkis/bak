@@ -1,0 +1,43 @@
+{
+    "title": "Liste_des_monarques_britanniques",
+    "list": [
+        {
+            "attribs": [
+                "Maison Stuart"
+            ],
+            "Rang": "1",
+            "Portrait": "",
+            "Nom": "Anne\n(6 février 1665, Londres – 1er août 1714, Londres)",
+            "Règne": "1707 – 1714",
+            "Dynastie": "Stuart",
+            "Notes": "Deuxième fille du roi Jacques II d'Angleterre, à ce moment-là encore duc d'York et héritier du trône et de sa première épouse, Anne Hyde. Reine d'Angleterre et d'Écosse depuis 1702. Meurt sans descendance.",
+            "Armoiries": ""
+        },
+        {
+            "attribs": [
+                "Maison de Hanovre"
+            ],
+            "Rang": "2",
+            "Portrait": "",
+            "Nom": "George Ier\n(28 mai 1660, Hanovre – 11 juin 1727, Osnabrück)",
+            "Règne": "1714 – 1727",
+            "Dynastie": "Hanovre",
+            "Notes": "Également électeur de Hanovre depuis 1698. Descendant de Jacques Ier d'Angleterre par sa fille aînée Élisabeth d'Angleterre, succède à Anne en vertu de l'Acte d'établissement de 1701.",
+            "Armoiries": ""
+        },
+        {
+            "attribs": [
+                "Maison de Saxe-Cobourg-Gotha puis Windsor"
+            ],
+            "Rang": "8",
+            "Portrait": "",
+            "Nom": "Édouard VII\n(9 novembre 1841, Londres – 6 mai 1910, Londres)",
+            "Règne": "1901 – 1910",
+            "Dynastie": "Saxe-Cobourg-Gotha",
+            "Notes": "Fils aîné de Victoria et d'Albert de Saxe-Cobourg-Gotha.",
+            "Armoiries": ""
+        }
+    ],
+    "lastupdate": "2018-03-22T22:49:16.969Z",
+    "length": 3
+}

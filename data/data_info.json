@@ -2,8 +2,8 @@
     "philos": {
         "page": "Liste_de_philosophes_par_année_de_naissance",
         "wikiDataType": "list",
-        "raw": true,
-        "json": true
+        "json": true,
+        "raw": true
     },
     "papes": {
         "page": "Liste_des_papes",
@@ -19,6 +19,30 @@
     },
     "empereurs_romains": {
         "page": "Liste_des_empereurs_romains",
+        "wikiDataType": "table",
+        "json": true,
+        "raw": true
+    },
+    "monarques_ge": {
+        "page": "Liste_des_souverains_d'Allemagne",
+        "wikiDataType": "table",
+        "json": true,
+        "raw": true
+    },
+    "monarques_se": {
+        "page": "Liste_des_souverains_du_Saint-Empire",
+        "wikiDataType": "table",
+        "json": true,
+        "raw": true
+    },
+    "monarques_en": {
+        "page": "Liste_des_monarques_britanniques",
+        "wikiDataType": "table",
+        "json": true,
+        "raw": true
+    },
+    "monarques_aut": {
+        "page": "Liste_des_souverains_d'Autriche",
         "wikiDataType": "table",
         "json": true,
         "raw": true
