@@ -17,7 +17,10 @@
         "raw": true,
         "json": true
     },
-    "empereurs_romain": {
-        "page": "Liste_des_empereurs_romains"
+    "empereurs_romains": {
+        "page": "Liste_des_empereurs_romains",
+        "wikiDataType": "table",
+        "json": true,
+        "raw": true
     }
 }
