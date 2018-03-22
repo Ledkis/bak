@@ -1,6 +1,5 @@
 {
     "title": "Liste_de_philosophes_par_année_de_naissance",
-    "url": "http://fr.wikipedia.org/w/api.php?action=parse&page=Liste_de_philosophes_par_ann%C3%A9e_de_naissance&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json",
     "list": [
         {
             "title": "une liste détaillée est en cours de réalisation : Liste alphabétique des philosophes antiques",
@@ -9174,5 +9173,5 @@
             "raw": "undefined"
         }
     ],
-    "lastupdate": "2018-03-21T19:05:44.927Z"
+    "lastupdate": "2018-03-22T18:57:04.860Z"
 }

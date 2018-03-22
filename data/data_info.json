@@ -1,12 +1,21 @@
 {
     "philos": {
         "page": "Liste_de_philosophes_par_année_de_naissance",
-        "callback": "scrapPhilosPage"
+        "callback": "scrapPhilosPage",
+        "json": true,
+        "raw": true
     },
     "papes": {
         "page": "Liste_des_papes",
         "callback": "scrapPapesPage",
         "json": true,
         "raw": true
+    },
+    "monarques_fr" :{
+        "page": "Liste_des_monarques_de_France",
+        "callback": "scrapMonarquesFrPage"
+    },
+    "empereurs_romain": {
+        "page": "Liste_des_empereurs_romains"
     }
 }
