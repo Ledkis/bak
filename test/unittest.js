@@ -1,5 +1,5 @@
 const fs = require('fs'); 
-const logger = require ('../lib/my-winston')('unittest');
+const logger = require ('../lib/my-winston')(__filename);
 const wikiscrapper = require ('../lib/wikiscrapper');
 const wikiutils = require ('../lib/wikiutils');
 

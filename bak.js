@@ -1,5 +1,5 @@
 const config = require('config');
-const logger = require ('./lib/my-winston')('bak');
+const logger = require ('./lib/my-winston')(__filename);
 const wikimanager = require('./lib/wikimanager');
 
 const NODE_ENV = config.get('NODE_ENV');

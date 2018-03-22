@@ -1,6 +1,10 @@
 const config = require('config');
 const fs = require('fs');
-const logger = require ('../lib/my-winston')('snippets');
+const logger = require ('../lib/my-winston')(__filename);
+const datamanager = require('../lib/datamanager');
+const winston = require('winston');
+const moment = require('moment');
+const path = require('path')
 
 const NODE_ENV = config.get('NODE_ENV');
 
@@ -27,22 +31,58 @@ function saveDataInfo(){
 	const papesPage = "Liste_des_papes";
 
 	const dataInfo = {
-	    philos:{
-	        page:philosPage,
-	        callback:'scrapPhilosPage'
-	    },
-	    papes:{
-	      page:papesPage,
-	      callback:'scrapPapesPage'  
-	  }
+		philos:{
+			page:philosPage,
+			callback:'scrapPhilosPage'
+		},
+		papes:{
+			page:papesPage,
+			callback:'scrapPapesPage'  
+		}
 	}
 
 	logger.info(`save data info: ${JSON.stringify(dataInfo)}`);
 
-	fs.writeFileSync(`./data/data_info.json`, JSON.stringify(dataInfo, null, 4));
+	datamanager.saveDataInfoSync(dataInfo);
 }
 
+function testWinston(file){
+	
+	var config = winston.config;
+	var log = new (winston.Logger)({
+			colors: {warn: 'yellow'},
+			transports: [
+			new (winston.transports.Console)({
+				timestamp: () => moment.utc().format("DD-MM-YYYY-h:mm:ss"),
+				label: file,
+				formatter: function(options) {
+			        // - Return string will be passed to logger.
+			        // - Optionally, use options.colorize(options.level, <string>) to
+			        //   colorize output based on the log level.
+			        return options.timestamp() + ' ' +
+			        config.colorize(options.level, options.level.toUpperCase()) + ' ' +
+			        (options.label ? options.label : '') + ' ' +
+			        (options.message ? options.message : '') +
+			        (options.meta && Object.keys(options.meta).length ? '\n\t'+ JSON.stringify(options.meta) : '' );
+		    	}
 
-saveDataInfo();
+			}),
+			new (winston.transports.File)({
+				filename: `./log/log.log`,
+				label: file
+			})
+			]
+	});
+
+
+	log.error('data loaded', {data:{key1:'1',key2:'2'}});
+	log.warn('Data to log.');
+
+}
+
+testWinston(path.basename(__filename, '.js'));
+
+
+//saveDataInfo();
 
 //node test/snippets.js
