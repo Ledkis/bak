@@ -7,13 +7,15 @@
     },
     "papes": {
         "page": "Liste_des_papes",
-        "callback": "scrapPapesPage",
+        "callback": "scrapWikiTablePage",
         "json": true,
         "raw": true
     },
-    "monarques_fr" :{
+    "monarques_fr": {
         "page": "Liste_des_monarques_de_France",
-        "callback": "scrapMonarquesFrPage"
+        "callback": "scrapWikiTablePage",
+        "raw": true,
+        "json": true
     },
     "empereurs_romain": {
         "page": "Liste_des_empereurs_romains"
