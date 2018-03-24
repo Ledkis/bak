@@ -1,4 +1,5 @@
 {
   "NODE_ENV": "debug",
-  "dataInfoFile":"./config/data_info.json"
+  "dataInfoFile":"./config/data_info.json",
+  "logLevel": "verbose"
 }

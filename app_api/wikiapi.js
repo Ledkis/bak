@@ -5,79 +5,82 @@ const datamanager = require('./datamanager')
 
 const wikiapi = {}
 
-wikiapi.fetchWikiData = function (opts, dataInfo) {
-  logger.info(`fetchWikiData: ${opts.page}, save: ${opts.save}`)
+wikiapi.fetchWikiData = function (opts) {
+  logger.info(`fetchWikiData: ${opts.dataId}, from: ${opts.from}`)
 
-  // no need to save the file if we fetch from it
-  if (opts.from === 'json') opts.save = false
+  const dataInfo = datamanager.getDataInfo()
 
+  const page = dataInfo[opts.dataId].page
   return new Promise((resolve, reject) => {
     switch (opts.from) {
       case 'wiki':
-        wikipedia.page.data(opts.page, {content: true, lang: 'fr'}).then((response, page, url) => {
+
+        logger.info(`fetchWikiData: ${opts.dataId}, fetching from wikipedia...`)
+        wikipedia.page.data(page, {content: true, lang: 'fr'}).then((response, page, url) => {
           if (response.error) return reject(response.error)
 
-          datamanager.checkIfSaveWikiDataRAW(response.parse.text['*'], opts)
+          const pageHtml = response.parse.text['*']
 
-          const scrapCallback = wikiscrapper.getWikiScrapper(dataInfo[opts.type].wikiDataType)
+          datamanager.saveWikiDataRAW(opts.dataId, pageHtml)
 
-          resolve(scrapCallback(response.parse, opts.page, url))
+          const scrapCallback = wikiscrapper.getWikiScrapper(dataInfo[opts.dataId].wikiDataType)
+
+          resolve(scrapCallback(pageHtml))
         }).catch(err => reject(err))
         break
 
       case 'raw':
-        datamanager.getWikiDataRaw(opts).then((res) => {
-          const scrapCallback = wikiscrapper.getWikiScrapper(dataInfo[opts.type].wikiDataType)
-          resolve(scrapCallback(res, opts.page))
+        datamanager.getWikiDataRaw(page).then((pageHtml) => {
+          const scrapCallback = wikiscrapper.getWikiScrapper(dataInfo[opts.dataId].wikiDataType)
+          resolve(scrapCallback(pageHtml))
         }).catch(err => reject(err))
         break
 
       case 'json':
       default:
-        datamanager.getWikiDataJSON(opts).then((wikiData) => {
+        datamanager.getWikiDataJSON(page).then((wikiData) => {
           resolve(wikiData)
         }).catch(err => reject(err))
         break
     }
-  }).then((res) => {
-    logger.info(`fetchWikiData: ${res.list.length} elements fetched from ${opts.page}`)
-
-    if (opts.save) datamanager.saveWikiDataJSON(res, opts)
-
-    return res
   })
+    .then((wikiData) => {
+      logger.info(`fetchWikiData: ${wikiData.list.length} elements fetched from ${opts.dataId}`)
+
+      if (opts.from !== 'json') datamanager.saveWikiDataJSON(opts.dataId, wikiData)
+
+      return wikiData
+    })
 }
 
-wikiapi.updateData = function (force) {
-  logger.info(`updateData: force=${force}`)
+wikiapi.updateData = function () {
+  logger.info(`updateData`)
 
-  const dataInfo = datamanager.getDataInfoSync()
+  const dataInfo = datamanager.getDataInfo()
 
   let dataToUpdate = []
 
-  Object.keys(dataInfo).forEach((wikiDataKey) => {
-    const wikiDataInfo = dataInfo[wikiDataKey]
+  const promises = []
 
-    let opts
-    if (force || !wikiDataInfo.raw) {
-      opts = {type: wikiDataKey, from: 'wiki', save: true, page: wikiDataInfo.page}
-    } else if (!wikiDataInfo.json) {
-      opts = {type: wikiDataKey, from: 'raw', save: true, page: wikiDataInfo.page}
-    }
+  Object.keys(dataInfo).forEach((dataId) => {
+    const wikiDataInfo = dataInfo[dataId]
 
-    if (opts) {
-      dataToUpdate.push(wikiDataKey)
-      this.fetchWikiData(opts, dataInfo).then(() => {
-        logger.info(`updateData: ${wikiDataKey} updated`)
-      }).catch(error => logger.err(error))
-    }
+    const opts = {dataId: dataId, from: 'wiki', page: wikiDataInfo.page}
+
+    dataToUpdate.push(dataId)
+    const p = this.fetchWikiData(opts, dataInfo).then(() => {
+      logger.info(`updateData: ${dataId} updated`)
+    }).catch(error => logger.err(error))
+
+    promises.push(p)
   })
 
-  if (dataToUpdate.length > 0) {
-    logger.info(`updateData: to update : ${JSON.stringify(dataToUpdate)}`)
-  } else {
-    logger.info(`updateData: up to date`)
-  }
+  Promise.all(promises)
+    .then(() => {
+      logger.info(`updateData: end`)
+    })
+
+  logger.info(`updateData: to update : ${JSON.stringify(dataToUpdate)}`)
 }
 
 module.exports = wikiapi

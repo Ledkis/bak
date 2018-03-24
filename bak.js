@@ -7,14 +7,10 @@ const NODE_ENV = config.get('NODE_ENV')
 logger.info(`____________BAK: START____________`)
 logger.info(`NODE_ENV: ${NODE_ENV}`)
 
-// //Sync is ok here
-// const dataInfo = datamanager.getDataInfoSync();
+const opts = {dataId: 'philos', from: 'json'}
 
-// const opts = {type:type, from:'wiki', save:true, page:dataInfo[type].page};
+// wikiapi.fetchWikiData(opts).catch(error => logger.err(error))
 
-// // TODO moche : opts & dataInfo
-// wikiapi.fetchWikiData(opts, dataInfo).catch(error => logger.err(error));
-
-wikiapi.updateData(true)
+wikiapi.updateData()
 
 // node --inspect-brk bak.js

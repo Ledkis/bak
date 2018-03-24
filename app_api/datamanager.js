@@ -10,93 +10,96 @@ const datamanager = {}
 
 const dataInfoFile = config.get('dataInfoFile')
 
-datamanager.getDataInfoSync = function () {
+const dataInfo = init()
+
+function init () {
   return JSON.parse(fs.readFileSync(dataInfoFile, 'utf8'))
 }
 
-datamanager.saveDataInfoSync = function (dataInfo) {
+function saveDataInfoSync () {
   fs.writeFileSync(dataInfoFile, JSON.stringify(dataInfo, null, 4))
   logger.verbose(`saveDataInfoSync: ${dataInfoFile} saved`)
 }
 
+function getRawFilePath (fileName) {
+  return `./data/raw/${fileName}.html`
+}
+
+function getJsonFilePath (fileName) {
+  return `./data/json/${fileName}.json`
+}
+
 datamanager.getDataInfo = function () {
-  return readFileAsync(dataInfoFile, 'utf8').then((dataInfoRaw) => {
-    return JSON.parse(dataInfoRaw)
-  })
+  return dataInfo
 }
 
-datamanager.saveDataInfo = function (dataInfo) {
+// datamanager.getDataInfo = function () {
+//   return readFileAsync(dataInfoFile, 'utf8').then((dataInfoRaw) => {
+//     return JSON.parse(dataInfoRaw)
+//   })
+// }
+
+/**
+  Private
+*/
+function saveDataInfo () {
   return writeFileAsync(dataInfoFile, JSON.stringify(dataInfo, null, 4))
-    .then((writeRes) => {
-      logger.verbose(`saveDataInfo: ${dataInfoFile} saved`)
-      return writeRes
-    }).catch((err) => {
-      logger.err(`saveDataInfo: ${err}`)
+    .then(() => logger.verbose(`saveDataInfo: dataInfo saved`))
+    .catch((err) => { logger.err(`saveDataInfo: ${err}`) })
+}
+
+/**
+  Private
+*/
+function updateDataInfo (dataId, newInfo) {
+  dataInfo[dataId] = Object.assign(dataInfo[dataId], newInfo)
+  logger.verbose(`updateDataInfo: ${dataId}: ${JSON.stringify(newInfo)} updated`)
+
+  return saveDataInfo()
+}
+
+datamanager.getWikiDataRaw = function (page) {
+  return readFileAsync(getRawFilePath(page), 'utf8')
+}
+
+datamanager.saveWikiDataRAW = function (dataId, rawData) {
+  const {raw, page} = dataInfo[dataId]
+  if (raw) {
+    logger.verbose(`saveWikiDataRAW: data/raw/${page}.html up to date`)
+    return
+  }
+
+  const file = getRawFilePath(page)
+
+  writeFileAsync(file, rawData)
+    .then(() => {
+      logger.verbose(file)
+      updateDataInfo(dataId, {raw: true})
     })
+    .catch((err) => { logger.err(`saveWikiDataRAW: ${err}`) })
 }
 
-datamanager.updateDataInfoType = function (dataInfoType, type) {
-  this.getDataInfo().then((dataInfo) => {
-    dataInfo[type] = Object.assign(dataInfo[type], dataInfoType)
-    logger.verbose(`updateDataInfoType: ${JSON.stringify(dataInfoType)} to update`)
-    this.saveDataInfo(dataInfo)
-    return dataInfo
-  }).catch((err) => {
-    logger.err(`updateDataInfoType: ${err}`)
-  })
-}
-
-datamanager.getWikiDataRaw = function (opts) {
-  return readFileAsync(`./data/raw/${opts.page}.html`, 'utf8')
-    .then((rawData) => {
-      const response = {text: {}}
-      response.text['*'] = rawData
-
-      return response
-    })
-}
-
-datamanager.saveWikiDataRAW = function (wikiDataRaw, opts) {
-  return writeFileAsync(`./data/raw/${opts.page}.html`, wikiDataRaw)
-    .then((writeRes) => {
-      logger.verbose(`saveWikiDataRAW: data/raw/${opts.page}.html saved`)
-    }).then((res) => {
-      this.updateDataInfoType({raw: true}, opts.type)
-    }).catch((err) => {
-      logger.err(`saveWikiDataRAW: ${err}`)
-    })
-}
-
-datamanager.checkIfSaveWikiDataRAW = function (wikiDataRaw, opts) {
-  return datamanager.getDataInfo().then((dataInfo) => {
-    const raw = dataInfo[opts.type].raw
-    if (!raw) {
-      this.saveWikiDataRAW(wikiDataRaw, opts)
-    }
-  }).catch((err) => {
-    logger.err(`checkIfSaveWikiDataRAW: ${err}`)
-  })
-}
-
-datamanager.getWikiDataJSON = function (opts) {
-  return readFileAsync(`./data/json/${opts.page}.json`, 'utf8')
+datamanager.getWikiDataJSON = function (page) {
+  return readFileAsync(getJsonFilePath(page), 'utf8')
     .then((rawData) => {
       return JSON.parse(rawData)
     })
 }
 
-datamanager.saveWikiDataJSON = function (parseDwikiData, opts) {
-  parseDwikiData.lastupdate = new Date()
-  parseDwikiData.length = parseDwikiData.list.length
+datamanager.saveWikiDataJSON = function (dataId, parsedWikiData) {
+  parsedWikiData.lastupdate = new Date()
+  parsedWikiData.length = parsedWikiData.list.length
+  parsedWikiData.page = dataInfo[dataId].page
+  parsedWikiData.dataId = dataId
 
-  return writeFileAsync(`./data/json/${parseDwikiData.title}.json`, JSON.stringify(parseDwikiData, null, 4))
-    .then((writeRes) => {
-      logger.verbose(`saveWikiDataJSON: data/json/${parseDwikiData.title}.json saved`)
-    }).then((res) => {
-      this.updateDataInfoType({json: true}, opts.type)
-    }).catch((err) => {
-      logger.err(`saveWikiDataJSON: ${err}`)
+  const file = getJsonFilePath(parsedWikiData.page)
+
+  writeFileAsync(file, JSON.stringify(parsedWikiData, null, 4))
+    .then(() => {
+      logger.verbose(`${file} saved`)
+      updateDataInfo(dataId, {json: true})
     })
+    .catch((err) => { logger.err(`saveWikiDataJSON: ${err}`) })
 }
 
 module.exports = datamanager
