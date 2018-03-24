@@ -1,4 +1,4 @@
 {
   "NODE_ENV": "debug",
-  "dataInfoFile":"./data/data_info.json"
+  "dataInfoFile":"./config/data_info.json"
 }
