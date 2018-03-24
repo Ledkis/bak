@@ -1,6 +1,6 @@
-const wikipedia = require('./my-node-wikipedia')
-const logger = require('./my-winston')(__filename)
-const wikiscrapper = require('./wikiscrapper')
+const wikipedia = require('../lib/my-node-wikipedia')
+const logger = require('../lib/my-winston')(__filename)
+const wikiscrapper = require('../lib/wikiscrapper')
 const datamanager = require('./datamanager')
 
 const wikiapi = {}

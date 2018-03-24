@@ -1,6 +1,6 @@
 const config = require('config')
 const logger = require('./lib/my-winston')(__filename)
-const wikiapi = require('./lib/wikiapi')
+const wikiapi = require('./app_api/wikiapi')
 
 const NODE_ENV = config.get('NODE_ENV')
 

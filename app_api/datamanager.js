@@ -1,7 +1,7 @@
 const fs = require('fs')
 const config = require('config')
 const {promisify} = require('util')
-const logger = require('./my-winston')(__filename)
+const logger = require('../lib/my-winston')(__filename)
 
 const readFileAsync = promisify(fs.readFile)
 const writeFileAsync = promisify(fs.writeFile)
