@@ -9,7 +9,7 @@
     "wwip": "node --inspect-brk ./wip.js",
     "test": "node ./test/unittest.js",
     "ttest": "node --inspect-brk ./test/unittest.js",
-    "clean" : "standard"
+    "resetdata": "git checkout -- data/"
   },
   "engines": {
     "node": "~8.9.4",
