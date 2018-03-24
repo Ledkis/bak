@@ -8,7 +8,8 @@
     "wip": "node ./wip.js",
     "wwip": "node --inspect-brk ./wip.js",
     "test": "node ./test/unittest.js",
-    "ttest": "node --inspect-brk ./test/unittest.js"
+    "ttest": "node --inspect-brk ./test/unittest.js",
+    "clean" : "standard"
   },
   "engines": {
     "node": "~8.9.4",
@@ -20,5 +21,14 @@
     "config": "1.30.0",
     "winston": "2.4.1",
     "moment": "2.21.0"
-  }
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "standard": {
+  "ignore": [
+    "/test/",
+    "wip.js"
+  ]
+}
 }

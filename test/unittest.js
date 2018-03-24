@@ -1,124 +1,111 @@
-const fs = require('fs'); 
-const logger = require ('../lib/my-winston')(__filename);
-const wikiscrapper = require ('../lib/wikiscrapper');
-const wikiutils = require ('../lib/wikiutils');
+const fs = require('fs')
+const logger = require('../lib/my-winston')(__filename)
+const wikiscrapper = require('../lib/wikiscrapper')
+const wikiutils = require('../lib/wikiutils')
 
-const {performanceWrapper, tw} = require('./testutils');
+const {performanceWrapper, tw} = require('./testutils')
 
-function welcomtest(){
-	return 'UNIT TEST';
+function welcomtest () {
+  return 'UNIT TEST'
 }
 
-
-function mesureRegexPerformance(){
-	const testIterator = regexPhiloBirthDateParserTEST();
-	performanceWrapper(testIterator, 'short');
-	performanceWrapper(testIterator, 'long');
+function mesureRegexPerformance () {
+  const testIterator = regexPhiloBirthDateParserTEST()
+  performanceWrapper(testIterator, 'short')
+  performanceWrapper(testIterator, 'long')
 }
 
-function* regexPhiloBirthDateParserTEST(){
-	const shortPhiloBirthDateRX = /\((?:[^-\d]*)(-{0,1}[\d]+)(?:[^-\d]*(?: - )*[^-\d]*)(-{0,1}[\d]+)(?:(?:[^\d]*)|(?: .*))\)/;
-	yield shortPhiloBirthDateRX.exec("Timée de Locres (5ᵉ siècle siècle avant Jésus-Christ)");
+function * regexPhiloBirthDateParserTEST () {
+  const shortPhiloBirthDateRX = /\((?:[^-\d]*)(-{0,1}[\d]+)(?:[^-\d]*(?: - )*[^-\d]*)(-{0,1}[\d]+)(?:(?:[^\d]*)|(?: .*))\)/
+  yield shortPhiloBirthDateRX.exec('Timée de Locres (5ᵉ siècle siècle avant Jésus-Christ)')
 
-	const longPhiloBirthDateRX = /\(([^-\d]*)([-]*?[\d]+)([^-\d]+[-]*[^-\d]+)*([-]{0,1}[\d]+)([^-\d]*)[\w\d\s]*\)/;
-	yield longPhiloBirthDateRX.exec("Timée de Locres (5ᵉ siècle siècle avant Jésus-Christ)");
+  const longPhiloBirthDateRX = /\(([^-\d]*)([-]*?[\d]+)([^-\d]+[-]*[^-\d]+)*([-]{0,1}[\d]+)([^-\d]*)[\w\d\s]*\)/
+  yield longPhiloBirthDateRX.exec('Timée de Locres (5ᵉ siècle siècle avant Jésus-Christ)')
 }
 
-function testWikiApi(){
-	wikipedia.page.data('Liste_de_philosophes_par_année_de_naissance', { content: true , lang:'fr'}, function(response, page, url) {
-
-		const data = {};
-		const $ = cheerio.load(response.text["*"]);
-
-	});
+function testWikiApi () {
+  wikipedia.page.data('Liste_de_philosophes_par_année_de_naissance', { content: true, lang: 'fr'}, function (response, page, url) {
+    const data = {}
+    const $ = cheerio.load(response.text['*'])
+  })
 }
 
-function philoBirthDateParserTEST(){
+function philoBirthDateParserTEST () {
+  return fs.readFile('./test/data/wiki_philo_dates.txt', 'utf8', function read (err, data) {
+    if (err) {
+      throw err
+    }
+    let datas = data.split('\n')
 
-	return fs.readFile('./test/data/wiki_philo_dates.txt', 'utf8', function read(err, data) {
-		if (err) {
-			throw err;
-		}
-		let datas = data.split('\n');
+    let results = []
 
-		let results = [];
+    datas.forEach((line) => {
+      let bdInfo = wikiutils.philoBirthDateParser(line)
 
-		datas.forEach((line) => {
-			let bdInfo = wikiutils.philoBirthDateParser(line);
-
-			logger.test(`raw: ${line}, birth: ${bdInfo.birth}, death: ${bdInfo.death}`);
-
-		});
-	});
+      logger.test(`raw: ${line}, birth: ${bdInfo.birth}, death: ${bdInfo.death}`)
+    })
+  })
 }
 
-function wikiInfoBoxScrapTEST(){
-	const url = "http://fr.wikipedia.org/w/api.php?action=parse&page=Parm%C3%A9nide&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json";
-	const page = "Parménide";
+function wikiInfoBoxScrapTEST () {
+  const url = 'http://fr.wikipedia.org/w/api.php?action=parse&page=Parm%C3%A9nide&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json'
+  const page = 'Parménide'
 
-	const pageData = fs.readFileSync(`./data/raw/${page}.html`, 'utf8');
+  const pageData = fs.readFileSync(`./data/raw/${page}.html`, 'utf8')
 
-	const response = {text: {}};
+  const response = {text: {}}
 
-	response.text["*"] = pageData;
+  response.text['*'] = pageData
 
-	const res = performanceWrapper(wikiscrapper.scrapInfoBox, [response, page, url], 'scrapInfoBox');
+  const res = performanceWrapper(wikiscrapper.scrapInfoBox, [response, page, url], 'scrapInfoBox')
 
-	logger.test(res.infobox_v3);
+  logger.test(res.infobox_v3)
 }
 
+function wikiPhiloScrapTEST () {
+  const url = 'http://fr.wikipedia.org/w/api.php?action=parse&page=Liste_de_philosophes_par_ann%C3%A9e_de_naissance&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json'
+  const page = 'Liste_de_philosophes_par_année_de_naissance'
 
-function wikiPhiloScrapTEST(){
-	const url = "http://fr.wikipedia.org/w/api.php?action=parse&page=Liste_de_philosophes_par_ann%C3%A9e_de_naissance&prop=categories%7Cexternallinks%7Clinks%7Ctext&lang=fr&redirects=true&format=json";
-	const page = "Liste_de_philosophes_par_année_de_naissance";
+  const pageData = fs.readFileSync(`./data/raw/${page}.html`, 'utf8')
 
-	const pageData = fs.readFileSync(`./data/raw/${page}.html`, 'utf8');
+  const response = {text: {}}
 
-	const response = {text: {}};
+  response.text['*'] = pageData
 
-	response.text["*"] = pageData;
+  const res = performanceWrapper(wikiscrapper.scrapPhilosPage, [response, page, url], 'scrapPhilosPage')
 
-	const res = performanceWrapper(wikiscrapper.scrapPhilosPage, [response, page, url], 'scrapPhilosPage');
-
-	logger.test(res.links.length);
+  logger.test(res.links.length)
 }
 
-
-
-
-//////////////////////////////////////////////////////////
+/// ///////////////////////////////////////////////////////
 /** ____________________ TEST ZONE ____________________**/
-//////////////////////////////////////////////////////////
+/// ///////////////////////////////////////////////////////
 
-
-
-function* wikiutilsUNITTEST(){
-	yield philoBirthDateParserTEST; // TODO : manage async tests
-	// yield mesureRegexPerformance;
+function * wikiutilsUNITTEST () {
+  yield philoBirthDateParserTEST // TODO : manage async tests
+  // yield mesureRegexPerformance;
 }
 
-
-function* wikiscrapperUNITTEST(){
-	// yield wikiInfoBoxScrapTEST;
-	yield wikiPhiloScrapTEST;
+function * wikiscrapperUNITTEST () {
+  // yield wikiInfoBoxScrapTEST;
+  yield wikiPhiloScrapTEST
 }
 
+function * unittest () {
+  yield welcomtest
+  // yield testWikiApi();
 
-function* unittest (){
-	yield welcomtest;
-	// yield testWikiApi();
-	
-	// yield* wikiutilsUNITTEST();
-	yield* wikiscrapperUNITTEST();
+  // yield* wikiutilsUNITTEST();
+  yield * wikiscrapperUNITTEST()
 }
 
 logger.test(`__________________UNIT TEST____________________`)
-for(let test of unittest()){
-	try{
-		tw(test);		
-	} catch(err){
-		logger.err(err);		
-	}
+for (let test of unittest()) {
+  try {
+    tw(test)
+  } catch (err) {
+    logger.err(err)
+  }
 }
 
 // node ./test/unittest.js

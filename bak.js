@@ -1,10 +1,10 @@
-const config = require('config');
-const logger = require ('./lib/my-winston')(__filename);
-const wikiapi = require('./lib/wikiapi');
+const config = require('config')
+const logger = require('./lib/my-winston')(__filename)
+const wikiapi = require('./lib/wikiapi')
 
-const NODE_ENV = config.get('NODE_ENV');
+const NODE_ENV = config.get('NODE_ENV')
 
-logger.info(`____________BAK: START____________`);
+logger.info(`____________BAK: START____________`)
 logger.info(`NODE_ENV: ${NODE_ENV}`)
 
 // //Sync is ok here
@@ -15,6 +15,6 @@ logger.info(`NODE_ENV: ${NODE_ENV}`)
 // // TODO moche : opts & dataInfo
 // wikiapi.fetchWikiData(opts, dataInfo).catch(error => logger.err(error));
 
-wikiapi.updateData(false);	
+wikiapi.updateData(true)
 
 // node --inspect-brk bak.js
