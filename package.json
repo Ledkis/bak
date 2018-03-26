@@ -16,19 +16,24 @@
     "npm": "~5.6.0"
   },
   "dependencies": {
-    "node-wikipedia": "0.0.2",
+    "body-parser": "^1.18.2",
     "cheerio": "0.16.0",
     "config": "1.30.0",
-    "winston": "2.4.1",
-    "moment": "2.21.0"
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "moment": "2.21.0",
+    "mysql": "^2.15.0",
+    "node-wikipedia": "0.0.2",
+    "winston": "2.4.1"
   },
   "devDependencies": {
     "standard": "^11.0.1"
   },
   "standard": {
-  "ignore": [
-    "/test/",
-    "wip.js"
-  ]
-}
+    "ignore": [
+      "/test/",
+      "wip.js"
+    ]
+  }
 }

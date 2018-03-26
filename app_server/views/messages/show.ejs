@@ -1,0 +1,28 @@
+<% include ../pages/header %>
+
+
+
+<div class="ui comments">
+	
+
+		<div class="comment">
+
+			<a class="avatar" href="/messages/<%= message.id %>">
+				<img src="https://randomuser.me/api/portraits/lego/7.jpg">
+			</a>
+			<div class="metadata">
+				<div class="data">
+					<%= message.created_at.fromNow() %>
+				</div>
+			</div>
+			<div class="content">
+				<div class="text"><%= message.content %></div>
+			</div>
+		</div>
+
+	
+
+	
+</div>
+
+<% include ../pages/footer %>
