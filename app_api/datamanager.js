@@ -88,7 +88,6 @@ datamanager.getWikiDataJSON = function (page) {
 
 datamanager.saveWikiDataJSON = function (dataId, parsedWikiData) {
   parsedWikiData.lastupdate = new Date()
-  parsedWikiData.length = parsedWikiData.list.length
   parsedWikiData.page = dataInfo[dataId].page
   parsedWikiData.dataId = dataId
 
