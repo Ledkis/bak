@@ -3,8 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node ./bak.js",
-    "sstart": "node --inspect-brk ./bak.js",
+    "start": "node ./app.js",
+    "sstart": "node --inspect-brk ./app.js",
+    "bak": "node ./bak.js",
+    "bbak": "node --inspect-brk ./bak.js",
     "wip": "node ./wip.js",
     "wwip": "node --inspect-brk ./wip.js",
     "test": "node ./test/unittest.js",
