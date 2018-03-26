@@ -4,7 +4,37 @@
  </div>
  <!-- /.panel-heading -->
  <div class="panel-body">
-   
- </div>
- <!-- /.panel-body -->
+  <form role="form" id="controlForm" action="/" method="get">
+    <div class="form-group">
+      <label>Selects</label>
+      <select class="form-control" name="selectDataId">
+        <% dataInfo.forEach(function(dataId){ %>
+          <option><%= dataId %></option>
+        <% }) %>
+      </select>
+    </div>
+    <div class="form-group">
+      <label>Radio Buttons</label>
+      <div class="radio">
+        <label>
+          <input type="radio" name="optionFrom" id="optionwiki" value="wiki" checked>wiki
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="optionFrom" id="optionraw" value="raw">raw
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="optionFrom" id="optionjson" value="json">json
+        </label>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+  </form>
+
+
+</div>
+<!-- /.panel-body -->
 </div>

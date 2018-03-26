@@ -6,6 +6,7 @@ const path = require('path')
 const logger = require('./lib/my-winston')(__filename, 'verbose')
 const flash = require('./lib/flash')
 const wikiapi = require('./app_api/wikiapi')
+const datamanager = require('./app_api/datamanager')
 
 const app = express()
 
@@ -33,36 +34,22 @@ app.use(session({
   cookie: { secure: false }
 }))
 
-app.use(flash)
-
 // Routes
 
 app.get('/', (request, response) => {
-  const opts = {dataId: 'papes', from: 'json'}
+  const opts = {dataId: 'papes'}
+  if (request.query.optionFrom) {
+    opts.from = request.query.optionFrom
+  } else {
+    opts.from = 'json'
+  }
+  const dataInfo = datamanager.getDataInfo()
 
   wikiapi.fetchWikiData(opts).then((wikiDatas) => {
-    response.render('pages/index', {dataId: 'papes', wikiDatas})
+    response.render('pages/index', {dataId: 'papes', dataInfo: Object.keys(dataInfo), wikiDatas})
     logger.verbose('page loaded')
     // response.render('pages/index')
   })
-})
-
-app.post('/', (request, response) => {
-  // if (request.body === undefined || request.body.message === '') {
-  //   request.flash('error', 'Vous n\'avez pas entré de messages.')
-  //   response.redirect('/')
-  // } else {
-  //   Message.create(request.body.message, () => {
-  //     request.flash('success', 'Merci')
-  //     response.redirect('/')
-  //   })
-  // }
-})
-
-app.get('/messages/:id', (request, response) => {
-  // Message.find(request.params.id, (message) => {
-  //   response.render('messages/show', {message: message})
-  // })
 })
 
 app.listen(8080)
