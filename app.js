@@ -3,8 +3,9 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const session = require('express-session')
 const path = require('path')
-const logger = require('./lib/my-winston')(__filename)
+const logger = require('./lib/my-winston')(__filename, 'verbose')
 const flash = require('./lib/flash')
+const wikiapi = require('./app_api/wikiapi')
 
 const app = express()
 
@@ -37,10 +38,13 @@ app.use(flash)
 // Routes
 
 app.get('/', (request, response) => {
-  response.render('pages/bootstrap')
-  // Message.all(function (messages) {
-  //   response.render('pages/index', {messages: messages})
-  // })
+  const opts = {dataId: 'papes', from: 'json'}
+
+  wikiapi.fetchWikiData(opts).then((wikiDatas) => {
+    response.render('pages/index', {dataId: 'papes', wikiDatas})
+    logger.verbose('page loaded')
+    // response.render('pages/index')
+  })
 })
 
 app.post('/', (request, response) => {

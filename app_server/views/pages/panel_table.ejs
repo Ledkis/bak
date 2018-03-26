@@ -1,0 +1,64 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <% if(!locals.dataId) { %>
+
+    <p class="bg-warning">No dataId</p>
+
+    <% } else { %>
+
+    <td><%= dataId %></td>
+
+    
+    <div class="pull-right">
+      <div class="btn-group">
+        <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
+          Actions
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu pull-right" role="menu">
+          <li><a href="#">Action</a>
+          </li>
+          <li><a href="#">Another action</a>
+          </li>
+          <li><a href="#">Something else here</a>
+          </li>
+          <li class="divider"></li>
+          <li><a href="#">Separated link</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="panel-body">
+      <table width="100%" class="table table-striped table-bordered table-hover" id="dataTables-example">
+        <thead>
+          <tr>
+            <th>No </th>
+            <th>Portrait</th>
+            <th>Nom de règne</th>
+            <th>Pontificat</th>
+            <th>Nom d’origine</th>
+            <th>Naissance</th>
+            <th>Remarques</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% for(var i=0; i < wikiDatas.length; i++) { %>
+          <tr>
+            <td><%= wikiDatas.list[i]['No '] %></td>
+            <td><%= wikiDatas.list[i]['Portrait'] %></td>
+            <td><%= wikiDatas.list[i]['Nom de règne'] %></td>
+            <td><%= wikiDatas.list[i]['Pontificat'] %></td>
+            <td><%= wikiDatas.list[i]['Nom d’origine'] %></td>
+            <td><%= wikiDatas.list[i]['Naissance'] %></td>
+            <td><%= wikiDatas.list[i]['Remarques'] %></td>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+
+    <% } %>
+  </div>
+</div>
+

@@ -6,6 +6,10 @@ const NODE_ENV = config.get('NODE_ENV')
 logger.info(`____________BAK: START____________`)
 logger.info(`NODE_ENV: ${NODE_ENV}`)
 
-wikiapi.updateData()
+// wikiapi.updateData()
+
+const opts = {dataId: 'papes', form: 'raw'}
+
+wikiapi.fetchWikiData(opts)
 
 // node --inspect-brk bak.js
