@@ -37,16 +37,18 @@ app.use(session({
 // Routes
 
 app.get('/', (request, response) => {
-  const opts = {dataId: 'papes'}
+  const opts = {}
   if (request.query.optionFrom) {
     opts.from = request.query.optionFrom
+    opts.dataId = request.query.selectDataId
   } else {
     opts.from = 'json'
+    opts.dataId = 'papes'
   }
   const dataInfo = datamanager.getDataInfo()
 
   wikiapi.fetchWikiData(opts).then((wikiDatas) => {
-    response.render('pages/index', {dataId: 'papes', dataInfo: Object.keys(dataInfo), wikiDatas})
+    response.render('pages/index', {dataInfo: Object.keys(dataInfo), dataFrom: ['json', 'raw', 'wiki'], from: opts.from, wikiDatas})
     logger.verbose('page loaded')
     // response.render('pages/index')
   })
