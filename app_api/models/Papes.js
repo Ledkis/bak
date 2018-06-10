@@ -1,9 +1,22 @@
 const connection = require('./db')
 const moment = require('../../lib/my-moment')
 
-class Message {
-  constructor (row) {
-    this.row = row
+/*
+"attribs": [
+    "Élus au Ier siècle",
+    "Papes de Rome\n(seuls considérés aujourd’hui comme légitimes par l’Église catholique romaine)"
+],
+"No ": "1",
+"Portrait": "",
+"Nom de règne": "saint Pierre\nsanctus Petrus",
+"Pontificat": "33[citation nécessaire] – 64/67",
+"Nom d’origine": "Simon",
+"Naissance": "à Bethsaïde",
+"Remarques": ""
+*/
+class Papes {
+  constructor (wikiData) {
+    this.attribs = wikiData.attribs
   }
 
   get content () {
