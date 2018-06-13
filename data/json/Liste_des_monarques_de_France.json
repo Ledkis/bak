@@ -8,7 +8,13 @@
             "_Notes": "Fils de Childéric Ier, il conquiert la majeure partie de la Gaule et se convertit au christianisme. Son royaume est partagé entre ses quatre fils à sa mort.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clovis Ier",
+            "born": "0465-12-31T23:00:00.000Z",
+            "dead": "0511-11-26T23:00:00.000Z",
+            "lifeSpan": 45.90101097216233,
+            "reignStart": "0480-12-31T23:00:00.000Z",
+            "reignEnd": "0510-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -18,7 +24,13 @@
             "_Notes": "Aîné des fils survivants de Clovis Ier et Clotilde, il hérite du royaume d'Orléans. Tué à la bataille de Vézeronce. Ses deux premiers fils sont exécutés sur l'ordre de ses frères Childebert Ier et Clotaire Ier, mais le troisième, Clodoald, en réchappe et entre dans les ordres.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clodomir",
+            "born": "0494-12-31T23:00:00.000Z",
+            "dead": "0524-06-24T22:00:00.000Z",
+            "lifeSpan": 29.478930664786635,
+            "reignStart": "0510-12-31T23:00:00.000Z",
+            "reignEnd": "0523-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -28,7 +40,13 @@
             "_Notes": "Fils aîné de Clovis Ier, mais pas par Clotilde, il hérite du royaume de Reims.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Thierry Ier",
+            "born": "0484-12-31T23:00:00.000Z",
+            "dead": "0533-12-31T23:00:00.000Z",
+            "lifeSpan": 48.99758379706633,
+            "reignStart": "0510-12-31T23:00:00.000Z",
+            "reignEnd": "0533-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -38,7 +56,13 @@
             "_Notes": "Également appelé « Théodebert Ier ». Fils et successeur de Thierry Ier à Reims.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Thibert Ier",
+            "born": "0503-12-31T23:00:00.000Z",
+            "dead": "0547-12-31T23:00:00.000Z",
+            "lifeSpan": 44.00090350931231,
+            "reignStart": "0533-12-31T23:00:00.000Z",
+            "reignEnd": "0547-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -48,7 +72,13 @@
             "_Notes": "Également appelé « Théodebald ». Fils et successeur de Thibert Ier à Reims. Il meurt sans descendance masculine et son royaume revient à son oncle Clotaire Ier.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Thibaut",
+            "born": "0534-12-31T23:00:00.000Z",
+            "dead": "0554-12-31T23:00:00.000Z",
+            "lifeSpan": 20.000410686051048,
+            "reignStart": "0547-12-31T23:00:00.000Z",
+            "reignEnd": "0554-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -58,7 +88,13 @@
             "_Notes": "Cadet des fils survivants de Clovis Ier et Clotilde, il hérite du royaume de Paris. Il meurt sans fils en 558 et son royaume revient à son frère Clotaire Ier.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Childebert Ier",
+            "born": "0496-12-31T23:00:00.000Z",
+            "dead": "0558-12-12T23:00:00.000Z",
+            "lifeSpan": 61.94514603311499,
+            "reignStart": "0510-12-31T23:00:00.000Z",
+            "reignEnd": "0557-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -68,7 +104,14 @@
             "_Notes": "Benjamin des fils survivants de Clovis Ier et Clotilde, il hérite du royaume de Soissons. Il réunifie le royaume franc à la mort de son frère Childebert Ier en 558. Son royaume est partagé entre ses quatre fils à sa mort.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clotaire Ier",
+            "surname": "undefined le Vieux »",
+            "born": "0497-12-31T23:00:00.000Z",
+            "dead": "0561-11-28T23:00:00.000Z",
+            "lifeSpan": 63.90822535712575,
+            "reignStart": "0510-12-31T23:00:00.000Z",
+            "reignEnd": "0560-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -78,7 +121,13 @@
             "_Notes": "Aîné des fils survivants de Clotaire Ier, il hérite du royaume de Paris. Mort sans descendance mâle. Son royaume est partagé entre ses frères à sa mort.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Caribert Ier",
+            "born": "0520-12-31T23:00:00.000Z",
+            "dead": "0567-03-04T23:00:00.000Z",
+            "lifeSpan": 46.1720637658542,
+            "reignStart": "0560-12-31T23:00:00.000Z",
+            "reignEnd": "0566-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -88,7 +137,13 @@
             "_Notes": "Benjamin des fils survivants de Clotaire Ier, il hérite du royaume de Reims. Il est assassiné à l'instigation de Frédégonde, la femme de son frère Chilpéric Ier. Son fils Childebert II lui succède.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Sigebert Ier",
+            "born": "0534-12-31T23:00:00.000Z",
+            "dead": "0575-11-30T23:00:00.000Z",
+            "lifeSpan": 40.915282312436254,
+            "reignStart": "0560-12-31T23:00:00.000Z",
+            "reignEnd": "0574-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -98,7 +153,13 @@
             "_Notes": "Deuxième des fils survivants de Clotaire Ier, il hérite du royaume de Soissons. Mort assassiné. Son fils Clotaire II lui succède.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Chilpéric Ier",
+            "born": "0525-12-31T23:00:00.000Z",
+            "dead": "0584-08-31T22:00:00.000Z",
+            "lifeSpan": 58.66775726629112,
+            "reignStart": "0560-12-31T23:00:00.000Z",
+            "reignEnd": "0583-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -108,7 +169,13 @@
             "_Notes": "Troisième des fils survivants de Clotaire Ier, il hérite du royaume d'Orléans. Mort sans descendance mâle, il lègue son royaume à son neveu Childebert II. Reconnu comme saint.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Gontran",
+            "born": "0532-12-31T23:00:00.000Z",
+            "dead": "0592-03-27T22:00:00.000Z",
+            "lifeSpan": 59.237241923744726,
+            "reignStart": "0560-12-31T23:00:00.000Z",
+            "reignEnd": "0591-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -118,7 +185,13 @@
             "_Notes": "Fils de Sigebert Ier et Brunehaut. Roi d'Austrasie, puis également de Bourgogne et de Paris à partir de 592. Son royaume est partagé entre ses fils Thibert II et Thierry II.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Childebert II",
+            "born": "0570-04-05T22:00:00.000Z",
+            "dead": "0596-02-29T23:00:00.000Z",
+            "lifeSpan": 25.903452272576896,
+            "reignStart": "0574-12-31T23:00:00.000Z",
+            "reignEnd": "0595-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -128,7 +201,13 @@
             "_Notes": "Également appelé « Théodebert II ». Fils de Childebert II. Roi d'Austrasie. Trahi par son frère Thierry II, il est vaincu à Tolbiac en 612, puis assassiné. Son royaume revient à son frère.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Thibert II",
+            "born": "0584-12-31T23:00:00.000Z",
+            "dead": "0611-12-31T23:00:00.000Z",
+            "lifeSpan": 26.995763088906685,
+            "reignStart": "0594-12-31T23:00:00.000Z",
+            "reignEnd": "0611-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -138,7 +217,13 @@
             "_Notes": "Fils de Childebert II. Roi de Bourgogne, puis également d'Austrasie à partir de 612. Son fils Sigebert II lui succède.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Thierry II",
+            "born": "0586-12-31T23:00:00.000Z",
+            "dead": "0612-12-31T23:00:00.000Z",
+            "lifeSpan": 25.999164938362867,
+            "reignStart": "0594-12-31T23:00:00.000Z",
+            "reignEnd": "0612-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -148,7 +233,13 @@
             "_Notes": "Fils de Thierry II. Roi d'Austrasie et de Bourgogne. Il est exécuté par le roi de Neustrie Clotaire II, qui s'empare ainsi de son royaume.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Sigebert II",
+            "born": "0600-12-31T23:00:00.000Z",
+            "dead": "0613-10-09T22:00:00.000Z",
+            "lifeSpan": 12.772222108142763,
+            "reignStart": "0612-12-31T23:00:00.000Z",
+            "reignEnd": "0612-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -158,7 +249,14 @@
             "_Notes": "Fils de Chilpéric Ier et de Frédégonde. Roi de Neustrie, il réunifie le royaume franc en 613. Son royaume est partagé entre ses deux fils à sa mort.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clotaire II",
+            "surname": "undefined le Jeune »",
+            "born": "0584-04-30T22:00:00.000Z",
+            "dead": "0629-10-17T22:00:00.000Z",
+            "lifeSpan": 45.46294585104417,
+            "reignStart": "0583-12-31T23:00:00.000Z",
+            "reignEnd": "0628-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -168,7 +266,13 @@
             "_Notes": "Fils aîné de Clotaire II. Roi associé d'Austrasie jusqu'à la mort de son père, puis roi des Francs excepté l'Aquitaine, et enfin seul roi des Francs à la mort de son frère cadet Caribert II en 632. Son royaume est partagé entre ses deux fils à sa mort.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Dagobert Ier",
+            "born": "0601-12-31T23:00:00.000Z",
+            "dead": "0639-01-18T23:00:00.000Z",
+            "lifeSpan": 37.049357618568486,
+            "reignStart": "0622-12-31T23:00:00.000Z",
+            "reignEnd": "0638-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -178,7 +282,13 @@
             "_Notes": "Fils cadet de Clotaire II. Roi d'Aquitaine. Son royaume revient à son frère Dagobert Ier à sa mort.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Caribert II",
+            "born": "0605-12-31T23:00:00.000Z",
+            "dead": "0632-04-07T22:00:00.000Z",
+            "lifeSpan": 26.267365745589117,
+            "reignStart": "0628-12-31T23:00:00.000Z",
+            "reignEnd": "0631-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -188,7 +298,13 @@
             "_Notes": "Fils de Dagobert Ier. Roi d'Austrasie.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Sigebert III",
+            "born": "0630-12-31T23:00:00.000Z",
+            "dead": "0656-01-31T23:00:00.000Z",
+            "lifeSpan": 25.084703998028704,
+            "reignStart": "0638-12-31T23:00:00.000Z",
+            "reignEnd": "0655-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -198,7 +314,14 @@
             "_Notes": "Fils de Dagobert Ier. Roi de Neustrie et de Bourgogne.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clovis II",
+            "surname": "undefined le Fainéant »",
+            "born": "0632-12-31T23:00:00.000Z",
+            "dead": "0657-10-30T23:00:00.000Z",
+            "lifeSpan": 24.830078646378777,
+            "reignStart": "0638-12-31T23:00:00.000Z",
+            "reignEnd": "0656-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -208,7 +331,14 @@
             "_Notes": "Fils adoptif de Sigebert III. Roi d'Austrasie.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Childebert III",
+            "surname": "undefined l'Adopté »",
+            "born": "0649-12-31T23:00:00.000Z",
+            "dead": "0662-10-17T22:00:00.000Z",
+            "lifeSpan": 12.79412536419867,
+            "reignStart": "0655-12-31T23:00:00.000Z",
+            "reignEnd": "0661-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -218,7 +348,13 @@
             "_Notes": "Fils de Clovis II. Roi de Neustrie.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clotaire III",
+            "born": "0651-12-31T23:00:00.000Z",
+            "dead": "0672-12-31T23:00:00.000Z",
+            "lifeSpan": 21.002484650608842,
+            "reignStart": "0656-12-31T23:00:00.000Z",
+            "reignEnd": "0672-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -228,7 +364,13 @@
             "_Notes": "Fils de Clovis II. Roi d'Austrasie, puis de tout le royaume franc à partir de 673.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Childéric II",
+            "born": "0654-12-31T23:00:00.000Z",
+            "dead": "0674-12-31T23:00:00.000Z",
+            "lifeSpan": 20.000410686051048,
+            "reignStart": "0661-12-31T23:00:00.000Z",
+            "reignEnd": "0674-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -238,7 +380,13 @@
             "_Notes": "Fils de Clovis II. Roi de Neustrie en 673, puis de 675 à 679, et du royaume franc tout entier à partir de 679.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Thierry III",
+            "born": "0656-12-31T23:00:00.000Z",
+            "dead": "0690-12-31T23:00:00.000Z",
+            "lifeSpan": 33.99932921278329,
+            "reignStart": "0674-12-31T23:00:00.000Z",
+            "reignEnd": "0690-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -248,7 +396,13 @@
             "_Notes": "Fils prétendu de Clotaire III, placé sur le trône d'Austrasie par le maire du palais Ébroïn.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clovis III",
+            "born": "0669-12-31T23:00:00.000Z",
+            "dead": "0675-12-31T23:00:00.000Z",
+            "lifeSpan": 5.99875425231182,
+            "reignStart": "0674-12-31T23:00:00.000Z",
+            "reignEnd": "0675-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -258,7 +412,13 @@
             "_Notes": "Fils de Sigebert III. Roi d'Austrasie. Considéré comme saint.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Dagobert II",
+            "born": "0651-12-31T23:00:00.000Z",
+            "dead": "0679-12-22T23:00:00.000Z",
+            "lifeSpan": 27.975933797408572,
+            "reignStart": "0675-12-31T23:00:00.000Z",
+            "reignEnd": "0678-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -268,7 +428,13 @@
             "_Notes": "Fils ainé de Thierry III.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clovis IV",
+            "born": "0679-12-31T23:00:00.000Z",
+            "dead": "0694-12-31T23:00:00.000Z",
+            "lifeSpan": 15.000992491290033,
+            "reignStart": "0690-12-31T23:00:00.000Z",
+            "reignEnd": "0694-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -278,7 +444,13 @@
             "_Notes": "Fils de Thierry III.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Childebert IV",
+            "born": "0682-12-31T23:00:00.000Z",
+            "dead": "0710-12-31T23:00:00.000Z",
+            "lifeSpan": 27.99783705346448,
+            "reignStart": "0694-12-31T23:00:00.000Z",
+            "reignEnd": "0710-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -288,7 +460,13 @@
             "_Notes": "Fils de Childebert IV.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Dagobert III",
+            "born": "0698-12-31T23:00:00.000Z",
+            "dead": "0714-12-31T23:00:00.000Z",
+            "lifeSpan": 15.99759064183385,
+            "reignStart": "0710-12-31T23:00:00.000Z",
+            "reignEnd": "0714-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -298,7 +476,13 @@
             "_Notes": "Fils probable de Childéric II. Élu roi de Neustrie en 715, sous l'égide du maire du palais Rainfroi. Il devient roi de tous les Francs après la mort de son concurrent Clotaire IV, en 719.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Chilpéric II",
+            "born": "0669-12-31T23:00:00.000Z",
+            "dead": "0720-12-31T23:00:00.000Z",
+            "lifeSpan": 50.99899381917493,
+            "reignStart": "0714-12-31T23:00:00.000Z",
+            "reignEnd": "0720-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -308,7 +492,13 @@
             "_Notes": "Fils probable de Thierry III, placé sur le trône d'Austrasie par le maire du palais Charles Martel, en lutte contre les Neustriens Chilpéric II et Rainfroi.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Clotaire IV",
+            "born": "0684-12-31T23:00:00.000Z",
+            "dead": "0718-12-31T23:00:00.000Z",
+            "lifeSpan": 33.9965913057763,
+            "reignStart": "0716-12-31T23:00:00.000Z",
+            "reignEnd": "0718-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "",
@@ -318,7 +508,13 @@
             "_Notes": "Fils de Dagobert III. Il est placé sur le trône par Charles Martel après la mort de Chilpéric II.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Thierry IV",
+            "born": "0712-12-31T23:00:00.000Z",
+            "dead": "0736-12-31T23:00:00.000Z",
+            "lifeSpan": 24.000492823261258,
+            "reignStart": "0720-12-31T23:00:00.000Z",
+            "reignEnd": "0736-12-31T23:00:00.000Z"
         },
         {
             "_Portrait[Note 8]": "Interrègne (737 – 743).",
@@ -338,7 +534,14 @@
             "_Notes": "D'ascendance incertaine. Placé sur le trône par le maire du palais Pépin le Bref, il est déposé par ce même Pépin en novembre 751 et finit cloîtré dans un monastère.",
             "attribs": [
                 "Mérovingiens (481-751)"
-            ]
+            ],
+            "name": "Childéric III",
+            "surname": "undefined le Fainéant »",
+            "born": "0713-12-31T23:00:00.000Z",
+            "dead": "0753-12-31T23:00:00.000Z",
+            "lifeSpan": 40.000821372102095,
+            "reignStart": "0742-12-31T23:00:00.000Z",
+            "reignEnd": "0750-12-31T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -348,7 +551,13 @@
             "_Notes": "Devient maire du palais de Neustrie à la mort de son père Charles Martel, en 741, puis d'Austrasie après le retrait de son frère Carloman. Il dépose Childéric III et est élu roi des Francs en novembre 751. Sacré par Boniface de Mayence en 752, puis à nouveau en 754, mais cette fois-ci par le pape Étienne II et à Saint-Denis.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Pépin « le Bref »",
+            "born": "0714-12-31T23:00:00.000Z",
+            "dead": "0768-09-23T22:00:00.000Z",
+            "lifeSpan": 53.73131093269084,
+            "reignStart": "0751-10-31T23:00:00.000Z",
+            "reignEnd": "0768-09-23T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -358,7 +567,13 @@
             "_Notes": "Fils cadet de Pépin le Bref et de Bertrade de Laon. Sacré avec son père et son frère aîné Charles en 754. Le royaume franc est partagé entre les deux frères à la mort de Pépin, Carloman obtenant l'Austrasie, l'Alémanie, la Thuringe, et les pays tributaires. Sa mort prématurée permet à Charles de réunifier le royaume.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Carloman Ier",
+            "born": "0750-12-31T23:00:00.000Z",
+            "dead": "0771-12-03T23:00:00.000Z",
+            "lifeSpan": 20.923085347406175,
+            "reignStart": "0768-09-03T22:00:00.000Z",
+            "reignEnd": "0771-12-03T23:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -368,7 +583,13 @@
             "_Notes": "Fils aîné de Pépin le Bref et de Bertrade de Laon. Sacré avec son père et son frère cadet Carloman en 754. Il obtient la Neustrie, la Bourgogne et l'Aquitaine à la mort de son père, puis le reste du royaume franc à la mort de son frère. Il est sacré empereur d'Occident par le pape Léon III le 25 décembre 800 à Rome.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Charlemagne",
+            "born": "0742-04-01T22:00:00.000Z",
+            "dead": "0814-01-27T23:00:00.000Z",
+            "lifeSpan": 71.82636650079513,
+            "reignStart": "0768-09-23T22:00:00.000Z",
+            "reignEnd": "0814-01-27T23:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -378,7 +599,14 @@
             "_Notes": "Fils de Charlemagne et d'Hildegarde de Vintzgau. Couronné empereur d'Occident associé par son père le 11 septembre 813, sacré par le pape Étienne IV à Reims le 5 octobre 816. Déposé le 7 octobre 833 par son fils Lothaire, restauré le 15 février 835.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Louis Ier",
+            "surname": "undefined le Pieux » ou « le Débonnaire »",
+            "born": "0777-12-31T23:00:00.000Z",
+            "dead": "0840-06-19T22:00:00.000Z",
+            "lifeSpan": 62.46797219199116,
+            "reignStart": "0813-12-31T23:00:00.000Z",
+            "reignEnd": "0840-06-19T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -388,7 +616,14 @@
             "_Notes": "Benjamin des fils de Louis le Pieux, le seul par sa deuxième femme Judith de Bavière. En 843, il reçoit la Francie occidentale par le traité de Verdun qui divise l'Empire franc. Sacré à Orléans le 8 juin 848. Après la mort de son neveu Louis II d'Italie, il est sacré empereur d'Occident par le pape Jean VIII à Rome le 25 décembre 875.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Charles II",
+            "surname": "undefined le Chauve »",
+            "born": "0823-06-12T22:00:00.000Z",
+            "dead": "0877-10-05T22:00:00.000Z",
+            "lifeSpan": 54.317337111645,
+            "reignStart": "0839-12-31T23:00:00.000Z",
+            "reignEnd": "0877-10-05T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -398,7 +633,14 @@
             "_Notes": "Fils aîné de Charles II et d'Ermentrude d'Orléans. Sacré à Compiègne le 8 décembre 877.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Louis II",
+            "surname": "undefined le Bègue »",
+            "born": "0846-10-31T23:00:00.000Z",
+            "dead": "0879-04-09T22:00:00.000Z",
+            "lifeSpan": 32.43860813934121,
+            "reignStart": "0876-12-31T23:00:00.000Z",
+            "reignEnd": "0879-04-09T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -408,7 +650,13 @@
             "_Notes": "Fils de Louis II et d'Ansgarde de Bourgogne, ils sont élus pour succéder conjointement à leur père. Sacrés à Ferrières en septembre 879. Louis III meurt sans descendance, et Carloman II devient seul roi jusqu'à sa propre mort, également sans descendance.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Louis III",
+            "born": "0863-12-31T23:00:00.000Z",
+            "dead": "0882-08-04T22:00:00.000Z",
+            "lifeSpan": 18.59301240500033,
+            "reignStart": "0878-12-31T23:00:00.000Z",
+            "reignEnd": "0882-08-04T22:00:00.000Z"
         },
         {
             "_Portrait": "Carloman II\n(vers 867 – 6 décembre 884)",
@@ -418,7 +666,9 @@
             "_Notes": "",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "879",
+            "reignStart": "0884-12-05T23:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -428,7 +678,13 @@
             "_Notes": "Troisième fils de Louis le Germanique, lui-même fils cadet de Louis le Pieux. Il est élu par les grands du royaume à la place du jeune Charles le Simple, dernier fils de Louis II. Incapable de faire face aux Normands, il est déposé en novembre 887.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Charles le Gros",
+            "born": "0838-12-31T23:00:00.000Z",
+            "dead": "0888-01-12T23:00:00.000Z",
+            "lifeSpan": 49.03317658815718,
+            "reignStart": "0885-05-31T22:00:00.000Z",
+            "reignEnd": "0887-10-31T23:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -438,7 +694,13 @@
             "_Notes": "De la dynastie des Robertiens, il est titré comte de Paris au moment de son élection, en 888, à la mort de Charles le Gros. Sacré à Compiègne le 29 février 888, puis à Reims plus tard la même l'année.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Eudes",
+            "born": "0859-12-31T23:00:00.000Z",
+            "dead": "0897-12-31T23:00:00.000Z",
+            "lifeSpan": 38.00214925700049,
+            "reignStart": "0888-02-28T23:00:00.000Z",
+            "reignEnd": "0897-12-31T23:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -448,7 +710,14 @@
             "_Notes": "Troisième fils de Louis II, le seul par sa deuxième femme Adélaïde de Frioul. Il est écarté de la succession de son frère Carloman II en 884 en raison de son jeune âge. Sacré à Reims le 28 janvier 893 (alors qu'Eudes règne encore), il ne devient réellement roi qu'à la mort de celui-ci en 898. Les grands du royaume le déposent en 922 et élisent le duc Robert pour le remplacer. Il est capturé après la bataille de Soissons en 923 et meurt en captivité.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Charles III",
+            "surname": "undefined le Simple »",
+            "born": "0879-09-16T22:00:00.000Z",
+            "dead": "0929-10-06T22:00:00.000Z",
+            "lifeSpan": 50.054415901763896,
+            "reignStart": "0897-12-31T23:00:00.000Z",
+            "reignEnd": "0922-06-28T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -458,7 +727,13 @@
             "_Notes": "De la dynastie des Robertiens, frère d'Eudes. Sacré à Reims le 30 juin 922. Tué à la bataille de Soissons l'année suivante.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Robert Ier",
+            "born": "0865-12-31T23:00:00.000Z",
+            "dead": "0923-06-14T22:00:00.000Z",
+            "lifeSpan": 57.449388648181234,
+            "reignStart": "0922-06-28T22:00:00.000Z",
+            "reignEnd": "0923-06-14T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -468,7 +743,13 @@
             "_Notes": "De la dynastie des Bivinides, il est élu roi à la mort de Robert Ier par les grands du royaume, qui refusent de rendre la couronne à Charles III le Simple. Sacré à Soissons le 13 juillet 923. Mort de pédiculose corporelle sans laisser d'enfant mâle.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Raoul",
+            "born": "0889-12-31T23:00:00.000Z",
+            "dead": "0936-01-14T23:00:00.000Z",
+            "lifeSpan": 46.035168415504764,
+            "reignStart": "0923-06-14T22:00:00.000Z",
+            "reignEnd": "0936-01-14T23:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -478,7 +759,14 @@
             "_Notes": "Seul fils de Charles III le Simple et d'Edwige de Wessex, il ne devient roi qu'à la mort de Raoul. Sacré à Laon le 19 juin 936. Mort des suites d'une chute de cheval.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Louis IV",
+            "surname": "undefined d'Outremer »",
+            "born": "0919-12-31T23:00:00.000Z",
+            "dead": "0954-09-09T22:00:00.000Z",
+            "lifeSpan": 34.69190560609275,
+            "reignStart": "0936-06-18T22:00:00.000Z",
+            "reignEnd": "0954-09-09T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -488,7 +776,13 @@
             "_Notes": "Fils de Louis IV et de Gerberge de Saxe, il succède à son père sous la régence de son oncle Brunon de Cologne jusqu'en 961. Sacré à Reims le 12 novembre 954.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Lothaire",
+            "born": "0940-12-31T23:00:00.000Z",
+            "dead": "0986-03-01T23:00:00.000Z",
+            "lifeSpan": 45.16451398728242,
+            "reignStart": "0954-09-09T22:00:00.000Z",
+            "reignEnd": "0986-03-01T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -498,7 +792,14 @@
             "_Notes": "Fils de Lothaire et d'Emma d'Italie. Sacré à Compiègne le 8 juin 979 comme roi associé. Mort sans descendance des suites d'une chute de cheval.",
             "attribs": [
                 "Carolingiens (751-987)"
-            ]
+            ],
+            "name": "Louis V",
+            "surname": "undefined le Fainéant »",
+            "born": "0966-12-31T23:00:00.000Z",
+            "dead": "0987-05-21T22:00:00.000Z",
+            "lifeSpan": 20.386341494577803,
+            "reignStart": "0986-03-01T23:00:00.000Z",
+            "reignEnd": "0987-05-20T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -508,7 +809,13 @@
             "_Notes": "Fils d'Hugues le Grand et petit-fils de Robert Ier. Duc des Francs depuis 960, il est élu roi des Francs après la mort de Louis V au détriment du Carolingien Charles de Basse-Lotharingie. Sacré en 987, peut-être le 3 juillet à Noyon.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Hugues Capet",
+            "born": "0939-12-31T23:00:00.000Z",
+            "dead": "0996-10-23T22:00:00.000Z",
+            "lifeSpan": 56.8141942225599,
+            "reignStart": "0987-06-02T22:00:00.000Z",
+            "reignEnd": "0996-10-23T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -518,7 +825,14 @@
             "_Notes": "Fils d'Hugues Capet et d'Adélaïde d'Aquitaine. Sacré à Orléans le 25 décembre 987 comme roi associé. Son fils aîné, Hugues, est roi associé de 1017 à sa mort en 1025.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Robert II",
+            "surname": "undefined le Pieux »",
+            "born": "0972-03-26T23:00:00.000Z",
+            "dead": "1031-07-19T22:00:00.000Z",
+            "lifeSpan": 59.31116541293341,
+            "reignStart": "0996-10-23T22:00:00.000Z",
+            "reignEnd": "1031-07-19T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -528,7 +842,13 @@
             "_Notes": "Fils de Robert II le Pieux et de Constance d'Arles. Sacré à Compiègne, il règne conjointement avec son père, mais meurt avant lui.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Hugues (1007 – 17 septembre 1025)",
+            "born": "1006-12-31T23:00:00.000Z",
+            "dead": "1025-09-16T22:00:00.000Z",
+            "lifeSpan": 18.710742406300835,
+            "reignStart": "1017-06-18T22:00:00.000Z",
+            "reignEnd": "1025-09-16T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -538,7 +858,13 @@
             "_Notes": "Deuxième fils de Robert II et de Constance d'Arles. Sacré à Reims le 14 mai 1027 comme roi associé.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Henri Ier",
+            "born": "1008-05-03T22:00:00.000Z",
+            "dead": "1060-08-03T22:00:00.000Z",
+            "lifeSpan": 52.25295522837567,
+            "reignStart": "1031-07-19T22:00:00.000Z",
+            "reignEnd": "1060-08-03T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -548,7 +874,13 @@
             "_Notes": "Fils aîné d'Henri Ier et d'Anne de Kiev. Sacré à Reims le 23 mai 1059 comme roi associé. Il succède à son père sous la régence de son oncle Baudouin V de Flandre jusqu'à sa majorité, en 1066.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Philippe Ier",
+            "born": "1052-05-22T22:00:00.000Z",
+            "dead": "1108-07-28T22:00:00.000Z",
+            "lifeSpan": 56.18185178340418,
+            "reignStart": "1060-08-03T22:00:00.000Z",
+            "reignEnd": "1108-07-28T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -558,7 +890,14 @@
             "_Notes": "Fils aîné de Philippe Ier et de Berthe de Hollande. Sacré à Orléans le 3 août 1108.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Louis VI",
+            "surname": "undefined le Gros »",
+            "born": "1081-11-30T23:00:00.000Z",
+            "dead": "1137-07-31T22:00:00.000Z",
+            "lifeSpan": 55.66427327962472,
+            "reignStart": "1108-07-28T22:00:00.000Z",
+            "reignEnd": "1137-07-31T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -568,7 +907,13 @@
             "_Notes": "Premier fils de Louis VI et Adélaïde de Savoie, sacré en 1029 et règne conjointement avant de mourir prématurément en 1131",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Philippe",
+            "born": "1116-08-28T22:00:00.000Z",
+            "dead": "1131-10-13T22:00:00.000Z",
+            "lifeSpan": 15.124198306604518,
+            "reignStart": "1129-04-13T22:00:00.000Z",
+            "reignEnd": "1130-12-31T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -578,7 +923,14 @@
             "_Notes": "Deuxième fils de Louis VI et d'Adélaïde de Savoie. Sacré à Reims le 25 octobre 1131 comme roi associé.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Louis VII",
+            "surname": "undefined le Jeune »",
+            "born": "1119-12-31T23:00:00.000Z",
+            "dead": "1180-09-17T22:00:00.000Z",
+            "lifeSpan": 60.71571170751852,
+            "reignStart": "1137-07-31T22:00:00.000Z",
+            "reignEnd": "1180-09-17T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -588,7 +940,14 @@
             "_Notes": "Seul fils de Louis VII et d'Adèle de Champagne. Sacré à Reims le 1er novembre 1179 comme roi associé. Premier roi à utiliser le titre de « roi de France ».",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Philippe II",
+            "surname": "undefined Auguste »",
+            "born": "1165-08-20T22:00:00.000Z",
+            "dead": "1223-07-13T22:00:00.000Z",
+            "lifeSpan": 57.89578156977898,
+            "reignStart": "1180-09-17T22:00:00.000Z",
+            "reignEnd": "1223-07-13T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -598,7 +957,14 @@
             "_Notes": "Fils aîné de Philippe II et d'Isabelle de Hainaut. Sacré à Reims le 6 août 1223.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Louis VIII",
+            "surname": "undefined le Lion »",
+            "born": "1187-09-04T22:00:00.000Z",
+            "dead": "1226-11-07T23:00:00.000Z",
+            "lifeSpan": 39.17682544245718,
+            "reignStart": "1223-07-13T22:00:00.000Z",
+            "reignEnd": "1226-11-07T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -608,7 +974,14 @@
             "_Notes": "Quatrième fils de Louis VIII et de Blanche de Castille, il succède à son père sous la régence de sa mère jusqu'à sa majorité, en 1235. Sacré à Reims le 29 novembre 1226. Mort de dysenterie devant Tunis durant la huitième croisade. Canonisé en 1297.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Louis IX",
+            "surname": "undefined Saint Louis »",
+            "born": "1214-04-24T22:00:00.000Z",
+            "dead": "1270-08-24T22:00:00.000Z",
+            "lifeSpan": 56.33517457579553,
+            "reignStart": "1226-11-07T23:00:00.000Z",
+            "reignEnd": "1270-08-24T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -618,7 +991,14 @@
             "_Notes": "Deuxième fils de Louis IX et de Marguerite de Provence. Sacré à Reims le 30 août 1271.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Philippe III",
+            "surname": "undefined le Hardi »",
+            "born": "1245-04-29T22:00:00.000Z",
+            "dead": "1285-10-04T22:00:00.000Z",
+            "lifeSpan": 40.43341067920628,
+            "reignStart": "1270-08-24T22:00:00.000Z",
+            "reignEnd": "1285-10-04T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -628,7 +1008,14 @@
             "_Notes": "Deuxième fils de Philippe III et d'Isabelle d'Aragon. Sacré à Reims le 6 janvier 1286. Également roi de Navarre (Philippe Ier) par son mariage avec Jeanne de Navarre.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Philippe IV",
+            "surname": "undefined le Bel »",
+            "born": "1267-12-31T23:00:00.000Z",
+            "dead": "1314-11-28T23:00:00.000Z",
+            "lifeSpan": 46.9085607507341,
+            "reignStart": "1285-10-04T22:00:00.000Z",
+            "reignEnd": "1314-11-28T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -638,7 +1025,14 @@
             "_Notes": "Fils aîné de Philippe IV et de Jeanne de Navarre. Sacré à Reims le 24 août 1315. Également roi de Navarre (Louis Ier). Mort en laissant un enfant à naître ; son frère cadet Philippe assure la régence.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Louis X",
+            "surname": "undefined le Hutin »",
+            "born": "1289-10-03T22:00:00.000Z",
+            "dead": "1316-06-04T22:00:00.000Z",
+            "lifeSpan": 26.667214248068063,
+            "reignStart": "1314-11-28T23:00:00.000Z",
+            "reignEnd": "1316-06-04T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -648,7 +1042,14 @@
             "_Notes": "Fils de Louis X et de Clémence de Hongrie, il meurt après quelques jours de vie et de règne. Également roi de Navarre. Il est le seul roi de France à avoir régné de sa naissance à sa mort.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Jean Ier",
+            "surname": "undefined le Posthume »",
+            "born": "1316-11-14T23:00:00.000Z",
+            "dead": "1316-11-18T23:00:00.000Z",
+            "lifeSpan": 0.010951628027954031,
+            "reignStart": "1316-11-14T23:00:00.000Z",
+            "reignEnd": "1316-11-18T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -658,7 +1059,14 @@
             "_Notes": "Deuxième fils de Philippe IV et de Jeanne de Navarre. Les états généraux de 1317 évincent de la succession sa nièce Jeanne, la fille de Louis X. Sacré à Reims le 11 janvier 1317. Également roi de Navarre (Philippe II). Mort sans descendance mâle.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Philippe V",
+            "surname": "undefined le Long »",
+            "born": "1293-11-16T23:00:00.000Z",
+            "dead": "1322-01-02T23:00:00.000Z",
+            "lifeSpan": 28.126518682792938,
+            "reignStart": "1316-11-18T23:00:00.000Z",
+            "reignEnd": "1322-01-02T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -668,7 +1076,14 @@
             "_Notes": "Troisième fils de Philippe IV et de Jeanne de Navarre. Sacré à Reims le 21 février 1322. Également roi de Navarre (Charles Ier). Mort sans descendance mâle.",
             "attribs": [
                 "Capétiens"
-            ]
+            ],
+            "name": "Charles IV",
+            "surname": "undefined le Bel »",
+            "born": "1294-06-17T22:00:00.000Z",
+            "dead": "1328-01-31T23:00:00.000Z",
+            "lifeSpan": 33.6216121252775,
+            "reignStart": "1322-01-02T23:00:00.000Z",
+            "reignEnd": "1328-01-31T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -677,7 +1092,13 @@
             "_Fin du règne": "22 août\n1350",
             "_Notes": "Neveu de Philippe IV, il devient roi de France à la naissance de la fille posthume de Charles IV, Blanche. La Navarre est laissée à Jeanne de Navarre, la fille de Louis X, en échange de sa renonciation au trône de France. Sacré à Reims le 29 mai 1328.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Philippe VI",
+            "born": "1292-12-31T23:00:00.000Z",
+            "dead": "1350-08-21T22:00:00.000Z",
+            "lifeSpan": 57.63556632465645,
+            "reignStart": "1328-03-31T22:00:00.000Z",
+            "reignEnd": "1350-08-21T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -686,7 +1107,14 @@
             "_Fin du règne": "8 avril\n1364",
             "_Notes": "Fils aîné de Philippe VI et de Jeanne de Bourgogne. Sacré à Reims le 26 septembre 1350. Mort en captivité à Londres.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Jean II",
+            "surname": "undefined le Bon »",
+            "born": "1319-04-25T22:00:00.000Z",
+            "dead": "1364-04-07T22:00:00.000Z",
+            "lifeSpan": 44.953695147744305,
+            "reignStart": "1350-08-21T22:00:00.000Z",
+            "reignEnd": "1364-04-07T22:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -695,7 +1123,14 @@
             "_Fin du règne": "16 septembre\n1380",
             "_Notes": "Fils aîné de Jean II et de Bonne de Luxembourg, il assure la régence durant les captivités de son père en Angleterre. Sacré à Reims le 19 mai 1364.",
             "_Armoiries": "\n\n\n\n",
-            "attribs": []
+            "attribs": [],
+            "name": "Charles V",
+            "surname": "undefined le Sage »",
+            "born": "1338-01-20T23:00:00.000Z",
+            "dead": "1380-09-15T22:00:00.000Z",
+            "lifeSpan": 42.653739182415336,
+            "reignStart": "1364-04-07T22:00:00.000Z",
+            "reignEnd": "1380-09-15T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -704,7 +1139,14 @@
             "_Fin du règne": "22 octobre\n1422",
             "_Notes": "Aîné des fils survivants de Charles V et de Jeanne de Bourbon. Sacré à Reims le 4 novembre 1380, il succède à son père sous la régence de ses oncles Louis d'Anjou, Jean de Berry, Philippe de Bourgogne et Louis de Bourbon jusqu'à ses vingt ans. La folie qui le frappe à partir de 1392 permet à ses oncles et à son frère de reprendre le pouvoir.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Charles VI",
+            "surname": "undefined le Bien-Aimé » ou « le Fol »",
+            "born": "1368-12-02T23:00:00.000Z",
+            "dead": "1422-10-21T22:00:00.000Z",
+            "lifeSpan": 53.88189581807521,
+            "reignStart": "1380-09-15T22:00:00.000Z",
+            "reignEnd": "1422-10-21T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -713,7 +1155,14 @@
             "_Fin du règne": "22 juillet\n1461",
             "_Notes": "Dernier fils survivant de Charles VI et d'Isabeau de Bavière, il refuse d'entériner le traité de Troyes, qui le déshérite au profit d'Henri V d'Angleterre. Son règne est indissociable de l'épopée de Jeanne d'Arc, qui après avoir levé le siège d'Orléans, le conduisit se faire sacrer à Reims le 17 juillet 1429.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Charles VII",
+            "surname": "undefined le Victorieux » ou « le Bien Servi »",
+            "born": "1403-02-21T23:00:00.000Z",
+            "dead": "1461-07-21T22:00:00.000Z",
+            "lifeSpan": 58.413131914641184,
+            "reignStart": "1422-10-21T22:00:00.000Z",
+            "reignEnd": "1461-07-21T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -722,7 +1171,14 @@
             "_Fin du règne": "30 août\n1483",
             "_Notes": "Fils aîné de Charles VII et de Marie d'Anjou. Sacré à Reims le 15 août 1461.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Louis XI",
+            "surname": "undefined le Prudent »",
+            "born": "1423-07-02T22:00:00.000Z",
+            "dead": "1483-08-29T22:00:00.000Z",
+            "lifeSpan": 60.160030664558484,
+            "reignStart": "1461-07-21T22:00:00.000Z",
+            "reignEnd": "1483-08-29T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -731,7 +1187,14 @@
             "_Fin du règne": "7 avril\n1498",
             "_Notes": "Seul fils de Louis XI et de Charlotte de Savoie, il succède à son père sous la régence de sa sœur aînée Anne de France jusqu'en 1491. Sacré à Reims le 30 mai 1484. Mort sans descendance mâle des suites d'un accident au château d'Amboise à l'âge de 27 ans.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Charles VIII",
+            "surname": "undefined l'Affable »",
+            "born": "1470-06-29T22:00:00.000Z",
+            "dead": "1498-04-06T22:00:00.000Z",
+            "lifeSpan": 27.770590771884432,
+            "reignStart": "1483-08-29T22:00:00.000Z",
+            "reignEnd": "1498-04-06T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -740,7 +1203,14 @@
             "_Fin du règne": "1er janvier\n1515",
             "_Notes": "Descendant de Charles V et cousin éloigné de Charles VIII dont il épouse la veuve Anne de Bretagne, il est le seul représentant de la branche de Valois-Orléans à régner. Sacré à Reims le 27 mai 1498. Mort sans descendance mâle.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Louis XII",
+            "surname": "undefined le Père du Peuple »",
+            "born": "1462-06-26T22:00:00.000Z",
+            "dead": "1514-12-31T23:00:00.000Z",
+            "lifeSpan": 52.5131704734982,
+            "reignStart": "1498-04-06T22:00:00.000Z",
+            "reignEnd": "1514-12-31T23:00:00.000Z"
         },
         {
             "_Portrait": "",
@@ -749,7 +1219,14 @@
             "_Fin du règne": "31 mars\n1547",
             "_Notes": "Descendant de Charles V, cousin de Louis XII dont il a épousé la fille Claude de France, il inaugure la branche de Valois-Angoulême. Sacré à Reims le 25 janvier 1515. Mort de septicémie à l'âge de 52 ans.",
             "_Armoiries": "\n\n\n\n",
-            "attribs": []
+            "attribs": [],
+            "name": "François Ier",
+            "surname": "undefined le Père et Restaurateur des Lettres »",
+            "born": "1494-09-11T22:00:00.000Z",
+            "dead": "1547-03-30T22:00:00.000Z",
+            "lifeSpan": 52.54591127812344,
+            "reignStart": "1514-12-31T23:00:00.000Z",
+            "reignEnd": "1547-03-30T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -758,7 +1235,13 @@
             "_Fin du règne": "10 juillet\n1559",
             "_Notes": "Deuxième fils de François Ier et de Claude de France. Sacré à Reims le 26 juillet 1547. Meurt des suites d'un accident de tournoi.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Henri II",
+            "born": "1519-03-30T22:00:00.000Z",
+            "dead": "1559-07-09T22:00:00.000Z",
+            "lifeSpan": 40.27734997980794,
+            "reignStart": "1547-03-30T22:00:00.000Z",
+            "reignEnd": "1559-07-09T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -767,7 +1250,13 @@
             "_Fin du règne": "5 décembre\n1560",
             "_Notes": "Fils aîné d'Henri II et de Catherine de Médicis. Sacré à Reims le 18 septembre 1559. Également roi consort d'Écosse après son mariage avec la reine Marie Stuart, le 24 avril 1558. Mort sans descendance d'une mastoïdite aiguë ou d'une méningite à l'âge de 16 ans.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "François II",
+            "born": "1544-01-18T23:00:00.000Z",
+            "dead": "1560-12-04T23:00:00.000Z",
+            "lifeSpan": 16.879196698084147,
+            "reignStart": "1559-07-09T22:00:00.000Z",
+            "reignEnd": "1560-12-04T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -776,7 +1265,13 @@
             "_Fin du règne": "30 mai\n1574",
             "_Notes": "Troisième fils d'Henri II et de Catherine de Médicis, il succède à son frère à l'âge de dix ans, sous la régence de sa mère jusqu'à sa majorité, en 1564. Sacré à Reims le 15 mai 1561. Mort sans descendance mâle de pleurésie à l'âge de 24 ans.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Charles IX",
+            "born": "1550-06-26T22:00:00.000Z",
+            "dead": "1574-05-29T22:00:00.000Z",
+            "lifeSpan": 23.92383142706558,
+            "reignStart": "1560-12-04T23:00:00.000Z",
+            "reignEnd": "1574-05-29T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -785,7 +1280,13 @@
             "_Fin du règne": "2 août\n1589",
             "_Notes": "Quatrième fils d'Henri II et de Catherine de Médicis, il est élu roi de Pologne le 11 mai 1573. À la mort de son frère aîné, il rentre en France le 6 septembre 1574 et est sacré à Reims le 13 février 1575. Mort sans descendance, assassiné par Jacques Clément.",
             "_Armoiries": "\n\n\n\n",
-            "attribs": []
+            "attribs": [],
+            "name": "Henri III",
+            "born": "1551-09-18T22:00:00.000Z",
+            "dead": "1589-08-01T22:00:00.000Z",
+            "lifeSpan": 37.87072972066504,
+            "reignStart": "1574-05-29T22:00:00.000Z",
+            "reignEnd": "1589-08-01T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -794,7 +1295,14 @@
             "_Fin du règne": "14 mai\n1610",
             "_Notes": "\nDescendant de Robert de Clermont, le dernier fils de Louis IX. Roi de Navarre depuis 1572, il devient roi de France le 2 août 1589 à la mort de son beau-frère et cousin issu de germain Henri III, qui l'a désigné comme successeur. Il abjure le protestantisme pour être sacré à Chartres le 27 février 1594. Il est assassiné par François Ravaillac le 14 mai 1610.\n",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Henri IV",
+            "surname": "undefined le Grand » ou « le Vert-Galant »",
+            "born": "1553-12-12T23:00:00.000Z",
+            "dead": "1610-05-13T22:00:00.000Z",
+            "lifeSpan": 56.41719770654657,
+            "reignStart": "1589-08-01T22:00:00.000Z",
+            "reignEnd": "1610-05-13T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -803,7 +1311,14 @@
             "_Fin du règne": "14 mai\n1643",
             "_Notes": "\nFils aîné d'Henri IV et de Marie de Médicis, il succède à son père à l'âge de neuf ans. Placé sous la régence de sa mère jusqu'à sa majorité, il est sacré à Reims le 17 octobre 1610. Mort de la maladie de Crohn.\n",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Louis XIII",
+            "surname": "undefined le Juste »",
+            "born": "1601-09-26T22:00:00.000Z",
+            "dead": "1643-05-13T22:00:00.000Z",
+            "lifeSpan": 41.62713813425327,
+            "reignStart": "1610-05-13T22:00:00.000Z",
+            "reignEnd": "1643-05-13T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -812,7 +1327,14 @@
             "_Fin du règne": "1er septembre\n1715",
             "_Notes": "\nFils aîné de Louis XIII et d'Anne d'Autriche, il succède à son père sous la régence de sa mère jusqu'à sa majorité, en 1661. Sacré à Reims le 7 juin 1654. Mort de la gangrène.\n",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Louis XIV",
+            "surname": "undefined le Grand » ou « le Roi-Soleil »",
+            "born": "1638-09-04T22:00:00.000Z",
+            "dead": "1715-08-31T22:00:00.000Z",
+            "lifeSpan": 76.98720712950986,
+            "reignStart": "1643-05-13T22:00:00.000Z",
+            "reignEnd": "1715-08-31T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -821,7 +1343,14 @@
             "_Fin du règne": "10 mai\n1774",
             "_Notes": "Arrière-petit-fils de Louis XIV, il lui succède sous la régence de Philippe d'Orléans, neveu du roi défunt, jusqu'à sa majorité en 1723. Sacré à Reims le 25 octobre 1722. Mort de la variole.",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Louis XV",
+            "surname": "undefined le Bien-Aimé »",
+            "born": "1710-02-14T23:00:00.000Z",
+            "dead": "1774-05-09T22:00:00.000Z",
+            "lifeSpan": 64.23118430449176,
+            "reignStart": "1715-08-31T22:00:00.000Z",
+            "reignEnd": "1774-05-09T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -830,7 +1359,13 @@
             "_Fin du règne": "10 août\n1792",
             "_Notes": "\nPetit-fils de Louis XV, il est sacré à Reims le 11 juin 1775. Devenu roi des Français par la constitution de 1791, il est suspendu par l'Assemblée nationale le 10 août 1792, puis déchu le 21 septembre, et guillotiné au terme de son procès, le 21 janvier 1793. Les royalistes reconnaissent son fils comme son successeur sous le nom de Louis XVII, mais celui-ci n'est jamais sacré et meurt en prison le 8 juin 1795.\n",
             "_Armoiries": "",
-            "attribs": []
+            "attribs": [],
+            "name": "Louis XVI",
+            "born": "1754-08-22T22:00:00.000Z",
+            "dead": "1793-01-20T23:00:00.000Z",
+            "lifeSpan": 38.41568729451438,
+            "reignStart": "1774-05-09T22:00:00.000Z",
+            "reignEnd": "1792-08-09T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -841,7 +1376,13 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [
                 "Bonaparte (1804-1814)"
-            ]
+            ],
+            "name": "Napoléon Ier",
+            "born": "1769-08-14T22:00:00.000Z",
+            "dead": "1821-05-04T22:00:00.000Z",
+            "lifeSpan": 51.71906336201291,
+            "reignStart": "1804-05-17T22:00:00.000Z",
+            "reignEnd": "1814-04-05T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -852,7 +1393,13 @@
             "_Armoiries": "",
             "attribs": [
                 "Bourbons (1814-1815)"
-            ]
+            ],
+            "name": "Louis XVIII",
+            "born": "1755-11-16T23:00:00.000Z",
+            "dead": "1824-09-15T22:00:00.000Z",
+            "lifeSpan": 68.83086807623245,
+            "reignStart": "1814-04-05T22:00:00.000Z",
+            "reignEnd": "1815-03-19T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -863,7 +1410,13 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [
                 "Bonaparte (1815)"
-            ]
+            ],
+            "name": "Napoléon Ier",
+            "born": "1769-08-14T22:00:00.000Z",
+            "dead": "1821-05-04T22:00:00.000Z",
+            "lifeSpan": 51.71906336201291,
+            "reignStart": "1815-03-19T23:00:00.000Z",
+            "reignEnd": "1815-06-21T22:00:00.000Z"
         },
         {
             "_Portrait": "Durant l'intervalle qui sépare l'abdication de Napoléon Ier du retour de Louis XVIII, la France est dirigée par une commission de gouvernement présidée par Joseph Fouché.",
@@ -885,7 +1438,13 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [
                 "Bourbons (1815-1830)"
-            ]
+            ],
+            "name": "Louis XVIII",
+            "born": "1755-11-16T23:00:00.000Z",
+            "dead": "1824-09-15T22:00:00.000Z",
+            "lifeSpan": 68.83086807623245,
+            "reignStart": "1815-07-07T22:00:00.000Z",
+            "reignEnd": "1824-09-15T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -896,7 +1455,13 @@
             "_Armoiries": "",
             "attribs": [
                 "Bourbons (1815-1830)"
-            ]
+            ],
+            "name": "Charles X",
+            "born": "1757-10-08T22:00:00.000Z",
+            "dead": "1836-11-05T23:00:00.000Z",
+            "lifeSpan": 79.0763442553007,
+            "reignStart": "1824-09-15T22:00:00.000Z",
+            "reignEnd": "1830-08-01T22:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -907,7 +1472,14 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [
                 "Orléans (1830-1848)"
-            ]
+            ],
+            "name": "Louis-Philippe Ier",
+            "surname": "undefined le Roi-Citoyen » ou « le Roi-Bourgeois »",
+            "born": "1773-10-05T22:00:00.000Z",
+            "dead": "1850-08-25T22:00:00.000Z",
+            "lifeSpan": 76.88590457025127,
+            "reignStart": "1830-08-08T22:00:00.000Z",
+            "reignEnd": "1848-02-23T23:00:00.000Z"
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -918,11 +1490,17 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [
                 "Bonaparte (1852-1870)"
-            ]
+            ],
+            "name": "Napoléon III",
+            "born": "1808-04-19T22:00:00.000Z",
+            "dead": "1873-01-08T23:00:00.000Z",
+            "lifeSpan": 64.72423572466694,
+            "reignStart": "1852-12-01T23:00:00.000Z",
+            "reignEnd": "1870-09-03T22:00:00.000Z"
         }
     ],
     "length": 93,
-    "lastupdate": "2018-06-13T16:49:38.943Z",
+    "lastupdate": "2018-06-13T21:32:44.665Z",
     "page": "Liste_des_monarques_de_France",
     "dataId": "monarques_fr"
 }

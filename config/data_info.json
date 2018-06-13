@@ -14,6 +14,7 @@
     "monarques_fr": {
         "page": "Liste_des_monarques_de_France",
         "wikiDataType": "table",
+        "dateRegx": "\\((?:(\\d+)|vers (\\d+/*\\d*)|(\\D+\\d+)|(\\d+\\D+\\d+)) (?:-|–|–|-) (?:(\\d+)|(\\D+\\d+)|vers (\\d+/*\\d*)|(\\d+\\D+\\d+))\\)",
         "raw": true,
         "json": true
     },
