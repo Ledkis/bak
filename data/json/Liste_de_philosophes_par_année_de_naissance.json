@@ -8,7 +8,7 @@
                 }
             ],
             "href": "/wiki/Liste_alphab%C3%A9tique_des_philosophes_antiques",
-            "raw": "une liste détaillée est en cours de réalisation : Liste alphabétique des philosophes antiques"
+            "_raw": "une liste détaillée est en cours de réalisation : Liste alphabétique des philosophes antiques"
         },
         {
             "title": "Les Sept sages (philosophie)",
@@ -29,7 +29,7 @@
                 }
             ],
             "href": "/wiki/Sept_sages_(philosophie)",
-            "raw": "Les Sept sages (philosophie)"
+            "_raw": "Les Sept sages (philosophie)"
         },
         {
             "title": "Thalès de Milet",
@@ -50,7 +50,7 @@
                 }
             ],
             "href": "/wiki/Thal%C3%A8s_de_Milet",
-            "raw": "Thalès de Milet (-625 ~ -547)",
+            "_raw": "Thalès de Milet (-625 ~ -547)",
             "birth": -625,
             "death": -547
         },
@@ -73,7 +73,7 @@
                 }
             ],
             "href": "/wiki/Anaximandre",
-            "raw": "Anaximandre (-610 ~ -546)",
+            "_raw": "Anaximandre (-610 ~ -546)",
             "birth": -610,
             "death": -546
         },
@@ -96,7 +96,7 @@
                 }
             ],
             "href": "/wiki/Anaxim%C3%A8ne",
-            "raw": "Anaximène (v. -586 ~ -526)",
+            "_raw": "Anaximène (v. -586 ~ -526)",
             "birth": -586,
             "death": -526
         },
@@ -119,7 +119,7 @@
                 }
             ],
             "href": "/wiki/Pythagore",
-            "raw": "Pythagore (v. -580 ~ -500)",
+            "_raw": "Pythagore (v. -580 ~ -500)",
             "birth": -580,
             "death": -500
         },
@@ -142,7 +142,7 @@
                 }
             ],
             "href": "/wiki/H%C3%A9raclite",
-            "raw": "Héraclite (v. -550 ~ v. -480)",
+            "_raw": "Héraclite (v. -550 ~ v. -480)",
             "birth": -550,
             "death": -480
         },
@@ -165,7 +165,7 @@
                 }
             ],
             "href": "/wiki/Parm%C3%A9nide",
-            "raw": "Parménide (v. -515 ~ v. -440 ou -450)",
+            "_raw": "Parménide (v. -515 ~ v. -440 ou -450)",
             "birth": -515,
             "death": -440
         },
@@ -188,7 +188,7 @@
                 }
             ],
             "href": "/wiki/X%C3%A9nophane",
-            "raw": "Xénophane (v. -570 ~ v. -475)",
+            "_raw": "Xénophane (v. -570 ~ v. -475)",
             "birth": -570,
             "death": -475
         },
@@ -206,11 +206,11 @@
                     "href": "/wiki/VIe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "La philosophie en Chine\r\n"
+                    "title": "La philosophie en Chine\n"
                 }
             ],
             "href": "/wiki/Lao_Tseu",
-            "raw": "Lao Tseu (老子 ou Lao Tse) (vers -570 ~ -490)",
+            "_raw": "Lao Tseu (老子 ou Lao Tse) (vers -570 ~ -490)",
             "birth": -570,
             "death": -490
         },
@@ -228,11 +228,11 @@
                     "href": "/wiki/VIe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "La philosophie en Chine\r\n"
+                    "title": "La philosophie en Chine\n"
                 }
             ],
             "href": "/wiki/Confucius",
-            "raw": "Confucius (孔夫子 ou Kǒng Fūzǐ) (-551 ~ -479)",
+            "_raw": "Confucius (孔夫子 ou Kǒng Fūzǐ) (-551 ~ -479)",
             "birth": -551,
             "death": -479
         },
@@ -250,11 +250,11 @@
                     "href": "/wiki/VIe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "La philosophie en Inde\r\n"
+                    "title": "La philosophie en Inde\n"
                 }
             ],
             "href": "/wiki/Bouddha",
-            "raw": "Le Bouddha (undefined) (v. -563 ~ -483)",
+            "_raw": "Le Bouddha (undefined) (v. -563 ~ -483)",
             "birth": -563,
             "death": -483
         },
@@ -272,11 +272,11 @@
                     "href": "/wiki/VIe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "La philosophie en Inde\r\n"
+                    "title": "La philosophie en Inde\n"
                 }
             ],
             "href": "/wiki/Mah%C4%81v%C4%ABra",
-            "raw": "Mahāvīra (undefined) (v. -599 ~ -527)",
+            "_raw": "Mahāvīra (undefined) (v. -599 ~ -527)",
             "birth": -599,
             "death": -527
         },
@@ -299,7 +299,7 @@
                 }
             ],
             "href": "/wiki/Anaxagore",
-            "raw": "Anaxagore (v. -500 ~ v. -428)",
+            "_raw": "Anaxagore (v. -500 ~ v. -428)",
             "birth": -500,
             "death": -428
         },
@@ -322,7 +322,7 @@
                 }
             ],
             "href": "/wiki/Tim%C3%A9e_de_Locres",
-            "raw": "Timée de Locres (5ᵉ siècle siècle avant Jésus-Christ)"
+            "_raw": "Timée de Locres (5ᵉ siècle siècle avant Jésus-Christ)"
         },
         {
             "title": "Empédocle",
@@ -343,7 +343,7 @@
                 }
             ],
             "href": "/wiki/Emp%C3%A9docle",
-            "raw": "Empédocle (-493 ~ -433)",
+            "_raw": "Empédocle (-493 ~ -433)",
             "birth": -493,
             "death": -433
         },
@@ -366,7 +366,7 @@
                 }
             ],
             "href": "/wiki/Z%C3%A9non_d%27%C3%89l%C3%A9e",
-            "raw": "Zénon d'Élée (v. -490 ~ v. -430)",
+            "_raw": "Zénon d'Élée (v. -490 ~ v. -430)",
             "birth": -490,
             "death": -430
         },
@@ -389,7 +389,7 @@
                 }
             ],
             "href": "/wiki/Protagoras",
-            "raw": "Protagoras (-490 ~ -408)",
+            "_raw": "Protagoras (-490 ~ -408)",
             "birth": -490,
             "death": -408
         },
@@ -412,7 +412,7 @@
                 }
             ],
             "href": "/wiki/Gorgias",
-            "raw": "Gorgias (-487 ~ -380)",
+            "_raw": "Gorgias (-487 ~ -380)",
             "birth": -487,
             "death": -380
         },
@@ -435,7 +435,7 @@
                 }
             ],
             "href": "/wiki/Leucippe",
-            "raw": "Leucippe (v. -460 ~ v. -370)",
+            "_raw": "Leucippe (v. -460 ~ v. -370)",
             "birth": -460,
             "death": -370
         },
@@ -458,7 +458,7 @@
                 }
             ],
             "href": "/wiki/D%C3%A9mocrite_d%27Abd%C3%A8re",
-            "raw": "Démocrite d'Abdère (v. -460 ~ v. -370)",
+            "_raw": "Démocrite d'Abdère (v. -460 ~ v. -370)",
             "birth": -460,
             "death": -370
         },
@@ -481,7 +481,7 @@
                 }
             ],
             "href": "/wiki/Critias",
-            "raw": "Critias (v. -460 ~ -403)",
+            "_raw": "Critias (v. -460 ~ -403)",
             "birth": -460,
             "death": -403
         },
@@ -500,7 +500,7 @@
                 }
             ],
             "href": "/wiki/Socrate",
-            "raw": "Socrate (-470 ~ -399)",
+            "_raw": "Socrate (-470 ~ -399)",
             "birth": -470,
             "death": -399
         },
@@ -518,11 +518,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Les Socratiques\r\n"
+                    "title": "Les Socratiques\n"
                 }
             ],
             "href": "/wiki/Euclide_de_M%C3%A9gare",
-            "raw": "Euclide de Mégare (v. -450 ~ -380)",
+            "_raw": "Euclide de Mégare (v. -450 ~ -380)",
             "birth": -450,
             "death": -380
         },
@@ -540,11 +540,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Les Socratiques\r\n"
+                    "title": "Les Socratiques\n"
                 }
             ],
             "href": "/wiki/Antisth%C3%A8ne",
-            "raw": "Antisthène (v. -444 ~ v. -365)",
+            "_raw": "Antisthène (v. -444 ~ v. -365)",
             "birth": -444,
             "death": -365
         },
@@ -562,11 +562,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Les Socratiques\r\n"
+                    "title": "Les Socratiques\n"
                 }
             ],
             "href": "/wiki/Andocide",
-            "raw": "Andocide (v. -440 ~ v. -392)",
+            "_raw": "Andocide (v. -440 ~ v. -392)",
             "birth": -440,
             "death": -392
         },
@@ -584,11 +584,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Les Socratiques\r\n"
+                    "title": "Les Socratiques\n"
                 }
             ],
             "href": "/wiki/Aristippe_de_Cyr%C3%A8ne",
-            "raw": "Aristippe de Cyrène (v. -435 ~ -355)",
+            "_raw": "Aristippe de Cyrène (v. -435 ~ -355)",
             "birth": -435,
             "death": -355
         },
@@ -606,11 +606,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Les Socratiques\r\n"
+                    "title": "Les Socratiques\n"
                 }
             ],
             "href": "/wiki/X%C3%A9nophon",
-            "raw": "Xénophon (v. -430 ~ v. -355)",
+            "_raw": "Xénophon (v. -430 ~ v. -355)",
             "birth": -430,
             "death": -355
         },
@@ -628,11 +628,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Les Socratiques\r\n"
+                    "title": "Les Socratiques\n"
                 }
             ],
             "href": "/wiki/Platon",
-            "raw": "Platon (-427 ~ -347)",
+            "_raw": "Platon (-427 ~ -347)",
             "birth": -427,
             "death": -347
         },
@@ -650,11 +650,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Les orateurs\r\n"
+                    "title": "Les orateurs\n"
                 }
             ],
             "href": "/wiki/Isocrate",
-            "raw": "Isocrate (-436 ~ -338)",
+            "_raw": "Isocrate (-436 ~ -338)",
             "birth": -436,
             "death": -338
         },
@@ -672,11 +672,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "La science\r\n"
+                    "title": "La science\n"
                 }
             ],
             "href": "/wiki/Hippocrate",
-            "raw": "Hippocrate (v. -460 ~ -377)",
+            "_raw": "Hippocrate (v. -460 ~ -377)",
             "birth": -460,
             "death": -377
         },
@@ -694,11 +694,11 @@
                     "href": "/wiki/Ve_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "La science\r\n"
+                    "title": "La science\n"
                 }
             ],
             "href": "/wiki/Euclide",
-            "raw": "Euclide d'Alexandrie (-325 ~ -265)",
+            "_raw": "Euclide d'Alexandrie (-325 ~ -265)",
             "birth": -325,
             "death": -265
         },
@@ -716,12 +716,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/Diog%C3%A8ne_de_Sinope",
-            "raw": "Diogène de Sinope (v. -400 - v. -325)",
+            "_raw": "Diogène de Sinope (v. -400 - v. -325)",
             "birth": -400,
             "death": -325
         },
@@ -739,12 +739,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/X%C3%A9nocrate",
-            "raw": "Xénocrate (v. -400 - v. -314)",
+            "_raw": "Xénocrate (v. -400 - v. -314)",
             "birth": -400,
             "death": -314
         },
@@ -762,12 +762,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/Aristote",
-            "raw": "Aristote (-384 ~ -322)",
+            "_raw": "Aristote (-384 ~ -322)",
             "birth": -384,
             "death": -322
         },
@@ -785,12 +785,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/Th%C3%A9ophraste",
-            "raw": "Théophraste (v. -372 ~ v. -287)",
+            "_raw": "Théophraste (v. -372 ~ v. -287)",
             "birth": -372,
             "death": -287
         },
@@ -808,12 +808,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/Pyrrhon",
-            "raw": "Pyrrhon (-365 ~ -275)",
+            "_raw": "Pyrrhon (-365 ~ -275)",
             "birth": -365,
             "death": -275
         },
@@ -831,12 +831,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/%C3%89picure",
-            "raw": "Épicure (v. -341 ~ -270)",
+            "_raw": "Épicure (v. -341 ~ -270)",
             "birth": -341,
             "death": -270
         },
@@ -854,12 +854,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/Douris_de_Samos",
-            "raw": "Douris de Samos (v. -340 ~ v. -260)",
+            "_raw": "Douris de Samos (v. -340 ~ v. -260)",
             "birth": -340,
             "death": -260
         },
@@ -877,12 +877,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/Z%C3%A9non_de_Cition",
-            "raw": "Zénon de Cition (-335 ~ -264)",
+            "_raw": "Zénon de Cition (-335 ~ -264)",
             "birth": -335,
             "death": -264
         },
@@ -900,12 +900,12 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "\r\n",
+                    "title": "\n",
                     "href": "/wiki/Philosophie_grecque"
                 }
             ],
             "href": "/wiki/Cl%C3%A9anthe",
-            "raw": "Cléanthe (-331 ~ -232)",
+            "_raw": "Cléanthe (-331 ~ -232)",
             "birth": -331,
             "death": -232
         },
@@ -923,11 +923,11 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Philosophie chinoise\r\n"
+                    "title": "Philosophie chinoise\n"
                 }
             ],
             "href": "/wiki/Mencius",
-            "raw": "Mencius ( 孟子 undefined ) (v. -371 ~ -289)",
+            "_raw": "Mencius ( 孟子 undefined ) (v. -371 ~ -289)",
             "birth": -371,
             "death": -289
         },
@@ -945,11 +945,11 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Philosophie chinoise\r\n"
+                    "title": "Philosophie chinoise\n"
                 }
             ],
             "href": "/wiki/Zhuang_Zi",
-            "raw": "Zhuang Zi ( 莊子 / 庄子 undefined ou Chuang Tzu) (-369 ~ -286)",
+            "_raw": "Zhuang Zi ( 莊子 / 庄子 undefined ou Chuang Tzu) (-369 ~ -286)",
             "birth": -369,
             "death": -286
         },
@@ -967,11 +967,11 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Philosophie chinoise\r\n"
+                    "title": "Philosophie chinoise\n"
                 }
             ],
             "href": "/wiki/Lie_Yukou",
-            "raw": "Lie Yukou ( 列子 undefined ou Lieh Tzu) (v. -350 ~ v. -250)",
+            "_raw": "Lie Yukou ( 列子 undefined ou Lieh Tzu) (v. -350 ~ v. -250)",
             "birth": -350,
             "death": -250
         },
@@ -989,11 +989,11 @@
                     "href": "/wiki/IVe_si%C3%A8cle_av._J.-C."
                 },
                 {
-                    "title": "Philosophie chinoise\r\n"
+                    "title": "Philosophie chinoise\n"
                 }
             ],
             "href": "/wiki/Zou_Yan",
-            "raw": "Zou Yan ( 鄒衍 / 邹衍 undefined ) (-305 ~ -240)",
+            "_raw": "Zou Yan ( 鄒衍 / 邹衍 undefined ) (-305 ~ -240)",
             "birth": -305,
             "death": -240
         },
@@ -1012,7 +1012,7 @@
                 }
             ],
             "href": "/wiki/Arc%C3%A9silas_de_Pitane",
-            "raw": "Arcésilas de Pitane (v. -315 ~ v. -241)",
+            "_raw": "Arcésilas de Pitane (v. -315 ~ v. -241)",
             "birth": -315,
             "death": -241
         },
@@ -1031,7 +1031,7 @@
                 }
             ],
             "href": "/wiki/%C3%89ratosth%C3%A8ne",
-            "raw": "Ératosthène (-284 ~ -192)",
+            "_raw": "Ératosthène (-284 ~ -192)",
             "birth": -284,
             "death": -192
         },
@@ -1050,7 +1050,7 @@
                 }
             ],
             "href": "/wiki/Chrysippe_de_Soli",
-            "raw": "Chrysippe de Soli (-281 ~ v. -205)",
+            "_raw": "Chrysippe de Soli (-281 ~ v. -205)",
             "birth": -281,
             "death": -205
         },
@@ -1069,7 +1069,7 @@
                 }
             ],
             "href": "/wiki/Carn%C3%A9ade",
-            "raw": "Carnéade (v. -215 ~ v. -129)",
+            "_raw": "Carnéade (v. -215 ~ v. -129)",
             "birth": -215,
             "death": -129
         },
@@ -1088,7 +1088,7 @@
                 }
             ],
             "href": "/wiki/Pan%C3%A9tios_de_Rhodes",
-            "raw": "Panétios de Rhodes (v. -180 - v. -110)",
+            "_raw": "Panétios de Rhodes (v. -180 - v. -110)",
             "birth": -180,
             "death": -110
         },
@@ -1107,7 +1107,7 @@
                 }
             ],
             "href": "/wiki/Huainanzi",
-            "raw": "Huainanzi (Huai-nan Tzu) (v. -179 ~ -122)",
+            "_raw": "Huainanzi (Huai-nan Tzu) (v. -179 ~ -122)",
             "birth": -179,
             "death": -122
         },
@@ -1126,7 +1126,7 @@
                 }
             ],
             "href": "/wiki/Posidonios",
-            "raw": "Posidonios d'Apamée (v. -135 - v. -50)",
+            "_raw": "Posidonios d'Apamée (v. -135 - v. -50)",
             "birth": -135,
             "death": -50
         },
@@ -1144,7 +1144,7 @@
                     "href": "/wiki/IIe_si%C3%A8cle_av._J.-C."
                 }
             ],
-            "raw": "Philodème de Gadara (v.-110 - v.-40 )",
+            "_raw": "Philodème de Gadara (v.-110 - v.-40 )",
             "birth": -110,
             "death": -40
         },
@@ -1163,7 +1163,7 @@
                 }
             ],
             "href": "/wiki/Cic%C3%A9ron",
-            "raw": "Cicéron (-106 ~ -43)",
+            "_raw": "Cicéron (-106 ~ -43)",
             "birth": -106,
             "death": -43
         },
@@ -1182,7 +1182,7 @@
                 }
             ],
             "href": "/wiki/Lucr%C3%A8ce",
-            "raw": "Lucrèce (v. -98 - v. -54)",
+            "_raw": "Lucrèce (v. -98 - v. -54)",
             "birth": -98,
             "death": -54
         },
@@ -1201,7 +1201,7 @@
                 }
             ],
             "href": "/wiki/Yang_Xiong",
-            "raw": "Yang Xiong ( 揚雄 / 扬雄 undefined ) (v. -53 - v. 18)",
+            "_raw": "Yang Xiong ( 揚雄 / 扬雄 undefined ) (v. -53 - v. 18)",
             "birth": -53,
             "death": 18
         },
@@ -1220,7 +1220,7 @@
                 }
             ],
             "href": "/wiki/Philon_d%27Alexandrie",
-            "raw": "Philon d'Alexandrie (v. -13 - v. 54)",
+            "_raw": "Philon d'Alexandrie (v. -13 - v. 54)",
             "birth": -13,
             "death": 54
         },
@@ -1238,7 +1238,7 @@
                 }
             ],
             "href": "/wiki/Philon_d%27Alexandrie",
-            "raw": "Philon d'Alexandrie (-30 - 50)",
+            "_raw": "Philon d'Alexandrie (-30 - 50)",
             "birth": -30,
             "death": 50
         },
@@ -1256,7 +1256,7 @@
                 }
             ],
             "href": "/wiki/S%C3%A9n%C3%A8que",
-            "raw": "Sénèque (-4 - 65)",
+            "_raw": "Sénèque (-4 - 65)",
             "birth": -4,
             "death": 65
         },
@@ -1274,7 +1274,7 @@
                 }
             ],
             "href": "/wiki/Apollonius_de_Tyane",
-            "raw": "Apollonius de Tyane (v. 2 - 97)",
+            "_raw": "Apollonius de Tyane (v. 2 - 97)",
             "birth": 2,
             "death": 97
         },
@@ -1292,7 +1292,7 @@
                 }
             ],
             "href": "/wiki/%C3%89pict%C3%A8te",
-            "raw": "Épictète (v. 50 - v. 130)",
+            "_raw": "Épictète (v. 50 - v. 130)",
             "birth": 50,
             "death": 130
         },
@@ -1310,7 +1310,7 @@
                 }
             ],
             "href": "/wiki/Plutarque",
-            "raw": "Plutarque (50 - 125)",
+            "_raw": "Plutarque (50 - 125)",
             "birth": 50,
             "death": 125
         },
@@ -1328,7 +1328,7 @@
                 }
             ],
             "href": "/wiki/Marc_Aur%C3%A8le",
-            "raw": "Marc Aurèle (121 - 180)",
+            "_raw": "Marc Aurèle (121 - 180)",
             "birth": 121,
             "death": 180
         },
@@ -1346,7 +1346,7 @@
                 }
             ],
             "href": "/wiki/Celse_(philosophe)",
-            "raw": "Celse (philosophe) (IIe siècle)"
+            "_raw": "Celse (philosophe) (IIe siècle)"
         },
         {
             "title": "Ammonius Saccas",
@@ -1362,7 +1362,7 @@
                 }
             ],
             "href": "/wiki/Ammonius_Saccas",
-            "raw": "Ammonius Saccas (v. IIe siècle-IIIe siècle après Jésus-Christ)"
+            "_raw": "Ammonius Saccas (v. IIe siècle-IIIe siècle après Jésus-Christ)"
         },
         {
             "title": "Sextus Empiricus",
@@ -1378,7 +1378,7 @@
                 }
             ],
             "href": "/wiki/Sextus_Empiricus",
-            "raw": "Sextus Empiricus (v. IIe siècle-IIIe siècle après Jésus-Christ)"
+            "_raw": "Sextus Empiricus (v. IIe siècle-IIIe siècle après Jésus-Christ)"
         },
         {
             "title": "Diogène Laërce",
@@ -1394,7 +1394,7 @@
                 }
             ],
             "href": "/wiki/Diog%C3%A8ne_La%C3%ABrce",
-            "raw": "Diogène Laërce (début IIIe siècle après Jésus-Christ)"
+            "_raw": "Diogène Laërce (début IIIe siècle après Jésus-Christ)"
         },
         {
             "title": "Plotin",
@@ -1410,7 +1410,7 @@
                 }
             ],
             "href": "/wiki/Plotin",
-            "raw": "Plotin (205 - 270)",
+            "_raw": "Plotin (205 - 270)",
             "birth": 205,
             "death": 270
         },
@@ -1428,7 +1428,7 @@
                 }
             ],
             "href": "/wiki/He_Yan",
-            "raw": "He Yan (v. 195 ~ 249)",
+            "_raw": "He Yan (v. 195 ~ 249)",
             "birth": 195,
             "death": 249
         },
@@ -1446,7 +1446,7 @@
                 }
             ],
             "href": "/wiki/Wang_Bi",
-            "raw": "Wang Bi (226 ~ 249)",
+            "_raw": "Wang Bi (226 ~ 249)",
             "birth": 226,
             "death": 249
         },
@@ -1464,7 +1464,7 @@
                 }
             ],
             "href": "/wiki/Porphyre_de_Tyr",
-            "raw": "Porphyre de Tyr (233 - 304)",
+            "_raw": "Porphyre de Tyr (233 - 304)",
             "birth": 233,
             "death": 304
         },
@@ -1482,7 +1482,7 @@
                 }
             ],
             "href": "/wiki/Guo_Xiang",
-            "raw": "Guo Xiang, (252? ~ 312)",
+            "_raw": "Guo Xiang, (252? ~ 312)",
             "birth": 252,
             "death": 312
         },
@@ -1500,7 +1500,7 @@
                 }
             ],
             "href": "/wiki/Jamblique",
-            "raw": "Jamblique (283 - 333)",
+            "_raw": "Jamblique (283 - 333)",
             "birth": 283,
             "death": 333
         },
@@ -1518,7 +1518,7 @@
                 }
             ],
             "href": "/wiki/Augustin_d%27Hippone",
-            "raw": "Augustin d'Hippone (undefined) (354 - 430)",
+            "_raw": "Augustin d'Hippone (undefined) (354 - 430)",
             "birth": 354,
             "death": 430
         },
@@ -1536,7 +1536,7 @@
                 }
             ],
             "href": "/wiki/Hypatie",
-            "raw": "Hypatie (v. 370 - 415)",
+            "_raw": "Hypatie (v. 370 - 415)",
             "birth": 370,
             "death": 415
         },
@@ -1554,7 +1554,7 @@
                 }
             ],
             "href": "/wiki/Proclos",
-            "raw": "Proclos (412 - 485)",
+            "_raw": "Proclos (412 - 485)",
             "birth": 412,
             "death": 485
         },
@@ -1574,7 +1574,7 @@
                 }
             ],
             "href": "/wiki/Bo%C3%A8ce",
-            "raw": "Boèce (480 - 524 ou 525)",
+            "_raw": "Boèce (480 - 524 ou 525)",
             "birth": 480,
             "death": 524
         },
@@ -1594,7 +1594,7 @@
                 }
             ],
             "href": "/wiki/Cassiodore",
-            "raw": "Cassiodore"
+            "_raw": "Cassiodore"
         },
         {
             "title": "Isidore de Séville",
@@ -1612,7 +1612,7 @@
                 }
             ],
             "href": "/wiki/Isidore_de_S%C3%A9ville",
-            "raw": "Isidore de Séville"
+            "_raw": "Isidore de Séville"
         },
         {
             "title": "Bède le Vénérable",
@@ -1630,7 +1630,7 @@
                 }
             ],
             "href": "/wiki/B%C3%A8de_le_V%C3%A9n%C3%A9rable",
-            "raw": "Bède le Vénérable (672-735), Mathématicien, Philosophe, Historien, a développé les Arts libéraux, a créé le Comput.",
+            "_raw": "Bède le Vénérable (672-735), Mathématicien, Philosophe, Historien, a développé les Arts libéraux, a créé le Comput.",
             "birth": 672,
             "death": 735
         },
@@ -1650,7 +1650,7 @@
                 }
             ],
             "href": "/wiki/Alcuin",
-            "raw": "Alcuin (730-804), conseiller de Charlemagne, fondateur des École dans l'Empire carolingien,",
+            "_raw": "Alcuin (730-804), conseiller de Charlemagne, fondateur des École dans l'Empire carolingien,",
             "birth": 730,
             "death": 804
         },
@@ -1670,7 +1670,7 @@
                 }
             ],
             "href": "/wiki/Th%C3%A9odulf_d%27Orl%C3%A9ans",
-            "raw": "Théodulf d'Orléans (750-821), Théologien.",
+            "_raw": "Théodulf d'Orléans (750-821), Théologien.",
             "birth": 750,
             "death": 821
         },
@@ -1690,7 +1690,7 @@
                 }
             ],
             "href": "/wiki/Al-Kindi",
-            "raw": "Al-Kindi (undefined) (vers 801 - 873)",
+            "_raw": "Al-Kindi (undefined) (vers 801 - 873)",
             "birth": 801,
             "death": 873
         },
@@ -1710,7 +1710,7 @@
                 }
             ],
             "href": "/wiki/Jean_Scot_Erig%C3%A8ne",
-            "raw": "Jean Scot Erigène (810 - 870)",
+            "_raw": "Jean Scot Erigène (810 - 870)",
             "birth": 810,
             "death": 870
         },
@@ -1730,7 +1730,7 @@
                 }
             ],
             "href": "/wiki/Rhazes",
-            "raw": "Rhazes (undefined) (865 - 923)",
+            "_raw": "Rhazes (undefined) (865 - 923)",
             "birth": 865,
             "death": 923
         },
@@ -1750,7 +1750,7 @@
                 }
             ],
             "href": "/wiki/Al-Farabi",
-            "raw": "Al-Farabi (undefined) (870 - 950)",
+            "_raw": "Al-Farabi (undefined) (870 - 950)",
             "birth": 870,
             "death": 950
         },
@@ -1770,7 +1770,7 @@
                 }
             ],
             "href": "/wiki/Gerbert_d%27Aurillac",
-            "raw": "Gerbert d'Aurillac / Sylvestre II"
+            "_raw": "Gerbert d'Aurillac / Sylvestre II"
         },
         {
             "title": "Avicenne",
@@ -1788,7 +1788,7 @@
                 }
             ],
             "href": "/wiki/Avicenne",
-            "raw": "Avicenne (undefined) (980 - 1037)",
+            "_raw": "Avicenne (undefined) (980 - 1037)",
             "birth": 980,
             "death": 1037
         },
@@ -1808,7 +1808,7 @@
                 }
             ],
             "href": "/wiki/Anselme_de_Canterbury",
-            "raw": "Saint Anselme de Canterbury (1033 - 1109)",
+            "_raw": "Saint Anselme de Canterbury (1033 - 1109)",
             "birth": 1033,
             "death": 1109
         },
@@ -1828,7 +1828,7 @@
                 }
             ],
             "href": "/wiki/Al-Ghazali",
-            "raw": "Al-Ghazali (undefined"
+            "_raw": "Al-Ghazali (undefined"
         },
         {
             "title": "Roscelin",
@@ -1846,7 +1846,7 @@
                 }
             ],
             "href": "/wiki/Roscelin",
-            "raw": "Roscelin (1050 - 1120)",
+            "_raw": "Roscelin (1050 - 1120)",
             "birth": 1050,
             "death": 1120
         },
@@ -1866,7 +1866,7 @@
                 }
             ],
             "href": "/wiki/Abu-l-Ala_al-Maari",
-            "raw": "Abu-l-Ala al-Maari (973-1057)",
+            "_raw": "Abu-l-Ala al-Maari (973-1057)",
             "birth": 973,
             "death": 1057
         },
@@ -1886,7 +1886,7 @@
                 }
             ],
             "href": "/wiki/Al-Biruni",
-            "raw": "Al-Biruni (973-1048)",
+            "_raw": "Al-Biruni (973-1048)",
             "birth": 973,
             "death": 1048
         },
@@ -1906,7 +1906,7 @@
                 }
             ],
             "href": "/wiki/Omar_Khayyam",
-            "raw": "Omar Khayyam (1048-1131)",
+            "_raw": "Omar Khayyam (1048-1131)",
             "birth": 1048,
             "death": 1131
         },
@@ -1926,7 +1926,7 @@
                 }
             ],
             "href": "/wiki/Guillaume_de_Champeaux",
-            "raw": "Guillaume de Champeaux (1070 - 1121)",
+            "_raw": "Guillaume de Champeaux (1070 - 1121)",
             "birth": 1070,
             "death": 1121
         },
@@ -1946,7 +1946,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Ab%C3%A9lard",
-            "raw": "Pierre Abélard (1079 - 1142)",
+            "_raw": "Pierre Abélard (1079 - 1142)",
             "birth": 1079,
             "death": 1142
         },
@@ -1966,7 +1966,7 @@
                 }
             ],
             "href": "/wiki/Ibn_Tufayl",
-            "raw": "Ibn Tufayl (undefined) (1100 - 1185)",
+            "_raw": "Ibn Tufayl (undefined) (1100 - 1185)",
             "birth": 1100,
             "death": 1185
         },
@@ -1986,7 +1986,7 @@
                 }
             ],
             "href": "/wiki/Averroes",
-            "raw": "Averroes (undefined) (1126 - 1198)",
+            "_raw": "Averroes (undefined) (1126 - 1198)",
             "birth": 1126,
             "death": 1198
         },
@@ -2006,7 +2006,7 @@
                 }
             ],
             "href": "/wiki/Zhu_Xi",
-            "raw": "Zhu Xi ( 朱熹 undefined ) (1130 - 1200)",
+            "_raw": "Zhu Xi ( 朱熹 undefined ) (1130 - 1200)",
             "birth": 1130,
             "death": 1200
         },
@@ -2026,7 +2026,7 @@
                 }
             ],
             "href": "/wiki/Mo%C3%AFse_Ma%C3%AFmonide",
-            "raw": "Moïse Maïmonide (undefined) (1135 - 1204)",
+            "_raw": "Moïse Maïmonide (undefined) (1135 - 1204)",
             "birth": 1135,
             "death": 1204
         },
@@ -2046,7 +2046,7 @@
                 }
             ],
             "href": "/wiki/Albert_le_Grand",
-            "raw": "Saint Albert le Grand (1193 ou 1206 - 1280)",
+            "_raw": "Saint Albert le Grand (1193 ou 1206 - 1280)",
             "birth": 1193,
             "death": 1206
         },
@@ -2066,7 +2066,7 @@
                 }
             ],
             "href": "/wiki/Moshe_ben_Nahman",
-            "raw": "Moshe ben Nahman dit Nahmanides (vers 1194 - 1270)",
+            "_raw": "Moshe ben Nahman dit Nahmanides (vers 1194 - 1270)",
             "birth": 1194,
             "death": 1270
         },
@@ -2086,7 +2086,7 @@
                 }
             ],
             "href": "/wiki/Roger_Bacon",
-            "raw": "Roger Bacon (1214 - 1294)",
+            "_raw": "Roger Bacon (1214 - 1294)",
             "birth": 1214,
             "death": 1294
         },
@@ -2106,7 +2106,7 @@
                 }
             ],
             "href": "/wiki/Bonaventure_de_Bagnorea",
-            "raw": "Saint Bonaventure de Bagnorea (1221 - 1274)",
+            "_raw": "Saint Bonaventure de Bagnorea (1221 - 1274)",
             "birth": 1221,
             "death": 1274
         },
@@ -2126,7 +2126,7 @@
                 }
             ],
             "href": "/wiki/Thomas_d%27Aquin",
-            "raw": "Saint Thomas d'Aquin (1225 - 1274)",
+            "_raw": "Saint Thomas d'Aquin (1225 - 1274)",
             "birth": 1225,
             "death": 1274
         },
@@ -2146,7 +2146,7 @@
                 }
             ],
             "href": "/wiki/Siger_de_Brabant",
-            "raw": "Siger de Brabant (1240 - 1281)",
+            "_raw": "Siger de Brabant (1240 - 1281)",
             "birth": 1240,
             "death": 1281
         },
@@ -2166,7 +2166,7 @@
                 }
             ],
             "href": "/wiki/Cavalcante_Cavalcanti",
-            "raw": "Cavalcante Cavalcanti (v. 1250 - v. 1280)",
+            "_raw": "Cavalcante Cavalcanti (v. 1250 - v. 1280)",
             "birth": 1250,
             "death": 1280
         },
@@ -2186,7 +2186,7 @@
                 }
             ],
             "href": "/wiki/Jacques_de_Viterbe",
-            "raw": "Jacques de Viterbe (v. 1255 - 1307)",
+            "_raw": "Jacques de Viterbe (v. 1255 - 1307)",
             "birth": 1255,
             "death": 1307
         },
@@ -2206,7 +2206,7 @@
                 }
             ],
             "href": "/wiki/Ma%C3%AEtre_Eckhart",
-            "raw": "Maître Eckhart (1260 - 1327 ou 1328)",
+            "_raw": "Maître Eckhart (1260 - 1327 ou 1328)",
             "birth": 1260,
             "death": 1327
         },
@@ -2226,7 +2226,7 @@
                 }
             ],
             "href": "/wiki/Jean_Duns_Scot",
-            "raw": "Jean Duns Scot (vers 1266 - 1308)",
+            "_raw": "Jean Duns Scot (vers 1266 - 1308)",
             "birth": 1266,
             "death": 1308
         },
@@ -2246,7 +2246,7 @@
                 }
             ],
             "href": "/wiki/Michele_da_Cesena",
-            "raw": "Michele da Cesena (v. 1270 - 1342)",
+            "_raw": "Michele da Cesena (v. 1270 - 1342)",
             "birth": 1270,
             "death": 1342
         },
@@ -2266,7 +2266,7 @@
                 }
             ],
             "href": "/wiki/Marsile_de_Padoue",
-            "raw": "Marsile de Padoue (v. 1275 - v. 1342)",
+            "_raw": "Marsile de Padoue (v. 1275 - v. 1342)",
             "birth": 1275,
             "death": 1342
         },
@@ -2286,7 +2286,7 @@
                 }
             ],
             "href": "/wiki/Guillaume_d%27Occam",
-            "raw": "Guillaume d'Occam (v. 1285 - 1349 ou 1350).",
+            "_raw": "Guillaume d'Occam (v. 1285 - 1349 ou 1350).",
             "birth": 1285,
             "death": 1349
         },
@@ -2306,7 +2306,7 @@
                 }
             ],
             "href": "/wiki/Jean_Buridan",
-            "raw": "Jean Buridan (v. 1300 - 1358).",
+            "_raw": "Jean Buridan (v. 1300 - 1358).",
             "birth": 1300,
             "death": 1358
         },
@@ -2326,7 +2326,7 @@
                 }
             ],
             "href": "/wiki/Gr%C3%A9goire_de_Rimini",
-            "raw": "Grégoire de Rimini (v. 1300 - 1358)",
+            "_raw": "Grégoire de Rimini (v. 1300 - 1358)",
             "birth": 1300,
             "death": 1358
         },
@@ -2346,7 +2346,7 @@
                 }
             ],
             "href": "/wiki/Richard_Brinkley",
-            "raw": "Richard Brinkley"
+            "_raw": "Richard Brinkley"
         },
         {
             "title": "Nicolas Aston (page inexistante)",
@@ -2364,7 +2364,7 @@
                 }
             ],
             "href": "/w/index.php?title=Nicolas_Aston&action=edit&redlink=1",
-            "raw": "Nicolas Aston (page inexistante)"
+            "_raw": "Nicolas Aston (page inexistante)"
         },
         {
             "title": "Giovanni Dondi",
@@ -2382,7 +2382,7 @@
                 }
             ],
             "href": "/wiki/Giovanni_Dondi",
-            "raw": "Giovanni Dondi (1318 - 1389)",
+            "_raw": "Giovanni Dondi (1318 - 1389)",
             "birth": 1318,
             "death": 1389
         },
@@ -2402,7 +2402,7 @@
                 }
             ],
             "href": "/wiki/Geoffroy_Hardeby",
-            "raw": "Geoffroy Hardeby (v. 1320 - v. 1385)",
+            "_raw": "Geoffroy Hardeby (v. 1320 - v. 1385)",
             "birth": 1320,
             "death": 1385
         },
@@ -2422,7 +2422,7 @@
                 }
             ],
             "href": "/wiki/Giacomo_Allegretti",
-            "raw": "Giacomo Allegretti (1326 - 1393)",
+            "_raw": "Giacomo Allegretti (1326 - 1393)",
             "birth": 1326,
             "death": 1393
         },
@@ -2442,7 +2442,7 @@
                 }
             ],
             "href": "/wiki/Ibn_Khaldun",
-            "raw": "Ibn Khaldun (undefined) (1332 - 1395)",
+            "_raw": "Ibn Khaldun (undefined) (1332 - 1395)",
             "birth": 1332,
             "death": 1395
         },
@@ -2462,7 +2462,7 @@
                 }
             ],
             "href": "/wiki/Blaise_de_Parme",
-            "raw": "Blaise de Parme (v. 1365 - 1416)",
+            "_raw": "Blaise de Parme (v. 1365 - 1416)",
             "birth": 1365,
             "death": 1416
         },
@@ -2482,7 +2482,7 @@
                 }
             ],
             "href": "/wiki/Jean_Gerson",
-            "raw": "Jean Gerson (1363 - 1429)",
+            "_raw": "Jean Gerson (1363 - 1429)",
             "birth": 1363,
             "death": 1429
         },
@@ -2502,7 +2502,7 @@
                 }
             ],
             "href": "/wiki/Leonardo_Bruni",
-            "raw": "Leonardo Bruni (1370 - 1444)",
+            "_raw": "Leonardo Bruni (1370 - 1444)",
             "birth": 1370,
             "death": 1444
         },
@@ -2522,7 +2522,7 @@
                 }
             ],
             "href": "/wiki/Guarino_Veronese",
-            "raw": "Guarino Veronese (1370 - 1460).",
+            "_raw": "Guarino Veronese (1370 - 1460).",
             "birth": 1370,
             "death": 1460
         },
@@ -2542,7 +2542,7 @@
                 }
             ],
             "href": "/wiki/Palla_Strozzi",
-            "raw": "Palla Strozzi (1372 - 1462)",
+            "_raw": "Palla Strozzi (1372 - 1462)",
             "birth": 1372,
             "death": 1462
         },
@@ -2562,7 +2562,7 @@
                 }
             ],
             "href": "/wiki/Poggio_Bracciolini",
-            "raw": "Poggio Bracciolini, dit undefined (1380 - 1459).",
+            "_raw": "Poggio Bracciolini, dit undefined (1380 - 1459).",
             "birth": 1380,
             "death": 1459
         },
@@ -2582,7 +2582,7 @@
                 }
             ],
             "href": "/wiki/Ga%C3%ABtan_de_Ti%C3%A8ne",
-            "raw": "Gaëtan de Tiène (1387 - 1465).",
+            "_raw": "Gaëtan de Tiène (1387 - 1465).",
             "birth": 1387,
             "death": 1465
         },
@@ -2602,7 +2602,7 @@
                 }
             ],
             "href": "/wiki/Nicolas_de_Cues",
-            "raw": "Nicolas de Cues (1401 - 1464)",
+            "_raw": "Nicolas de Cues (1401 - 1464)",
             "birth": 1401,
             "death": 1464
         },
@@ -2622,7 +2622,7 @@
                 }
             ],
             "href": "/wiki/Leon_Battista_Alberti",
-            "raw": "Leon Battista Alberti (1404 - 1472)",
+            "_raw": "Leon Battista Alberti (1404 - 1472)",
             "birth": 1404,
             "death": 1472
         },
@@ -2642,7 +2642,7 @@
                 }
             ],
             "href": "/wiki/Laurent_Valla",
-            "raw": "Laurent Valla (1407 - 1457)",
+            "_raw": "Laurent Valla (1407 - 1457)",
             "birth": 1407,
             "death": 1457
         },
@@ -2662,7 +2662,7 @@
                 }
             ],
             "href": "/w/index.php?title=Nicoletto_Vernia&action=edit&redlink=1",
-            "raw": "Nicoletto Vernia (page inexistante) it:Nicoletto Vernia (v. 1420 - 1499)",
+            "_raw": "Nicoletto Vernia (page inexistante) it:Nicoletto Vernia (v. 1420 - 1499)",
             "birth": 1420,
             "death": 1499
         },
@@ -2682,7 +2682,7 @@
                 }
             ],
             "href": "/wiki/Juda_ben_Yehiel",
-            "raw": "Juda ben Yehiel (v. 1422 - v. 1498)",
+            "_raw": "Juda ben Yehiel (v. 1422 - v. 1498)",
             "birth": 1422,
             "death": 1498
         },
@@ -2702,7 +2702,7 @@
                 }
             ],
             "href": "/wiki/Cristoforo_Landino",
-            "raw": "Cristoforo Landino (1424 - 1498)",
+            "_raw": "Cristoforo Landino (1424 - 1498)",
             "birth": 1424,
             "death": 1498
         },
@@ -2722,7 +2722,7 @@
                 }
             ],
             "href": "/wiki/Gabriel_Biel",
-            "raw": "Gabriel Biel (v. 1425 - 1495)",
+            "_raw": "Gabriel Biel (v. 1425 - 1495)",
             "birth": 1425,
             "death": 1495
         },
@@ -2742,7 +2742,7 @@
                 }
             ],
             "href": "/wiki/Sigismondo_de%27_Conti",
-            "raw": "Sigismondo de' Conti (1432 - 1512)",
+            "_raw": "Sigismondo de' Conti (1432 - 1512)",
             "birth": 1432,
             "death": 1512
         },
@@ -2762,7 +2762,7 @@
                 }
             ],
             "href": "/wiki/Marsile_Ficin",
-            "raw": "Marsile Ficin (1433 - 1499)",
+            "_raw": "Marsile Ficin (1433 - 1499)",
             "birth": 1433,
             "death": 1499
         },
@@ -2782,7 +2782,7 @@
                 }
             ],
             "href": "/w/index.php?title=Pierleone_Leoni&action=edit&redlink=1",
-            "raw": "Pierleone Leoni (page inexistante) it:Pierleone Leoni (1445 - 1503)",
+            "_raw": "Pierleone Leoni (page inexistante) it:Pierleone Leoni (1445 - 1503)",
             "birth": 1445,
             "death": 1503
         },
@@ -2802,7 +2802,7 @@
                 }
             ],
             "href": "/wiki/Alessandro_Braccesi",
-            "raw": "Alessandro Braccesi (v. 1440 - 1492)",
+            "_raw": "Alessandro Braccesi (v. 1440 - 1492)",
             "birth": 1440,
             "death": 1492
         },
@@ -2822,7 +2822,7 @@
                 }
             ],
             "href": "/wiki/Ludovico_Lazzarelli",
-            "raw": "Ludovico Lazzarelli (1447 - 1500)",
+            "_raw": "Ludovico Lazzarelli (1447 - 1500)",
             "birth": 1447,
             "death": 1500
         },
@@ -2842,7 +2842,7 @@
                 }
             ],
             "href": "/wiki/Le%C3%B3n_Hebreo",
-            "raw": "León Hebreo (v. 1460 - v. 1530)",
+            "_raw": "León Hebreo (v. 1460 - v. 1530)",
             "birth": 1460,
             "death": 1530
         },
@@ -2862,7 +2862,7 @@
                 }
             ],
             "href": "/wiki/Pomponazzi",
-            "raw": "Pomponazzi (1462 - 1525)",
+            "_raw": "Pomponazzi (1462 - 1525)",
             "birth": 1462,
             "death": 1525
         },
@@ -2882,7 +2882,7 @@
                 }
             ],
             "href": "/wiki/Jean_Pic_de_la_Mirandole",
-            "raw": "Jean Pic de la Mirandole (1463 - 1494)",
+            "_raw": "Jean Pic de la Mirandole (1463 - 1494)",
             "birth": 1463,
             "death": 1494
         },
@@ -2902,7 +2902,7 @@
                 }
             ],
             "href": "/wiki/Alessandro_Achillini",
-            "raw": "Alessandro Achillini (1463 - 1512)",
+            "_raw": "Alessandro Achillini (1463 - 1512)",
             "birth": 1463,
             "death": 1512
         },
@@ -2922,7 +2922,7 @@
                 }
             ],
             "href": "/wiki/Didier_%C3%89rasme",
-            "raw": "Didier Érasme (1466 - 1536)",
+            "_raw": "Didier Érasme (1466 - 1536)",
             "birth": 1466,
             "death": 1536
         },
@@ -2942,7 +2942,7 @@
                 }
             ],
             "href": "/wiki/Francesco_Zorzi_(th%C3%A9ologien)",
-            "raw": "Francesco Zorzi (théologien) (1466 - 1540)",
+            "_raw": "Francesco Zorzi (théologien) (1466 - 1540)",
             "birth": 1466,
             "death": 1540
         },
@@ -2962,7 +2962,7 @@
                 }
             ],
             "href": "/wiki/Nicolas_Machiavel",
-            "raw": "Nicolas Machiavel (1469 - 1527)",
+            "_raw": "Nicolas Machiavel (1469 - 1527)",
             "birth": 1469,
             "death": 1527
         },
@@ -2982,7 +2982,7 @@
                 }
             ],
             "href": "/wiki/Aulo_Giano_Parrasio",
-            "raw": "Aulo Giano Parrasio (1470 - 1522)",
+            "_raw": "Aulo Giano Parrasio (1470 - 1522)",
             "birth": 1470,
             "death": 1522
         },
@@ -3002,7 +3002,7 @@
                 }
             ],
             "href": "/wiki/Ovadia_ben_Jacob_Sforno",
-            "raw": "Ovadia ben Jacob Sforno (1470 - 1550)",
+            "_raw": "Ovadia ben Jacob Sforno (1470 - 1550)",
             "birth": 1470,
             "death": 1550
         },
@@ -3022,7 +3022,7 @@
                 }
             ],
             "href": "/w/index.php?title=Giovanni_Crisostomo_Jav%C3%A8lli&action=edit&redlink=1",
-            "raw": "Giovanni Crisostomo Javèlli (page inexistante) it:Giovanni Crisostomo Javèlli (v. 1470 - 1538)",
+            "_raw": "Giovanni Crisostomo Javèlli (page inexistante) it:Giovanni Crisostomo Javèlli (v. 1470 - 1538)",
             "birth": 1470,
             "death": 1538
         },
@@ -3042,7 +3042,7 @@
                 }
             ],
             "href": "/wiki/Taddeo_Taddei",
-            "raw": "Taddeo Taddei (1470 - 1529)",
+            "_raw": "Taddeo Taddei (1470 - 1529)",
             "birth": 1470,
             "death": 1529
         },
@@ -3062,7 +3062,7 @@
                 }
             ],
             "href": "/wiki/Agostino_Nifo",
-            "raw": "Agostino Nifo (v. 1473 - 1539)",
+            "_raw": "Agostino Nifo (v. 1473 - 1539)",
             "birth": 1473,
             "death": 1539
         },
@@ -3082,7 +3082,7 @@
                 }
             ],
             "href": "/wiki/Girolamo_Fracastoro",
-            "raw": "Girolamo Fracastoro (v. 1476 - 1553)",
+            "_raw": "Girolamo Fracastoro (v. 1476 - 1553)",
             "birth": 1476,
             "death": 1553
         },
@@ -3102,7 +3102,7 @@
                 }
             ],
             "href": "/wiki/Thomas_More",
-            "raw": "Thomas More (1478–1535)",
+            "_raw": "Thomas More (1478–1535)",
             "birth": 1478,
             "death": 1535
         },
@@ -3122,7 +3122,7 @@
                 }
             ],
             "href": "/wiki/Leandro_Alberti",
-            "raw": "Leandro Alberti (1479 - 1552)",
+            "_raw": "Leandro Alberti (1479 - 1552)",
             "birth": 1479,
             "death": 1552
         },
@@ -3142,7 +3142,7 @@
                 }
             ],
             "href": "/wiki/Giulio_Camillo",
-            "raw": "Giulio Camillo (1480 - 1544)",
+            "_raw": "Giulio Camillo (1480 - 1544)",
             "birth": 1480,
             "death": 1544
         },
@@ -3162,7 +3162,7 @@
                 }
             ],
             "href": "/wiki/Francesco_Guicciardini",
-            "raw": "Francesco Guicciardini (1483 - 1540)",
+            "_raw": "Francesco Guicciardini (1483 - 1540)",
             "birth": 1483,
             "death": 1540
         },
@@ -3182,7 +3182,7 @@
                 }
             ],
             "href": "/wiki/Mariangelo_Accursio",
-            "raw": "Mariangelo Accursio (1489 - 1546)",
+            "_raw": "Mariangelo Accursio (1489 - 1546)",
             "birth": 1489,
             "death": 1546
         },
@@ -3202,7 +3202,7 @@
                 }
             ],
             "href": "/w/index.php?title=Iacopo_Aconcio&action=edit&redlink=1",
-            "raw": "Iacopo Aconcio (page inexistante) it:Iacopo Aconcio (v. 1492 - v. 1567)",
+            "_raw": "Iacopo Aconcio (page inexistante) it:Iacopo Aconcio (v. 1492 - v. 1567)",
             "birth": 1492,
             "death": 1567
         },
@@ -3222,7 +3222,7 @@
                 }
             ],
             "href": "/wiki/Simone_Porzio",
-            "raw": "Simone Porzio (1496 - 1554)",
+            "_raw": "Simone Porzio (1496 - 1554)",
             "birth": 1496,
             "death": 1554
         },
@@ -3242,7 +3242,7 @@
                 }
             ],
             "href": "/wiki/Vittore_Trincavelli",
-            "raw": "Vittore Trincavelli (1496 - 1568)",
+            "_raw": "Vittore Trincavelli (1496 - 1568)",
             "birth": 1496,
             "death": 1568
         },
@@ -3262,7 +3262,7 @@
                 }
             ],
             "href": "/wiki/Giambattista_Gelli",
-            "raw": "Giambattista Gelli (1498 - 1563)",
+            "_raw": "Giambattista Gelli (1498 - 1563)",
             "birth": 1498,
             "death": 1563
         },
@@ -3282,7 +3282,7 @@
                 }
             ],
             "href": "/wiki/Mario_Nizzoli",
-            "raw": "Mario Nizzoli (1498 - 1566)",
+            "_raw": "Mario Nizzoli (1498 - 1566)",
             "birth": 1498,
             "death": 1566
         },
@@ -3302,7 +3302,7 @@
                 }
             ],
             "href": "/wiki/Francisco_Marroqu%C3%ADn",
-            "raw": "Francisco Marroquín (1499 - 1563)",
+            "_raw": "Francisco Marroquín (1499 - 1563)",
             "birth": 1499,
             "death": 1563
         },
@@ -3322,7 +3322,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Favre_(th%C3%A9ologien)",
-            "raw": "Pierre Favre (théologien) (1506-1546)",
+            "_raw": "Pierre Favre (théologien) (1506-1546)",
             "birth": 1506,
             "death": 1546
         },
@@ -3342,7 +3342,7 @@
                 }
             ],
             "href": "/wiki/%C3%89tienne_de_La_Bo%C3%A9tie",
-            "raw": "Étienne de La Boétie (1530 - 1563)",
+            "_raw": "Étienne de La Boétie (1530 - 1563)",
             "birth": 1530,
             "death": 1563
         },
@@ -3362,7 +3362,7 @@
                 }
             ],
             "href": "/wiki/Jean_Bodin",
-            "raw": "Jean Bodin (1530 - 1596)",
+            "_raw": "Jean Bodin (1530 - 1596)",
             "birth": 1530,
             "death": 1596
         },
@@ -3382,7 +3382,7 @@
                 }
             ],
             "href": "/wiki/Michel_de_Montaigne",
-            "raw": "Michel de Montaigne (1533 - 1592)",
+            "_raw": "Michel de Montaigne (1533 - 1592)",
             "birth": 1533,
             "death": 1592
         },
@@ -3402,7 +3402,7 @@
                 }
             ],
             "href": "/wiki/Luis_de_Molina",
-            "raw": "Luis de Molina (1535 - 1600)",
+            "_raw": "Luis de Molina (1535 - 1600)",
             "birth": 1535,
             "death": 1600
         },
@@ -3422,7 +3422,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Charron",
-            "raw": "Pierre Charron (1541 - 1603)",
+            "_raw": "Pierre Charron (1541 - 1603)",
             "birth": 1541,
             "death": 1603
         },
@@ -3442,7 +3442,7 @@
                 }
             ],
             "href": "/wiki/Giordano_Bruno",
-            "raw": "Giordano Bruno (1548 - 1600)",
+            "_raw": "Giordano Bruno (1548 - 1600)",
             "birth": 1548,
             "death": 1600
         },
@@ -3462,7 +3462,7 @@
                 }
             ],
             "href": "/wiki/Francisco_Su%C3%A1rez",
-            "raw": "Francisco Suárez (1548 - 1617)",
+            "_raw": "Francisco Suárez (1548 - 1617)",
             "birth": 1548,
             "death": 1617
         },
@@ -3482,7 +3482,7 @@
                 }
             ],
             "href": "/wiki/Francis_Bacon_(philosophe)",
-            "raw": "Francis Bacon (philosophe) (1561 - 1626)",
+            "_raw": "Francis Bacon (philosophe) (1561 - 1626)",
             "birth": 1561,
             "death": 1626
         },
@@ -3502,7 +3502,7 @@
                 }
             ],
             "href": "/wiki/Tommaso_Campanella",
-            "raw": "Tommaso Campanella (1568 - 1639)",
+            "_raw": "Tommaso Campanella (1568 - 1639)",
             "birth": 1568,
             "death": 1639
         },
@@ -3522,7 +3522,7 @@
                 }
             ],
             "href": "/wiki/Kotch_Barma_Fall",
-            "raw": "Kotch Barma Fall (1586 - 1655)",
+            "_raw": "Kotch Barma Fall (1586 - 1655)",
             "birth": 1586,
             "death": 1655
         },
@@ -3542,7 +3542,7 @@
                 }
             ],
             "href": "/wiki/Marin_Mersenne",
-            "raw": "Marin Mersenne (1588 - 1648)",
+            "_raw": "Marin Mersenne (1588 - 1648)",
             "birth": 1588,
             "death": 1648
         },
@@ -3562,7 +3562,7 @@
                 }
             ],
             "href": "/wiki/Thomas_Hobbes",
-            "raw": "Thomas Hobbes (1588 - 1679)",
+            "_raw": "Thomas Hobbes (1588 - 1679)",
             "birth": 1588,
             "death": 1679
         },
@@ -3582,7 +3582,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Gassendi",
-            "raw": "Pierre Gassendi (1592 - 1655)",
+            "_raw": "Pierre Gassendi (1592 - 1655)",
             "birth": 1592,
             "death": 1655
         },
@@ -3602,7 +3602,7 @@
                 }
             ],
             "href": "/wiki/Ren%C3%A9_Descartes",
-            "raw": "René Descartes (1596 - 1650)",
+            "_raw": "René Descartes (1596 - 1650)",
             "birth": 1596,
             "death": 1650
         },
@@ -3622,7 +3622,7 @@
                 }
             ],
             "href": "/wiki/Henricus_Regius",
-            "raw": "Henricus Regius (1598-1679)",
+            "_raw": "Henricus Regius (1598-1679)",
             "birth": 1598,
             "death": 1679
         },
@@ -3642,7 +3642,7 @@
                 }
             ],
             "href": "/wiki/Pierre_de_Fermat",
-            "raw": "Pierre de Fermat (1601 - 1665)",
+            "_raw": "Pierre de Fermat (1601 - 1665)",
             "birth": 1601,
             "death": 1665
         },
@@ -3662,7 +3662,7 @@
                 }
             ],
             "href": "/wiki/Antoine_Arnauld_(1612-1694)",
-            "raw": "Antoine Arnauld (1612-1694) (1612 - 1694)",
+            "_raw": "Antoine Arnauld (1612-1694) (1612 - 1694)",
             "birth": 1612,
             "death": 1694
         },
@@ -3682,7 +3682,7 @@
                 }
             ],
             "href": "/wiki/Julien_Davion",
-            "raw": "Julien Davion (1615 - 1661)",
+            "_raw": "Julien Davion (1615 - 1661)",
             "birth": 1615,
             "death": 1661
         },
@@ -3702,7 +3702,7 @@
                 }
             ],
             "href": "/wiki/Blaise_Pascal",
-            "raw": "Blaise Pascal (1623 - 1662)",
+            "_raw": "Blaise Pascal (1623 - 1662)",
             "birth": 1623,
             "death": 1662
         },
@@ -3722,7 +3722,7 @@
                 }
             ],
             "href": "/wiki/Baruch_Spinoza",
-            "raw": "Baruch Spinoza (1632 - 1677)",
+            "_raw": "Baruch Spinoza (1632 - 1677)",
             "birth": 1632,
             "death": 1677
         },
@@ -3742,7 +3742,7 @@
                 }
             ],
             "href": "/wiki/John_Locke",
-            "raw": "John Locke (1632 - 1704)",
+            "_raw": "John Locke (1632 - 1704)",
             "birth": 1632,
             "death": 1704
         },
@@ -3762,7 +3762,7 @@
                 }
             ],
             "href": "/wiki/Nicolas_Malebranche",
-            "raw": "Nicolas Malebranche (1638 - 1715)",
+            "_raw": "Nicolas Malebranche (1638 - 1715)",
             "birth": 1638,
             "death": 1715
         },
@@ -3782,7 +3782,7 @@
                 }
             ],
             "href": "/wiki/Gottfried_Wilhelm_Leibniz",
-            "raw": "Gottfried Wilhelm Leibniz (parfois écrit undefined) (1646 - 1716)",
+            "_raw": "Gottfried Wilhelm Leibniz (parfois écrit undefined) (1646 - 1716)",
             "birth": 1646,
             "death": 1716
         },
@@ -3802,7 +3802,7 @@
                 }
             ],
             "href": "/wiki/Jean_Meslier",
-            "raw": "Jean Meslier (1664 - 1729)",
+            "_raw": "Jean Meslier (1664 - 1729)",
             "birth": 1664,
             "death": 1729
         },
@@ -3822,7 +3822,7 @@
                 }
             ],
             "href": "/wiki/Giambattista_Vico",
-            "raw": "Giambattista Vico (1668 - 1744)",
+            "_raw": "Giambattista Vico (1668 - 1744)",
             "birth": 1668,
             "death": 1744
         },
@@ -3842,7 +3842,7 @@
                 }
             ],
             "href": "/wiki/Anthony_Ashley-Cooper_(3e_comte_de_Shaftesbury)",
-            "raw": "Anthony Ashley-Cooper (3e comte de Shaftesbury) (1671 - 1713), de son nom complet undefined",
+            "_raw": "Anthony Ashley-Cooper (3e comte de Shaftesbury) (1671 - 1713), de son nom complet undefined",
             "birth": 3,
             "death": 1671
         },
@@ -3862,7 +3862,7 @@
                 }
             ],
             "href": "/wiki/Christian_Wolff_(philosophe)",
-            "raw": "Christian Wolff (philosophe) (1679 - 1754)",
+            "_raw": "Christian Wolff (philosophe) (1679 - 1754)",
             "birth": 1679,
             "death": 1754
         },
@@ -3882,7 +3882,7 @@
                 }
             ],
             "href": "/wiki/George_Berkeley",
-            "raw": "George Berkeley (1685 - 1753)",
+            "_raw": "George Berkeley (1685 - 1753)",
             "birth": 1685,
             "death": 1753
         },
@@ -3902,7 +3902,7 @@
                 }
             ],
             "href": "/wiki/Montesquieu",
-            "raw": "Montesquieu (1689 - 1755), de son nom complet undefined",
+            "_raw": "Montesquieu (1689 - 1755), de son nom complet undefined",
             "birth": 1689,
             "death": 1755
         },
@@ -3922,7 +3922,7 @@
                 }
             ],
             "href": "/wiki/Francis_Hutcheson_(philosophe)",
-            "raw": "Francis Hutcheson (philosophe) (1694 - 1746)",
+            "_raw": "Francis Hutcheson (philosophe) (1694 - 1746)",
             "birth": 1694,
             "death": 1746
         },
@@ -3942,7 +3942,7 @@
                 }
             ],
             "href": "/wiki/Voltaire",
-            "raw": "Voltaire (1694 - 1778)",
+            "_raw": "Voltaire (1694 - 1778)",
             "birth": 1694,
             "death": 1778
         },
@@ -3959,7 +3959,7 @@
                 }
             ],
             "href": "/wiki/Benjamin_Franklin",
-            "raw": "Benjamin Franklin (1706 - 1790)",
+            "_raw": "Benjamin Franklin (1706 - 1790)",
             "birth": 1706,
             "death": 1790
         },
@@ -3976,7 +3976,7 @@
                 }
             ],
             "href": "/wiki/Julien_Offray_de_La_Mettrie",
-            "raw": "Julien Offray de La Mettrie (1709 - 1751)",
+            "_raw": "Julien Offray de La Mettrie (1709 - 1751)",
             "birth": 1709,
             "death": 1751
         },
@@ -3993,7 +3993,7 @@
                 }
             ],
             "href": "/wiki/Thomas_Reid",
-            "raw": "Thomas Reid (1710 - 1796)",
+            "_raw": "Thomas Reid (1710 - 1796)",
             "birth": 1710,
             "death": 1796
         },
@@ -4010,7 +4010,7 @@
                 }
             ],
             "href": "/wiki/David_Hume",
-            "raw": "David Hume (1711 - 1776)",
+            "_raw": "David Hume (1711 - 1776)",
             "birth": 1711,
             "death": 1776
         },
@@ -4027,7 +4027,7 @@
                 }
             ],
             "href": "/wiki/Jean-Jacques_Rousseau",
-            "raw": "Jean-Jacques Rousseau (1712 - 1778)",
+            "_raw": "Jean-Jacques Rousseau (1712 - 1778)",
             "birth": 1712,
             "death": 1778
         },
@@ -4044,7 +4044,7 @@
                 }
             ],
             "href": "/wiki/Denis_Diderot",
-            "raw": "Denis Diderot (1713 - 1784)",
+            "_raw": "Denis Diderot (1713 - 1784)",
             "birth": 1713,
             "death": 1784
         },
@@ -4061,7 +4061,7 @@
                 }
             ],
             "href": "/wiki/Alexander_Gottlieb_Baumgarten",
-            "raw": "Alexander Gottlieb Baumgarten (1714 - 1762)",
+            "_raw": "Alexander Gottlieb Baumgarten (1714 - 1762)",
             "birth": 1714,
             "death": 1762
         },
@@ -4078,7 +4078,7 @@
                 }
             ],
             "href": "/wiki/Claude-Adrien_Helv%C3%A9tius",
-            "raw": "Claude-Adrien Helvétius (1715 - 1771)",
+            "_raw": "Claude-Adrien Helvétius (1715 - 1771)",
             "birth": 1715,
             "death": 1771
         },
@@ -4095,7 +4095,7 @@
                 }
             ],
             "href": "/wiki/%C3%89tienne_Bonnot_de_Condillac",
-            "raw": "Étienne Bonnot de Condillac (1715 - 1780)",
+            "_raw": "Étienne Bonnot de Condillac (1715 - 1780)",
             "birth": 1715,
             "death": 1780
         },
@@ -4112,7 +4112,7 @@
                 }
             ],
             "href": "/wiki/L%C3%A9ger-Marie_Deschamps",
-            "raw": "Léger-Marie Deschamps (1716 - 1774)",
+            "_raw": "Léger-Marie Deschamps (1716 - 1774)",
             "birth": 1716,
             "death": 1774
         },
@@ -4129,7 +4129,7 @@
                 }
             ],
             "href": "/wiki/Johann_Joachim_Winckelmann",
-            "raw": "Baron Johann Joachim Winckelmann (1717 - 1768)",
+            "_raw": "Baron Johann Joachim Winckelmann (1717 - 1768)",
             "birth": 1717,
             "death": 1768
         },
@@ -4146,7 +4146,7 @@
                 }
             ],
             "href": "/wiki/Jean_le_Rond_D%27Alembert",
-            "raw": "Jean le Rond D'Alembert (1717-1783)",
+            "_raw": "Jean le Rond D'Alembert (1717-1783)",
             "birth": 1717,
             "death": 1783
         },
@@ -4163,7 +4163,7 @@
                 }
             ],
             "href": "/wiki/Charles_Bonnet_(naturaliste)",
-            "raw": "Charles Bonnet (naturaliste) (1720-1793)",
+            "_raw": "Charles Bonnet (naturaliste) (1720-1793)",
             "birth": 1720,
             "death": 1793
         },
@@ -4180,7 +4180,7 @@
                 }
             ],
             "href": "/wiki/D%27Holbach",
-            "raw": "D'Holbach (1723 - 1789)",
+            "_raw": "D'Holbach (1723 - 1789)",
             "birth": 1723,
             "death": 1789
         },
@@ -4197,7 +4197,7 @@
                 }
             ],
             "href": "/wiki/Adam_Smith",
-            "raw": "Adam Smith (1723 - 1790)",
+            "_raw": "Adam Smith (1723 - 1790)",
             "birth": 1723,
             "death": 1790
         },
@@ -4214,7 +4214,7 @@
                 }
             ],
             "href": "/wiki/Emmanuel_Kant",
-            "raw": "Emmanuel Kant (1724 - 1804)",
+            "_raw": "Emmanuel Kant (1724 - 1804)",
             "birth": 1724,
             "death": 1804
         },
@@ -4231,7 +4231,7 @@
                 }
             ],
             "href": "/wiki/Moses_Mendelssohn",
-            "raw": "Moses Mendelssohn (1729 - 1786)",
+            "_raw": "Moses Mendelssohn (1729 - 1786)",
             "birth": 1729,
             "death": 1786
         },
@@ -4248,7 +4248,7 @@
                 }
             ],
             "href": "/wiki/Edmund_Burke",
-            "raw": "Edmund Burke (1729 - 1797)",
+            "_raw": "Edmund Burke (1729 - 1797)",
             "birth": 1729,
             "death": 1797
         },
@@ -4265,7 +4265,7 @@
                 }
             ],
             "href": "/wiki/John_Millar",
-            "raw": "John Millar (1735 - 1801)",
+            "_raw": "John Millar (1735 - 1801)",
             "birth": 1735,
             "death": 1801
         },
@@ -4282,7 +4282,7 @@
                 }
             ],
             "href": "/wiki/Donatien_Alphonse_Fran%C3%A7ois_de_Sade",
-            "raw": "Donatien Alphonse François de Sade (1740 - 1814)",
+            "_raw": "Donatien Alphonse François de Sade (1740 - 1814)",
             "birth": 1740,
             "death": 1814
         },
@@ -4299,7 +4299,7 @@
                 }
             ],
             "href": "/wiki/Giovanni_Cristofano_Amaduzzi",
-            "raw": "Giovanni Cristofano Amaduzzi (1740 - 1792)",
+            "_raw": "Giovanni Cristofano Amaduzzi (1740 - 1792)",
             "birth": 1740,
             "death": 1792
         },
@@ -4316,7 +4316,7 @@
                 }
             ],
             "href": "/wiki/Nicolas_de_Condorcet",
-            "raw": "Nicolas de Condorcet (1743 - 1794)",
+            "_raw": "Nicolas de Condorcet (1743 - 1794)",
             "birth": 1743,
             "death": 1794
         },
@@ -4333,7 +4333,7 @@
                 }
             ],
             "href": "/wiki/Friedrich_Heinrich_Jacobi",
-            "raw": "Friedrich Heinrich Jacobi (1743 - 1819)",
+            "_raw": "Friedrich Heinrich Jacobi (1743 - 1819)",
             "birth": 1743,
             "death": 1819
         },
@@ -4350,7 +4350,7 @@
                 }
             ],
             "href": "/wiki/Thomas_Jefferson",
-            "raw": "Thomas Jefferson (1743 - 1826)",
+            "_raw": "Thomas Jefferson (1743 - 1826)",
             "birth": 1743,
             "death": 1826
         },
@@ -4367,7 +4367,7 @@
                 }
             ],
             "href": "/wiki/Johann_Gottfried_von_Herder",
-            "raw": "Johann Gottfried von Herder (1744 - 1803)",
+            "_raw": "Johann Gottfried von Herder (1744 - 1803)",
             "birth": 1744,
             "death": 1803
         },
@@ -4384,7 +4384,7 @@
                 }
             ],
             "href": "/wiki/Jeremy_Bentham",
-            "raw": "Jeremy Bentham (1748 - 1832)",
+            "_raw": "Jeremy Bentham (1748 - 1832)",
             "birth": 1748,
             "death": 1832
         },
@@ -4401,7 +4401,7 @@
                 }
             ],
             "href": "/wiki/Joseph_de_Maistre",
-            "raw": "Joseph de Maistre (1753 - 1821)",
+            "_raw": "Joseph de Maistre (1753 - 1821)",
             "birth": 1753,
             "death": 1821
         },
@@ -4418,7 +4418,7 @@
                 }
             ],
             "href": "/wiki/Antoine_Destutt_de_Tracy",
-            "raw": "Antoine Destutt de Tracy (1754 - 1836)",
+            "_raw": "Antoine Destutt de Tracy (1754 - 1836)",
             "birth": 1754,
             "death": 1836
         },
@@ -4435,7 +4435,7 @@
                 }
             ],
             "href": "/wiki/Louis-Gabriel_de_Bonald",
-            "raw": "Louis-Gabriel de Bonald (1754 - 1840)",
+            "_raw": "Louis-Gabriel de Bonald (1754 - 1840)",
             "birth": 1754,
             "death": 1840
         },
@@ -4452,7 +4452,7 @@
                 }
             ],
             "href": "/wiki/Antoine_Chrysostome_Quatrem%C3%A8re_de_Quincy",
-            "raw": "Antoine Chrysostome Quatremère de Quincy (1755-1849)",
+            "_raw": "Antoine Chrysostome Quatremère de Quincy (1755-1849)",
             "birth": 1755,
             "death": 1849
         },
@@ -4469,7 +4469,7 @@
                 }
             ],
             "href": "/wiki/William_Godwin",
-            "raw": "William Godwin (1756 - 1836)",
+            "_raw": "William Godwin (1756 - 1836)",
             "birth": 1756,
             "death": 1836
         },
@@ -4486,7 +4486,7 @@
                 }
             ],
             "href": "/wiki/Pierre-Jean-Georges_Cabanis",
-            "raw": "Pierre-Jean-Georges Cabanis (1757 - 1808)",
+            "_raw": "Pierre-Jean-Georges Cabanis (1757 - 1808)",
             "birth": 1757,
             "death": 1808
         },
@@ -4503,7 +4503,7 @@
                 }
             ],
             "href": "/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf",
-            "raw": "Constantin-François Chassebœuf, comte de Volney (1757 - 1820)",
+            "_raw": "Constantin-François Chassebœuf, comte de Volney (1757 - 1820)",
             "birth": 1757,
             "death": 1820
         },
@@ -4520,7 +4520,7 @@
                 }
             ],
             "href": "/wiki/Claude_Henri_de_Rouvroy,_comte_de_Saint-Simon",
-            "raw": "Claude Henri de Rouvroy, comte de Saint-Simon (1760 - 1825)",
+            "_raw": "Claude Henri de Rouvroy, comte de Saint-Simon (1760 - 1825)",
             "birth": 1760,
             "death": 1825
         },
@@ -4537,7 +4537,7 @@
                 }
             ],
             "href": "/wiki/Christian_Godefroy_Bardili",
-            "raw": "Christian Godefroy Bardili (1761 - 1808)",
+            "_raw": "Christian Godefroy Bardili (1761 - 1808)",
             "birth": 1761,
             "death": 1808
         },
@@ -4554,7 +4554,7 @@
                 }
             ],
             "href": "/wiki/Johann_Gottlieb_Fichte",
-            "raw": "Johann Gottlieb Fichte (1762 - 1814)",
+            "_raw": "Johann Gottlieb Fichte (1762 - 1814)",
             "birth": 1762,
             "death": 1814
         },
@@ -4571,7 +4571,7 @@
                 }
             ],
             "href": "/wiki/Maine_de_Biran",
-            "raw": "Maine de Biran (1766 - 1824)",
+            "_raw": "Maine de Biran (1766 - 1824)",
             "birth": 1766,
             "death": 1824
         },
@@ -4588,7 +4588,7 @@
                 }
             ],
             "href": "/wiki/Friedrich_Ludewig_Bouterweck",
-            "raw": "Friedrich Ludewig Bouterweck (1766 - 1828)",
+            "_raw": "Friedrich Ludewig Bouterweck (1766 - 1828)",
             "birth": 1766,
             "death": 1828
         },
@@ -4605,7 +4605,7 @@
                 }
             ],
             "href": "/wiki/Benjamin_Constant",
-            "raw": "Benjamin Constant (1767 - 1830)",
+            "_raw": "Benjamin Constant (1767 - 1830)",
             "birth": 1767,
             "death": 1830
         },
@@ -4622,7 +4622,7 @@
                 }
             ],
             "href": "/wiki/Jean-Baptiste_Say",
-            "raw": "Jean-Baptiste Say (1767 - 1832)",
+            "_raw": "Jean-Baptiste Say (1767 - 1832)",
             "birth": 1767,
             "death": 1832
         },
@@ -4639,7 +4639,7 @@
                 }
             ],
             "href": "/wiki/Wilhelm_von_Humboldt",
-            "raw": "Wilhelm von Humboldt (1767 - 1835)",
+            "_raw": "Wilhelm von Humboldt (1767 - 1835)",
             "birth": 1767,
             "death": 1835
         },
@@ -4656,7 +4656,7 @@
                 }
             ],
             "href": "/wiki/Georg_Hegel",
-            "raw": "Georg Hegel (1770 - 1831)",
+            "_raw": "Georg Hegel (1770 - 1831)",
             "birth": 1770,
             "death": 1831
         },
@@ -4673,7 +4673,7 @@
                 }
             ],
             "href": "/wiki/Charles_Fourier",
-            "raw": "Charles Fourier (1772 - 1837)",
+            "_raw": "Charles Fourier (1772 - 1837)",
             "birth": 1772,
             "death": 1837
         },
@@ -4690,7 +4690,7 @@
                 }
             ],
             "href": "/wiki/James_Mill",
-            "raw": "James Mill (1773 - 1836)",
+            "_raw": "James Mill (1773 - 1836)",
             "birth": 1773,
             "death": 1836
         },
@@ -4707,7 +4707,7 @@
                 }
             ],
             "href": "/wiki/Friedrich_Willhelm_Joseph_von_Schelling",
-            "raw": "Friedrich Willhelm Joseph von Schelling (1775 - 1855)",
+            "_raw": "Friedrich Willhelm Joseph von Schelling (1775 - 1855)",
             "birth": 1775,
             "death": 1855
         },
@@ -4724,7 +4724,7 @@
                 }
             ],
             "href": "/wiki/Josef_Ho%C3%ABn%C3%A9-Wronski",
-            "raw": "Josef Hoëné-Wronski (1776 - 1853)",
+            "_raw": "Josef Hoëné-Wronski (1776 - 1853)",
             "birth": 1776,
             "death": 1853
         },
@@ -4741,7 +4741,7 @@
                 }
             ],
             "href": "/wiki/Charles_Comte",
-            "raw": "Charles Comte (1782 - 1837)",
+            "_raw": "Charles Comte (1782 - 1837)",
             "birth": 1782,
             "death": 1837
         },
@@ -4758,7 +4758,7 @@
                 }
             ],
             "href": "/wiki/F%C3%A9licit%C3%A9_Robert_de_Lamennais",
-            "raw": "Félicité Robert de Lamennais 1782 - 1854"
+            "_raw": "Félicité Robert de Lamennais 1782 - 1854"
         },
         {
             "title": "Charles Dunoyer",
@@ -4773,7 +4773,7 @@
                 }
             ],
             "href": "/wiki/Charles_Dunoyer",
-            "raw": "Charles Dunoyer (1786 - 1862)",
+            "_raw": "Charles Dunoyer (1786 - 1862)",
             "birth": 1786,
             "death": 1862
         },
@@ -4790,7 +4790,7 @@
                 }
             ],
             "href": "/wiki/Arthur_Schopenhauer",
-            "raw": "Arthur Schopenhauer (1788 - 1860)",
+            "_raw": "Arthur Schopenhauer (1788 - 1860)",
             "birth": 1788,
             "death": 1860
         },
@@ -4807,7 +4807,7 @@
                 }
             ],
             "href": "/wiki/Victor_Cousin",
-            "raw": "Victor Cousin (1792 - 1867)",
+            "_raw": "Victor Cousin (1792 - 1867)",
             "birth": 1792,
             "death": 1867
         },
@@ -4824,7 +4824,7 @@
                 }
             ],
             "href": "/wiki/Auguste_Comte",
-            "raw": "Auguste Comte (1798 - 1857)",
+            "_raw": "Auguste Comte (1798 - 1857)",
             "birth": 1798,
             "death": 1857
         },
@@ -4841,7 +4841,7 @@
                 }
             ],
             "href": "/wiki/Giacomo_Leopardi",
-            "raw": "Giacomo Leopardi (1798 - 1837)",
+            "_raw": "Giacomo Leopardi (1798 - 1837)",
             "birth": 1798,
             "death": 1837
         },
@@ -4858,7 +4858,7 @@
                 }
             ],
             "href": "/wiki/Fr%C3%A9d%C3%A9ric_Bastiat",
-            "raw": "Frédéric Bastiat (1801 - 1850)",
+            "_raw": "Frédéric Bastiat (1801 - 1850)",
             "birth": 1801,
             "death": 1850
         },
@@ -4875,7 +4875,7 @@
                 }
             ],
             "href": "/wiki/Antoine_Cournot",
-            "raw": "Antoine Cournot (1801 - 1877)",
+            "_raw": "Antoine Cournot (1801 - 1877)",
             "birth": 1801,
             "death": 1877
         },
@@ -4892,7 +4892,7 @@
                 }
             ],
             "href": "/wiki/Gustav_Fechner",
-            "raw": "Gustav Fechner (1801 - 1887)",
+            "_raw": "Gustav Fechner (1801 - 1887)",
             "birth": 1801,
             "death": 1887
         },
@@ -4909,7 +4909,7 @@
                 }
             ],
             "href": "/wiki/Ralph_Waldo_Emerson",
-            "raw": "Ralph Waldo Emerson (1803 - 1882)",
+            "_raw": "Ralph Waldo Emerson (1803 - 1882)",
             "birth": 1803,
             "death": 1882
         },
@@ -4926,7 +4926,7 @@
                 }
             ],
             "href": "/wiki/Ludwig_Feuerbach",
-            "raw": "Ludwig Feuerbach (1804 - 1872)",
+            "_raw": "Ludwig Feuerbach (1804 - 1872)",
             "birth": 1804,
             "death": 1872
         },
@@ -4943,7 +4943,7 @@
                 }
             ],
             "href": "/wiki/Allan_Kardec",
-            "raw": "Allan Kardec (1804 - 1869)",
+            "_raw": "Allan Kardec (1804 - 1869)",
             "birth": 1804,
             "death": 1869
         },
@@ -4960,7 +4960,7 @@
                 }
             ],
             "href": "/wiki/Alexis_de_Tocqueville",
-            "raw": "Alexis de Tocqueville (1805 - 1859)",
+            "_raw": "Alexis de Tocqueville (1805 - 1859)",
             "birth": 1805,
             "death": 1859
         },
@@ -4977,7 +4977,7 @@
                 }
             ],
             "href": "/wiki/Max_Stirner",
-            "raw": "Max Stirner (1806 - 1856)",
+            "_raw": "Max Stirner (1806 - 1856)",
             "birth": 1806,
             "death": 1856
         },
@@ -4994,7 +4994,7 @@
                 }
             ],
             "href": "/wiki/John_Stuart_Mill",
-            "raw": "John Stuart Mill (1806 - 1873)",
+            "_raw": "John Stuart Mill (1806 - 1873)",
             "birth": 1806,
             "death": 1873
         },
@@ -5011,7 +5011,7 @@
                 }
             ],
             "href": "/wiki/Michel_Chevalier_(homme_politique)",
-            "raw": "Michel Chevalier (homme politique) (1806 - 1879)",
+            "_raw": "Michel Chevalier (homme politique) (1806 - 1879)",
             "birth": 1806,
             "death": 1879
         },
@@ -5028,7 +5028,7 @@
                 }
             ],
             "href": "/wiki/Lysander_Spooner",
-            "raw": "Lysander Spooner (1808 - 1887)",
+            "_raw": "Lysander Spooner (1808 - 1887)",
             "birth": 1808,
             "death": 1887
         },
@@ -5045,7 +5045,7 @@
                 }
             ],
             "href": "/wiki/Pierre-Joseph_Proudhon",
-            "raw": "Pierre-Joseph Proudhon (1809 - 1865)",
+            "_raw": "Pierre-Joseph Proudhon (1809 - 1865)",
             "birth": 1809,
             "death": 1865
         },
@@ -5062,7 +5062,7 @@
                 }
             ],
             "href": "/wiki/S%C3%B8ren_Kierkegaard",
-            "raw": "Søren Kierkegaard (1813 - 1855)",
+            "_raw": "Søren Kierkegaard (1813 - 1855)",
             "birth": 1813,
             "death": 1855
         },
@@ -5079,7 +5079,7 @@
                 }
             ],
             "href": "/wiki/Jules_Lequier",
-            "raw": "Jules Lequier (1814 - 1862)",
+            "_raw": "Jules Lequier (1814 - 1862)",
             "birth": 1814,
             "death": 1862
         },
@@ -5096,7 +5096,7 @@
                 }
             ],
             "href": "/wiki/Mikha%C3%AFl_Bakounine",
-            "raw": "Mikhaïl Bakounine (1814 - 1876)",
+            "_raw": "Mikhaïl Bakounine (1814 - 1876)",
             "birth": 1814,
             "death": 1876
         },
@@ -5113,7 +5113,7 @@
                 }
             ],
             "href": "/wiki/Gustave_de_Molinari",
-            "raw": "Gustave de Molinari (1819 - 1912)",
+            "_raw": "Gustave de Molinari (1819 - 1912)",
             "birth": 1819,
             "death": 1912
         },
@@ -5130,7 +5130,7 @@
                 }
             ],
             "href": "/wiki/Karl_Marx",
-            "raw": "Karl Marx (1818 - 1883)",
+            "_raw": "Karl Marx (1818 - 1883)",
             "birth": 1818,
             "death": 1883
         },
@@ -5147,7 +5147,7 @@
                 }
             ],
             "href": "/wiki/Friedrich_Engels",
-            "raw": "Friedrich Engels (1820 - 1895)",
+            "_raw": "Friedrich Engels (1820 - 1895)",
             "birth": 1820,
             "death": 1895
         },
@@ -5164,7 +5164,7 @@
                 }
             ],
             "href": "/wiki/Herbert_Spencer",
-            "raw": "Herbert Spencer (1820 - 1903)",
+            "_raw": "Herbert Spencer (1820 - 1903)",
             "birth": 1820,
             "death": 1903
         },
@@ -5181,7 +5181,7 @@
                 }
             ],
             "href": "/wiki/Hippolyte_Taine",
-            "raw": "Hippolyte Taine (1828 - 1893)",
+            "_raw": "Hippolyte Taine (1828 - 1893)",
             "birth": 1828,
             "death": 1893
         },
@@ -5198,7 +5198,7 @@
                 }
             ],
             "href": "/wiki/Maurice_Joly",
-            "raw": "Maurice Joly (1829 - 1878)",
+            "_raw": "Maurice Joly (1829 - 1878)",
             "birth": 1829,
             "death": 1878
         },
@@ -5215,7 +5215,7 @@
                 }
             ],
             "href": "/wiki/Emerich_Edward_Dalberg_Acton",
-            "raw": "Lord Emerich Edward Dalberg Acton (1834 - 1902)",
+            "_raw": "Lord Emerich Edward Dalberg Acton (1834 - 1902)",
             "birth": 1834,
             "death": 1902
         },
@@ -5232,7 +5232,7 @@
                 }
             ],
             "href": "/wiki/Benjamin_Tucker",
-            "raw": "Benjamin Tucker (1835 - 1923)",
+            "_raw": "Benjamin Tucker (1835 - 1923)",
             "birth": 1835,
             "death": 1923
         },
@@ -5249,7 +5249,7 @@
                 }
             ],
             "href": "/wiki/Franz_Brentano",
-            "raw": "Franz Brentano (1838 - 1917)",
+            "_raw": "Franz Brentano (1838 - 1917)",
             "birth": 1838,
             "death": 1917
         },
@@ -5266,7 +5266,7 @@
                 }
             ],
             "href": "/wiki/Ernst_Mach",
-            "raw": "Ernst Mach (1838 - 1916)",
+            "_raw": "Ernst Mach (1838 - 1916)",
             "birth": 1838,
             "death": 1916
         },
@@ -5283,7 +5283,7 @@
                 }
             ],
             "href": "/wiki/Charles_Sanders_Peirce",
-            "raw": "Charles Sanders Peirce (1839 - 1914)",
+            "_raw": "Charles Sanders Peirce (1839 - 1914)",
             "birth": 1839,
             "death": 1914
         },
@@ -5300,7 +5300,7 @@
                 }
             ],
             "href": "/wiki/William_James",
-            "raw": "William James (1842 - 1910)",
+            "_raw": "William James (1842 - 1910)",
             "birth": 1842,
             "death": 1910
         },
@@ -5317,7 +5317,7 @@
                 }
             ],
             "href": "/wiki/Hermann_Cohen_(philosophe)",
-            "raw": "Hermann Cohen (philosophe) (1842 - 1918)",
+            "_raw": "Hermann Cohen (philosophe) (1842 - 1918)",
             "birth": 1842,
             "death": 1918
         },
@@ -5334,7 +5334,7 @@
                 }
             ],
             "href": "/wiki/Richard_Avenarius",
-            "raw": "Richard Avenarius (1843 - 1896)",
+            "_raw": "Richard Avenarius (1843 - 1896)",
             "birth": 1843,
             "death": 1896
         },
@@ -5351,7 +5351,7 @@
                 }
             ],
             "href": "/wiki/Gabriel_Tarde",
-            "raw": "Gabriel Tarde (1843 - 1904)",
+            "_raw": "Gabriel Tarde (1843 - 1904)",
             "birth": 1843,
             "death": 1904
         },
@@ -5368,7 +5368,7 @@
                 }
             ],
             "href": "/wiki/Friedrich_Nietzsche",
-            "raw": "Friedrich Nietzsche (1844 - 1900)",
+            "_raw": "Friedrich Nietzsche (1844 - 1900)",
             "birth": 1844,
             "death": 1900
         },
@@ -5385,7 +5385,7 @@
                 }
             ],
             "href": "/wiki/Ludwig_Geiger",
-            "raw": "Ludwig Geiger (1848-1919)",
+            "_raw": "Ludwig Geiger (1848-1919)",
             "birth": 1848,
             "death": 1919
         },
@@ -5402,7 +5402,7 @@
                 }
             ],
             "href": "/wiki/Gottlob_Frege",
-            "raw": "Gottlob Frege (1848 - 1925)",
+            "_raw": "Gottlob Frege (1848 - 1925)",
             "birth": 1848,
             "death": 1925
         },
@@ -5419,7 +5419,7 @@
                 }
             ],
             "href": "/wiki/Sigmund_Freud",
-            "raw": "Sigmund Freud (1856 - 1939)",
+            "_raw": "Sigmund Freud (1856 - 1939)",
             "birth": 1856,
             "death": 1939
         },
@@ -5436,7 +5436,7 @@
                 }
             ],
             "href": "/wiki/Arthur_Hannequin",
-            "raw": "Arthur Hannequin (1856 - 1905)",
+            "_raw": "Arthur Hannequin (1856 - 1905)",
             "birth": 1856,
             "death": 1905
         },
@@ -5453,7 +5453,7 @@
                 }
             ],
             "href": "/wiki/Georgui_Plekhanov",
-            "raw": "Georgui Plekhanov (1857-1918)",
+            "_raw": "Georgui Plekhanov (1857-1918)",
             "birth": 1857,
             "death": 1918
         },
@@ -5470,7 +5470,7 @@
                 }
             ],
             "href": "/wiki/Lucien_L%C3%A9vy-Bruhl",
-            "raw": "Lucien Lévy-Bruhl (1857-1939)",
+            "_raw": "Lucien Lévy-Bruhl (1857-1939)",
             "birth": 1857,
             "death": 1939
         },
@@ -5487,7 +5487,7 @@
                 }
             ],
             "href": "/wiki/Georg_Simmel",
-            "raw": "Georg Simmel (1858-1918)",
+            "_raw": "Georg Simmel (1858-1918)",
             "birth": 1858,
             "death": 1918
         },
@@ -5504,7 +5504,7 @@
                 }
             ],
             "href": "/wiki/Edmund_Husserl",
-            "raw": "Edmund Husserl (1859 - 1938)",
+            "_raw": "Edmund Husserl (1859 - 1938)",
             "birth": 1859,
             "death": 1938
         },
@@ -5521,7 +5521,7 @@
                 }
             ],
             "href": "/wiki/Henri_Bergson",
-            "raw": "Henri Bergson (1859 - 1941)",
+            "_raw": "Henri Bergson (1859 - 1941)",
             "birth": 1859,
             "death": 1941
         },
@@ -5538,7 +5538,7 @@
                 }
             ],
             "href": "/wiki/John_Dewey",
-            "raw": "John Dewey (1859 - 1952)",
+            "_raw": "John Dewey (1859 - 1952)",
             "birth": 1859,
             "death": 1952
         },
@@ -5555,7 +5555,7 @@
                 }
             ],
             "href": "/wiki/Han_Ryner",
-            "raw": "Han Ryner (Han Ryner, dit) (1861 - 1938)",
+            "_raw": "Han Ryner (Han Ryner, dit) (1861 - 1938)",
             "birth": 1861,
             "death": 1938
         },
@@ -5572,7 +5572,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Duhem",
-            "raw": "Pierre Duhem (1861 - 1916)",
+            "_raw": "Pierre Duhem (1861 - 1916)",
             "birth": 1861,
             "death": 1916
         },
@@ -5589,7 +5589,7 @@
                 }
             ],
             "href": "/wiki/Rudolf_Steiner",
-            "raw": "Rudolf Steiner (1861 - 1925)",
+            "_raw": "Rudolf Steiner (1861 - 1925)",
             "birth": 1861,
             "death": 1925
         },
@@ -5606,7 +5606,7 @@
                 }
             ],
             "href": "/wiki/Alfred_North_Whitehead",
-            "raw": "Alfred North Whitehead (1861 - 1947)",
+            "_raw": "Alfred North Whitehead (1861 - 1947)",
             "birth": 1861,
             "death": 1947
         },
@@ -5623,7 +5623,7 @@
                 }
             ],
             "href": "/wiki/Maurice_Blondel_(philosophe)",
-            "raw": "Maurice Blondel (philosophe) (1861 - 1949)",
+            "_raw": "Maurice Blondel (philosophe) (1861 - 1949)",
             "birth": 1861,
             "death": 1949
         },
@@ -5640,7 +5640,7 @@
                 }
             ],
             "href": "/wiki/Georges_Palante",
-            "raw": "Georges Palante (1862 - 1925)",
+            "_raw": "Georges Palante (1862 - 1925)",
             "birth": 1862,
             "death": 1925
         },
@@ -5657,7 +5657,7 @@
                 }
             ],
             "href": "/wiki/George_Santayana",
-            "raw": "George Santayana (1863 - 1952)",
+            "_raw": "George Santayana (1863 - 1952)",
             "birth": 1863,
             "death": 1952
         },
@@ -5674,7 +5674,7 @@
                 }
             ],
             "href": "/wiki/Max_Weber",
-            "raw": "Max Weber (1864 - 1920)",
+            "_raw": "Max Weber (1864 - 1920)",
             "birth": 1864,
             "death": 1920
         },
@@ -5691,7 +5691,7 @@
                 }
             ],
             "href": "/wiki/Miguel_de_Unamuno",
-            "raw": "Miguel de Unamuno (1864 - 1936)",
+            "_raw": "Miguel de Unamuno (1864 - 1936)",
             "birth": 1864,
             "death": 1936
         },
@@ -5708,7 +5708,7 @@
                 }
             ],
             "href": "/wiki/L%C3%A9on_Chestov",
-            "raw": "Léon Chestov (1866 - 1938)",
+            "_raw": "Léon Chestov (1866 - 1938)",
             "birth": 1866,
             "death": 1938
         },
@@ -5725,7 +5725,7 @@
                 }
             ],
             "href": "/wiki/Benedetto_Croce",
-            "raw": "Benedetto Croce (1866 - 1952)",
+            "_raw": "Benedetto Croce (1866 - 1952)",
             "birth": 1866,
             "death": 1952
         },
@@ -5742,7 +5742,7 @@
                 }
             ],
             "href": "/wiki/Kazimierz_Twardowski",
-            "raw": "Kazimierz Twardowski (1866 - 1938)",
+            "_raw": "Kazimierz Twardowski (1866 - 1938)",
             "birth": 1866,
             "death": 1938
         },
@@ -5759,7 +5759,7 @@
                 }
             ],
             "href": "/wiki/Julien_Benda",
-            "raw": "Julien Benda (1867-1956)",
+            "_raw": "Julien Benda (1867-1956)",
             "birth": 1867,
             "death": 1956
         },
@@ -5776,7 +5776,7 @@
                 }
             ],
             "href": "/wiki/Alain_(philosophe)",
-            "raw": "Alain (philosophe) (Émile Chartier, dit) (1868 - 1951)",
+            "_raw": "Alain (philosophe) (Émile Chartier, dit) (1868 - 1951)",
             "birth": 1868,
             "death": 1951
         },
@@ -5793,7 +5793,7 @@
                 }
             ],
             "href": "/wiki/Sri_Aurobindo",
-            "raw": "Sri Aurobindo (1872 - 1950)",
+            "_raw": "Sri Aurobindo (1872 - 1950)",
             "birth": 1872,
             "death": 1950
         },
@@ -5810,7 +5810,7 @@
                 }
             ],
             "href": "/wiki/Bertrand_Russell",
-            "raw": "Bertrand Russell (1872 - 1970)",
+            "_raw": "Bertrand Russell (1872 - 1970)",
             "birth": 1872,
             "death": 1970
         },
@@ -5827,7 +5827,7 @@
                 }
             ],
             "href": "/wiki/George_Edward_Moore",
-            "raw": "George Edward Moore (1873 - 1958)",
+            "_raw": "George Edward Moore (1873 - 1958)",
             "birth": 1873,
             "death": 1958
         },
@@ -5844,7 +5844,7 @@
                 }
             ],
             "href": "/wiki/Max_Scheler",
-            "raw": "Max Scheler (1874 - 1928)",
+            "_raw": "Max Scheler (1874 - 1928)",
             "birth": 1874,
             "death": 1928
         },
@@ -5861,7 +5861,7 @@
                 }
             ],
             "href": "/wiki/Ernst_Cassirer",
-            "raw": "Ernst Cassirer (1874 - 1945)",
+            "_raw": "Ernst Cassirer (1874 - 1945)",
             "birth": 1874,
             "death": 1945
         },
@@ -5878,7 +5878,7 @@
                 }
             ],
             "href": "/wiki/Martin_Buber",
-            "raw": "Martin Buber (1878 - 1965)",
+            "_raw": "Martin Buber (1878 - 1965)",
             "birth": 1878,
             "death": 1965
         },
@@ -5895,7 +5895,7 @@
                 }
             ],
             "href": "/wiki/Otto_Weininger",
-            "raw": "Otto Weininger (1880 - 1903)",
+            "_raw": "Otto Weininger (1880 - 1903)",
             "birth": 1880,
             "death": 1903
         },
@@ -5912,7 +5912,7 @@
                 }
             ],
             "href": "/wiki/Oswald_Spengler",
-            "raw": "Oswald Spengler (1880 - 1936)",
+            "_raw": "Oswald Spengler (1880 - 1936)",
             "birth": 1880,
             "death": 1936
         },
@@ -5929,7 +5929,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Teilhard_de_Chardin",
-            "raw": "Pierre Teilhard de Chardin (1881 - 1955)",
+            "_raw": "Pierre Teilhard de Chardin (1881 - 1955)",
             "birth": 1881,
             "death": 1955
         },
@@ -5946,7 +5946,7 @@
                 }
             ],
             "href": "/wiki/Ludwig_von_Mises",
-            "raw": "Ludwig von Mises (1881 - 1973)",
+            "_raw": "Ludwig von Mises (1881 - 1973)",
             "birth": 1881,
             "death": 1973
         },
@@ -5963,7 +5963,7 @@
                 }
             ],
             "href": "/wiki/Ren%C3%A9_Le_Senne",
-            "raw": "René Le Senne (1882-1954)",
+            "_raw": "René Le Senne (1882-1954)",
             "birth": 1882,
             "death": 1954
         },
@@ -5980,7 +5980,7 @@
                 }
             ],
             "href": "/wiki/Alexandre_Koyr%C3%A9",
-            "raw": "Alexandre Koyré (1882-1964)",
+            "_raw": "Alexandre Koyré (1882-1964)",
             "birth": 1882,
             "death": 1964
         },
@@ -5997,7 +5997,7 @@
                 }
             ],
             "href": "/wiki/Jacques_Maritain",
-            "raw": "Jacques Maritain (1882 - 1973)",
+            "_raw": "Jacques Maritain (1882 - 1973)",
             "birth": 1882,
             "death": 1973
         },
@@ -6014,7 +6014,7 @@
                 }
             ],
             "href": "/wiki/Louis_Lavelle",
-            "raw": "Louis Lavelle (1883-1951)",
+            "_raw": "Louis Lavelle (1883-1951)",
             "birth": 1883,
             "death": 1951
         },
@@ -6031,7 +6031,7 @@
                 }
             ],
             "href": "/wiki/Jos%C3%A9_Ortega_y_Gasset",
-            "raw": "José Ortega y Gasset (1883 - 1955)",
+            "_raw": "José Ortega y Gasset (1883 - 1955)",
             "birth": 1883,
             "death": 1955
         },
@@ -6048,7 +6048,7 @@
                 }
             ],
             "href": "/wiki/Karl_Jaspers",
-            "raw": "Karl Jaspers (1883 - 1969)",
+            "_raw": "Karl Jaspers (1883 - 1969)",
             "birth": 1883,
             "death": 1969
         },
@@ -6065,7 +6065,7 @@
                 }
             ],
             "href": "/wiki/Gaston_Bachelard",
-            "raw": "Gaston Bachelard (1884 - 1962)",
+            "_raw": "Gaston Bachelard (1884 - 1962)",
             "birth": 1884,
             "death": 1962
         },
@@ -6082,7 +6082,7 @@
                 }
             ],
             "href": "/wiki/%C3%89tienne_Gilson",
-            "raw": "Étienne Gilson (1884-1978)",
+            "_raw": "Étienne Gilson (1884-1978)",
             "birth": 1884,
             "death": 1978
         },
@@ -6099,7 +6099,7 @@
                 }
             ],
             "href": "/wiki/Ernst_Bloch",
-            "raw": "Ernst Bloch (1885-1977)",
+            "_raw": "Ernst Bloch (1885-1977)",
             "birth": 1885,
             "death": 1977
         },
@@ -6116,7 +6116,7 @@
                 }
             ],
             "href": "/wiki/Georg_Luk%C3%A1cs",
-            "raw": "Georg Lukács (1885 - 1971)",
+            "_raw": "Georg Lukács (1885 - 1971)",
             "birth": 1885,
             "death": 1971
         },
@@ -6133,7 +6133,7 @@
                 }
             ],
             "href": "/wiki/Stanis%C5%82aw_Le%C5%9Bniewski",
-            "raw": "Stanisław Leśniewski (1886 - 1939)",
+            "_raw": "Stanisław Leśniewski (1886 - 1939)",
             "birth": 1886,
             "death": 1939
         },
@@ -6150,7 +6150,7 @@
                 }
             ],
             "href": "/wiki/Tadeusz_Kotarbi%C5%84ski",
-            "raw": "Tadeusz Kotarbiński (1886 - 1981)",
+            "_raw": "Tadeusz Kotarbiński (1886 - 1981)",
             "birth": 1886,
             "death": 1981
         },
@@ -6167,7 +6167,7 @@
                 }
             ],
             "href": "/wiki/Jean_Wahl",
-            "raw": "Jean Wahl (1888-1974)",
+            "_raw": "Jean Wahl (1888-1974)",
             "birth": 1888,
             "death": 1974
         },
@@ -6184,7 +6184,7 @@
                 }
             ],
             "href": "/wiki/Carl_Schmitt",
-            "raw": "Carl Schmitt (1888-1985)",
+            "_raw": "Carl Schmitt (1888-1985)",
             "birth": 1888,
             "death": 1985
         },
@@ -6201,7 +6201,7 @@
                 }
             ],
             "href": "/wiki/Ludwig_Wittgenstein",
-            "raw": "Ludwig Wittgenstein (1889 - 1951)",
+            "_raw": "Ludwig Wittgenstein (1889 - 1951)",
             "birth": 1889,
             "death": 1951
         },
@@ -6218,7 +6218,7 @@
                 }
             ],
             "href": "/wiki/Gabriel_Marcel",
-            "raw": "Gabriel Marcel (1889 - 1973)",
+            "_raw": "Gabriel Marcel (1889 - 1973)",
             "birth": 1889,
             "death": 1973
         },
@@ -6235,7 +6235,7 @@
                 }
             ],
             "href": "/wiki/Martin_Heidegger",
-            "raw": "Martin Heidegger (1889 - 1976)",
+            "_raw": "Martin Heidegger (1889 - 1976)",
             "birth": 1889,
             "death": 1976
         },
@@ -6252,7 +6252,7 @@
                 }
             ],
             "href": "/wiki/Ferdinand_Gonseth",
-            "raw": "Ferdinand Gonseth (1890 - 1975)",
+            "_raw": "Ferdinand Gonseth (1890 - 1975)",
             "birth": 1890,
             "death": 1975
         },
@@ -6269,7 +6269,7 @@
                 }
             ],
             "href": "/wiki/Antonio_Gramsci",
-            "raw": "Antonio Gramsci (1891 - 1937)",
+            "_raw": "Antonio Gramsci (1891 - 1937)",
             "birth": 1891,
             "death": 1937
         },
@@ -6286,7 +6286,7 @@
                 }
             ],
             "href": "/wiki/Edith_Stein",
-            "raw": "Edith Stein (1891 - 1942)",
+            "_raw": "Edith Stein (1891 - 1942)",
             "birth": 1891,
             "death": 1942
         },
@@ -6303,7 +6303,7 @@
                 }
             ],
             "href": "/wiki/Rudolf_Carnap",
-            "raw": "Rudolf Carnap (1891 - 1970)",
+            "_raw": "Rudolf Carnap (1891 - 1970)",
             "birth": 1891,
             "death": 1970
         },
@@ -6320,7 +6320,7 @@
                 }
             ],
             "href": "/wiki/Walter_Benjamin",
-            "raw": "Walter Benjamin (1892 - 1940)",
+            "_raw": "Walter Benjamin (1892 - 1940)",
             "birth": 1892,
             "death": 1940
         },
@@ -6337,7 +6337,7 @@
                 }
             ],
             "href": "/wiki/Roland_Dalbiez",
-            "raw": "Roland Dalbiez (1893 - 1976)",
+            "_raw": "Roland Dalbiez (1893 - 1976)",
             "birth": 1893,
             "death": 1976
         },
@@ -6354,7 +6354,7 @@
                 }
             ],
             "href": "/wiki/Henry_Hazlitt",
-            "raw": "Henry Hazlitt (1894 - 1993)",
+            "_raw": "Henry Hazlitt (1894 - 1993)",
             "birth": 1894,
             "death": 1993
         },
@@ -6371,7 +6371,7 @@
                 }
             ],
             "href": "/wiki/Max_Horkheimer",
-            "raw": "Max Horkheimer (1895-1973)",
+            "_raw": "Max Horkheimer (1895-1973)",
             "birth": 1895,
             "death": 1973
         },
@@ -6388,7 +6388,7 @@
                 }
             ],
             "href": "/wiki/Gershom_Scholem",
-            "raw": "Gershom Scholem (1897-1982)",
+            "_raw": "Gershom Scholem (1897-1982)",
             "birth": 1897,
             "death": 1982
         },
@@ -6405,7 +6405,7 @@
                 }
             ],
             "href": "/wiki/Herbert_Marcuse",
-            "raw": "Herbert Marcuse (1898-1979)",
+            "_raw": "Herbert Marcuse (1898-1979)",
             "birth": 1898,
             "death": 1979
         },
@@ -6422,7 +6422,7 @@
                 }
             ],
             "href": "/wiki/Leonard_E._Read",
-            "raw": "Leonard E. Read (1898 - 1983)",
+            "_raw": "Leonard E. Read (1898 - 1983)",
             "birth": 1898,
             "death": 1983
         },
@@ -6439,7 +6439,7 @@
                 }
             ],
             "href": "/wiki/Alfred_Sch%C3%BCtz",
-            "raw": "Alfred Schütz (1899 - 1959)",
+            "_raw": "Alfred Schütz (1899 - 1959)",
             "birth": 1899,
             "death": 1959
         },
@@ -6456,7 +6456,7 @@
                 }
             ],
             "href": "/wiki/Leo_Strauss",
-            "raw": "Leo Strauss (1899-1973)",
+            "_raw": "Leo Strauss (1899-1973)",
             "birth": 1899,
             "death": 1973
         },
@@ -6473,7 +6473,7 @@
                 }
             ],
             "href": "/wiki/Friedrich_Hayek",
-            "raw": "Friedrich Hayek (1899 - 1992)",
+            "_raw": "Friedrich Hayek (1899 - 1992)",
             "birth": 1899,
             "death": 1992
         },
@@ -6489,7 +6489,7 @@
                 }
             ],
             "href": "/wiki/Gilbert_Ryle",
-            "raw": "Gilbert Ryle (1900 - 1976)",
+            "_raw": "Gilbert Ryle (1900 - 1976)",
             "birth": 1900,
             "death": 1976
         },
@@ -6505,7 +6505,7 @@
                 }
             ],
             "href": "/wiki/St%C3%A9phane_Lupasco",
-            "raw": "Stéphane Lupasco (1900 - 1988)",
+            "_raw": "Stéphane Lupasco (1900 - 1988)",
             "birth": 1900,
             "death": 1988
         },
@@ -6521,7 +6521,7 @@
                 }
             ],
             "href": "/wiki/Hans-Georg_Gadamer",
-            "raw": "Hans-Georg Gadamer (1900 - 2002)",
+            "_raw": "Hans-Georg Gadamer (1900 - 2002)",
             "birth": 1900,
             "death": 2002
         },
@@ -6537,7 +6537,7 @@
                 }
             ],
             "href": "/wiki/Lanza_del_Vasto",
-            "raw": "Lanza del Vasto (1901 - 1981)",
+            "_raw": "Lanza del Vasto (1901 - 1981)",
             "birth": 1901,
             "death": 1981
         },
@@ -6553,7 +6553,7 @@
                 }
             ],
             "href": "/wiki/Henri_Lefebvre",
-            "raw": "Henri Lefebvre (1901 - 1991)",
+            "_raw": "Henri Lefebvre (1901 - 1991)",
             "birth": 1901,
             "death": 1991
         },
@@ -6569,7 +6569,7 @@
                 }
             ],
             "href": "/wiki/Jean_Guitton",
-            "raw": "Jean Guitton (1901 - 1999)",
+            "_raw": "Jean Guitton (1901 - 1999)",
             "birth": 1901,
             "death": 1999
         },
@@ -6585,7 +6585,7 @@
                 }
             ],
             "href": "/wiki/Gunther_Anders",
-            "raw": "Gunther Anders (1902 - 1992)",
+            "_raw": "Gunther Anders (1902 - 1992)",
             "birth": 1902,
             "death": 1992
         },
@@ -6601,7 +6601,7 @@
                 }
             ],
             "href": "/wiki/Alexandre_Koj%C3%A8ve",
-            "raw": "Alexandre Kojève (1902 - 1968)",
+            "_raw": "Alexandre Kojève (1902 - 1968)",
             "birth": 1902,
             "death": 1968
         },
@@ -6617,7 +6617,7 @@
                 }
             ],
             "href": "/wiki/Karl_Popper",
-            "raw": "Karl Popper (1902 - 1994)",
+            "_raw": "Karl Popper (1902 - 1994)",
             "birth": 1902,
             "death": 1994
         },
@@ -6633,7 +6633,7 @@
                 }
             ],
             "href": "/wiki/Raymond_Ruyer",
-            "raw": "Raymond Ruyer (1902 - 1987)",
+            "_raw": "Raymond Ruyer (1902 - 1987)",
             "birth": 1902,
             "death": 1987
         },
@@ -6649,7 +6649,7 @@
                 }
             ],
             "href": "/wiki/Alfred_Tarski",
-            "raw": "Alfred Tarski (1902 - 1983)",
+            "_raw": "Alfred Tarski (1902 - 1983)",
             "birth": 1902,
             "death": 1983
         },
@@ -6665,7 +6665,7 @@
                 }
             ],
             "href": "/wiki/Mortimer_Adler",
-            "raw": "Mortimer Adler (1902 - 2001)",
+            "_raw": "Mortimer Adler (1902 - 2001)",
             "birth": 1902,
             "death": 2001
         },
@@ -6681,7 +6681,7 @@
                 }
             ],
             "href": "/wiki/Georges_Politzer",
-            "raw": "Georges Politzer (1903 - 1942)",
+            "_raw": "Georges Politzer (1903 - 1942)",
             "birth": 1903,
             "death": 1942
         },
@@ -6697,7 +6697,7 @@
                 }
             ],
             "href": "/wiki/Theodor_W._Adorno",
-            "raw": "Theodor W. Adorno (1903 - 1969)",
+            "_raw": "Theodor W. Adorno (1903 - 1969)",
             "birth": 1903,
             "death": 1969
         },
@@ -6713,7 +6713,7 @@
                 }
             ],
             "href": "/wiki/Frank_Ramsey",
-            "raw": "Frank Ramsey (1903 - 1930)",
+            "_raw": "Frank Ramsey (1903 - 1930)",
             "birth": 1903,
             "death": 1930
         },
@@ -6729,7 +6729,7 @@
                 }
             ],
             "href": "/wiki/Jean_Cavaill%C3%A8s",
-            "raw": "Jean Cavaillès (1903 - 1944)",
+            "_raw": "Jean Cavaillès (1903 - 1944)",
             "birth": 1903,
             "death": 1944
         },
@@ -6745,7 +6745,7 @@
                 }
             ],
             "href": "/wiki/Yeshayahou_Leibowitz",
-            "raw": "Yeshayahou Leibowitz (1903 - 1994)",
+            "_raw": "Yeshayahou Leibowitz (1903 - 1994)",
             "birth": 1903,
             "death": 1994
         },
@@ -6761,7 +6761,7 @@
                 }
             ],
             "href": "/wiki/Vladimir_Jank%C3%A9l%C3%A9vitch",
-            "raw": "Vladimir Jankélévitch (1903 - 1985)",
+            "_raw": "Vladimir Jankélévitch (1903 - 1985)",
             "birth": 1903,
             "death": 1985
         },
@@ -6777,7 +6777,7 @@
                 }
             ],
             "href": "/wiki/Hans_Jonas",
-            "raw": "Hans Jonas (1903 - 1993)",
+            "_raw": "Hans Jonas (1903 - 1993)",
             "birth": 1903,
             "death": 1993
         },
@@ -6793,7 +6793,7 @@
                 }
             ],
             "href": "/wiki/Henry_Corbin",
-            "raw": "Henry Corbin (1903 - 1978)",
+            "_raw": "Henry Corbin (1903 - 1978)",
             "birth": 1903,
             "death": 1978
         },
@@ -6809,7 +6809,7 @@
                 }
             ],
             "href": "/wiki/Georges_Canguilhem",
-            "raw": "Georges Canguilhem (1904 - 1995)",
+            "_raw": "Georges Canguilhem (1904 - 1995)",
             "birth": 1904,
             "death": 1995
         },
@@ -6825,7 +6825,7 @@
                 }
             ],
             "href": "/wiki/Medhananda",
-            "raw": "Medhananda (1904 - 1994)",
+            "_raw": "Medhananda (1904 - 1994)",
             "birth": 1904,
             "death": 1994
         },
@@ -6841,7 +6841,7 @@
                 }
             ],
             "href": "/wiki/Emmanuel_Mounier",
-            "raw": "Emmanuel Mounier (1905 - 1950)",
+            "_raw": "Emmanuel Mounier (1905 - 1950)",
             "birth": 1905,
             "death": 1950
         },
@@ -6857,7 +6857,7 @@
                 }
             ],
             "href": "/wiki/Ayn_Rand",
-            "raw": "Ayn Rand (1905 - 1982)",
+            "_raw": "Ayn Rand (1905 - 1982)",
             "birth": 1905,
             "death": 1982
         },
@@ -6873,7 +6873,7 @@
                 }
             ],
             "href": "/wiki/Jean-Paul_Sartre",
-            "raw": "Jean-Paul Sartre (1905 - 1980)",
+            "_raw": "Jean-Paul Sartre (1905 - 1980)",
             "birth": 1905,
             "death": 1980
         },
@@ -6889,7 +6889,7 @@
                 }
             ],
             "href": "/wiki/Raymond_Aron",
-            "raw": "Raymond Aron (1905 - 1983)",
+            "_raw": "Raymond Aron (1905 - 1983)",
             "birth": 1905,
             "death": 1983
         },
@@ -6905,7 +6905,7 @@
                 }
             ],
             "href": "/wiki/Rush_Rhees",
-            "raw": "Rush Rhees (1905 - 1989)",
+            "_raw": "Rush Rhees (1905 - 1989)",
             "birth": 1905,
             "death": 1989
         },
@@ -6921,7 +6921,7 @@
                 }
             ],
             "href": "/wiki/Emmanuel_L%C3%A9vinas",
-            "raw": "Emmanuel Lévinas (1906-1995)",
+            "_raw": "Emmanuel Lévinas (1906-1995)",
             "birth": 1906,
             "death": 1995
         },
@@ -6937,7 +6937,7 @@
                 }
             ],
             "href": "/wiki/Ferdinand_Alqui%C3%A9",
-            "raw": "Ferdinand Alquié (1906 - 1985)",
+            "_raw": "Ferdinand Alquié (1906 - 1985)",
             "birth": 1906,
             "death": 1985
         },
@@ -6953,7 +6953,7 @@
                 }
             ],
             "href": "/wiki/Hannah_Arendt",
-            "raw": "Hannah Arendt (1906 - 1975)",
+            "_raw": "Hannah Arendt (1906 - 1975)",
             "birth": 1906,
             "death": 1975
         },
@@ -6969,7 +6969,7 @@
                 }
             ],
             "href": "/wiki/Jean_Beaufret",
-            "raw": "Jean Beaufret (1907 - 1982)",
+            "_raw": "Jean Beaufret (1907 - 1982)",
             "birth": 1907,
             "death": 1982
         },
@@ -6985,7 +6985,7 @@
                 }
             ],
             "href": "/wiki/Maurice_Merleau-Ponty",
-            "raw": "Maurice Merleau-Ponty (1908 - 1961)",
+            "_raw": "Maurice Merleau-Ponty (1908 - 1961)",
             "birth": 1908,
             "death": 1961
         },
@@ -7001,7 +7001,7 @@
                 }
             ],
             "href": "/wiki/Simone_de_Beauvoir",
-            "raw": "Simone de Beauvoir (1908 - 1986)",
+            "_raw": "Simone de Beauvoir (1908 - 1986)",
             "birth": 1908,
             "death": 1986
         },
@@ -7017,7 +7017,7 @@
                 }
             ],
             "href": "/wiki/Willard_Van_Orman_Quine",
-            "raw": "Willard Van Orman Quine (1908 - 2000)",
+            "_raw": "Willard Van Orman Quine (1908 - 2000)",
             "birth": 1908,
             "death": 2000
         },
@@ -7033,7 +7033,7 @@
                 }
             ],
             "href": "/wiki/Claude_L%C3%A9vi-Strauss",
-            "raw": "Claude Lévi-Strauss (1908 - 2009)",
+            "_raw": "Claude Lévi-Strauss (1908 - 2009)",
             "birth": 1908,
             "death": 2009
         },
@@ -7049,7 +7049,7 @@
                 }
             ],
             "href": "/wiki/Simone_Weil",
-            "raw": "Simone Weil (1909 - 1943)",
+            "_raw": "Simone Weil (1909 - 1943)",
             "birth": 1909,
             "death": 1943
         },
@@ -7065,7 +7065,7 @@
                 }
             ],
             "href": "/wiki/Valentin_Feldman",
-            "raw": "Valentin Feldman"
+            "_raw": "Valentin Feldman"
         },
         {
             "title": "Isaiah Berlin",
@@ -7079,7 +7079,7 @@
                 }
             ],
             "href": "/wiki/Isaiah_Berlin",
-            "raw": "Isaiah Berlin (1909 - 1997)",
+            "_raw": "Isaiah Berlin (1909 - 1997)",
             "birth": 1909,
             "death": 1997
         },
@@ -7095,7 +7095,7 @@
                 }
             ],
             "href": "/wiki/Jeanne_Hersch",
-            "raw": "Jeanne Hersch (1910 - 2000)",
+            "_raw": "Jeanne Hersch (1910 - 2000)",
             "birth": 1910,
             "death": 2000
         },
@@ -7111,7 +7111,7 @@
                 }
             ],
             "href": "/wiki/%C3%89mile_Michel_Cioran",
-            "raw": "Émile Michel Cioran (1911 - 1995)",
+            "_raw": "Émile Michel Cioran (1911 - 1995)",
             "birth": 1911,
             "death": 1995
         },
@@ -7127,7 +7127,7 @@
                 }
             ],
             "href": "/wiki/John_Langshaw_Austin",
-            "raw": "John Langshaw Austin (1911 - 1960)",
+            "_raw": "John Langshaw Austin (1911 - 1960)",
             "birth": 1911,
             "death": 1960
         },
@@ -7143,7 +7143,7 @@
                 }
             ],
             "href": "/wiki/Arne_N%C3%A6ss",
-            "raw": "Arne Næss (1912 - 2009)",
+            "_raw": "Arne Næss (1912 - 2009)",
             "birth": 1912,
             "death": 2009
         },
@@ -7159,7 +7159,7 @@
                 }
             ],
             "href": "/wiki/Marie-Dominique_Philippe",
-            "raw": "Marie-Dominique Philippe (1912 - 2006)",
+            "_raw": "Marie-Dominique Philippe (1912 - 2006)",
             "birth": 1912,
             "death": 2006
         },
@@ -7175,7 +7175,7 @@
                 }
             ],
             "href": "/wiki/Paul_Ric%C5%93ur",
-            "raw": "Paul Ricœur (1913 - 2005)",
+            "_raw": "Paul Ricœur (1913 - 2005)",
             "birth": 1913,
             "death": 2005
         },
@@ -7191,7 +7191,7 @@
                 }
             ],
             "href": "/wiki/Peter_Geach",
-            "raw": "Peter Geach (1916 - 2013)",
+            "_raw": "Peter Geach (1916 - 2013)",
             "birth": 1916,
             "death": 2013
         },
@@ -7207,7 +7207,7 @@
                 }
             ],
             "href": "/wiki/Georg_Henrik_von_Wright",
-            "raw": "Georg Henrik von Wright (1916 - 2003)",
+            "_raw": "Georg Henrik von Wright (1916 - 2003)",
             "birth": 1916,
             "death": 2003
         },
@@ -7223,7 +7223,7 @@
                 }
             ],
             "href": "/wiki/Kurt_Baier",
-            "raw": "Kurt Baier (1917 - 2010)",
+            "_raw": "Kurt Baier (1917 - 2010)",
             "birth": 1917,
             "death": 2010
         },
@@ -7239,7 +7239,7 @@
                 }
             ],
             "href": "/wiki/Donald_Davidson",
-            "raw": "Donald Davidson (1917 - 2003)",
+            "_raw": "Donald Davidson (1917 - 2003)",
             "birth": 1917,
             "death": 2003
         },
@@ -7255,7 +7255,7 @@
                 }
             ],
             "href": "/wiki/Louis_Althusser",
-            "raw": "Louis Althusser (1918-1990)",
+            "_raw": "Louis Althusser (1918-1990)",
             "birth": 1918,
             "death": 1990
         },
@@ -7271,7 +7271,7 @@
                 }
             ],
             "href": "/wiki/Gertrude_Elizabeth_Margaret_Anscombe",
-            "raw": "Gertrude Elizabeth Margaret Anscombe (1919 - 2001)",
+            "_raw": "Gertrude Elizabeth Margaret Anscombe (1919 - 2001)",
             "birth": 1919,
             "death": 2001
         },
@@ -7287,7 +7287,7 @@
                 }
             ],
             "href": "/wiki/Suzanne_Bachelard",
-            "raw": "Suzanne Bachelard (1919 - 2007)",
+            "_raw": "Suzanne Bachelard (1919 - 2007)",
             "birth": 1919,
             "death": 2007
         },
@@ -7303,7 +7303,7 @@
                 }
             ],
             "href": "/wiki/Mario_Bunge",
-            "raw": "Mario Bunge (1919 - )",
+            "_raw": "Mario Bunge (1919 - )",
             "birth": 191,
             "death": 9
         },
@@ -7319,7 +7319,7 @@
                 }
             ],
             "href": "/wiki/Peter_Frederick_Strawson",
-            "raw": "Peter Frederick Strawson (1919 - 2006)",
+            "_raw": "Peter Frederick Strawson (1919 - 2006)",
             "birth": 1919,
             "death": 2006
         },
@@ -7335,7 +7335,7 @@
                 }
             ],
             "href": "/wiki/Fernand_Brunner",
-            "raw": "Fernand Brunner (1920 - 1991)",
+            "_raw": "Fernand Brunner (1920 - 1991)",
             "birth": 1920,
             "death": 1991
         },
@@ -7351,7 +7351,7 @@
                 }
             ],
             "href": "/wiki/Jacques_D%27Hondt",
-            "raw": "Jacques D'Hondt (1920 - 2012)",
+            "_raw": "Jacques D'Hondt (1920 - 2012)",
             "birth": 1920,
             "death": 2012
         },
@@ -7367,7 +7367,7 @@
                 }
             ],
             "href": "/wiki/Jean_Ladri%C3%A8re",
-            "raw": "Jean Ladrière (1921 - 2007)",
+            "_raw": "Jean Ladrière (1921 - 2007)",
             "birth": 1921,
             "death": 2007
         },
@@ -7383,7 +7383,7 @@
                 }
             ],
             "href": "/wiki/Edgar_Morin",
-            "raw": "Edgar Morin (1921 - )",
+            "_raw": "Edgar Morin (1921 - )",
             "birth": 192,
             "death": 1
         },
@@ -7399,7 +7399,7 @@
                 }
             ],
             "href": "/wiki/John_Rawls",
-            "raw": "John Rawls (1921 - 2002)",
+            "_raw": "John Rawls (1921 - 2002)",
             "birth": 1921,
             "death": 2002
         },
@@ -7415,7 +7415,7 @@
                 }
             ],
             "href": "/wiki/Cornelius_Castoriadis",
-            "raw": "Cornelius Castoriadis (1922 - 1997)",
+            "_raw": "Cornelius Castoriadis (1922 - 1997)",
             "birth": 1922,
             "death": 1997
         },
@@ -7431,7 +7431,7 @@
                 }
             ],
             "href": "/wiki/Michel_Henry",
-            "raw": "Michel Henry (1922 - 2002)",
+            "_raw": "Michel Henry (1922 - 2002)",
             "birth": 1922,
             "death": 2002
         },
@@ -7447,7 +7447,7 @@
                 }
             ],
             "href": "/wiki/Thomas_Samuel_Kuhn",
-            "raw": "Thomas Samuel Kuhn (1922 - 1996)",
+            "_raw": "Thomas Samuel Kuhn (1922 - 1996)",
             "birth": 1922,
             "death": 1996
         },
@@ -7463,7 +7463,7 @@
                 }
             ],
             "href": "/wiki/Imre_Lakatos",
-            "raw": "Imre Lakatos (1922 - 1974)",
+            "_raw": "Imre Lakatos (1922 - 1974)",
             "birth": 1922,
             "death": 1974
         },
@@ -7479,7 +7479,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Hadot",
-            "raw": "Pierre Hadot (1922 - 2010)",
+            "_raw": "Pierre Hadot (1922 - 2010)",
             "birth": 1922,
             "death": 2010
         },
@@ -7495,7 +7495,7 @@
                 }
             ],
             "href": "/wiki/Ren%C3%A9_Girard_(philosophe)",
-            "raw": "René Girard (philosophe) (1923 - 2015)",
+            "_raw": "René Girard (philosophe) (1923 - 2015)",
             "birth": 1923,
             "death": 2015
         },
@@ -7511,7 +7511,7 @@
                 }
             ],
             "href": "/wiki/Paul_Feyerabend",
-            "raw": "Paul Feyerabend (1924 - 1994)",
+            "_raw": "Paul Feyerabend (1924 - 1994)",
             "birth": 1924,
             "death": 1994
         },
@@ -7527,7 +7527,7 @@
                 }
             ],
             "href": "/wiki/Jean-Fran%C3%A7ois_Lyotard",
-            "raw": "Jean-François Lyotard (1924 - 1998)",
+            "_raw": "Jean-François Lyotard (1924 - 1998)",
             "birth": 1924,
             "death": 1998
         },
@@ -7543,7 +7543,7 @@
                 }
             ],
             "href": "/wiki/Kostas_Axelos",
-            "raw": "Kostas Axelos (1924 - 2010)",
+            "_raw": "Kostas Axelos (1924 - 2010)",
             "birth": 1924,
             "death": 2010
         },
@@ -7559,7 +7559,7 @@
                 }
             ],
             "href": "/wiki/Jean-Fran%C3%A7ois_Revel",
-            "raw": "Jean-François Revel (1924 - 2006)",
+            "_raw": "Jean-François Revel (1924 - 2006)",
             "birth": 1924,
             "death": 2006
         },
@@ -7575,7 +7575,7 @@
                 }
             ],
             "href": "/wiki/Fran%C3%A7ois_Ch%C3%A2telet",
-            "raw": "François Châtelet (1925 - 1985)",
+            "_raw": "François Châtelet (1925 - 1985)",
             "birth": 1925,
             "death": 1985
         },
@@ -7591,7 +7591,7 @@
                 }
             ],
             "href": "/wiki/Gilles_Deleuze",
-            "raw": "Gilles Deleuze (1925 - 1995)",
+            "_raw": "Gilles Deleuze (1925 - 1995)",
             "birth": 1925,
             "death": 1995
         },
@@ -7607,7 +7607,7 @@
                 }
             ],
             "href": "/wiki/Michael_Dummett",
-            "raw": "Michael Dummett (1925 - 2011)",
+            "_raw": "Michael Dummett (1925 - 2011)",
             "birth": 1925,
             "death": 2011
         },
@@ -7623,7 +7623,7 @@
                 }
             ],
             "href": "/wiki/Albert_Jacquard",
-            "raw": "Albert Jacquard (1925 - 2013)",
+            "_raw": "Albert Jacquard (1925 - 2013)",
             "birth": 1925,
             "death": 2013
         },
@@ -7639,7 +7639,7 @@
                 }
             ],
             "href": "/w/index.php?title=Michel_Lefeuvre&action=edit&redlink=1",
-            "raw": "Michel Lefeuvre (page inexistante) (1925 - )",
+            "_raw": "Michel Lefeuvre (page inexistante) (1925 - )",
             "birth": 192,
             "death": 5
         },
@@ -7655,7 +7655,7 @@
                 }
             ],
             "href": "/wiki/Fran%C3%A7ois_Wahl",
-            "raw": "François Wahl (1925 - 2014)",
+            "_raw": "François Wahl (1925 - 2014)",
             "birth": 1925,
             "death": 2014
         },
@@ -7671,7 +7671,7 @@
                 }
             ],
             "href": "/wiki/Michel_Foucault",
-            "raw": "Michel Foucault (1926 - 1984)",
+            "_raw": "Michel Foucault (1926 - 1984)",
             "birth": 1926,
             "death": 1984
         },
@@ -7687,7 +7687,7 @@
                 }
             ],
             "href": "/wiki/Ivan_Illich",
-            "raw": "Ivan Illich (1926 - 2002)",
+            "_raw": "Ivan Illich (1926 - 2002)",
             "birth": 1926,
             "death": 2002
         },
@@ -7703,7 +7703,7 @@
                 }
             ],
             "href": "/wiki/Murray_Rothbard",
-            "raw": "Murray Rothbard (1926 - 1994)",
+            "_raw": "Murray Rothbard (1926 - 1994)",
             "birth": 1926,
             "death": 1994
         },
@@ -7719,7 +7719,7 @@
                 }
             ],
             "href": "/wiki/Stanley_Cavell",
-            "raw": "Stanley Cavell (1926 - )",
+            "_raw": "Stanley Cavell (1926 - )",
             "birth": 192,
             "death": 6
         },
@@ -7735,7 +7735,7 @@
                 }
             ],
             "href": "/wiki/Hilary_Putnam",
-            "raw": "Hilary Putnam (1926 - 2016)",
+            "_raw": "Hilary Putnam (1926 - 2016)",
             "birth": 1926,
             "death": 2016
         },
@@ -7751,7 +7751,7 @@
                 }
             ],
             "href": "/wiki/Robert_Misrahi",
-            "raw": "Robert Misrahi (1926 - )",
+            "_raw": "Robert Misrahi (1926 - )",
             "birth": 192,
             "death": 6
         },
@@ -7767,7 +7767,7 @@
                 }
             ],
             "href": "/wiki/Noam_Chomsky",
-            "raw": "Noam Chomsky (1928 - )",
+            "_raw": "Noam Chomsky (1928 - )",
             "birth": 192,
             "death": 8
         },
@@ -7783,7 +7783,7 @@
                 }
             ],
             "href": "/wiki/Jean_Baudrillard",
-            "raw": "Jean Baudrillard (1929 - 2007)",
+            "_raw": "Jean Baudrillard (1929 - 2007)",
             "birth": 1929,
             "death": 2007
         },
@@ -7799,7 +7799,7 @@
                 }
             ],
             "href": "/wiki/J%C3%BCrgen_Habermas",
-            "raw": "Jürgen Habermas (1929 - )",
+            "_raw": "Jürgen Habermas (1929 - )",
             "birth": 192,
             "death": 9
         },
@@ -7815,7 +7815,7 @@
                 }
             ],
             "href": "/wiki/Jaakko_Hintikka",
-            "raw": "Jaakko Hintikka (1929 - 2015)",
+            "_raw": "Jaakko Hintikka (1929 - 2015)",
             "birth": 1929,
             "death": 2015
         },
@@ -7831,7 +7831,7 @@
                 }
             ],
             "href": "/wiki/Alasdair_MacIntyre",
-            "raw": "Alasdair MacIntyre (1929 - )",
+            "_raw": "Alasdair MacIntyre (1929 - )",
             "birth": 192,
             "death": 9
         },
@@ -7847,7 +7847,7 @@
                 }
             ],
             "href": "/wiki/George_Steiner",
-            "raw": "George Steiner (1929 - )",
+            "_raw": "George Steiner (1929 - )",
             "birth": 192,
             "death": 9
         },
@@ -7863,7 +7863,7 @@
                 }
             ],
             "href": "/wiki/Jacques_Derrida",
-            "raw": "Jacques Derrida (1930 - 2004)",
+            "_raw": "Jacques Derrida (1930 - 2004)",
             "birth": 1930,
             "death": 2004
         },
@@ -7879,7 +7879,7 @@
                 }
             ],
             "href": "/wiki/F%C3%A9lix_Guattari",
-            "raw": "Félix Guattari (1930 - 1992)",
+            "_raw": "Félix Guattari (1930 - 1992)",
             "birth": 1930,
             "death": 1992
         },
@@ -7895,7 +7895,7 @@
                 }
             ],
             "href": "/wiki/Pierre_Bourdieu",
-            "raw": "Pierre Bourdieu (1930 - 2002)",
+            "_raw": "Pierre Bourdieu (1930 - 2002)",
             "birth": 1930,
             "death": 2002
         },
@@ -7911,7 +7911,7 @@
                 }
             ],
             "href": "/wiki/Michel_Serres",
-            "raw": "Michel Serres (1930 - )",
+            "_raw": "Michel Serres (1930 - )",
             "birth": 193
         },
         {
@@ -7926,7 +7926,7 @@
                 }
             ],
             "href": "/wiki/Egon_Bondy",
-            "raw": "Egon Bondy (1930 - 2007)",
+            "_raw": "Egon Bondy (1930 - 2007)",
             "birth": 1930,
             "death": 2007
         },
@@ -7942,7 +7942,7 @@
                 }
             ],
             "href": "/wiki/Henri_Atlan",
-            "raw": "Henri Atlan (1931 - )",
+            "_raw": "Henri Atlan (1931 - )",
             "birth": 193,
             "death": 1
         },
@@ -7958,7 +7958,7 @@
                 }
             ],
             "href": "/wiki/Guy_Debord",
-            "raw": "Guy Debord (1931 - 1994)",
+            "_raw": "Guy Debord (1931 - 1994)",
             "birth": 1931,
             "death": 1994
         },
@@ -7974,7 +7974,7 @@
                 }
             ],
             "href": "/wiki/Richard_Rorty",
-            "raw": "Richard Rorty (1931 - 2007)",
+            "_raw": "Richard Rorty (1931 - 2007)",
             "birth": 1931,
             "death": 2007
         },
@@ -7990,7 +7990,7 @@
                 }
             ],
             "href": "/wiki/Charles_Taylor_(philosophe)",
-            "raw": "Charles Taylor (philosophe) (1931 - )",
+            "_raw": "Charles Taylor (philosophe) (1931 - )",
             "birth": 193,
             "death": 1
         },
@@ -8006,7 +8006,7 @@
                 }
             ],
             "href": "/wiki/Umberto_Eco",
-            "raw": "Umberto Eco (1932 - 2016)",
+            "_raw": "Umberto Eco (1932 - 2016)",
             "birth": 1932,
             "death": 2016
         },
@@ -8022,7 +8022,7 @@
                 }
             ],
             "href": "/wiki/John_Searle",
-            "raw": "John Searle (1932 - )",
+            "_raw": "John Searle (1932 - )",
             "birth": 193,
             "death": 2
         },
@@ -8038,7 +8038,7 @@
                 }
             ],
             "href": "/wiki/Ali_Chariati",
-            "raw": "Ali Chariati (1933 - 1977)",
+            "_raw": "Ali Chariati (1933 - 1977)",
             "birth": 1933,
             "death": 1977
         },
@@ -8054,7 +8054,7 @@
                 }
             ],
             "href": "/wiki/Jean_Granier",
-            "raw": "Jean Granier (1933 - )",
+            "_raw": "Jean Granier (1933 - )",
             "birth": 193,
             "death": 3
         },
@@ -8070,7 +8070,7 @@
                 }
             ],
             "href": "/wiki/%C3%89lisabeth_de_Fontenay",
-            "raw": "Élisabeth de Fontenay (1934 - )",
+            "_raw": "Élisabeth de Fontenay (1934 - )",
             "birth": 193,
             "death": 4
         },
@@ -8086,7 +8086,7 @@
                 }
             ],
             "href": "/wiki/Sandra_G._Harding",
-            "raw": "Sandra G. Harding (1935 - )",
+            "_raw": "Sandra G. Harding (1935 - )",
             "birth": 193,
             "death": 5
         },
@@ -8102,7 +8102,7 @@
                 }
             ],
             "href": "/wiki/Ian_Hacking",
-            "raw": "Ian Hacking (1936 - )",
+            "_raw": "Ian Hacking (1936 - )",
             "birth": 193,
             "death": 6
         },
@@ -8118,7 +8118,7 @@
                 }
             ],
             "href": "/wiki/Alain_Badiou",
-            "raw": "Alain Badiou (1937 - )",
+            "_raw": "Alain Badiou (1937 - )",
             "birth": 193,
             "death": 7
         },
@@ -8134,7 +8134,7 @@
                 }
             ],
             "href": "/wiki/Andr%C3%A9_Glucksmann",
-            "raw": "André Glucksmann (1937 - 2015)",
+            "_raw": "André Glucksmann (1937 - 2015)",
             "birth": 1937,
             "death": 2015
         },
@@ -8150,7 +8150,7 @@
                 }
             ],
             "href": "/wiki/Fran%C3%A7ois_Laruelle",
-            "raw": "François Laruelle (1937 -)",
+            "_raw": "François Laruelle (1937 -)",
             "birth": 193,
             "death": 7
         },
@@ -8166,7 +8166,7 @@
                 }
             ],
             "href": "/wiki/Robert_Nozick",
-            "raw": "Robert Nozick (1938 - 2002)",
+            "_raw": "Robert Nozick (1938 - 2002)",
             "birth": 1938,
             "death": 2002
         },
@@ -8182,7 +8182,7 @@
                 }
             ],
             "href": "/wiki/Jos%C3%A9_Gil",
-            "raw": "José Gil (1939 - )",
+            "_raw": "José Gil (1939 - )",
             "birth": 193,
             "death": 9
         },
@@ -8198,9 +8198,9 @@
                 }
             ],
             "href": "/wiki/Cl%C3%A9ment_Rosset",
-            "raw": "Clément Rosset (1939 - )",
-            "birth": 193,
-            "death": 9
+            "_raw": "Clément Rosset (1939 - 2018 )",
+            "birth": 1939,
+            "death": 2018
         },
         {
             "title": "Tzvetan Todorov",
@@ -8214,7 +8214,7 @@
                 }
             ],
             "href": "/wiki/Tzvetan_Todorov",
-            "raw": "Tzvetan Todorov (1939 - 2017)",
+            "_raw": "Tzvetan Todorov (1939 - 2017)",
             "birth": 1939,
             "death": 2017
         },
@@ -8230,7 +8230,7 @@
                 }
             ],
             "href": "/wiki/Reiner_Sch%C3%BCrmann",
-            "raw": "Reiner Schürmann (1940 - 1993)",
+            "_raw": "Reiner Schürmann (1940 - 1993)",
             "birth": 1940,
             "death": 1993
         },
@@ -8246,7 +8246,7 @@
                 }
             ],
             "href": "/wiki/Jacques_Bouveresse",
-            "raw": "Jacques Bouveresse (1940 - )",
+            "_raw": "Jacques Bouveresse (1940 - )",
             "birth": 194
         },
         {
@@ -8261,7 +8261,7 @@
                 }
             ],
             "href": "/wiki/Saul_Aaron_Kripke",
-            "raw": "Saul Aaron Kripke (1940 - )",
+            "_raw": "Saul Aaron Kripke (1940 - )",
             "birth": 194
         },
         {
@@ -8276,7 +8276,7 @@
                 }
             ],
             "href": "/wiki/Philippe_Lacoue-Labarthe",
-            "raw": "Philippe Lacoue-Labarthe (1940 - 2007)",
+            "_raw": "Philippe Lacoue-Labarthe (1940 - 2007)",
             "birth": 1940,
             "death": 2007
         },
@@ -8292,7 +8292,7 @@
                 }
             ],
             "href": "/wiki/Jean-Luc_Nancy",
-            "raw": "Jean-Luc Nancy (1940 - )",
+            "_raw": "Jean-Luc Nancy (1940 - )",
             "birth": 194
         },
         {
@@ -8307,7 +8307,7 @@
                 }
             ],
             "href": "/wiki/Jacques_Ranci%C3%A8re",
-            "raw": "Jacques Rancière (1940 - )",
+            "_raw": "Jacques Rancière (1940 - )",
             "birth": 194
         },
         {
@@ -8322,7 +8322,7 @@
                 }
             ],
             "href": "/wiki/David_Lewis_(philosophe)",
-            "raw": "David Lewis (philosophe) (1941 - 2001)",
+            "_raw": "David Lewis (philosophe) (1941 - 2001)",
             "birth": 1941,
             "death": 2001
         },
@@ -8338,7 +8338,7 @@
                 }
             ],
             "href": "/wiki/Andr%C3%A9_Moreau",
-            "raw": "André Moreau (1941 - )",
+            "_raw": "André Moreau (1941 - )",
             "birth": 194,
             "death": 1
         },
@@ -8354,7 +8354,7 @@
                 }
             ],
             "href": "/w/index.php?title=Robert_C._Solomon&action=edit&redlink=1",
-            "raw": "Robert C. Solomon (page inexistante) (1942 - 2007)",
+            "_raw": "Robert C. Solomon (page inexistante) (1942 - 2007)",
             "birth": 1942,
             "death": 2007
         },
@@ -8370,7 +8370,7 @@
                 }
             ],
             "href": "/wiki/Daniel_Dennett",
-            "raw": "Daniel Dennett (1942 - )",
+            "_raw": "Daniel Dennett (1942 - )",
             "birth": 194,
             "death": 2
         },
@@ -8386,7 +8386,7 @@
                 }
             ],
             "href": "/wiki/Jean_C._Baudet",
-            "raw": "Jean C. Baudet (1944 - )",
+            "_raw": "Jean C. Baudet (1944 - )",
             "birth": 194,
             "death": 4
         },
@@ -8402,7 +8402,7 @@
                 }
             ],
             "href": "https://de.wikipedia.org/wiki/Rolf_K%C3%BChn_(Philosoph)",
-            "raw": "de:Rolf Kühn (Philosoph) (1944 - )",
+            "_raw": "de:Rolf Kühn (Philosoph) (1944 - )",
             "birth": 194,
             "death": 4
         },
@@ -8418,7 +8418,7 @@
                 }
             ],
             "href": "/wiki/Douglas_Hofstadter",
-            "raw": "Douglas Hofstadter (1945 - )",
+            "_raw": "Douglas Hofstadter (1945 - )",
             "birth": 194,
             "death": 5
         },
@@ -8434,7 +8434,7 @@
                 }
             ],
             "href": "/wiki/Michel_Gu%C3%A9rin",
-            "raw": "Michel Guérin (1946 - )",
+            "_raw": "Michel Guérin (1946 - )",
             "birth": 194,
             "death": 6
         },
@@ -8450,7 +8450,7 @@
                 }
             ],
             "href": "/wiki/Peter_Singer",
-            "raw": "Peter Singer (1946 - )",
+            "_raw": "Peter Singer (1946 - )",
             "birth": 194,
             "death": 6
         },
@@ -8466,7 +8466,7 @@
                 }
             ],
             "href": "/wiki/Marcel_Gauchet",
-            "raw": "Marcel Gauchet (1947 - )",
+            "_raw": "Marcel Gauchet (1947 - )",
             "birth": 194,
             "death": 7
         },
@@ -8482,7 +8482,7 @@
                 }
             ],
             "href": "/wiki/Barbara_Cassin",
-            "raw": "Barbara Cassin (1947 - )",
+            "_raw": "Barbara Cassin (1947 - )",
             "birth": 194,
             "death": 7
         },
@@ -8498,7 +8498,7 @@
                 }
             ],
             "href": "/wiki/Robert_Maggiori",
-            "raw": "Robert Maggiori (1947 - )",
+            "_raw": "Robert Maggiori (1947 - )",
             "birth": 194,
             "death": 7
         },
@@ -8514,7 +8514,7 @@
                 }
             ],
             "href": "/wiki/Peter_Sloterdijk",
-            "raw": "Peter Sloterdijk (1947 - )",
+            "_raw": "Peter Sloterdijk (1947 - )",
             "birth": 194,
             "death": 7
         },
@@ -8530,7 +8530,7 @@
                 }
             ],
             "href": "/wiki/Serge_Valdinoci",
-            "raw": "Serge Valdinoci (1947 - )",
+            "_raw": "Serge Valdinoci (1947 - )",
             "birth": 194,
             "death": 7
         },
@@ -8546,7 +8546,7 @@
                 }
             ],
             "href": "/wiki/Vincent_Descombes",
-            "raw": "Vincent Descombes (1948 - )",
+            "_raw": "Vincent Descombes (1948 - )",
             "birth": 194,
             "death": 8
         },
@@ -8562,7 +8562,7 @@
                 }
             ],
             "href": "/wiki/Bernard-Henri_L%C3%A9vy",
-            "raw": "Bernard-Henri Lévy (1948 - )",
+            "_raw": "Bernard-Henri Lévy (1948 - )",
             "birth": 194,
             "death": 8
         },
@@ -8578,7 +8578,7 @@
                 }
             ],
             "href": "/wiki/Henri_Mongis",
-            "raw": "Henri Mongis (1949 - )",
+            "_raw": "Henri Mongis (1949 - )",
             "birth": 194,
             "death": 9
         },
@@ -8594,7 +8594,7 @@
                 }
             ],
             "href": "/wiki/Hans-Hermann_Hoppe",
-            "raw": "Hans-Hermann Hoppe (1949 - )",
+            "_raw": "Hans-Hermann Hoppe (1949 - )",
             "birth": 194,
             "death": 9
         },
@@ -8610,7 +8610,7 @@
                 }
             ],
             "href": "/wiki/Axel_Honneth",
-            "raw": "Axel Honneth (1949 - )",
+            "_raw": "Axel Honneth (1949 - )",
             "birth": 194,
             "death": 9
         },
@@ -8626,7 +8626,7 @@
                 }
             ],
             "href": "/wiki/Alain_Finkielkraut",
-            "raw": "Alain Finkielkraut (1949 - )",
+            "_raw": "Alain Finkielkraut (1949 - )",
             "birth": 194,
             "death": 9
         },
@@ -8642,7 +8642,7 @@
                 }
             ],
             "href": "/wiki/Slavoj_%C5%BDi%C5%BEek",
-            "raw": "Slavoj Žižek (1949 - )",
+            "_raw": "Slavoj Žižek (1949 - )",
             "birth": 194,
             "death": 9
         },
@@ -8658,7 +8658,7 @@
                 }
             ],
             "href": "/wiki/Luc_Ferry",
-            "raw": "Luc Ferry (1951 - )",
+            "_raw": "Luc Ferry (1951 - )",
             "birth": 195,
             "death": 1
         },
@@ -8674,7 +8674,7 @@
                 }
             ],
             "href": "/wiki/Ruwen_Ogien",
-            "raw": "Ruwen Ogien (19xx - 2017)",
+            "_raw": "Ruwen Ogien (19xx - 2017)",
             "birth": 19,
             "death": 2017
         },
@@ -8690,7 +8690,7 @@
                 }
             ],
             "href": "/wiki/Fran%C3%A7ois_Jullien",
-            "raw": "François Jullien (1951 - )",
+            "_raw": "François Jullien (1951 - )",
             "birth": 195,
             "death": 1
         },
@@ -8706,7 +8706,7 @@
                 }
             ],
             "href": "/wiki/Andr%C3%A9_Comte-Sponville",
-            "raw": "André Comte-Sponville (1952 - )",
+            "_raw": "André Comte-Sponville (1952 - )",
             "birth": 195,
             "death": 2
         },
@@ -8722,7 +8722,7 @@
                 }
             ],
             "href": "/wiki/Bernard_Stiegler",
-            "raw": "Bernard Stiegler (1952 - )",
+            "_raw": "Bernard Stiegler (1952 - )",
             "birth": 195,
             "death": 2
         },
@@ -8738,7 +8738,7 @@
                 }
             ],
             "href": "/wiki/Miguel_Benasayag",
-            "raw": "Miguel Benasayag (1953 - )",
+            "_raw": "Miguel Benasayag (1953 - )",
             "birth": 195,
             "death": 3
         },
@@ -8754,7 +8754,7 @@
                 }
             ],
             "href": "/wiki/Dominique_Bourg",
-            "raw": "Dominique Bourg (1953 - )",
+            "_raw": "Dominique Bourg (1953 - )",
             "birth": 195,
             "death": 3
         },
@@ -8770,7 +8770,7 @@
                 }
             ],
             "href": "/wiki/Bruno_Pinchard",
-            "raw": "Bruno Pinchard (1955 - )",
+            "_raw": "Bruno Pinchard (1955 - )",
             "birth": 195,
             "death": 5
         },
@@ -8786,7 +8786,7 @@
                 }
             ],
             "href": "/wiki/Alan_Sokal",
-            "raw": "Alan Sokal (1955 - )",
+            "_raw": "Alan Sokal (1955 - )",
             "birth": 195,
             "death": 5
         },
@@ -8802,7 +8802,7 @@
                 }
             ],
             "href": "/wiki/Pierre_L%C3%A9vy_(philosophe)",
-            "raw": "Pierre Lévy (philosophe) (1956 - )",
+            "_raw": "Pierre Lévy (philosophe) (1956 - )",
             "birth": 195,
             "death": 6
         },
@@ -8818,7 +8818,7 @@
                 }
             ],
             "href": "/wiki/Judith_Butler",
-            "raw": "Judith Butler (1956 - )",
+            "_raw": "Judith Butler (1956 - )",
             "birth": 195,
             "death": 6
         },
@@ -8834,7 +8834,7 @@
                 }
             ],
             "href": "/wiki/Marc-Alain_Ouaknin",
-            "raw": "Marc-Alain Ouaknin (1957 - )",
+            "_raw": "Marc-Alain Ouaknin (1957 - )",
             "birth": 195,
             "death": 7
         },
@@ -8850,7 +8850,7 @@
                 }
             ],
             "href": "/wiki/Georges-Elia_Sarfati",
-            "raw": "Georges-Elia Sarfati (1957 - )",
+            "_raw": "Georges-Elia Sarfati (1957 - )",
             "birth": 195,
             "death": 7
         },
@@ -8866,7 +8866,7 @@
                 }
             ],
             "href": "/wiki/James_F._Conant",
-            "raw": "James F. Conant (1958 - )",
+            "_raw": "James F. Conant (1958 - )",
             "birth": 195,
             "death": 8
         },
@@ -8882,7 +8882,7 @@
                 }
             ],
             "href": "/wiki/Jean-Marc_Rouvi%C3%A8re",
-            "raw": "Jean-Marc Rouvière (1958 - )",
+            "_raw": "Jean-Marc Rouvière (1958 - )",
             "birth": 195,
             "death": 8
         },
@@ -8898,7 +8898,7 @@
                 }
             ],
             "href": "/wiki/Michel_Onfray",
-            "raw": "Michel Onfray (1959 - )",
+            "_raw": "Michel Onfray (1959 - )",
             "birth": 195,
             "death": 9
         },
@@ -8914,7 +8914,7 @@
                 }
             ],
             "href": "/wiki/Pascal_Michon",
-            "raw": "Pascal Michon (1959 - )",
+            "_raw": "Pascal Michon (1959 - )",
             "birth": 195,
             "death": 9
         },
@@ -8930,7 +8930,7 @@
                 }
             ],
             "href": "/wiki/Catherine_Malabou",
-            "raw": "Catherine Malabou (1959 - )",
+            "_raw": "Catherine Malabou (1959 - )",
             "birth": 195,
             "death": 9
         },
@@ -8946,7 +8946,7 @@
                 }
             ],
             "href": "/wiki/Yves-Marie_Adeline",
-            "raw": "Yves-Marie Adeline (1960 - )",
+            "_raw": "Yves-Marie Adeline (1960 - )",
             "birth": 196
         },
         {
@@ -8961,7 +8961,7 @@
                 }
             ],
             "href": "/wiki/Michel_Puech",
-            "raw": "Michel Puech (1960 - )",
+            "_raw": "Michel Puech (1960 - )",
             "birth": 196
         },
         {
@@ -8976,7 +8976,7 @@
                 }
             ],
             "href": "/wiki/Sandra_Laugier",
-            "raw": "Sandra Laugier (1961 - )",
+            "_raw": "Sandra Laugier (1961 - )",
             "birth": 196,
             "death": 1
         },
@@ -8992,7 +8992,7 @@
                 }
             ],
             "href": "/wiki/Tariq_Ramadan",
-            "raw": "Tariq Ramadan (1962 - )",
+            "_raw": "Tariq Ramadan (1962 - )",
             "birth": 196,
             "death": 2
         },
@@ -9008,7 +9008,7 @@
                 }
             ],
             "href": "/wiki/Laurence_Vanin-Verna",
-            "raw": "Laurence Vanin-Verna (1966 - )",
+            "_raw": "Laurence Vanin-Verna (1966 - )",
             "birth": 196,
             "death": 6
         },
@@ -9023,7 +9023,7 @@
                     "href": "/wiki/XXe_si%C3%A8cle"
                 }
             ],
-            "raw": "Victor De Jesus (1967 - )",
+            "_raw": "Victor De Jesus (1967 - )",
             "birth": 196,
             "death": 7
         },
@@ -9039,7 +9039,7 @@
                 }
             ],
             "href": "/wiki/Claude_Romano",
-            "raw": "Claude Romano (1967 - )",
+            "_raw": "Claude Romano (1967 - )",
             "birth": 196,
             "death": 7
         },
@@ -9055,7 +9055,7 @@
                 }
             ],
             "href": "/wiki/Jocelyn_Benoist",
-            "raw": "Jocelyn Benoist (1968 - )",
+            "_raw": "Jocelyn Benoist (1968 - )",
             "birth": 196,
             "death": 8
         },
@@ -9071,7 +9071,7 @@
                 }
             ],
             "href": "/wiki/Bernard_Aspe",
-            "raw": "Bernard Aspe (1970 - )",
+            "_raw": "Bernard Aspe (1970 - )",
             "birth": 197
         },
         {
@@ -9086,7 +9086,7 @@
                 }
             ],
             "href": "/wiki/Mehdi_Belhaj_Kacem",
-            "raw": "Mehdi Belhaj Kacem (1973 - )",
+            "_raw": "Mehdi Belhaj Kacem (1973 - )",
             "birth": 197,
             "death": 3
         },
@@ -9102,7 +9102,7 @@
                 }
             ],
             "href": "/wiki/Vincent_Cespedes",
-            "raw": "Vincent Cespedes (1973 - )",
+            "_raw": "Vincent Cespedes (1973 - )",
             "birth": 197,
             "death": 3
         },
@@ -9115,7 +9115,7 @@
                 }
             ],
             "href": "/wiki/Liste_de_philosophes_italiens",
-            "raw": "Liste de philosophes italiens"
+            "_raw": "Liste de philosophes italiens"
         },
         {
             "title": "Liste de philosophes américains",
@@ -9126,7 +9126,7 @@
                 }
             ],
             "href": "/wiki/Liste_de_philosophes_am%C3%A9ricains",
-            "raw": "Liste de philosophes américains"
+            "_raw": "Liste de philosophes américains"
         },
         {
             "title": "Liste de philosophes britanniques",
@@ -9137,7 +9137,7 @@
                 }
             ],
             "href": "/wiki/Liste_de_philosophes_britanniques",
-            "raw": "Liste de philosophes britanniques"
+            "_raw": "Liste de philosophes britanniques"
         },
         {
             "title": "Philosophie",
@@ -9148,7 +9148,7 @@
                 }
             ],
             "href": "/wiki/Philosophie",
-            "raw": "Philosophie"
+            "_raw": "Philosophie"
         },
         {
             "title": "Philosophe",
@@ -9159,7 +9159,7 @@
                 }
             ],
             "href": "/wiki/Philosophe",
-            "raw": "Philosophe"
+            "_raw": "Philosophe"
         },
         {
             "title": "",
@@ -9169,11 +9169,11 @@
                     "href": "/wiki/XXe_si%C3%A8cle"
                 }
             ],
-            "raw": "undefined"
+            "_raw": "undefined"
         }
     ],
     "length": 516,
-    "lastupdate": "2018-06-08T16:47:56.581Z",
+    "lastupdate": "2018-06-13T16:49:38.063Z",
     "page": "Liste_de_philosophes_par_année_de_naissance",
     "dataId": "philos"
 }

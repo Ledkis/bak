@@ -1,841 +1,842 @@
 {
-    "title": "Liste_des_souverains_d'Allemagne",
     "list": [
         {
+            "_Portrait": "",
+            "_Nom": "Pépin Ier le Bref\n(Vers 715 - 24 septembre 768, Saint-Denis)",
+            "_Début du règne": "novembre\n751",
+            "_Fin du\nrègne": "9 octobre\n768",
+            "_Titres": "Roi des Francs",
             "attribs": [
                 "Dynastie carolingienne"
-            ],
-            "Portrait": "",
-            "Nom": "Pépin Ier le Bref\n(Vers 715 - 24 septembre 768, Saint-Denis)",
-            "Début du règne": "novembre\n751",
-            "Fin du\nrègne": "9 octobre\n768",
-            "Titres": "Roi des Francs"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Carloman Ier\n(751, Soissons – 4 décembre 771, Samoussy)",
+            "_Début du règne": "9 octobre\n768",
+            "_Fin du\nrègne": "4 décembre\n771",
+            "_Titres": "Roi des Francs",
             "attribs": [
                 "Dynastie carolingienne"
-            ],
-            "Portrait": "",
-            "Nom": "Carloman Ier\n(751, Soissons – 4 décembre 771, Samoussy)",
-            "Début du règne": "9 octobre\n768",
-            "Fin du\nrègne": "4 décembre\n771",
-            "Titres": "Roi des Francs"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Charlemagne (Charles Ier le Grand\n(2 avril 742/748 – 28 janvier 814, Aix-la-Chapelle)",
+            "_Début du règne": "9 octobre\n768",
+            "_Fin du\nrègne": "28 janvier\n814",
+            "_Titres": "Roi des Francs\nEmpereur d'Occident (800-814)\nRoi des Lombards (774-814)",
             "attribs": [
                 "Dynastie carolingienne"
-            ],
-            "Portrait": "",
-            "Nom": "Charlemagne (Charles Ier le Grand\n(2 avril 742/748 – 28 janvier 814, Aix-la-Chapelle)",
-            "Début du règne": "9 octobre\n768",
-            "Fin du\nrègne": "28 janvier\n814",
-            "Titres": "Roi des Francs\nEmpereur d'Occident (800-814)\nRoi des Lombards (774-814)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Louis Ier le Pieux\n(778, Chasseneuil-du-Poitou – 20 juin 840, Ingelheim)",
+            "_Début du règne": "28 janvier\n814",
+            "_Fin du\nrègne": "20 juin\n840",
+            "_Titres": "Roi des Francs\nEmpereur d'Occident (814-840)\nRoi d'Aquitaine (781-814)",
             "attribs": [
                 "Dynastie carolingienne"
-            ],
-            "Portrait": "",
-            "Nom": "Louis Ier le Pieux\n(778, Chasseneuil-du-Poitou – 20 juin 840, Ingelheim)",
-            "Début du règne": "28 janvier\n814",
-            "Fin du\nrègne": "20 juin\n840",
-            "Titres": "Roi des Francs\nEmpereur d'Occident (814-840)\nRoi d'Aquitaine (781-814)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Louis II le Germanique\n(806 – 28 août 876, Francfort-sur-le-Main)",
+            "_Début du règne": "Août\n843",
+            "_Fin du\nrègne": "23 août\n876",
+            "_Titres": "Roi de Francie orientale\nRoi de Bavière (817-843)",
             "attribs": [
                 "Dynastie carolingienne"
-            ],
-            "Portrait": "",
-            "Nom": "Louis II le Germanique\n(806 – 28 août 876, Francfort-sur-le-Main)",
-            "Début du règne": "Août\n843",
-            "Fin du\nrègne": "23 août\n876",
-            "Titres": "Roi de Francie orientale\nRoi de Bavière (817-843)"
+            ]
         },
         {
-            "attribs": [],
-            "Portrait": "",
-            "Nom": "Charles II le Gros\n(Empereur Charles III)\n(13 juin 839 – 13 janvier 888, Neudingen)",
-            "Début du règne": "20 janvier\n882",
-            "Fin du\nrègne": "11 novembre\n887",
-            "Titres": "Roi de Francie orientale\nEmpereur d'Occident (881-887)\nRoi d'Italie (880-887)\nRégent de Francie occidentale (885-887)"
+            "_Portrait": "",
+            "_Nom": "Charles II le Gros\n(Empereur Charles III)\n(13 juin 839 – 13 janvier 888, Neudingen)",
+            "_Début du règne": "20 janvier\n882",
+            "_Fin du\nrègne": "11 novembre\n887",
+            "_Titres": "Roi de Francie orientale\nEmpereur d'Occident (881-887)\nRoi d'Italie (880-887)\nRégent de Francie occidentale (885-887)",
+            "attribs": []
         },
         {
-            "attribs": [],
-            "Portrait": "",
-            "Nom": "Arnulf de Carinthie\n(850 – 8 décembre 899, Bavière)",
-            "Début du règne": "30 novembre\n887",
-            "Fin du\nrègne": "8 décembre\n899",
-            "Titres": "Roi de Francie orientale\nEmpereur d'Occident (896-899)\nRoi d'Italie (897-899)"
+            "_Portrait": "",
+            "_Nom": "Arnulf de Carinthie\n(850 – 8 décembre 899, Bavière)",
+            "_Début du règne": "30 novembre\n887",
+            "_Fin du\nrègne": "8 décembre\n899",
+            "_Titres": "Roi de Francie orientale\nEmpereur d'Occident (896-899)\nRoi d'Italie (897-899)",
+            "attribs": []
         },
         {
-            "attribs": [],
-            "Portrait": "",
-            "Nom": "Louis IV l'Enfant\n(Juillet 893, Altötting – 20 ou 24 septembre 911, Regensburg)",
-            "Début du règne": "21 janvier\n900",
-            "Fin du\nrègne": "20 ou 24 septembre\n911",
-            "Titres": "Roi de Francie orientale\nRoi de Lotharingie (900-911)"
+            "_Portrait": "",
+            "_Nom": "Louis IV l'Enfant\n(Juillet 893, Altötting – 20 ou 24 septembre 911, Regensburg)",
+            "_Début du règne": "21 janvier\n900",
+            "_Fin du\nrègne": "20 ou 24 septembre\n911",
+            "_Titres": "Roi de Francie orientale\nRoi de Lotharingie (900-911)",
+            "attribs": []
         },
         {
+            "_Portrait": "",
+            "_Nom": "Conrad Ier\n(890 – 23 décembre 918, Château de Weilburg)",
+            "_Début du règne": "10 novembre\n911",
+            "_Fin du\nrègne": "23 décembre\n918",
+            "_Titres": "Roi de Francie orientale\nDuc de Franconie (906-911)",
             "attribs": [
                 "Dynastie des Conradiens"
-            ],
-            "Portrait": "",
-            "Nom": "Conrad Ier\n(890 – 23 décembre 918, Château de Weilburg)",
-            "Début du règne": "10 novembre\n911",
-            "Fin du\nrègne": "23 décembre\n918",
-            "Titres": "Roi de Francie orientale\nDuc de Franconie (906-911)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri Ier l'Oiseleur\n(876 – 2 juillet 936, Memleben)",
+            "_Début du règne": "6 mai\n919",
+            "_Fin du\nrègne": "2 juillet\n936",
+            "_Titres": "Roi de Germanie\nDuc de Saxe (912-936)",
             "attribs": [
                 "Dynastie Ottonienne"
-            ],
-            "Portrait": "",
-            "Nom": "Henri Ier l'Oiseleur\n(876 – 2 juillet 936, Memleben)",
-            "Début du règne": "6 mai\n919",
-            "Fin du\nrègne": "2 juillet\n936",
-            "Titres": "Roi de Germanie\nDuc de Saxe (912-936)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Otton Ier le Grand\n(23 novembre 912, Wallhausen – 7 mai 973, Thuringes)",
+            "_Début du règne": "2 juillet\n936",
+            "_Fin du\nrègne": "7 mai\n973",
+            "_Titres": "Roi de Germanie\net autres titres...\n(voir ci-dessous)",
             "attribs": [
                 "Dynastie Ottonienne"
-            ],
-            "Portrait": "",
-            "Nom": "Otton Ier le Grand\n(23 novembre 912, Wallhausen – 7 mai 973, Thuringes)",
-            "Début du règne": "2 juillet\n936",
-            "Fin du\nrègne": "7 mai\n973",
-            "Titres": "Roi de Germanie\net autres titres...\n(voir ci-dessous)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Otton Ier le Grand\n(23 novembre 912, Wallhausen – 7 mai 973, Thuringes)",
+            "_Début du règne": "2 juillet\n936",
+            "_Fin du\nrègne": "7 mai\n973",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (962-973)\nRoi d'Italie (951-973)\nDuc de Saxe (936-973)",
             "attribs": [
                 "Dynastie Ottonienne"
-            ],
-            "Portrait": "",
-            "Nom": "Otton Ier le Grand\n(23 novembre 912, Wallhausen – 7 mai 973, Thuringes)",
-            "Début du règne": "2 juillet\n936",
-            "Fin du\nrègne": "7 mai\n973",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (962-973)\nRoi d'Italie (951-973)\nDuc de Saxe (936-973)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Otton II\n(955 – 7 décembre 983, Rome)",
+            "_Début du règne": "26 mai\n961",
+            "_Fin du\nrègne": "7 décembre\n983",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (967-983)\nRoi d'Italie (980-983)",
             "attribs": [
                 "Dynastie Ottonienne"
-            ],
-            "Portrait": "",
-            "Nom": "Otton II\n(955 – 7 décembre 983, Rome)",
-            "Début du règne": "26 mai\n961",
-            "Fin du\nrègne": "7 décembre\n983",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (967-983)\nRoi d'Italie (980-983)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Otton III\n(980, Kessel – 23 janvier 1002, Paterno)",
+            "_Début du règne": "mai (?)\n983",
+            "_Fin du\nrègne": "21 janvier\n1002",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (996-1002)\nRoi d'Italie (996-1002)",
             "attribs": [
                 "Dynastie Ottonienne"
-            ],
-            "Portrait": "",
-            "Nom": "Otton III\n(980, Kessel – 23 janvier 1002, Paterno)",
-            "Début du règne": "mai (?)\n983",
-            "Fin du\nrègne": "21 janvier\n1002",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (996-1002)\nRoi d'Italie (996-1002)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri II le Saint ou le Boiteux\n(6 mai 973, Bavière – 13 juillet 1024, Göttingen)",
+            "_Début du règne": "7 juin\n1002",
+            "_Fin du\nrègne": "1\" juillet\n1024",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1014-1024)\nRoi d'Italie (1004-1024)\nDuc de Bavière (995-1004 et 1009-1017)",
             "attribs": [
                 "Dynastie Ottonienne"
-            ],
-            "Portrait": "",
-            "Nom": "Henri II le Saint ou le Boiteux\n(6 mai 973, Bavière – 13 juillet 1024, Göttingen)",
-            "Début du règne": "7 juin\n1002",
-            "Fin du\nrègne": "1\" juillet\n1024",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1014-1024)\nRoi d'Italie (1004-1024)\nDuc de Bavière (995-1004 et 1009-1017)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Conrad II le Salique\n(990 – 4 juin 1039, Utrecht)",
+            "_Début du règne": "4 septembre\n1024",
+            "_Fin du\nrègne": "4 juin\n1039",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1027-1039)\nRoi d'Italie (1026-1039)\nRoi de Bourgogne (1032-1039)",
             "attribs": [
                 "Dynastie franconienne"
-            ],
-            "Portrait": "",
-            "Nom": "Conrad II le Salique\n(990 – 4 juin 1039, Utrecht)",
-            "Début du règne": "4 septembre\n1024",
-            "Fin du\nrègne": "4 juin\n1039",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1027-1039)\nRoi d'Italie (1026-1039)\nRoi de Bourgogne (1032-1039)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri III le Noir\n(28 octobre 1017 – 5 octobre 1056, Bodfeld)",
+            "_Début du règne": "14 avril\n1028",
+            "_Fin du\nrègne": "5 octobre\n1056",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1046-1056)\nRoi de Bourgogne (1038-1056)\nRoi d'Italie (1039-1056)\nDuc de Bavière (1026-1041)\nDuc de Souabe (1038-1045)\nDuc de Carinthie (1039-1047)",
             "attribs": [
                 "Dynastie franconienne"
-            ],
-            "Portrait": "",
-            "Nom": "Henri III le Noir\n(28 octobre 1017 – 5 octobre 1056, Bodfeld)",
-            "Début du règne": "14 avril\n1028",
-            "Fin du\nrègne": "5 octobre\n1056",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1046-1056)\nRoi de Bourgogne (1038-1056)\nRoi d'Italie (1039-1056)\nDuc de Bavière (1026-1041)\nDuc de Souabe (1038-1045)\nDuc de Carinthie (1039-1047)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri IV\n(11 novembre 1050, Goslar – 7 août 1106, Liège)",
+            "_Début du règne": "\n1053",
+            "_Fin du\nrègne": "31 décembre\n1105",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1084-1105)\nRoi de Bourgogne (1056-1105)\nRoi d'Italie (1080-1093)\nDuc de Bavière (1053-1054, 1055-1061 et 1077-1096)",
             "attribs": [
                 "Dynastie franconienne"
-            ],
-            "Portrait": "",
-            "Nom": "Henri IV\n(11 novembre 1050, Goslar – 7 août 1106, Liège)",
-            "Début du règne": "\n1053",
-            "Fin du\nrègne": "31 décembre\n1105",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1084-1105)\nRoi de Bourgogne (1056-1105)\nRoi d'Italie (1080-1093)\nDuc de Bavière (1053-1054, 1055-1061 et 1077-1096)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Rodolphe de Rheinfelden\n(1025 – 15 octobre 1080, Merseburg)",
+            "_Début du règne": "15 mars\n1077",
+            "_Fin du\nrègne": "15 octobre\n1080",
+            "_Titres": "Antiroi d'Henri IV\nDuc de Souabe (1057-1079)",
             "attribs": [
                 "Dynastie franconienne"
-            ],
-            "Portrait": "",
-            "Nom": "Rodolphe de Rheinfelden\n(1025 – 15 octobre 1080, Merseburg)",
-            "Début du règne": "15 mars\n1077",
-            "Fin du\nrègne": "15 octobre\n1080",
-            "Titres": "Antiroi d'Henri IV\nDuc de Souabe (1057-1079)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Hermann de Salm\n(1035 – 28 septembre 1088, Cochem)",
+            "_Début du règne": "6 août\n1081",
+            "_Fin du\nrègne": "28 septembre\n1088",
+            "_Titres": "Antiroi d'Henri IV",
             "attribs": [
                 "Dynastie franconienne"
-            ],
-            "Portrait": "",
-            "Nom": "Hermann de Salm\n(1035 – 28 septembre 1088, Cochem)",
-            "Début du règne": "6 août\n1081",
-            "Fin du\nrègne": "28 septembre\n1088",
-            "Titres": "Antiroi d'Henri IV"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Conrad le Franc\n(12 février 1074, Abbaye de Hersfeld – 27 juillet 1101, Florence)",
+            "_Début du règne": "30 mai\n1087",
+            "_Fin du\nrègne": "avril\n1098",
+            "_Titres": "Roi de Germanie\nAntiroi d'Henri IV et Henri V (1098-1101)\nRoi d'Italie (1093-1098)\nDuc de Basse-Lotharingie (1093-1098)",
             "attribs": [
                 "Dynastie franconienne"
-            ],
-            "Portrait": "",
-            "Nom": "Conrad le Franc\n(12 février 1074, Abbaye de Hersfeld – 27 juillet 1101, Florence)",
-            "Début du règne": "30 mai\n1087",
-            "Fin du\nrègne": "avril\n1098",
-            "Titres": "Roi de Germanie\nAntiroi d'Henri IV et Henri V (1098-1101)\nRoi d'Italie (1093-1098)\nDuc de Basse-Lotharingie (1093-1098)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri V\n(11 août 1086, Goslar – 23 mai 1125, Utrecht)",
+            "_Début du règne": "6 janvier\n1099",
+            "_Fin du\nrègne": "23 mai\n1125",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1111-1125)\nRoi d'Italie (1106-1125)\nRoi de Bourgogne (1105-1125)",
             "attribs": [
                 "Dynastie franconienne"
-            ],
-            "Portrait": "",
-            "Nom": "Henri V\n(11 août 1086, Goslar – 23 mai 1125, Utrecht)",
-            "Début du règne": "6 janvier\n1099",
-            "Fin du\nrègne": "23 mai\n1125",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1111-1125)\nRoi d'Italie (1106-1125)\nRoi de Bourgogne (1105-1125)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Lothaire III le Saxon\n(9 juin 1075, Unterlüß – 4 juin 1137)",
+            "_Début du règne": "30 août\n1125",
+            "_Fin du\nrègne": "4 décembre\n1137",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1133-1137)\nRoi d'Italie (1125-1137)\nRoi de Bourgogne (1125-1137)\nDuc de Saxe (1106-1137)",
             "attribs": [
                 "Maison de Supplimbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Lothaire III le Saxon\n(9 juin 1075, Unterlüß – 4 juin 1137)",
-            "Début du règne": "30 août\n1125",
-            "Fin du\nrègne": "4 décembre\n1137",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1133-1137)\nRoi d'Italie (1125-1137)\nRoi de Bourgogne (1125-1137)\nDuc de Saxe (1106-1137)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Conrad III\n(1093, Bamberg – 15 février 1152, Bamberg)",
+            "_Début du règne": "7 mars\n1138",
+            "_Fin du\nrègne": "15 février\n1152",
+            "_Titres": "Roi de Germanie\nRoi d'Italie (1128-1135)\nRoi de Bourgogne (1138-1152)",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Conrad III\n(1093, Bamberg – 15 février 1152, Bamberg)",
-            "Début du règne": "7 mars\n1138",
-            "Fin du\nrègne": "15 février\n1152",
-            "Titres": "Roi de Germanie\nRoi d'Italie (1128-1135)\nRoi de Bourgogne (1138-1152)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri Bérenger\n(1137 – 1150)",
+            "_Début du règne": "13 mars\n1147",
+            "_Fin du\nrègne": "août (?)\n1150",
+            "_Titres": "Roi de Germanie",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Henri Bérenger\n(1137 – 1150)",
-            "Début du règne": "13 mars\n1147",
-            "Fin du\nrègne": "août (?)\n1150",
-            "Titres": "Roi de Germanie"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Frédéric Ier Barberousse\n(1122 – 10 juin 1190, Rivière Göksu Nehri)",
+            "_Début du règne": "4 mars\n1152",
+            "_Fin du\nrègne": "10 juin\n1190",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1155-1190)\nRoi de Bourgogne (1152-1190)\nRoi d'Italie (1155-1190)\nDuc de Souabe (1147-1152)",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Frédéric Ier Barberousse\n(1122 – 10 juin 1190, Rivière Göksu Nehri)",
-            "Début du règne": "4 mars\n1152",
-            "Fin du\nrègne": "10 juin\n1190",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1155-1190)\nRoi de Bourgogne (1152-1190)\nRoi d'Italie (1155-1190)\nDuc de Souabe (1147-1152)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri VI le Cruel\n(Novembre 1165, Nimègue – 28 septembre 1197, Messine)",
+            "_Début du règne": "27 juillet\n1169",
+            "_Fin du\nrègne": "28 septembre\n1197",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1191-1197)\nRoi de Bourgogne (1190-1197)\nRoi d'Italie (1186-1197)\nRoi de Sicile (1194-1197)",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Henri VI le Cruel\n(Novembre 1165, Nimègue – 28 septembre 1197, Messine)",
-            "Début du règne": "27 juillet\n1169",
-            "Fin du\nrègne": "28 septembre\n1197",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1191-1197)\nRoi de Bourgogne (1190-1197)\nRoi d'Italie (1186-1197)\nRoi de Sicile (1194-1197)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Frédéric II\n(26 décembre 1194, Jesi – 13 décembre 1250, Fiorentino)",
+            "_Début du règne": "\n1196",
+            "_Fin du\nrègne": "\n1198",
+            "_Titres": "Roi de Germanie",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Frédéric II\n(26 décembre 1194, Jesi – 13 décembre 1250, Fiorentino)",
-            "Début du règne": "\n1196",
-            "Fin du\nrègne": "\n1198",
-            "Titres": "Roi de Germanie"
+            ]
         },
         {
-            "attribs": [],
-            "Portrait": "",
-            "Nom": "Philippe Ier\n(1177 – 21 juin 1208, Bamberg)",
-            "Début du règne": "8 mars\n1198",
-            "Fin du\nrègne": "21 août\n1208",
-            "Titres": "Roi de Germanie\nRoi de Bourgogne (1198-1208)\nDuc de Souabe (1196-1208)"
+            "_Portrait": "",
+            "_Nom": "Philippe Ier\n(1177 – 21 juin 1208, Bamberg)",
+            "_Début du règne": "8 mars\n1198",
+            "_Fin du\nrègne": "21 août\n1208",
+            "_Titres": "Roi de Germanie\nRoi de Bourgogne (1198-1208)\nDuc de Souabe (1196-1208)",
+            "attribs": []
         },
         {
+            "_Portrait": "",
+            "_Nom": "Otton IV\n(Vers 1175, Normandie – 19 mai 1218, Harzburg)",
+            "_Début du règne": "29 mars\n1198",
+            "_Fin du\nrègne": "5 juillet\n1215",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1209-1215)\nRoi d'Italie (1209-1212)\nRoi de Bourgogne (1208-1215)\nDuc de Souabe (1208-1212)",
             "attribs": [
                 "Maison de Welf"
-            ],
-            "Portrait": "",
-            "Nom": "Otton IV\n(Vers 1175, Normandie – 19 mai 1218, Harzburg)",
-            "Début du règne": "29 mars\n1198",
-            "Fin du\nrègne": "5 juillet\n1215",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1209-1215)\nRoi d'Italie (1209-1212)\nRoi de Bourgogne (1208-1215)\nDuc de Souabe (1208-1212)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Frédéric II\n(26 décembre 1194, Jesi – 13 décembre 1250, Fiorentino)",
+            "_Début du règne": "5 juillet\n1215",
+            "_Fin du\nrègne": "26 décembre\n1250",
+            "_Titres": "Roi de Germanie\nAntiroi d'Otton IV (1212-1215)\nEmpereur des Romains (1220-1250)\nRoi de Sicile (1198-1250)\nRoi de Jérusalem (1228-1250)\nDuc de Souabe (1212-1216)",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Frédéric II\n(26 décembre 1194, Jesi – 13 décembre 1250, Fiorentino)",
-            "Début du règne": "5 juillet\n1215",
-            "Fin du\nrègne": "26 décembre\n1250",
-            "Titres": "Roi de Germanie\nAntiroi d'Otton IV (1212-1215)\nEmpereur des Romains (1220-1250)\nRoi de Sicile (1198-1250)\nRoi de Jérusalem (1228-1250)\nDuc de Souabe (1212-1216)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri VII\n(1211 – 12 février 1242, Martirano)",
+            "_Début du règne": "23 avril\n1220",
+            "_Fin du\nrègne": "15 août\n1235",
+            "_Titres": "Roi de Germanie\nRoi de Sicile (1212-1217)\nDuc de Souabe (1216-1235)",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Henri VII\n(1211 – 12 février 1242, Martirano)",
-            "Début du règne": "23 avril\n1220",
-            "Fin du\nrègne": "15 août\n1235",
-            "Titres": "Roi de Germanie\nRoi de Sicile (1212-1217)\nDuc de Souabe (1216-1235)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Conrad IV\n(25 avril 1228, Andria – 21 mai 1254, Lavello)",
+            "_Début du règne": "mai\n1237",
+            "_Fin du\nrègne": "1er mai\n1254",
+            "_Titres": "Roi de Germanie\nRoi de Jérusalem (1228-1254)\nRoi de Sicile (1250-1254)\nDuc de Souabe (1235-1254)",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Conrad IV\n(25 avril 1228, Andria – 21 mai 1254, Lavello)",
-            "Début du règne": "mai\n1237",
-            "Fin du\nrègne": "1er mai\n1254",
-            "Titres": "Roi de Germanie\nRoi de Jérusalem (1228-1254)\nRoi de Sicile (1250-1254)\nDuc de Souabe (1235-1254)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri le Raspon\n(1204 – 16 février 1247, Wartburg)",
+            "_Début du règne": "22 mai\n1246",
+            "_Fin du\nrègne": "16 février\n1247",
+            "_Titres": "Antiroi de Frédéric II et Conrad IV",
             "attribs": [
                 "Maison de Hohenstaufen"
-            ],
-            "Portrait": "",
-            "Nom": "Henri le Raspon\n(1204 – 16 février 1247, Wartburg)",
-            "Début du règne": "22 mai\n1246",
-            "Fin du\nrègne": "16 février\n1247",
-            "Titres": "Antiroi de Frédéric II et Conrad IV"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Guillaume Ier\n(Février 1228 – 28 janvier 1256)",
+            "_Début du règne": "1er mai\n1254",
+            "_Fin du\nrègne": "28 janvier\n1256",
+            "_Titres": "Roi de Germanie\nAntiroi de Frédéric II et Conrad IV (1247-1254)\nComte de Hollande et de Zélande (1235-1256)",
             "attribs": [
                 "Grand Interrègne"
-            ],
-            "Portrait": "",
-            "Nom": "Guillaume Ier\n(Février 1228 – 28 janvier 1256)",
-            "Début du règne": "1er mai\n1254",
-            "Fin du\nrègne": "28 janvier\n1256",
-            "Titres": "Roi de Germanie\nAntiroi de Frédéric II et Conrad IV (1247-1254)\nComte de Hollande et de Zélande (1235-1256)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Richard Ier\n(5 janvier 1209, Winchester – 2 avril 1272, Berkhamstead)",
+            "_Début du règne": "13 janvier\n1257",
+            "_Fin du\nrègne": "2 avril\n1272",
+            "_Titres": "Roi de Germanie",
             "attribs": [
                 "Grand Interrègne"
-            ],
-            "Portrait": "",
-            "Nom": "Richard Ier\n(5 janvier 1209, Winchester – 2 avril 1272, Berkhamstead)",
-            "Début du règne": "13 janvier\n1257",
-            "Fin du\nrègne": "2 avril\n1272",
-            "Titres": "Roi de Germanie"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Alphonse X de Castille\n(23 novembre 1223, Tolède – 4 avril 1284, Séville)",
+            "_Début du règne": "1er avril\n1257",
+            "_Fin du\nrègne": "2 avril\n1272",
+            "_Titres": "Antiroi de Richard Ier\nRoi de Castille et de Léon (1252-1284)",
             "attribs": [
                 "Grand Interrègne"
-            ],
-            "Portrait": "",
-            "Nom": "Alphonse X de Castille\n(23 novembre 1223, Tolède – 4 avril 1284, Séville)",
-            "Début du règne": "1er avril\n1257",
-            "Fin du\nrègne": "2 avril\n1272",
-            "Titres": "Antiroi de Richard Ier\nRoi de Castille et de Léon (1252-1284)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Rodolphe Ier\n(1er mai 1218, Limburg Castle – 15 juillet 1291, Speyer)",
+            "_Début du règne": "29 septembre\n1273",
+            "_Fin du\nrègne": "15 juillet\n1291",
+            "_Titres": "Roi de Germanie\nDuc d'Autriche (1278-1282)\nDuc de Carinthie (1278-1282)",
             "attribs": [
                 "Maison de Habsbourg et Maison de Nassau"
-            ],
-            "Portrait": "",
-            "Nom": "Rodolphe Ier\n(1er mai 1218, Limburg Castle – 15 juillet 1291, Speyer)",
-            "Début du règne": "29 septembre\n1273",
-            "Fin du\nrègne": "15 juillet\n1291",
-            "Titres": "Roi de Germanie\nDuc d'Autriche (1278-1282)\nDuc de Carinthie (1278-1282)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Adolphe Ier\n(1255 – 2 juillet 1298, Göllheim)",
+            "_Début du règne": "5 mai\n1292",
+            "_Fin du\nrègne": "23 juin\n1298",
+            "_Titres": "Roi de Germanie",
             "attribs": [
                 "Maison de Habsbourg et Maison de Nassau"
-            ],
-            "Portrait": "",
-            "Nom": "Adolphe Ier\n(1255 – 2 juillet 1298, Göllheim)",
-            "Début du règne": "5 mai\n1292",
-            "Fin du\nrègne": "23 juin\n1298",
-            "Titres": "Roi de Germanie"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Albert Ier\n(Juillet 1255, Rheinfelden – 1er mai 1308, Windisch)",
+            "_Début du règne": "24 juin\n1298",
+            "_Fin du\nrègne": "1er mai\n1308",
+            "_Titres": "Roi de Germanie\nDuc d'Autriche (1282-1308)",
             "attribs": [
                 "Maison de Habsbourg et Maison de Nassau"
-            ],
-            "Portrait": "",
-            "Nom": "Albert Ier\n(Juillet 1255, Rheinfelden – 1er mai 1308, Windisch)",
-            "Début du règne": "24 juin\n1298",
-            "Fin du\nrègne": "1er mai\n1308",
-            "Titres": "Roi de Germanie\nDuc d'Autriche (1282-1308)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Henri VIII\n(Empereur Henri VII)\n(1275, Valenciennes – 24 août 1313, Buonconvento)",
+            "_Début du règne": "27 novembre\n1308",
+            "_Fin du\nrègne": "24 août\n1313",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1311-1313)\nRoi d'Italie (1311-1313)\nComte de Luxembourg (1288-1313)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Henri VIII\n(Empereur Henri VII)\n(1275, Valenciennes – 24 août 1313, Buonconvento)",
-            "Début du règne": "27 novembre\n1308",
-            "Fin du\nrègne": "24 août\n1313",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1311-1313)\nRoi d'Italie (1311-1313)\nComte de Luxembourg (1288-1313)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Louis V\n(Empereur Louis IV)\n(1er avril 1282, Munich – 11 octobre 1347, Puch)",
+            "_Début du règne": "20 octobre\n1314",
+            "_Fin du\nrègne": "11 octobre\n1347",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1328-1347)\nRoi d'Italie (1327-1347)\nDuc de Bavière (1301-1347)\nComte de Hollande et de Zélande (1345-1347)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Louis V\n(Empereur Louis IV)\n(1er avril 1282, Munich – 11 octobre 1347, Puch)",
-            "Début du règne": "20 octobre\n1314",
-            "Fin du\nrègne": "11 octobre\n1347",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1328-1347)\nRoi d'Italie (1327-1347)\nDuc de Bavière (1301-1347)\nComte de Hollande et de Zélande (1345-1347)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Frédéric III le Bel\n(1289, Vienne – 13 janvier 1330, Gutenstein)",
+            "_Début du règne": "7 janvier\n1326[2]",
+            "_Fin du\nrègne": "13 janvier\n1330",
+            "_Titres": "Roi de Germanie\nAntiroi (1314-1322)\nDuc d'Autriche (1308-1330)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Frédéric III le Bel\n(1289, Vienne – 13 janvier 1330, Gutenstein)",
-            "Début du règne": "7 janvier\n1326[2]",
-            "Fin du\nrègne": "13 janvier\n1330",
-            "Titres": "Roi de Germanie\nAntiroi (1314-1322)\nDuc d'Autriche (1308-1330)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Charles III\n(Empereur Charles IV)\n(14 mai 1316, Křivoklát – 29 novembre 1378, Prague)",
+            "_Début du règne": "11 juillet\n1346",
+            "_Fin du\nrègne": "29 novembre\n1378",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1355-1378)\nRoi de Bohème (1346-1378)\nRoi d'Italie (1355-1378)\nRoi de Bourgogne (1365-1378)\nComte de Luxembourg (1346-1378)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Charles III\n(Empereur Charles IV)\n(14 mai 1316, Křivoklát – 29 novembre 1378, Prague)",
-            "Début du règne": "11 juillet\n1346",
-            "Fin du\nrègne": "29 novembre\n1378",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1355-1378)\nRoi de Bohème (1346-1378)\nRoi d'Italie (1355-1378)\nRoi de Bourgogne (1365-1378)\nComte de Luxembourg (1346-1378)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Gunther de Schwarzbourg\n(1304, Blankenburg – 14 juin 1349, Frankfort)",
+            "_Début du règne": "30 janvier\n1349",
+            "_Fin du\nrègne": "24 mai\n1349",
+            "_Titres": "Antiroi de Charles III",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Gunther de Schwarzbourg\n(1304, Blankenburg – 14 juin 1349, Frankfort)",
-            "Début du règne": "30 janvier\n1349",
-            "Fin du\nrègne": "24 mai\n1349",
-            "Titres": "Antiroi de Charles III"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Venceslas Ier l'Ivrogne\n(26 février 1361, Nuremberg – 16 août 1419, Prague)",
+            "_Début du règne": "10 juin\n1376",
+            "_Fin du\nrègne": "20 août\n1400",
+            "_Titres": "Roi de Germanie\nRoi de Bohème (1378-1419)\nÉlecteur de Brandebourg (1372-1378)\nDuc de Luxembourg (1383-1390)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Venceslas Ier l'Ivrogne\n(26 février 1361, Nuremberg – 16 août 1419, Prague)",
-            "Début du règne": "10 juin\n1376",
-            "Fin du\nrègne": "20 août\n1400",
-            "Titres": "Roi de Germanie\nRoi de Bohème (1378-1419)\nÉlecteur de Brandebourg (1372-1378)\nDuc de Luxembourg (1383-1390)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Robert Ier\n(5 mai 1352, Amberg – 18 mai 1410, Oppenheim)",
+            "_Début du règne": "21 août\n1400",
+            "_Fin du\nrègne": "18 mai\n1410",
+            "_Titres": "Roi de Germanie\nComte palatin du Rhin (1398-1410)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Robert Ier\n(5 mai 1352, Amberg – 18 mai 1410, Oppenheim)",
-            "Début du règne": "21 août\n1400",
-            "Fin du\nrègne": "18 mai\n1410",
-            "Titres": "Roi de Germanie\nComte palatin du Rhin (1398-1410)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Sigismond Ier\n(14 février 1368, Nuremberg – 9 décembre 1437, Znojmo)",
+            "_Début du règne": "21 juillet\n1411",
+            "_Fin du\nrègne": "9 décembre\n1437",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1433-1437)\nRoi de Hongrie et de Croatie (1347-1387)\nRoi de Bohème (1419-1437)\nRoi d'Italie (1431-1437)\nÉlecteur de Brandebourg (1378-1388 et 1411-1417)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Sigismond Ier\n(14 février 1368, Nuremberg – 9 décembre 1437, Znojmo)",
-            "Début du règne": "21 juillet\n1411",
-            "Fin du\nrègne": "9 décembre\n1437",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1433-1437)\nRoi de Hongrie et de Croatie (1347-1387)\nRoi de Bohème (1419-1437)\nRoi d'Italie (1431-1437)\nÉlecteur de Brandebourg (1378-1388 et 1411-1417)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Jobst de Moravie\n(1351 – 18 janvier 1411, Brno)",
+            "_Début du règne": "1er octobre\n1410",
+            "_Fin du\nrègne": "8 janvier\n1411",
+            "_Titres": "Antiroi de Sigismond Ier\nMargrave de Moravie (1375-1411)\nÉlecteur de Brandebourg (1388-1411)\nDuc de Luxembourg (1388-1411)",
             "attribs": [
                 "Maison de Luxembourg et Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Jobst de Moravie\n(1351 – 18 janvier 1411, Brno)",
-            "Début du règne": "1er octobre\n1410",
-            "Fin du\nrègne": "8 janvier\n1411",
-            "Titres": "Antiroi de Sigismond Ier\nMargrave de Moravie (1375-1411)\nÉlecteur de Brandebourg (1388-1411)\nDuc de Luxembourg (1388-1411)"
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Albert II\n(10 août 1397, Vienne – 27 octobre 1439, Neszmély)",
+            "_Début du règne": "18 mars\n1438",
+            "_Fin du\nrègne": "27 octobre\n1439",
+            "_Titres": "Roi de Germanie\nRoi de Hongrie (1437-1439)\nRoi de Bohême (1437-1439)\nDuc d'Autriche (1404-1439)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Albert II\n(10 août 1397, Vienne – 27 octobre 1439, Neszmély)",
-            "Début du règne": "18 mars\n1438",
-            "Fin du\nrègne": "27 octobre\n1439",
-            "Titres": "Roi de Germanie\nRoi de Hongrie (1437-1439)\nRoi de Bohême (1437-1439)\nDuc d'Autriche (1404-1439)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Frédéric IV\n(Empereur Frédéric III)\n(21 septembre 1415, Innsbruck – 19 août 1493, Linz)",
+            "_Début du règne": "2 février\n1440",
+            "_Fin du\nrègne": "19 août\n1493",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1452-1493)\nRoi d'Italie (1452-1493)\nArchiduc d'Autriche (1457-1493)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Frédéric IV\n(Empereur Frédéric III)\n(21 septembre 1415, Innsbruck – 19 août 1493, Linz)",
-            "Début du règne": "2 février\n1440",
-            "Fin du\nrègne": "19 août\n1493",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1452-1493)\nRoi d'Italie (1452-1493)\nArchiduc d'Autriche (1457-1493)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Maximilien Ier\n(22 mars 1459, Wiener Neustadt – 12 janvier 1519, Wels)",
+            "_Début du règne": "16 février\n1486",
+            "_Fin du\nrègne": "12 janvier\n1519",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1508-1519)\nDuc de Bourgogne (1477-1482)\nArchiduc d'Autriche (1493-1519)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Maximilien Ier\n(22 mars 1459, Wiener Neustadt – 12 janvier 1519, Wels)",
-            "Début du règne": "16 février\n1486",
-            "Fin du\nrègne": "12 janvier\n1519",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1508-1519)\nDuc de Bourgogne (1477-1482)\nArchiduc d'Autriche (1493-1519)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Charles IV dit Charles Quint\n(Empereur Charles V)\n(24 février 1500, Gand – 21 septembre 1558, monastère de Yuste)",
+            "_Début du règne": "28 juin\n1519",
+            "_Fin du\nrègne": "3 août\n1556",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1519-1558)\nRoi des Espagnes (1516-1556)\nRoi de Sicile (1516-1556)\nRoi d'Italie (1530-1556)\nDuc de Bourgogne (1506-1555)\net autres titres...",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Charles IV dit Charles Quint\n(Empereur Charles V)\n(24 février 1500, Gand – 21 septembre 1558, monastère de Yuste)",
-            "Début du règne": "28 juin\n1519",
-            "Fin du\nrègne": "3 août\n1556",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1519-1558)\nRoi des Espagnes (1516-1556)\nRoi de Sicile (1516-1556)\nRoi d'Italie (1530-1556)\nDuc de Bourgogne (1506-1555)\net autres titres...",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Ferdinand Ier\n(10 mars 1503, Alcalá de Henares – 25 juillet 1564, Vienne)",
+            "_Début du règne": "5 janvier\n1531",
+            "_Fin du\nrègne": "25 juillet\n1564",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1558-1564)\nRoi de Hongrie (1526-1564)\nRoi de Bohème (1526-1564)\nArchiduc d'Autriche (1521-1564)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Ferdinand Ier\n(10 mars 1503, Alcalá de Henares – 25 juillet 1564, Vienne)",
-            "Début du règne": "5 janvier\n1531",
-            "Fin du\nrègne": "25 juillet\n1564",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1558-1564)\nRoi de Hongrie (1526-1564)\nRoi de Bohème (1526-1564)\nArchiduc d'Autriche (1521-1564)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Maximilien II\n(1er août 1527, Vienne - 12 octobre 1576, Ratisbonne)",
+            "_Début du règne": "28 novembre\n1562",
+            "_Fin du\nrègne": "12 octobre\n1576",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1564-1576)\nRoi de Bohème (1562-1576)\nRoi de Hongrie et de Croatie (1563-1576)\nArchiduc d'Autriche (1564-1576)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Maximilien II\n(1er août 1527, Vienne - 12 octobre 1576, Ratisbonne)",
-            "Début du règne": "28 novembre\n1562",
-            "Fin du\nrègne": "12 octobre\n1576",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1564-1576)\nRoi de Bohème (1562-1576)\nRoi de Hongrie et de Croatie (1563-1576)\nArchiduc d'Autriche (1564-1576)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Rodolphe II\n(18 juillet 1552, Vienne – 20 janvier 1612, Prague)",
+            "_Début du règne": "27 octobre\n1575",
+            "_Fin du\nrègne": "20 janvier\n1612",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1576-1612)\nRoi de Hongrie et de Croatie (1572-1608)\nRoi de Bohème (1576-1611)\nArchiduc d'Autriche (1576-1608)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Rodolphe II\n(18 juillet 1552, Vienne – 20 janvier 1612, Prague)",
-            "Début du règne": "27 octobre\n1575",
-            "Fin du\nrègne": "20 janvier\n1612",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1576-1612)\nRoi de Hongrie et de Croatie (1572-1608)\nRoi de Bohème (1576-1611)\nArchiduc d'Autriche (1576-1608)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Matthias Ier\n(24 février 1557, Vienne – 20 mars 1619, Vienne)",
+            "_Début du règne": "13 juin\n1612",
+            "_Fin du\nrègne": "20 mars\n1619",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1612-1619)\nRoi de Hongrie et de Croatie (1608-1619)\nRoi de Bohème (1611-1619)\nArchiduc d'Autriche (1608-1619)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Matthias Ier\n(24 février 1557, Vienne – 20 mars 1619, Vienne)",
-            "Début du règne": "13 juin\n1612",
-            "Fin du\nrègne": "20 mars\n1619",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1612-1619)\nRoi de Hongrie et de Croatie (1608-1619)\nRoi de Bohème (1611-1619)\nArchiduc d'Autriche (1608-1619)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Ferdinand II\n(9 juillet 1578, Graz – 15 février 1637, Vienne)",
+            "_Début du règne": "28 août\n1619",
+            "_Fin du\nrègne": "15 février\n1637",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1619-1637)\nRoi de Bohème (1617-1637)\nRoi de Hongrie et de Croatie (1618-1637)\nArchiduc d'Autriche (1619-1637)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Ferdinand II\n(9 juillet 1578, Graz – 15 février 1637, Vienne)",
-            "Début du règne": "28 août\n1619",
-            "Fin du\nrègne": "15 février\n1637",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1619-1637)\nRoi de Bohème (1617-1637)\nRoi de Hongrie et de Croatie (1618-1637)\nArchiduc d'Autriche (1619-1637)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Ferdinand III\n(13 juillet 1608, Graz – 2 avril 1657, Vienne)",
+            "_Début du règne": "22 décembre\n1636",
+            "_Fin du\nrègne": "2 avril\n1657",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1637-1657)\nRoi de Hongrie et de Croatie (1625-1657)\nRoi de Bohème (1627-1657)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Ferdinand III\n(13 juillet 1608, Graz – 2 avril 1657, Vienne)",
-            "Début du règne": "22 décembre\n1636",
-            "Fin du\nrègne": "2 avril\n1657",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1637-1657)\nRoi de Hongrie et de Croatie (1625-1657)\nRoi de Bohème (1627-1657)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Ferdinand IV\n(8 septembre 1633, Vienne – 9 juillet 1654, Vienne)",
+            "_Début du règne": "31 mai\n1653",
+            "_Fin du\nrègne": "9 juillet\n1654",
+            "_Titres": "Roi de Germanie\nRoi de Bohème (1646-1654)\nRoi de Hongrie et de Croatie (1647-1654)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Ferdinand IV\n(8 septembre 1633, Vienne – 9 juillet 1654, Vienne)",
-            "Début du règne": "31 mai\n1653",
-            "Fin du\nrègne": "9 juillet\n1654",
-            "Titres": "Roi de Germanie\nRoi de Bohème (1646-1654)\nRoi de Hongrie et de Croatie (1647-1654)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Léopold Ier\n(9 juin 1640, Vienne – 5 mai 1705, Vienne)",
+            "_Début du règne": "18 juillet\n1658",
+            "_Fin du\nrègne": "5 mai\n1705",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1658-1705)\nRoi de Hongrie (1655-1705)\nRoi de Bohème (1656-1705)\nRoi de Croatie (1657-1705)\nArchiduc d'Autriche (1657-1705)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Léopold Ier\n(9 juin 1640, Vienne – 5 mai 1705, Vienne)",
-            "Début du règne": "18 juillet\n1658",
-            "Fin du\nrègne": "5 mai\n1705",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1658-1705)\nRoi de Hongrie (1655-1705)\nRoi de Bohème (1656-1705)\nRoi de Croatie (1657-1705)\nArchiduc d'Autriche (1657-1705)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Joseph Ier\n(26 juillet 1678, Vienne – 17 avril 1711, Vienne)",
+            "_Début du règne": "23 janvier\n1690",
+            "_Fin du\nrègne": "17 avril\n1711",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1705-1711)\nRoi de Hongrie (1687-1711)\nRoi de Croatie (1705-1711)\nRoi de Bohème (1705-1711)\nArchiduc d'Autriche (1705-1711)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Joseph Ier\n(26 juillet 1678, Vienne – 17 avril 1711, Vienne)",
-            "Début du règne": "23 janvier\n1690",
-            "Fin du\nrègne": "17 avril\n1711",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1705-1711)\nRoi de Hongrie (1687-1711)\nRoi de Croatie (1705-1711)\nRoi de Bohème (1705-1711)\nArchiduc d'Autriche (1705-1711)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Charles V\n(Empereur Charles VI)\n(1er octobre 1685, Vienne – 20 octobre 1740, Vienne)",
+            "_Début du règne": "27 octobre\n1711",
+            "_Fin du\nrègne": "20 octobre\n1740",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1658-1705)\nRoi de Naples (1714-1735)\nArchiduc d'Autriche (1711-1740)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "",
-            "Nom": "Charles V\n(Empereur Charles VI)\n(1er octobre 1685, Vienne – 20 octobre 1740, Vienne)",
-            "Début du règne": "27 octobre\n1711",
-            "Fin du\nrègne": "20 octobre\n1740",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1658-1705)\nRoi de Naples (1714-1735)\nArchiduc d'Autriche (1711-1740)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "Interrègne (1740-1742)",
+            "_Nom": "",
+            "_Début du règne": "",
+            "_Fin du\nrègne": "",
+            "_Titres": "",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg"
-            ],
-            "Portrait": "Interrègne (1740-1742)",
-            "Nom": "",
-            "Début du règne": "",
-            "Fin du\nrègne": "",
-            "Titres": "",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Charles VI\n(Empereur Charles VII)\n(6 août 1697, Bruxelles – 20 janvier 1745, Munich)",
+            "_Début du règne": "14 janvier\n1742",
+            "_Fin du\nrègne": "20 janvier\n1745",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1742-1745)\nÉlecteur de Bavière (1726-1745)\nRoi de Bohème (1741-1743)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Wittelsbach"
-            ],
-            "Portrait": "",
-            "Nom": "Charles VI\n(Empereur Charles VII)\n(6 août 1697, Bruxelles – 20 janvier 1745, Munich)",
-            "Début du règne": "14 janvier\n1742",
-            "Fin du\nrègne": "20 janvier\n1745",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1742-1745)\nÉlecteur de Bavière (1726-1745)\nRoi de Bohème (1741-1743)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "François Ier\n(8 décembre 1708, Nancy – 18 août 1765, Innsbruck)",
+            "_Début du règne": "13 septembre\n1745",
+            "_Fin du\nrègne": "18 août\n1765",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1745-1765)\nDuc de Lorraine et de Bar (1729-1737)\nGrand-duc de Toscane (1737-1765)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ],
-            "Portrait": "",
-            "Nom": "François Ier\n(8 décembre 1708, Nancy – 18 août 1765, Innsbruck)",
-            "Début du règne": "13 septembre\n1745",
-            "Fin du\nrègne": "18 août\n1765",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1745-1765)\nDuc de Lorraine et de Bar (1729-1737)\nGrand-duc de Toscane (1737-1765)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Joseph II\n(13 mars 1741, Vienne – 20 février 1790, Vienne)",
+            "_Début du règne": "27 mars\n1764",
+            "_Fin du\nrègne": "20 février\n1790",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1765-1790)\nRoi de Hongrie et de Croatie (1780-1790)\nRoi de Bohème (1780-1790)\nArchiduc d'Autriche (1780-1790)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ],
-            "Portrait": "",
-            "Nom": "Joseph II\n(13 mars 1741, Vienne – 20 février 1790, Vienne)",
-            "Début du règne": "27 mars\n1764",
-            "Fin du\nrègne": "20 février\n1790",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1765-1790)\nRoi de Hongrie et de Croatie (1780-1790)\nRoi de Bohème (1780-1790)\nArchiduc d'Autriche (1780-1790)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Léopold II\n(5 mai 1747, Château de Schönbrunn – 1er mars 1792, Vienne)",
+            "_Début du règne": "30 septembre\n1790",
+            "_Fin du\nrègne": "1er mars\n1792",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1790-1792)\nRoi de Hongrie et de Croatie (1790-1792)\nRoi de Bohème (1790-1792)\nGrand-duc de Toscane (1765-1790)\nArchiduc d'Autriche (1790-1792)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ],
-            "Portrait": "",
-            "Nom": "Léopold II\n(5 mai 1747, Château de Schönbrunn – 1er mars 1792, Vienne)",
-            "Début du règne": "30 septembre\n1790",
-            "Fin du\nrègne": "1er mars\n1792",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1790-1792)\nRoi de Hongrie et de Croatie (1790-1792)\nRoi de Bohème (1790-1792)\nGrand-duc de Toscane (1765-1790)\nArchiduc d'Autriche (1790-1792)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "François II\n(12 février 1768, Florence – 2 mars 1835, Vienne)",
+            "_Début du règne": "7 juillet\n1792",
+            "_Fin du\nrègne": "6 août\n1806",
+            "_Titres": "Roi de Germanie\nEmpereur des Romains (1792-1806)\nRoi de Hongrie et de Croatie (1792-1835)\nRoi de Bohème (1792-1835)\nArchiduc d'Autriche (1657-1705)\nEmpereur d'Autriche (1804-1835)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ],
-            "Portrait": "",
-            "Nom": "François II\n(12 février 1768, Florence – 2 mars 1835, Vienne)",
-            "Début du règne": "7 juillet\n1792",
-            "Fin du\nrègne": "6 août\n1806",
-            "Titres": "Roi de Germanie\nEmpereur des Romains (1792-1806)\nRoi de Hongrie et de Croatie (1792-1835)\nRoi de Bohème (1792-1835)\nArchiduc d'Autriche (1657-1705)\nEmpereur d'Autriche (1804-1835)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Napoléon Ier\n(15 août 1769, Ajaccio – 5 mai 1821, Saint-Hélène)",
+            "_Début du règne": "25 juillet\n1806",
+            "_Fin du\nrègne": "19 octobre\n1813",
+            "_Titres": "Président de la Confédération du Rhin\nEmpereur des Français (1804-1815 et 1815)\nRoi d'Italie (1805-1814)\nMédiateur de la Confédération suisse\n(1803-1813)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération du Rhin (1806-1813)"
-            ],
-            "Portrait": "",
-            "Nom": "Napoléon Ier\n(15 août 1769, Ajaccio – 5 mai 1821, Saint-Hélène)",
-            "Début du règne": "25 juillet\n1806",
-            "Fin du\nrègne": "19 octobre\n1813",
-            "Titres": "Président de la Confédération du Rhin\nEmpereur des Français (1804-1815 et 1815)\nRoi d'Italie (1805-1814)\nMédiateur de la Confédération suisse\n(1803-1813)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Karl Theodor von Dalberg\n(8 février 1744, Mannheim – 10 février 1817, Ratisbonne)",
+            "_Début du règne": "septembre\n1806",
+            "_Fin du\nrègne": "5 février\n1813",
+            "_Titres": "Prince-primat\nGrand-duc de Francfort (1810-1813)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération du Rhin (1806-1813)"
-            ],
-            "Portrait": "",
-            "Nom": "Karl Theodor von Dalberg\n(8 février 1744, Mannheim – 10 février 1817, Ratisbonne)",
-            "Début du règne": "septembre\n1806",
-            "Fin du\nrègne": "5 février\n1813",
-            "Titres": "Prince-primat\nGrand-duc de Francfort (1810-1813)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Eugène de Beauharnais\n(3 septembre 1781, Paris – 21 février 1824, Munich)",
+            "_Début du règne": "5 février\n1813",
+            "_Fin du\nrègne": "4 novembre\n1813",
+            "_Titres": "Prince-primat\nVice-roi d'Italie (1805-1814)\nPrince de Venise (1807-1814)\nGrand-duc de Francfort (1813)\nDuc de Leuchtenberg (1817-1824)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération du Rhin (1806-1813)"
-            ],
-            "Portrait": "",
-            "Nom": "Eugène de Beauharnais\n(3 septembre 1781, Paris – 21 février 1824, Munich)",
-            "Début du règne": "5 février\n1813",
-            "Fin du\nrègne": "4 novembre\n1813",
-            "Titres": "Prince-primat\nVice-roi d'Italie (1805-1814)\nPrince de Venise (1807-1814)\nGrand-duc de Francfort (1813)\nDuc de Leuchtenberg (1817-1824)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "François Ier d'Autriche\n(12 février 1768, Florence – 2 mars 1835, Vienne)",
+            "_Début du règne": "20 juin\n1815",
+            "_Fin du\nrègne": "2 mars\n1835",
+            "_Titres": "Président de la Confédération germanique\nEmpereur d'Autriche (1804-1835)\nRoi de Hongrie et de Croatie (1792-1835)\nRoi de Bohème (1792-1835)\nRoi de Lombardie-Vénétie (1815-1835)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération germanique (1815-1866)"
-            ],
-            "Portrait": "",
-            "Nom": "François Ier d'Autriche\n(12 février 1768, Florence – 2 mars 1835, Vienne)",
-            "Début du règne": "20 juin\n1815",
-            "Fin du\nrègne": "2 mars\n1835",
-            "Titres": "Président de la Confédération germanique\nEmpereur d'Autriche (1804-1835)\nRoi de Hongrie et de Croatie (1792-1835)\nRoi de Bohème (1792-1835)\nRoi de Lombardie-Vénétie (1815-1835)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Ferdinand Ier d'Autriche\n(19 avril 1793, Vienne – 29 juin 1875, Prague)",
+            "_Début du règne": "2 mars\n1835",
+            "_Fin du\nrègne": "12 juillet\n1848",
+            "_Titres": "Président de la Confédération germanique\nEmpereur d'Autriche (1835-1848)\nRoi de Hongrie et de Croatie (1835-1848)\nRoi de Bohème (1835-1848)\nRoi de Lombardie-Vénétie (1835-1848)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération germanique (1815-1866)"
-            ],
-            "Portrait": "",
-            "Nom": "Ferdinand Ier d'Autriche\n(19 avril 1793, Vienne – 29 juin 1875, Prague)",
-            "Début du règne": "2 mars\n1835",
-            "Fin du\nrègne": "12 juillet\n1848",
-            "Titres": "Président de la Confédération germanique\nEmpereur d'Autriche (1835-1848)\nRoi de Hongrie et de Croatie (1835-1848)\nRoi de Bohème (1835-1848)\nRoi de Lombardie-Vénétie (1835-1848)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Jean-Baptiste d'Autriche\n(20 janvier 1782, Florence – 11 mai 1859, Graz)",
+            "_Début du règne": "12 juillet\n1848",
+            "_Fin du\nrègne": "20 décembre\n1849",
+            "_Titres": "Régent impérial",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération germanique (1815-1866)"
-            ],
-            "Portrait": "",
-            "Nom": "Jean-Baptiste d'Autriche\n(20 janvier 1782, Florence – 11 mai 1859, Graz)",
-            "Début du règne": "12 juillet\n1848",
-            "Fin du\nrègne": "20 décembre\n1849",
-            "Titres": "Régent impérial",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Frédéric-Guillaume IV de Prusse\n(15 octobre 1795, Berlin – 2 janvier 1861, Palais de Sanssouci)",
+            "_Début du règne": "26 mai\n1849",
+            "_Fin du\nrègne": "29 novembre\n1850",
+            "_Titres": "Président de l'Union d'Erfurt\nEmpereur élu des Allemands (1849)\nRoi de Prusse (1840-1861)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération germanique (1815-1866)"
-            ],
-            "Portrait": "",
-            "Nom": "Frédéric-Guillaume IV de Prusse\n(15 octobre 1795, Berlin – 2 janvier 1861, Palais de Sanssouci)",
-            "Début du règne": "26 mai\n1849",
-            "Fin du\nrègne": "29 novembre\n1850",
-            "Titres": "Président de l'Union d'Erfurt\nEmpereur élu des Allemands (1849)\nRoi de Prusse (1840-1861)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "François-Joseph Ier d'Autriche\n(18 août 1830, Vienne – 21 novembre 1916, Vienne)",
+            "_Début du règne": "1er mai\n1850",
+            "_Fin du\nrègne": "24 août\n1866",
+            "_Titres": "Président de la Confédération germanique\nEmpereur d'Autriche (1848-1916)\nRoi de Hongrie et de Croatie (1848-1916)\nRoi de Bohème (1848-1916)\nRoi de Lombardie-Vénétie (1848-1866)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération germanique (1815-1866)"
-            ],
-            "Portrait": "",
-            "Nom": "François-Joseph Ier d'Autriche\n(18 août 1830, Vienne – 21 novembre 1916, Vienne)",
-            "Début du règne": "1er mai\n1850",
-            "Fin du\nrègne": "24 août\n1866",
-            "Titres": "Président de la Confédération germanique\nEmpereur d'Autriche (1848-1916)\nRoi de Hongrie et de Croatie (1848-1916)\nRoi de Bohème (1848-1916)\nRoi de Lombardie-Vénétie (1848-1866)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Guillaume Ier\n(22 mars 1797, Berlin – 9 mars 1888, Berlin)",
+            "_Début du règne": "1er juillet\n1867",
+            "_Fin du\nrègne": "18 janvier\n1871",
+            "_Titres": "Président de la Confédération de l'Allemagne du Nord\nRoi de Prusse (1861-1888)",
+            "_Armoiries": "",
             "attribs": [
                 "Confédération de l'Allemagne du Nord (1867-1871)"
-            ],
-            "Portrait": "",
-            "Nom": "Guillaume Ier\n(22 mars 1797, Berlin – 9 mars 1888, Berlin)",
-            "Début du règne": "1er juillet\n1867",
-            "Fin du\nrègne": "18 janvier\n1871",
-            "Titres": "Président de la Confédération de l'Allemagne du Nord\nRoi de Prusse (1861-1888)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Guillaume Ier\n(22 mars 1797, Berlin – 9 mars 1888, Berlin)",
+            "_Début du règne": "18 janvier\n1871",
+            "_Fin du\nrègne": "9 mars\n1888",
+            "_Titres": "Empereur allemand\nRoi de Prusse (1861-1888)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Hohenzollern"
-            ],
-            "Portrait": "",
-            "Nom": "Guillaume Ier\n(22 mars 1797, Berlin – 9 mars 1888, Berlin)",
-            "Début du règne": "18 janvier\n1871",
-            "Fin du\nrègne": "9 mars\n1888",
-            "Titres": "Empereur allemand\nRoi de Prusse (1861-1888)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Frédéric III\n(18 octobre 1831, Potsdam- 15 juin 1888 Potsdam)",
+            "_Début du règne": "9 mars\n1888",
+            "_Fin du\nrègne": "15 juin\n1888",
+            "_Titres": "Empereur allemand\nRoi de Prusse (1888)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Hohenzollern"
-            ],
-            "Portrait": "",
-            "Nom": "Frédéric III\n(18 octobre 1831, Potsdam- 15 juin 1888 Potsdam)",
-            "Début du règne": "9 mars\n1888",
-            "Fin du\nrègne": "15 juin\n1888",
-            "Titres": "Empereur allemand\nRoi de Prusse (1888)",
-            "Armoiries": ""
+            ]
         },
         {
+            "_Portrait": "",
+            "_Nom": "Guillaume II\n(27 janvier 1859, Potsdam – 4 juin 1941, Doorn)",
+            "_Début du règne": "15 juin\n1888",
+            "_Fin du\nrègne": "9 novembre\n1918",
+            "_Titres": "Empereur allemand\nRoi de Prusse (1888-1918)",
+            "_Armoiries": "",
             "attribs": [
                 "Maison de Hohenzollern"
-            ],
-            "Portrait": "",
-            "Nom": "Guillaume II\n(27 janvier 1859, Potsdam – 4 juin 1941, Doorn)",
-            "Début du règne": "15 juin\n1888",
-            "Fin du\nrègne": "9 novembre\n1918",
-            "Titres": "Empereur allemand\nRoi de Prusse (1888-1918)",
-            "Armoiries": ""
+            ]
         }
     ],
-    "lastupdate": "2018-03-22T22:55:53.886Z",
-    "length": 81
+    "length": 81,
+    "lastupdate": "2018-06-13T16:49:37.854Z",
+    "page": "Liste_des_souverains_d'Allemagne",
+    "dataId": "monarques_ge"
 }
