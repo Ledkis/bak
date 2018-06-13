@@ -1,12 +1,14 @@
 const config = require('config')
 const express = require('express')
 const bodyParser = require('body-parser')
-const session = require('express-session')
 const path = require('path')
+var createError = require('http-errors');
 const logger = require('./lib/my-winston')(__filename, 'verbose')
 const flash = require('./lib/flash')
 const wikiapi = require('./app_api/wikiapi')
 const datamanager = require('./app_api/datamanager')
+
+var indexRouter = require('./app_server/routes/index');
 
 const app = express()
 
@@ -17,43 +19,27 @@ logger.info(`NODE_ENV: ${NODE_ENV}`)
 app.set('views', path.join(__dirname, 'app_server', 'views'))
 app.set('view engine', 'ejs')
 
+// Middlewares
 app.use('/assets', express.static(path.join(__dirname, 'public')))
 app.use('/assets', express.static(path.join(__dirname, 'app_client')))
-
-// Not working ?
-// app.use('/assets', express.static('public'))
-// app.use('/assets', express.static('app_client'))
-
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-app.use(session({
-  secret: 'XXX',
-  resave: false,
-  saveUninitialized: true,
-  cookie: { secure: false }
-}))
+app.use('/', indexRouter);
 
-// Routes
+// catch 404 and forward to error handler
+app.use(function(req, res, next) {
+  next(createError(404));
+});
 
-app.get('/', (request, response) => {
-  const opts = {}
-  if (request.query.optionFrom) {
-    opts.from = request.query.optionFrom
-    opts.dataId = request.query.selectDataId
-  } else {
-    opts.from = 'json'
-    opts.dataId = 'papes'
-  }
-  const dataInfo = datamanager.getDataInfo()
+// error handler
+app.use(function(err, req, res, next) {
+  // set locals, only providing error in development
+  res.locals.error = req.app.get('env') === 'development' ? err : {};
 
-  wikiapi.fetchWikiData(opts).then((wikiDatas) => {
-    response.render('pages/index', {dataInfo: Object.keys(dataInfo), dataFrom: ['json', 'raw', 'wiki'], from: opts.from, wikiDatas})
-    logger.verbose('page loaded')
-    // response.render('pages/index')
-  })
-})
+  // render the error page
+  res.status(err.status || 500);
+  res.render('error');
+});
 
 module.exports = app
-
-// node --inspect-brk bak.js
