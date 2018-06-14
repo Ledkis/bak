@@ -23,7 +23,7 @@ router.get('/', (request, response) => {
     */
 
     opts.from = 'json'
-    opts.dataId = 'monarques_ge'
+    opts.dataId = 'monarques_aut'
 
     const dataInfo = datamanager.getDataInfo()
   
@@ -34,6 +34,7 @@ router.get('/', (request, response) => {
       const dataInfo = datamanager.getDataInfo()
       let wikiDataInfo = dataInfo[opts.dataId]
       wikiparser.parseWikiData(wikiData, wikiDataInfo)
+      datamanager.saveWikiDataJSON(opts.dataId, wikiData)
 
       /*
       let l1 = datas.length

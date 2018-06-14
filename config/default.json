@@ -8,6 +8,8 @@
   "wikiKeys": {
     "name": ["_Nom"],
     "reignStart": ["_Début du règne", "_Début du\nrègne"],
-    "reignEnd": ["_Fin du règne", "_Fin du\nrègne"]
+    "reignEnd": ["_Fin du règne", "_Fin du\nrègne"],
+    "birthDate": ["_Naissance"],
+    "deathDate": ["_Décès"]  
   }
 }
