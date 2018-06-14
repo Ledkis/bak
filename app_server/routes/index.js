@@ -3,6 +3,7 @@ const logger = require('../../lib/my-winston')(__filename, 'verbose')
 const moment = require('../../lib/my-moment')
 const wikiapi = require('../../app_api/wikiapi')
 const datamanager = require('../../app_api/datamanager')
+const wikiparser = require('../../lib/wikiparser')
 
 const router = express.Router();
 
@@ -22,14 +23,19 @@ router.get('/', (request, response) => {
     */
 
     opts.from = 'json'
-    opts.dataId = 'monarques_fr'
+    opts.dataId = 'monarques_ge'
 
     const dataInfo = datamanager.getDataInfo()
   
-    wikiapi.fetchWikiData(opts).then((wikiDatas) => {
+    wikiapi.fetchWikiData(opts).then((wikiData) => {
 
-      let datas = wikiDatas.list.map(el => el.Nom)
+      let datas = wikiData.list.map(el => el._Nom)
 
+      const dataInfo = datamanager.getDataInfo()
+      let wikiDataInfo = dataInfo[opts.dataId]
+      wikiparser.parseWikiData(wikiData, wikiDataInfo)
+
+      /*
       let l1 = datas.length
 
       let dateRegx = /\((?:(\d+)|vers (\d+\/*\d*)|(\D+\d+)|(\d+\D+\d+)) (?:-|–|–|-) (?:(\d+)|(\D+\d+)|vers (\d+\/*\d*)|(\d+\D+\d+))\)/
@@ -79,8 +85,10 @@ router.get('/', (request, response) => {
       datasStr.splice(0, 0, `life moy ${datas.reduce((acc, cur) => acc + cur.life, 0)/datas.length},
                             min: ${datas[0].life},
                             max: ${datas.slice(-1)[0].life}`)
+      */
 
-      response.render('pages/test', {datas: datasStr})
+      //response.render('pages/test', {datas: datasStr})
+      response.render('pages/test', {datas})
       //logger.verbose('page loaded')
       // response.render('pages/index')
     }).catch(err => {

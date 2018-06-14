@@ -1,5 +1,13 @@
 {
   "NODE_ENV": "debug",
   "dataInfoFile":"./config/data_info.json",
-  "logLevel": "info"
+  "logLevel": "info",
+  "parsing": {
+    "wikiDatePlaceRegx": "\\((?:vers )?(?:((?:[^\\d\\(\\)\\,\\-\\–]*\\d*){0,4}\\d+))(?:,? (\\D*))? ?(?:-|–) ?(?:vers )?(?:((?:[^\\d\\(\\)\\,\\-\\–]*\\d*){0,4}\\d+))(?:,? (\\D*))?\\)"
+  },
+  "wikiKeys": {
+    "name": ["_Nom"],
+    "reignStart": ["_Début du règne", "_Début du\nrègne"],
+    "reignEnd": ["_Fin du règne", "_Fin du\nrègne"]
+  }
 }

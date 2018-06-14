@@ -1,50 +1,70 @@
 {
     "philos": {
         "page": "Liste_de_philosophes_par_année_de_naissance",
-        "wikiDataType": "list",
+        "wikiDataType": [
+            "list"
+        ],
         "raw": true,
         "json": true
     },
     "papes": {
         "page": "Liste_des_papes",
-        "wikiDataType": "table",
+        "wikiDataType": [
+            "table"
+        ],
         "raw": true,
         "json": true
     },
     "monarques_fr": {
         "page": "Liste_des_monarques_de_France",
-        "wikiDataType": "table",
-        "dateRegx": "\\((?:(\\d+)|vers (\\d+/*\\d*)|(\\D+\\d+)|(\\d+\\D+\\d+)) (?:-|–|–|-) (?:(\\d+)|(\\D+\\d+)|vers (\\d+/*\\d*)|(\\d+\\D+\\d+))\\)",
+        "wikiDataType": [
+            "table",
+            "monarque_eur"
+        ],
         "raw": true,
         "json": true
     },
     "empereurs_romains": {
         "page": "Liste_des_empereurs_romains",
-        "wikiDataType": "table",
+        "wikiDataType": [
+            "table"
+        ],
         "raw": true,
         "json": true
     },
     "monarques_ge": {
         "page": "Liste_des_souverains_d'Allemagne",
-        "wikiDataType": "table",
+        "wikiDataType": [
+            "table",
+            "monarque_eur"
+        ],
         "json": true,
         "raw": true
     },
     "monarques_se": {
         "page": "Liste_des_souverains_du_Saint-Empire",
-        "wikiDataType": "table",
+        "wikiDataType": [
+            "table",
+            "monarque_eur"
+        ],
         "raw": true,
         "json": true
     },
     "monarques_en": {
         "page": "Liste_des_monarques_britanniques",
-        "wikiDataType": "table",
+        "wikiDataType": [
+            "table",
+            "monarque_eur"
+        ],
         "json": true,
         "raw": true
     },
     "monarques_aut": {
         "page": "Liste_des_souverains_d'Autriche",
-        "wikiDataType": "table",
+        "wikiDataType": [
+            "table",
+            "monarque_eur"
+        ],
         "json": true,
         "raw": true
     }
