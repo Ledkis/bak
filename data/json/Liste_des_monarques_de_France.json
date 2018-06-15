@@ -10,11 +10,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clovis Ier",
-            "born": "0465-12-31T23:00:00.000Z",
-            "dead": "0511-11-26T23:00:00.000Z",
+            "birthDate": "0465-12-31T23:00:00.000Z",
+            "deathDate": "0511-11-26T23:00:00.000Z",
             "lifeSpan": 45.90101097216233,
             "reignStart": "0480-12-31T23:00:00.000Z",
-            "reignEnd": "0510-12-31T23:00:00.000Z"
+            "reignEnd": "0510-12-31T23:00:00.000Z",
+            "reignSpan": 29.99650916856609
         },
         {
             "_Portrait[Note 8]": "",
@@ -26,11 +27,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clodomir",
-            "born": "0494-12-31T23:00:00.000Z",
-            "dead": "0524-06-24T22:00:00.000Z",
+            "birthDate": "0494-12-31T23:00:00.000Z",
+            "deathDate": "0524-06-24T22:00:00.000Z",
             "lifeSpan": 29.478930664786635,
             "reignStart": "0510-12-31T23:00:00.000Z",
-            "reignEnd": "0523-12-31T23:00:00.000Z"
+            "reignEnd": "0523-12-31T23:00:00.000Z",
+            "reignSpan": 12.999582469181433
         },
         {
             "_Portrait[Note 8]": "",
@@ -42,11 +44,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Thierry Ier",
-            "born": "0484-12-31T23:00:00.000Z",
-            "dead": "0533-12-31T23:00:00.000Z",
+            "birthDate": "0484-12-31T23:00:00.000Z",
+            "deathDate": "0533-12-31T23:00:00.000Z",
             "lifeSpan": 48.99758379706633,
             "reignStart": "0510-12-31T23:00:00.000Z",
-            "reignEnd": "0533-12-31T23:00:00.000Z"
+            "reignEnd": "0533-12-31T23:00:00.000Z",
+            "reignSpan": 23.00115676571045
         },
         {
             "_Portrait[Note 8]": "",
@@ -58,11 +61,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Thibert Ier",
-            "born": "0503-12-31T23:00:00.000Z",
-            "dead": "0547-12-31T23:00:00.000Z",
+            "birthDate": "0503-12-31T23:00:00.000Z",
+            "deathDate": "0547-12-31T23:00:00.000Z",
             "lifeSpan": 44.00090350931231,
             "reignStart": "0533-12-31T23:00:00.000Z",
-            "reignEnd": "0547-12-31T23:00:00.000Z"
+            "reignEnd": "0547-12-31T23:00:00.000Z",
+            "reignSpan": 13.99891852673224
         },
         {
             "_Portrait[Note 8]": "",
@@ -74,11 +78,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Thibaut",
-            "born": "0534-12-31T23:00:00.000Z",
-            "dead": "0554-12-31T23:00:00.000Z",
+            "birthDate": "0534-12-31T23:00:00.000Z",
+            "deathDate": "0554-12-31T23:00:00.000Z",
             "lifeSpan": 20.000410686051048,
             "reignStart": "0547-12-31T23:00:00.000Z",
-            "reignEnd": "0554-12-31T23:00:00.000Z"
+            "reignEnd": "0554-12-31T23:00:00.000Z",
+            "reignSpan": 7.000828216869614
         },
         {
             "_Portrait[Note 8]": "",
@@ -90,11 +95,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Childebert Ier",
-            "born": "0496-12-31T23:00:00.000Z",
-            "dead": "0558-12-12T23:00:00.000Z",
+            "birthDate": "0496-12-31T23:00:00.000Z",
+            "deathDate": "0558-12-12T23:00:00.000Z",
             "lifeSpan": 61.94514603311499,
             "reignStart": "0510-12-31T23:00:00.000Z",
-            "reignEnd": "0557-12-31T23:00:00.000Z"
+            "reignEnd": "0557-12-31T23:00:00.000Z",
+            "reignSpan": 47.00164958897171
         },
         {
             "_Portrait[Note 8]": "",
@@ -106,12 +112,13 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clotaire Ier",
-            "surname": "undefined le Vieux »",
-            "born": "0497-12-31T23:00:00.000Z",
-            "dead": "0561-11-28T23:00:00.000Z",
+            "surname": "le Vieux",
+            "birthDate": "0497-12-31T23:00:00.000Z",
+            "deathDate": "0561-11-28T23:00:00.000Z",
             "lifeSpan": 63.90822535712575,
             "reignStart": "0510-12-31T23:00:00.000Z",
-            "reignEnd": "0560-12-31T23:00:00.000Z"
+            "reignEnd": "0560-12-31T23:00:00.000Z",
+            "reignSpan": 50.00239566863112
         },
         {
             "_Portrait[Note 8]": "",
@@ -123,11 +130,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Caribert Ier",
-            "born": "0520-12-31T23:00:00.000Z",
-            "dead": "0567-03-04T23:00:00.000Z",
+            "birthDate": "0520-12-31T23:00:00.000Z",
+            "deathDate": "0567-03-04T23:00:00.000Z",
             "lifeSpan": 46.1720637658542,
             "reignStart": "0560-12-31T23:00:00.000Z",
-            "reignEnd": "0566-12-31T23:00:00.000Z"
+            "reignEnd": "0566-12-31T23:00:00.000Z",
+            "reignSpan": 5.99875425231182
         },
         {
             "_Portrait[Note 8]": "",
@@ -139,11 +147,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Sigebert Ier",
-            "born": "0534-12-31T23:00:00.000Z",
-            "dead": "0575-11-30T23:00:00.000Z",
+            "birthDate": "0534-12-31T23:00:00.000Z",
+            "deathDate": "0575-11-30T23:00:00.000Z",
             "lifeSpan": 40.915282312436254,
             "reignStart": "0560-12-31T23:00:00.000Z",
-            "reignEnd": "0574-12-31T23:00:00.000Z"
+            "reignEnd": "0574-12-31T23:00:00.000Z",
+            "reignSpan": 13.99891852673224
         },
         {
             "_Portrait[Note 8]": "",
@@ -155,11 +164,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Chilpéric Ier",
-            "born": "0525-12-31T23:00:00.000Z",
-            "dead": "0584-08-31T22:00:00.000Z",
+            "birthDate": "0525-12-31T23:00:00.000Z",
+            "deathDate": "0584-08-31T22:00:00.000Z",
             "lifeSpan": 58.66775726629112,
             "reignStart": "0560-12-31T23:00:00.000Z",
-            "reignEnd": "0583-12-31T23:00:00.000Z"
+            "reignEnd": "0583-12-31T23:00:00.000Z",
+            "reignSpan": 22.998418858703463
         },
         {
             "_Portrait[Note 8]": "",
@@ -171,11 +181,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Gontran",
-            "born": "0532-12-31T23:00:00.000Z",
-            "dead": "0592-03-27T22:00:00.000Z",
+            "birthDate": "0532-12-31T23:00:00.000Z",
+            "deathDate": "0592-03-27T22:00:00.000Z",
             "lifeSpan": 59.237241923744726,
             "reignStart": "0560-12-31T23:00:00.000Z",
-            "reignEnd": "0591-12-31T23:00:00.000Z"
+            "reignEnd": "0591-12-31T23:00:00.000Z",
+            "reignSpan": 30.998583133123883
         },
         {
             "_Portrait[Note 8]": "",
@@ -187,11 +198,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Childebert II",
-            "born": "0570-04-05T22:00:00.000Z",
-            "dead": "0596-02-29T23:00:00.000Z",
+            "birthDate": "0570-04-05T22:00:00.000Z",
+            "deathDate": "0596-02-29T23:00:00.000Z",
             "lifeSpan": 25.903452272576896,
             "reignStart": "0574-12-31T23:00:00.000Z",
-            "reignEnd": "0595-12-31T23:00:00.000Z"
+            "reignEnd": "0595-12-31T23:00:00.000Z",
+            "reignSpan": 20.999746743601854
         },
         {
             "_Portrait[Note 8]": "",
@@ -203,11 +215,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Thibert II",
-            "born": "0584-12-31T23:00:00.000Z",
-            "dead": "0611-12-31T23:00:00.000Z",
+            "birthDate": "0584-12-31T23:00:00.000Z",
+            "deathDate": "0611-12-31T23:00:00.000Z",
             "lifeSpan": 26.995763088906685,
             "reignStart": "0594-12-31T23:00:00.000Z",
-            "reignEnd": "0611-12-31T23:00:00.000Z"
+            "reignEnd": "0611-12-31T23:00:00.000Z",
+            "reignSpan": 16.996926699384655
         },
         {
             "_Portrait[Note 8]": "",
@@ -219,11 +232,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Thierry II",
-            "born": "0586-12-31T23:00:00.000Z",
-            "dead": "0612-12-31T23:00:00.000Z",
+            "birthDate": "0586-12-31T23:00:00.000Z",
+            "deathDate": "0612-12-31T23:00:00.000Z",
             "lifeSpan": 25.999164938362867,
             "reignStart": "0594-12-31T23:00:00.000Z",
-            "reignEnd": "0612-12-31T23:00:00.000Z"
+            "reignEnd": "0612-12-31T23:00:00.000Z",
+            "reignSpan": 17.99900066394245
         },
         {
             "_Portrait[Note 8]": "",
@@ -235,11 +249,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Sigebert II",
-            "born": "0600-12-31T23:00:00.000Z",
-            "dead": "0613-10-09T22:00:00.000Z",
+            "birthDate": "0600-12-31T23:00:00.000Z",
+            "deathDate": "0613-10-09T22:00:00.000Z",
             "lifeSpan": 12.772222108142763,
             "reignStart": "0612-12-31T23:00:00.000Z",
-            "reignEnd": "0612-12-31T23:00:00.000Z"
+            "reignEnd": "0612-12-31T23:00:00.000Z",
+            "reignSpan": 0
         },
         {
             "_Portrait[Note 8]": "",
@@ -251,12 +266,13 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clotaire II",
-            "surname": "undefined le Jeune »",
-            "born": "0584-04-30T22:00:00.000Z",
-            "dead": "0629-10-17T22:00:00.000Z",
+            "surname": "le Jeune",
+            "birthDate": "0584-04-30T22:00:00.000Z",
+            "deathDate": "0629-10-17T22:00:00.000Z",
             "lifeSpan": 45.46294585104417,
             "reignStart": "0583-12-31T23:00:00.000Z",
-            "reignEnd": "0628-12-31T23:00:00.000Z"
+            "reignEnd": "0628-12-31T23:00:00.000Z",
+            "reignSpan": 45.000239566863115
         },
         {
             "_Portrait[Note 8]": "",
@@ -268,11 +284,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Dagobert Ier",
-            "born": "0601-12-31T23:00:00.000Z",
-            "dead": "0639-01-18T23:00:00.000Z",
+            "birthDate": "0601-12-31T23:00:00.000Z",
+            "deathDate": "0639-01-18T23:00:00.000Z",
             "lifeSpan": 37.049357618568486,
             "reignStart": "0622-12-31T23:00:00.000Z",
-            "reignEnd": "0638-12-31T23:00:00.000Z"
+            "reignEnd": "0638-12-31T23:00:00.000Z",
+            "reignSpan": 16.000328548840837
         },
         {
             "_Portrait[Note 8]": "",
@@ -284,11 +301,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Caribert II",
-            "born": "0605-12-31T23:00:00.000Z",
-            "dead": "0632-04-07T22:00:00.000Z",
+            "birthDate": "0605-12-31T23:00:00.000Z",
+            "deathDate": "0632-04-07T22:00:00.000Z",
             "lifeSpan": 26.267365745589117,
             "reignStart": "0628-12-31T23:00:00.000Z",
-            "reignEnd": "0631-12-31T23:00:00.000Z"
+            "reignEnd": "0631-12-31T23:00:00.000Z",
+            "reignSpan": 2.998008172652416
         },
         {
             "_Portrait[Note 8]": "",
@@ -300,11 +318,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Sigebert III",
-            "born": "0630-12-31T23:00:00.000Z",
-            "dead": "0656-01-31T23:00:00.000Z",
+            "birthDate": "0630-12-31T23:00:00.000Z",
+            "deathDate": "0656-01-31T23:00:00.000Z",
             "lifeSpan": 25.084703998028704,
             "reignStart": "0638-12-31T23:00:00.000Z",
-            "reignEnd": "0655-12-31T23:00:00.000Z"
+            "reignEnd": "0655-12-31T23:00:00.000Z",
+            "reignSpan": 16.999664606391644
         },
         {
             "_Portrait[Note 8]": "",
@@ -316,12 +335,13 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clovis II",
-            "surname": "undefined le Fainéant »",
-            "born": "0632-12-31T23:00:00.000Z",
-            "dead": "0657-10-30T23:00:00.000Z",
+            "surname": "le Fainéant",
+            "birthDate": "0632-12-31T23:00:00.000Z",
+            "deathDate": "0657-10-30T23:00:00.000Z",
             "lifeSpan": 24.830078646378777,
             "reignStart": "0638-12-31T23:00:00.000Z",
-            "reignEnd": "0656-12-31T23:00:00.000Z"
+            "reignEnd": "0656-12-31T23:00:00.000Z",
+            "reignSpan": 18.00173857094944
         },
         {
             "_Portrait[Note 8]": "",
@@ -333,12 +353,13 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Childebert III",
-            "surname": "undefined l'Adopté »",
-            "born": "0649-12-31T23:00:00.000Z",
-            "dead": "0662-10-17T22:00:00.000Z",
+            "surname": "l'Adopté",
+            "birthDate": "0649-12-31T23:00:00.000Z",
+            "deathDate": "0662-10-17T22:00:00.000Z",
             "lifeSpan": 12.79412536419867,
             "reignStart": "0655-12-31T23:00:00.000Z",
-            "reignEnd": "0661-12-31T23:00:00.000Z"
+            "reignEnd": "0661-12-31T23:00:00.000Z",
+            "reignSpan": 6.001492159318809
         },
         {
             "_Portrait[Note 8]": "",
@@ -350,11 +371,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clotaire III",
-            "born": "0651-12-31T23:00:00.000Z",
-            "dead": "0672-12-31T23:00:00.000Z",
+            "birthDate": "0651-12-31T23:00:00.000Z",
+            "deathDate": "0672-12-31T23:00:00.000Z",
             "lifeSpan": 21.002484650608842,
             "reignStart": "0656-12-31T23:00:00.000Z",
-            "reignEnd": "0672-12-31T23:00:00.000Z"
+            "reignEnd": "0672-12-31T23:00:00.000Z",
+            "reignSpan": 16.000328548840837
         },
         {
             "_Portrait[Note 8]": "",
@@ -366,11 +388,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Childéric II",
-            "born": "0654-12-31T23:00:00.000Z",
-            "dead": "0674-12-31T23:00:00.000Z",
+            "birthDate": "0654-12-31T23:00:00.000Z",
+            "deathDate": "0674-12-31T23:00:00.000Z",
             "lifeSpan": 20.000410686051048,
             "reignStart": "0661-12-31T23:00:00.000Z",
-            "reignEnd": "0674-12-31T23:00:00.000Z"
+            "reignEnd": "0674-12-31T23:00:00.000Z",
+            "reignSpan": 12.999582469181433
         },
         {
             "_Portrait[Note 8]": "",
@@ -382,11 +405,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Thierry III",
-            "born": "0656-12-31T23:00:00.000Z",
-            "dead": "0690-12-31T23:00:00.000Z",
+            "birthDate": "0656-12-31T23:00:00.000Z",
+            "deathDate": "0690-12-31T23:00:00.000Z",
             "lifeSpan": 33.99932921278329,
             "reignStart": "0674-12-31T23:00:00.000Z",
-            "reignEnd": "0690-12-31T23:00:00.000Z"
+            "reignEnd": "0690-12-31T23:00:00.000Z",
+            "reignSpan": 16.000328548840837
         },
         {
             "_Portrait[Note 8]": "",
@@ -398,11 +422,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clovis III",
-            "born": "0669-12-31T23:00:00.000Z",
-            "dead": "0675-12-31T23:00:00.000Z",
+            "birthDate": "0669-12-31T23:00:00.000Z",
+            "deathDate": "0675-12-31T23:00:00.000Z",
             "lifeSpan": 5.99875425231182,
             "reignStart": "0674-12-31T23:00:00.000Z",
-            "reignEnd": "0675-12-31T23:00:00.000Z"
+            "reignEnd": "0675-12-31T23:00:00.000Z",
+            "reignSpan": 0.9993360575508053
         },
         {
             "_Portrait[Note 8]": "",
@@ -414,11 +439,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Dagobert II",
-            "born": "0651-12-31T23:00:00.000Z",
-            "dead": "0679-12-22T23:00:00.000Z",
+            "birthDate": "0651-12-31T23:00:00.000Z",
+            "deathDate": "0679-12-22T23:00:00.000Z",
             "lifeSpan": 27.975933797408572,
             "reignStart": "0675-12-31T23:00:00.000Z",
-            "reignEnd": "0678-12-31T23:00:00.000Z"
+            "reignEnd": "0678-12-31T23:00:00.000Z",
+            "reignSpan": 3.0007460796594043
         },
         {
             "_Portrait[Note 8]": "",
@@ -430,11 +456,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clovis IV",
-            "born": "0679-12-31T23:00:00.000Z",
-            "dead": "0694-12-31T23:00:00.000Z",
+            "birthDate": "0679-12-31T23:00:00.000Z",
+            "deathDate": "0694-12-31T23:00:00.000Z",
             "lifeSpan": 15.000992491290033,
             "reignStart": "0690-12-31T23:00:00.000Z",
-            "reignEnd": "0694-12-31T23:00:00.000Z"
+            "reignEnd": "0694-12-31T23:00:00.000Z",
+            "reignSpan": 4.000082137210209
         },
         {
             "_Portrait[Note 8]": "",
@@ -446,11 +473,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Childebert IV",
-            "born": "0682-12-31T23:00:00.000Z",
-            "dead": "0710-12-31T23:00:00.000Z",
+            "birthDate": "0682-12-31T23:00:00.000Z",
+            "deathDate": "0710-12-31T23:00:00.000Z",
             "lifeSpan": 27.99783705346448,
             "reignStart": "0694-12-31T23:00:00.000Z",
-            "reignEnd": "0710-12-31T23:00:00.000Z"
+            "reignEnd": "0710-12-31T23:00:00.000Z",
+            "reignSpan": 15.99759064183385
         },
         {
             "_Portrait[Note 8]": "",
@@ -462,11 +490,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Dagobert III",
-            "born": "0698-12-31T23:00:00.000Z",
-            "dead": "0714-12-31T23:00:00.000Z",
+            "birthDate": "0698-12-31T23:00:00.000Z",
+            "deathDate": "0714-12-31T23:00:00.000Z",
             "lifeSpan": 15.99759064183385,
             "reignStart": "0710-12-31T23:00:00.000Z",
-            "reignEnd": "0714-12-31T23:00:00.000Z"
+            "reignEnd": "0714-12-31T23:00:00.000Z",
+            "reignSpan": 4.000082137210209
         },
         {
             "_Portrait[Note 8]": "",
@@ -478,11 +507,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Chilpéric II",
-            "born": "0669-12-31T23:00:00.000Z",
-            "dead": "0720-12-31T23:00:00.000Z",
+            "birthDate": "0669-12-31T23:00:00.000Z",
+            "deathDate": "0720-12-31T23:00:00.000Z",
             "lifeSpan": 50.99899381917493,
             "reignStart": "0714-12-31T23:00:00.000Z",
-            "reignEnd": "0720-12-31T23:00:00.000Z"
+            "reignEnd": "0720-12-31T23:00:00.000Z",
+            "reignSpan": 6.001492159318809
         },
         {
             "_Portrait[Note 8]": "",
@@ -494,11 +524,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Clotaire IV",
-            "born": "0684-12-31T23:00:00.000Z",
-            "dead": "0718-12-31T23:00:00.000Z",
+            "birthDate": "0684-12-31T23:00:00.000Z",
+            "deathDate": "0718-12-31T23:00:00.000Z",
             "lifeSpan": 33.9965913057763,
             "reignStart": "0716-12-31T23:00:00.000Z",
-            "reignEnd": "0718-12-31T23:00:00.000Z"
+            "reignEnd": "0718-12-31T23:00:00.000Z",
+            "reignSpan": 1.9986721151016107
         },
         {
             "_Portrait[Note 8]": "",
@@ -510,11 +541,12 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Thierry IV",
-            "born": "0712-12-31T23:00:00.000Z",
-            "dead": "0736-12-31T23:00:00.000Z",
+            "birthDate": "0712-12-31T23:00:00.000Z",
+            "deathDate": "0736-12-31T23:00:00.000Z",
             "lifeSpan": 24.000492823261258,
             "reignStart": "0720-12-31T23:00:00.000Z",
-            "reignEnd": "0736-12-31T23:00:00.000Z"
+            "reignEnd": "0736-12-31T23:00:00.000Z",
+            "reignSpan": 16.000328548840837
         },
         {
             "_Portrait[Note 8]": "Interrègne (737 – 743).",
@@ -528,7 +560,7 @@
         },
         {
             "_Portrait[Note 8]": "",
-            "_Nom": "Childéric III\n« le Fainéant »\n(vers 714 - vers 754/755)\n",
+            "_Nom": "Childéric III\n« le Fainéant »\n(vers 714 – vers 754/755)\n",
             "_Début du règne": "743",
             "_Fin du règne": "751",
             "_Notes": "D'ascendance incertaine. Placé sur le trône par le maire du palais Pépin le Bref, il est déposé par ce même Pépin en novembre 751 et finit cloîtré dans un monastère.",
@@ -536,12 +568,13 @@
                 "Mérovingiens (481-751)"
             ],
             "name": "Childéric III",
-            "surname": "undefined le Fainéant »",
-            "born": "0713-12-31T23:00:00.000Z",
-            "dead": "0753-12-31T23:00:00.000Z",
+            "surname": "le Fainéant",
+            "birthDate": "0713-12-31T23:00:00.000Z",
+            "deathDate": "0753-12-31T23:00:00.000Z",
             "lifeSpan": 40.000821372102095,
             "reignStart": "0742-12-31T23:00:00.000Z",
-            "reignEnd": "0750-12-31T23:00:00.000Z"
+            "reignEnd": "0750-12-31T23:00:00.000Z",
+            "reignSpan": 8.000164274420419
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -553,15 +586,16 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Pépin « le Bref »",
-            "born": "0714-12-31T23:00:00.000Z",
-            "dead": "0768-09-23T22:00:00.000Z",
+            "birthDate": "0714-12-31T23:00:00.000Z",
+            "deathDate": "0768-09-23T22:00:00.000Z",
             "lifeSpan": 53.73131093269084,
             "reignStart": "0751-10-31T23:00:00.000Z",
-            "reignEnd": "0768-09-23T22:00:00.000Z"
+            "reignEnd": "0768-09-23T22:00:00.000Z",
+            "reignSpan": 16.898247967674447
         },
         {
             "_Portrait": "",
-            "_Nom": "Carloman Ier\n(vers 751 - 4 décembre 771)",
+            "_Nom": "Carloman Ier\n(vers 751 – 4 décembre 771)",
             "_Début du règne": "4 septembre\n768",
             "_Fin du règne": "4 décembre\n771",
             "_Notes": "Fils cadet de Pépin le Bref et de Bertrade de Laon. Sacré avec son père et son frère aîné Charles en 754. Le royaume franc est partagé entre les deux frères à la mort de Pépin, Carloman obtenant l'Austrasie, l'Alémanie, la Thuringe, et les pays tributaires. Sa mort prématurée permet à Charles de réunifier le royaume.",
@@ -569,11 +603,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Carloman Ier",
-            "born": "0750-12-31T23:00:00.000Z",
-            "dead": "0771-12-03T23:00:00.000Z",
+            "birthDate": "0750-12-31T23:00:00.000Z",
+            "deathDate": "0771-12-03T23:00:00.000Z",
             "lifeSpan": 20.923085347406175,
             "reignStart": "0768-09-03T22:00:00.000Z",
-            "reignEnd": "0771-12-03T23:00:00.000Z"
+            "reignEnd": "0771-12-03T23:00:00.000Z",
+            "reignSpan": 3.2472717897469945
         },
         {
             "_Portrait": "",
@@ -585,11 +620,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Charlemagne",
-            "born": "0742-04-01T22:00:00.000Z",
-            "dead": "0814-01-27T23:00:00.000Z",
+            "birthDate": "0742-04-01T22:00:00.000Z",
+            "deathDate": "0814-01-27T23:00:00.000Z",
             "lifeSpan": 71.82636650079513,
             "reignStart": "0768-09-23T22:00:00.000Z",
-            "reignEnd": "0814-01-27T23:00:00.000Z"
+            "reignEnd": "0814-01-27T23:00:00.000Z",
+            "reignSpan": 45.345329929202286
         },
         {
             "_Portrait": "",
@@ -601,12 +637,13 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Louis Ier",
-            "surname": "undefined le Pieux » ou « le Débonnaire »",
-            "born": "0777-12-31T23:00:00.000Z",
-            "dead": "0840-06-19T22:00:00.000Z",
+            "surname": "le Pieux  ou  le Débonnaire",
+            "birthDate": "0777-12-31T23:00:00.000Z",
+            "deathDate": "0840-06-19T22:00:00.000Z",
             "lifeSpan": 62.46797219199116,
             "reignStart": "0813-12-31T23:00:00.000Z",
-            "reignEnd": "0840-06-19T22:00:00.000Z"
+            "reignEnd": "0840-06-19T22:00:00.000Z",
+            "reignSpan": 26.46723295709928
         },
         {
             "_Portrait": "",
@@ -618,12 +655,13 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Charles II",
-            "surname": "undefined le Chauve »",
-            "born": "0823-06-12T22:00:00.000Z",
-            "dead": "0877-10-05T22:00:00.000Z",
+            "surname": "le Chauve",
+            "birthDate": "0823-06-12T22:00:00.000Z",
+            "deathDate": "0877-10-05T22:00:00.000Z",
             "lifeSpan": 54.317337111645,
             "reignStart": "0839-12-31T23:00:00.000Z",
-            "reignEnd": "0877-10-05T22:00:00.000Z"
+            "reignEnd": "0877-10-05T22:00:00.000Z",
+            "reignSpan": 37.76383726793386
         },
         {
             "_Portrait": "",
@@ -635,12 +673,13 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Louis II",
-            "surname": "undefined le Bègue »",
-            "born": "0846-10-31T23:00:00.000Z",
-            "dead": "0879-04-09T22:00:00.000Z",
+            "surname": "le Bègue",
+            "birthDate": "0846-10-31T23:00:00.000Z",
+            "deathDate": "0879-04-09T22:00:00.000Z",
             "lifeSpan": 32.43860813934121,
             "reignStart": "0876-12-31T23:00:00.000Z",
-            "reignEnd": "0879-04-09T22:00:00.000Z"
+            "reignEnd": "0879-04-09T22:00:00.000Z",
+            "reignSpan": 2.2696108293348485
         },
         {
             "_Portrait": "",
@@ -652,11 +691,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Louis III",
-            "born": "0863-12-31T23:00:00.000Z",
-            "dead": "0882-08-04T22:00:00.000Z",
+            "birthDate": "0863-12-31T23:00:00.000Z",
+            "deathDate": "0882-08-04T22:00:00.000Z",
             "lifeSpan": 18.59301240500033,
             "reignStart": "0878-12-31T23:00:00.000Z",
-            "reignEnd": "0882-08-04T22:00:00.000Z"
+            "reignEnd": "0882-08-04T22:00:00.000Z",
+            "reignSpan": 3.5920199137102973
         },
         {
             "_Portrait": "Carloman II\n(vers 867 – 6 décembre 884)",
@@ -680,11 +720,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Charles le Gros",
-            "born": "0838-12-31T23:00:00.000Z",
-            "dead": "0888-01-12T23:00:00.000Z",
+            "birthDate": "0838-12-31T23:00:00.000Z",
+            "deathDate": "0888-01-12T23:00:00.000Z",
             "lifeSpan": 49.03317658815718,
             "reignStart": "0885-05-31T22:00:00.000Z",
-            "reignEnd": "0887-10-31T23:00:00.000Z"
+            "reignEnd": "0887-10-31T23:00:00.000Z",
+            "reignSpan": 2.417685966629477
         },
         {
             "_Portrait": "",
@@ -696,11 +737,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Eudes",
-            "born": "0859-12-31T23:00:00.000Z",
-            "dead": "0897-12-31T23:00:00.000Z",
+            "birthDate": "0859-12-31T23:00:00.000Z",
+            "deathDate": "0897-12-31T23:00:00.000Z",
             "lifeSpan": 38.00214925700049,
             "reignStart": "0888-02-28T23:00:00.000Z",
-            "reignEnd": "0897-12-31T23:00:00.000Z"
+            "reignEnd": "0897-12-31T23:00:00.000Z",
+            "reignSpan": 9.840037783116697
         },
         {
             "_Portrait": "",
@@ -712,12 +754,13 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Charles III",
-            "surname": "undefined le Simple »",
-            "born": "0879-09-16T22:00:00.000Z",
-            "dead": "0929-10-06T22:00:00.000Z",
+            "surname": "le Simple",
+            "birthDate": "0879-09-16T22:00:00.000Z",
+            "deathDate": "0929-10-06T22:00:00.000Z",
             "lifeSpan": 50.054415901763896,
             "reignStart": "0897-12-31T23:00:00.000Z",
-            "reignEnd": "0922-06-28T22:00:00.000Z"
+            "reignEnd": "0922-06-28T22:00:00.000Z",
+            "reignSpan": 24.487726191046587
         },
         {
             "_Portrait": "",
@@ -729,11 +772,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Robert Ier",
-            "born": "0865-12-31T23:00:00.000Z",
-            "dead": "0923-06-14T22:00:00.000Z",
+            "birthDate": "0865-12-31T23:00:00.000Z",
+            "deathDate": "0923-06-14T22:00:00.000Z",
             "lifeSpan": 57.449388648181234,
             "reignStart": "0922-06-28T22:00:00.000Z",
-            "reignEnd": "0923-06-14T22:00:00.000Z"
+            "reignEnd": "0923-06-14T22:00:00.000Z",
+            "reignSpan": 0.9610053594529662
         },
         {
             "_Portrait": "",
@@ -745,11 +789,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Raoul",
-            "born": "0889-12-31T23:00:00.000Z",
-            "dead": "0936-01-14T23:00:00.000Z",
+            "birthDate": "0889-12-31T23:00:00.000Z",
+            "deathDate": "0936-01-14T23:00:00.000Z",
             "lifeSpan": 46.035168415504764,
             "reignStart": "0923-06-14T22:00:00.000Z",
-            "reignEnd": "0936-01-14T23:00:00.000Z"
+            "reignEnd": "0936-01-14T23:00:00.000Z",
+            "reignSpan": 12.586272590584793
         },
         {
             "_Portrait": "",
@@ -761,12 +806,13 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Louis IV",
-            "surname": "undefined d'Outremer »",
-            "born": "0919-12-31T23:00:00.000Z",
-            "dead": "0954-09-09T22:00:00.000Z",
+            "surname": "d'Outremer",
+            "birthDate": "0919-12-31T23:00:00.000Z",
+            "deathDate": "0954-09-09T22:00:00.000Z",
             "lifeSpan": 34.69190560609275,
             "reignStart": "0936-06-18T22:00:00.000Z",
-            "reignEnd": "0954-09-09T22:00:00.000Z"
+            "reignEnd": "0954-09-09T22:00:00.000Z",
+            "reignSpan": 18.226246945522494
         },
         {
             "_Portrait": "",
@@ -778,11 +824,12 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Lothaire",
-            "born": "0940-12-31T23:00:00.000Z",
-            "dead": "0986-03-01T23:00:00.000Z",
+            "birthDate": "0940-12-31T23:00:00.000Z",
+            "deathDate": "0986-03-01T23:00:00.000Z",
             "lifeSpan": 45.16451398728242,
             "reignStart": "0954-09-09T22:00:00.000Z",
-            "reignEnd": "0986-03-01T23:00:00.000Z"
+            "reignEnd": "0986-03-01T23:00:00.000Z",
+            "reignSpan": 31.475093031798508
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -794,12 +841,13 @@
                 "Carolingiens (751-987)"
             ],
             "name": "Louis V",
-            "surname": "undefined le Fainéant »",
-            "born": "0966-12-31T23:00:00.000Z",
-            "dead": "0987-05-21T22:00:00.000Z",
+            "surname": "le Fainéant",
+            "birthDate": "0966-12-31T23:00:00.000Z",
+            "deathDate": "0987-05-21T22:00:00.000Z",
             "lifeSpan": 20.386341494577803,
             "reignStart": "0986-03-01T23:00:00.000Z",
-            "reignEnd": "0987-05-20T22:00:00.000Z"
+            "reignEnd": "0987-05-20T22:00:00.000Z",
+            "reignSpan": 1.2182545386512613
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -811,11 +859,12 @@
                 "Capétiens"
             ],
             "name": "Hugues Capet",
-            "born": "0939-12-31T23:00:00.000Z",
-            "dead": "0996-10-23T22:00:00.000Z",
+            "birthDate": "0939-12-31T23:00:00.000Z",
+            "deathDate": "0996-10-23T22:00:00.000Z",
             "lifeSpan": 56.8141942225599,
             "reignStart": "0987-06-02T22:00:00.000Z",
-            "reignEnd": "0996-10-23T22:00:00.000Z"
+            "reignEnd": "0996-10-23T22:00:00.000Z",
+            "reignSpan": 9.39375894097757
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -827,12 +876,13 @@
                 "Capétiens"
             ],
             "name": "Robert II",
-            "surname": "undefined le Pieux »",
-            "born": "0972-03-26T23:00:00.000Z",
-            "dead": "1031-07-19T22:00:00.000Z",
+            "surname": "le Pieux",
+            "birthDate": "0972-03-26T23:00:00.000Z",
+            "deathDate": "1031-07-19T22:00:00.000Z",
             "lifeSpan": 59.31116541293341,
             "reignStart": "0996-10-23T22:00:00.000Z",
-            "reignEnd": "1031-07-19T22:00:00.000Z"
+            "reignEnd": "1031-07-19T22:00:00.000Z",
+            "reignSpan": 34.733088290656205
         },
         {
             "_Portrait": "",
@@ -844,11 +894,12 @@
                 "Capétiens"
             ],
             "name": "Hugues (1007 – 17 septembre 1025)",
-            "born": "1006-12-31T23:00:00.000Z",
-            "dead": "1025-09-16T22:00:00.000Z",
+            "birthDate": "1006-12-31T23:00:00.000Z",
+            "deathDate": "1025-09-16T22:00:00.000Z",
             "lifeSpan": 18.710742406300835,
             "reignStart": "1017-06-18T22:00:00.000Z",
-            "reignEnd": "1025-09-16T22:00:00.000Z"
+            "reignEnd": "1025-09-16T22:00:00.000Z",
+            "reignSpan": 8.246575905049385
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -860,11 +911,12 @@
                 "Capétiens"
             ],
             "name": "Henri Ier",
-            "born": "1008-05-03T22:00:00.000Z",
-            "dead": "1060-08-03T22:00:00.000Z",
+            "birthDate": "1008-05-03T22:00:00.000Z",
+            "deathDate": "1060-08-03T22:00:00.000Z",
             "lifeSpan": 52.25295522837567,
             "reignStart": "1031-07-19T22:00:00.000Z",
-            "reignEnd": "1060-08-03T22:00:00.000Z"
+            "reignEnd": "1060-08-03T22:00:00.000Z",
+            "reignSpan": 29.04371753013409
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -876,11 +928,12 @@
                 "Capétiens"
             ],
             "name": "Philippe Ier",
-            "born": "1052-05-22T22:00:00.000Z",
-            "dead": "1108-07-28T22:00:00.000Z",
+            "birthDate": "1052-05-22T22:00:00.000Z",
+            "deathDate": "1108-07-28T22:00:00.000Z",
             "lifeSpan": 56.18185178340418,
             "reignStart": "1060-08-03T22:00:00.000Z",
-            "reignEnd": "1108-07-28T22:00:00.000Z"
+            "reignEnd": "1108-07-28T22:00:00.000Z",
+            "reignSpan": 47.9818202974736
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -892,12 +945,13 @@
                 "Capétiens"
             ],
             "name": "Louis VI",
-            "surname": "undefined le Gros »",
-            "born": "1081-11-30T23:00:00.000Z",
-            "dead": "1137-07-31T22:00:00.000Z",
+            "surname": "le Gros",
+            "birthDate": "1081-11-30T23:00:00.000Z",
+            "deathDate": "1137-07-31T22:00:00.000Z",
             "lifeSpan": 55.66427327962472,
             "reignStart": "1108-07-28T22:00:00.000Z",
-            "reignEnd": "1137-07-31T22:00:00.000Z"
+            "reignEnd": "1137-07-31T22:00:00.000Z",
+            "reignSpan": 29.00812473904324
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -909,11 +963,12 @@
                 "Capétiens"
             ],
             "name": "Philippe",
-            "born": "1116-08-28T22:00:00.000Z",
-            "dead": "1131-10-13T22:00:00.000Z",
+            "birthDate": "1116-08-28T22:00:00.000Z",
+            "deathDate": "1131-10-13T22:00:00.000Z",
             "lifeSpan": 15.124198306604518,
             "reignStart": "1129-04-13T22:00:00.000Z",
-            "reignEnd": "1130-12-31T23:00:00.000Z"
+            "reignEnd": "1130-12-31T23:00:00.000Z",
+            "reignSpan": 1.7167817728404187
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -925,12 +980,13 @@
                 "Capétiens"
             ],
             "name": "Louis VII",
-            "surname": "undefined le Jeune »",
-            "born": "1119-12-31T23:00:00.000Z",
-            "dead": "1180-09-17T22:00:00.000Z",
+            "surname": "le Jeune",
+            "birthDate": "1119-12-31T23:00:00.000Z",
+            "deathDate": "1180-09-17T22:00:00.000Z",
             "lifeSpan": 60.71571170751852,
             "reignStart": "1137-07-31T22:00:00.000Z",
-            "reignEnd": "1180-09-17T22:00:00.000Z"
+            "reignEnd": "1180-09-17T22:00:00.000Z",
+            "reignSpan": 43.132986988096945
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -942,12 +998,13 @@
                 "Capétiens"
             ],
             "name": "Philippe II",
-            "surname": "undefined Auguste »",
-            "born": "1165-08-20T22:00:00.000Z",
-            "dead": "1223-07-13T22:00:00.000Z",
+            "surname": "Auguste",
+            "birthDate": "1165-08-20T22:00:00.000Z",
+            "deathDate": "1223-07-13T22:00:00.000Z",
             "lifeSpan": 57.89578156977898,
             "reignStart": "1180-09-17T22:00:00.000Z",
-            "reignEnd": "1223-07-13T22:00:00.000Z"
+            "reignEnd": "1223-07-13T22:00:00.000Z",
+            "reignSpan": 42.81812768229327
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -959,12 +1016,13 @@
                 "Capétiens"
             ],
             "name": "Louis VIII",
-            "surname": "undefined le Lion »",
-            "born": "1187-09-04T22:00:00.000Z",
-            "dead": "1226-11-07T23:00:00.000Z",
+            "surname": "le Lion",
+            "birthDate": "1187-09-04T22:00:00.000Z",
+            "deathDate": "1226-11-07T23:00:00.000Z",
             "lifeSpan": 39.17682544245718,
             "reignStart": "1223-07-13T22:00:00.000Z",
-            "reignEnd": "1226-11-07T23:00:00.000Z"
+            "reignEnd": "1226-11-07T23:00:00.000Z",
+            "reignSpan": 3.3211952789356842
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -976,12 +1034,13 @@
                 "Capétiens"
             ],
             "name": "Louis IX",
-            "surname": "undefined Saint Louis »",
-            "born": "1214-04-24T22:00:00.000Z",
-            "dead": "1270-08-24T22:00:00.000Z",
+            "surname": "Saint Louis",
+            "birthDate": "1214-04-24T22:00:00.000Z",
+            "deathDate": "1270-08-24T22:00:00.000Z",
             "lifeSpan": 56.33517457579553,
             "reignStart": "1226-11-07T23:00:00.000Z",
-            "reignEnd": "1270-08-24T22:00:00.000Z"
+            "reignEnd": "1270-08-24T22:00:00.000Z",
+            "reignSpan": 43.795446404329546
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -993,12 +1052,13 @@
                 "Capétiens"
             ],
             "name": "Philippe III",
-            "surname": "undefined le Hardi »",
-            "born": "1245-04-29T22:00:00.000Z",
-            "dead": "1285-10-04T22:00:00.000Z",
+            "surname": "le Hardi",
+            "birthDate": "1245-04-29T22:00:00.000Z",
+            "deathDate": "1285-10-04T22:00:00.000Z",
             "lifeSpan": 40.43341067920628,
             "reignStart": "1270-08-24T22:00:00.000Z",
-            "reignEnd": "1285-10-04T22:00:00.000Z"
+            "reignEnd": "1285-10-04T22:00:00.000Z",
+            "reignSpan": 15.11324667857656
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1010,12 +1070,13 @@
                 "Capétiens"
             ],
             "name": "Philippe IV",
-            "surname": "undefined le Bel »",
-            "born": "1267-12-31T23:00:00.000Z",
-            "dead": "1314-11-28T23:00:00.000Z",
+            "surname": "le Bel",
+            "birthDate": "1267-12-31T23:00:00.000Z",
+            "deathDate": "1314-11-28T23:00:00.000Z",
             "lifeSpan": 46.9085607507341,
             "reignStart": "1285-10-04T22:00:00.000Z",
-            "reignEnd": "1314-11-28T23:00:00.000Z"
+            "reignEnd": "1314-11-28T23:00:00.000Z",
+            "reignSpan": 29.147872075858277
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1027,12 +1088,13 @@
                 "Capétiens"
             ],
             "name": "Louis X",
-            "surname": "undefined le Hutin »",
-            "born": "1289-10-03T22:00:00.000Z",
-            "dead": "1316-06-04T22:00:00.000Z",
+            "surname": "le Hutin",
+            "birthDate": "1289-10-03T22:00:00.000Z",
+            "deathDate": "1316-06-04T22:00:00.000Z",
             "lifeSpan": 26.667214248068063,
             "reignStart": "1314-11-28T23:00:00.000Z",
-            "reignEnd": "1316-06-04T22:00:00.000Z"
+            "reignEnd": "1316-06-04T22:00:00.000Z",
+            "reignSpan": 1.5166864024130087
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1044,12 +1106,13 @@
                 "Capétiens"
             ],
             "name": "Jean Ier",
-            "surname": "undefined le Posthume »",
-            "born": "1316-11-14T23:00:00.000Z",
-            "dead": "1316-11-18T23:00:00.000Z",
+            "surname": "le Posthume",
+            "birthDate": "1316-11-14T23:00:00.000Z",
+            "deathDate": "1316-11-18T23:00:00.000Z",
             "lifeSpan": 0.010951628027954031,
             "reignStart": "1316-11-14T23:00:00.000Z",
-            "reignEnd": "1316-11-18T23:00:00.000Z"
+            "reignEnd": "1316-11-18T23:00:00.000Z",
+            "reignSpan": 0.010951628027954031
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1061,12 +1124,13 @@
                 "Capétiens"
             ],
             "name": "Philippe V",
-            "surname": "undefined le Long »",
-            "born": "1293-11-16T23:00:00.000Z",
-            "dead": "1322-01-02T23:00:00.000Z",
+            "surname": "le Long",
+            "birthDate": "1293-11-16T23:00:00.000Z",
+            "deathDate": "1322-01-02T23:00:00.000Z",
             "lifeSpan": 28.126518682792938,
             "reignStart": "1316-11-18T23:00:00.000Z",
-            "reignEnd": "1322-01-02T23:00:00.000Z"
+            "reignEnd": "1322-01-02T23:00:00.000Z",
+            "reignSpan": 5.122624010075498
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1078,12 +1142,13 @@
                 "Capétiens"
             ],
             "name": "Charles IV",
-            "surname": "undefined le Bel »",
-            "born": "1294-06-17T22:00:00.000Z",
-            "dead": "1328-01-31T23:00:00.000Z",
+            "surname": "le Bel",
+            "birthDate": "1294-06-17T22:00:00.000Z",
+            "deathDate": "1328-01-31T23:00:00.000Z",
             "lifeSpan": 33.6216121252775,
             "reignStart": "1322-01-02T23:00:00.000Z",
-            "reignEnd": "1328-01-31T23:00:00.000Z"
+            "reignEnd": "1328-01-31T23:00:00.000Z",
+            "reignSpan": 6.078153555514487
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1094,11 +1159,12 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Philippe VI",
-            "born": "1292-12-31T23:00:00.000Z",
-            "dead": "1350-08-21T22:00:00.000Z",
+            "birthDate": "1292-12-31T23:00:00.000Z",
+            "deathDate": "1350-08-21T22:00:00.000Z",
             "lifeSpan": 57.63556632465645,
             "reignStart": "1328-03-31T22:00:00.000Z",
-            "reignEnd": "1350-08-21T22:00:00.000Z"
+            "reignEnd": "1350-08-21T22:00:00.000Z",
+            "reignSpan": 22.39060350315202
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1109,12 +1175,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Jean II",
-            "surname": "undefined le Bon »",
-            "born": "1319-04-25T22:00:00.000Z",
-            "dead": "1364-04-07T22:00:00.000Z",
+            "surname": "le Bon",
+            "birthDate": "1319-04-25T22:00:00.000Z",
+            "deathDate": "1364-04-07T22:00:00.000Z",
             "lifeSpan": 44.953695147744305,
             "reignStart": "1350-08-21T22:00:00.000Z",
-            "reignEnd": "1364-04-07T22:00:00.000Z"
+            "reignEnd": "1364-04-07T22:00:00.000Z",
+            "reignSpan": 13.62930108078879
         },
         {
             "_Portrait": "",
@@ -1125,12 +1192,13 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [],
             "name": "Charles V",
-            "surname": "undefined le Sage »",
-            "born": "1338-01-20T23:00:00.000Z",
-            "dead": "1380-09-15T22:00:00.000Z",
+            "surname": "le Sage",
+            "birthDate": "1338-01-20T23:00:00.000Z",
+            "deathDate": "1380-09-15T22:00:00.000Z",
             "lifeSpan": 42.653739182415336,
             "reignStart": "1364-04-07T22:00:00.000Z",
-            "reignEnd": "1380-09-15T22:00:00.000Z"
+            "reignEnd": "1380-09-15T22:00:00.000Z",
+            "reignSpan": 16.44113157696599
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1141,12 +1209,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Charles VI",
-            "surname": "undefined le Bien-Aimé » ou « le Fol »",
-            "born": "1368-12-02T23:00:00.000Z",
-            "dead": "1422-10-21T22:00:00.000Z",
+            "surname": "le Bien-Aimé  ou  le Fol",
+            "birthDate": "1368-12-02T23:00:00.000Z",
+            "deathDate": "1422-10-21T22:00:00.000Z",
             "lifeSpan": 53.88189581807521,
             "reignStart": "1380-09-15T22:00:00.000Z",
-            "reignEnd": "1422-10-21T22:00:00.000Z"
+            "reignEnd": "1422-10-21T22:00:00.000Z",
+            "reignSpan": 42.09532023244831
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1157,12 +1226,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Charles VII",
-            "surname": "undefined le Victorieux » ou « le Bien Servi »",
-            "born": "1403-02-21T23:00:00.000Z",
-            "dead": "1461-07-21T22:00:00.000Z",
+            "surname": "le Victorieux  ou  le Bien Servi",
+            "birthDate": "1403-02-21T23:00:00.000Z",
+            "deathDate": "1461-07-21T22:00:00.000Z",
             "lifeSpan": 58.413131914641184,
             "reignStart": "1422-10-21T22:00:00.000Z",
-            "reignEnd": "1461-07-21T22:00:00.000Z"
+            "reignEnd": "1461-07-21T22:00:00.000Z",
+            "reignSpan": 38.74959786990835
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1173,12 +1243,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Louis XI",
-            "surname": "undefined le Prudent »",
-            "born": "1423-07-02T22:00:00.000Z",
-            "dead": "1483-08-29T22:00:00.000Z",
+            "surname": "le Prudent",
+            "birthDate": "1423-07-02T22:00:00.000Z",
+            "deathDate": "1483-08-29T22:00:00.000Z",
             "lifeSpan": 60.160030664558484,
             "reignStart": "1461-07-21T22:00:00.000Z",
-            "reignEnd": "1483-08-29T22:00:00.000Z"
+            "reignEnd": "1483-08-29T22:00:00.000Z",
+            "reignSpan": 22.10586117442521
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1189,12 +1260,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Charles VIII",
-            "surname": "undefined l'Affable »",
-            "born": "1470-06-29T22:00:00.000Z",
-            "dead": "1498-04-06T22:00:00.000Z",
+            "surname": "l'Affable",
+            "birthDate": "1470-06-29T22:00:00.000Z",
+            "deathDate": "1498-04-06T22:00:00.000Z",
             "lifeSpan": 27.770590771884432,
             "reignStart": "1483-08-29T22:00:00.000Z",
-            "reignEnd": "1498-04-06T22:00:00.000Z"
+            "reignEnd": "1498-04-06T22:00:00.000Z",
+            "reignSpan": 14.603995975276701
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1205,12 +1277,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Louis XII",
-            "surname": "undefined le Père du Peuple »",
-            "born": "1462-06-26T22:00:00.000Z",
-            "dead": "1514-12-31T23:00:00.000Z",
+            "surname": "le Père du Peuple",
+            "birthDate": "1462-06-26T22:00:00.000Z",
+            "deathDate": "1514-12-31T23:00:00.000Z",
             "lifeSpan": 52.5131704734982,
             "reignStart": "1498-04-06T22:00:00.000Z",
-            "reignEnd": "1514-12-31T23:00:00.000Z"
+            "reignEnd": "1514-12-31T23:00:00.000Z",
+            "reignSpan": 16.73420170617238
         },
         {
             "_Portrait": "",
@@ -1221,12 +1294,13 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [],
             "name": "François Ier",
-            "surname": "undefined le Père et Restaurateur des Lettres »",
-            "born": "1494-09-11T22:00:00.000Z",
-            "dead": "1547-03-30T22:00:00.000Z",
+            "surname": "le Père et Restaurateur des Lettres",
+            "birthDate": "1494-09-11T22:00:00.000Z",
+            "deathDate": "1547-03-30T22:00:00.000Z",
             "lifeSpan": 52.54591127812344,
             "reignStart": "1514-12-31T23:00:00.000Z",
-            "reignEnd": "1547-03-30T22:00:00.000Z"
+            "reignEnd": "1547-03-30T22:00:00.000Z",
+            "reignSpan": 32.24421674184503
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1237,11 +1311,12 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Henri II",
-            "born": "1519-03-30T22:00:00.000Z",
-            "dead": "1559-07-09T22:00:00.000Z",
+            "birthDate": "1519-03-30T22:00:00.000Z",
+            "deathDate": "1559-07-09T22:00:00.000Z",
             "lifeSpan": 40.27734997980794,
             "reignStart": "1547-03-30T22:00:00.000Z",
-            "reignEnd": "1559-07-09T22:00:00.000Z"
+            "reignEnd": "1559-07-09T22:00:00.000Z",
+            "reignSpan": 12.276775019336469
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1252,11 +1327,12 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "François II",
-            "born": "1544-01-18T23:00:00.000Z",
-            "dead": "1560-12-04T23:00:00.000Z",
+            "birthDate": "1544-01-18T23:00:00.000Z",
+            "deathDate": "1560-12-04T23:00:00.000Z",
             "lifeSpan": 16.879196698084147,
             "reignStart": "1559-07-09T22:00:00.000Z",
-            "reignEnd": "1560-12-04T23:00:00.000Z"
+            "reignEnd": "1560-12-04T23:00:00.000Z",
+            "reignSpan": 1.4073982810507175
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1267,11 +1343,12 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Charles IX",
-            "born": "1550-06-26T22:00:00.000Z",
-            "dead": "1574-05-29T22:00:00.000Z",
+            "birthDate": "1550-06-26T22:00:00.000Z",
+            "deathDate": "1574-05-29T22:00:00.000Z",
             "lifeSpan": 23.92383142706558,
             "reignStart": "1560-12-04T23:00:00.000Z",
-            "reignEnd": "1574-05-29T22:00:00.000Z"
+            "reignEnd": "1574-05-29T22:00:00.000Z",
+            "reignSpan": 13.481340022952788
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1282,11 +1359,12 @@
             "_Armoiries": "\n\n\n\n",
             "attribs": [],
             "name": "Henri III",
-            "born": "1551-09-18T22:00:00.000Z",
-            "dead": "1589-08-01T22:00:00.000Z",
+            "birthDate": "1551-09-18T22:00:00.000Z",
+            "deathDate": "1589-08-01T22:00:00.000Z",
             "lifeSpan": 37.87072972066504,
             "reignStart": "1574-05-29T22:00:00.000Z",
-            "reignEnd": "1589-08-01T22:00:00.000Z"
+            "reignEnd": "1589-08-01T22:00:00.000Z",
+            "reignSpan": 15.176218539737299
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1297,12 +1375,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Henri IV",
-            "surname": "undefined le Grand » ou « le Vert-Galant »",
-            "born": "1553-12-12T23:00:00.000Z",
-            "dead": "1610-05-13T22:00:00.000Z",
+            "surname": "le Grand  ou  le Vert-Galant",
+            "birthDate": "1553-12-12T23:00:00.000Z",
+            "deathDate": "1610-05-13T22:00:00.000Z",
             "lifeSpan": 56.41719770654657,
             "reignStart": "1589-08-01T22:00:00.000Z",
-            "reignEnd": "1610-05-13T22:00:00.000Z"
+            "reignEnd": "1610-05-13T22:00:00.000Z",
+            "reignSpan": 20.78071418304277
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1313,12 +1392,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Louis XIII",
-            "surname": "undefined le Juste »",
-            "born": "1601-09-26T22:00:00.000Z",
-            "dead": "1643-05-13T22:00:00.000Z",
+            "surname": "le Juste",
+            "birthDate": "1601-09-26T22:00:00.000Z",
+            "deathDate": "1643-05-13T22:00:00.000Z",
             "lifeSpan": 41.62713813425327,
             "reignStart": "1610-05-13T22:00:00.000Z",
-            "reignEnd": "1643-05-13T22:00:00.000Z"
+            "reignEnd": "1643-05-13T22:00:00.000Z",
+            "reignSpan": 32.99999315523248
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1329,12 +1409,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Louis XIV",
-            "surname": "undefined le Grand » ou « le Roi-Soleil »",
-            "born": "1638-09-04T22:00:00.000Z",
-            "dead": "1715-08-31T22:00:00.000Z",
+            "surname": "le Grand  ou  le Roi-Soleil",
+            "birthDate": "1638-09-04T22:00:00.000Z",
+            "deathDate": "1715-08-31T22:00:00.000Z",
             "lifeSpan": 76.98720712950986,
             "reignStart": "1643-05-13T22:00:00.000Z",
-            "reignEnd": "1715-08-31T22:00:00.000Z"
+            "reignEnd": "1715-08-31T22:00:00.000Z",
+            "reignSpan": 72.29991033354553
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1345,12 +1426,13 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Louis XV",
-            "surname": "undefined le Bien-Aimé »",
-            "born": "1710-02-14T23:00:00.000Z",
-            "dead": "1774-05-09T22:00:00.000Z",
+            "surname": "le Bien-Aimé",
+            "birthDate": "1710-02-14T23:00:00.000Z",
+            "deathDate": "1774-05-09T22:00:00.000Z",
             "lifeSpan": 64.23118430449176,
             "reignStart": "1715-08-31T22:00:00.000Z",
-            "reignEnd": "1774-05-09T22:00:00.000Z"
+            "reignEnd": "1774-05-09T22:00:00.000Z",
+            "reignSpan": 58.68977460180565
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1361,11 +1443,12 @@
             "_Armoiries": "",
             "attribs": [],
             "name": "Louis XVI",
-            "born": "1754-08-22T22:00:00.000Z",
-            "dead": "1793-01-20T23:00:00.000Z",
+            "birthDate": "1754-08-22T22:00:00.000Z",
+            "deathDate": "1793-01-20T23:00:00.000Z",
             "lifeSpan": 38.41568729451438,
             "reignStart": "1774-05-09T22:00:00.000Z",
-            "reignEnd": "1792-08-09T22:00:00.000Z"
+            "reignEnd": "1792-08-09T22:00:00.000Z",
+            "reignSpan": 18.25362601559238
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1378,11 +1461,12 @@
                 "Bonaparte (1804-1814)"
             ],
             "name": "Napoléon Ier",
-            "born": "1769-08-14T22:00:00.000Z",
-            "dead": "1821-05-04T22:00:00.000Z",
+            "birthDate": "1769-08-14T22:00:00.000Z",
+            "deathDate": "1821-05-04T22:00:00.000Z",
             "lifeSpan": 51.71906336201291,
             "reignStart": "1804-05-17T22:00:00.000Z",
-            "reignEnd": "1814-04-05T22:00:00.000Z"
+            "reignEnd": "1814-04-05T22:00:00.000Z",
+            "reignSpan": 9.883844295228512
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1395,11 +1479,12 @@
                 "Bourbons (1814-1815)"
             ],
             "name": "Louis XVIII",
-            "born": "1755-11-16T23:00:00.000Z",
-            "dead": "1824-09-15T22:00:00.000Z",
+            "birthDate": "1755-11-16T23:00:00.000Z",
+            "deathDate": "1824-09-15T22:00:00.000Z",
             "lifeSpan": 68.83086807623245,
             "reignStart": "1814-04-05T22:00:00.000Z",
-            "reignEnd": "1815-03-19T23:00:00.000Z"
+            "reignEnd": "1815-03-19T23:00:00.000Z",
+            "reignSpan": 0.9529057178906252
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1412,11 +1497,12 @@
                 "Bonaparte (1815)"
             ],
             "name": "Napoléon Ier",
-            "born": "1769-08-14T22:00:00.000Z",
-            "dead": "1821-05-04T22:00:00.000Z",
+            "birthDate": "1769-08-14T22:00:00.000Z",
+            "deathDate": "1821-05-04T22:00:00.000Z",
             "lifeSpan": 51.71906336201291,
             "reignStart": "1815-03-19T23:00:00.000Z",
-            "reignEnd": "1815-06-21T22:00:00.000Z"
+            "reignEnd": "1815-06-21T22:00:00.000Z",
+            "reignSpan": 0.2572491791982952
         },
         {
             "_Portrait": "Durant l'intervalle qui sépare l'abdication de Napoléon Ier du retour de Louis XVIII, la France est dirigée par une commission de gouvernement présidée par Joseph Fouché.",
@@ -1440,11 +1526,12 @@
                 "Bourbons (1815-1830)"
             ],
             "name": "Louis XVIII",
-            "born": "1755-11-16T23:00:00.000Z",
-            "dead": "1824-09-15T22:00:00.000Z",
+            "birthDate": "1755-11-16T23:00:00.000Z",
+            "deathDate": "1824-09-15T22:00:00.000Z",
             "lifeSpan": 68.83086807623245,
             "reignStart": "1815-07-07T22:00:00.000Z",
-            "reignEnd": "1824-09-15T22:00:00.000Z"
+            "reignEnd": "1824-09-15T22:00:00.000Z",
+            "reignSpan": 9.193891729467408
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1457,11 +1544,12 @@
                 "Bourbons (1815-1830)"
             ],
             "name": "Charles X",
-            "born": "1757-10-08T22:00:00.000Z",
-            "dead": "1836-11-05T23:00:00.000Z",
+            "birthDate": "1757-10-08T22:00:00.000Z",
+            "deathDate": "1836-11-05T23:00:00.000Z",
             "lifeSpan": 79.0763442553007,
             "reignStart": "1824-09-15T22:00:00.000Z",
-            "reignEnd": "1830-08-01T22:00:00.000Z"
+            "reignEnd": "1830-08-01T22:00:00.000Z",
+            "reignSpan": 5.875548436997337
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1474,12 +1562,13 @@
                 "Orléans (1830-1848)"
             ],
             "name": "Louis-Philippe Ier",
-            "surname": "undefined le Roi-Citoyen » ou « le Roi-Bourgeois »",
-            "born": "1773-10-05T22:00:00.000Z",
-            "dead": "1850-08-25T22:00:00.000Z",
+            "surname": "le Roi-Citoyen  ou  le Roi-Bourgeois",
+            "birthDate": "1773-10-05T22:00:00.000Z",
+            "deathDate": "1850-08-25T22:00:00.000Z",
             "lifeSpan": 76.88590457025127,
             "reignStart": "1830-08-08T22:00:00.000Z",
-            "reignEnd": "1848-02-23T23:00:00.000Z"
+            "reignEnd": "1848-02-23T23:00:00.000Z",
+            "reignSpan": 17.54462218024098
         },
         {
             "_Portrait": "\n\n\n\n",
@@ -1492,15 +1581,16 @@
                 "Bonaparte (1852-1870)"
             ],
             "name": "Napoléon III",
-            "born": "1808-04-19T22:00:00.000Z",
-            "dead": "1873-01-08T23:00:00.000Z",
+            "birthDate": "1808-04-19T22:00:00.000Z",
+            "deathDate": "1873-01-08T23:00:00.000Z",
             "lifeSpan": 64.72423572466694,
             "reignStart": "1852-12-01T23:00:00.000Z",
-            "reignEnd": "1870-09-03T22:00:00.000Z"
+            "reignEnd": "1870-09-03T22:00:00.000Z",
+            "reignSpan": 17.75521286086185
         }
     ],
     "length": 93,
-    "lastupdate": "2018-06-13T21:32:44.665Z",
+    "lastupdate": "2018-06-15T13:00:39.206Z",
     "page": "Liste_des_monarques_de_France",
     "dataId": "monarques_fr"
 }

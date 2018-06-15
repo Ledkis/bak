@@ -9,7 +9,12 @@
             "_Décès": "10 juillet\n994",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Léopold Ier",
+            "birthDate": "0939-12-31T23:00:00.000Z",
+            "deathDate": "0994-07-09T22:00:00.000Z",
+            "lifeSpan": 54.52256605771052,
+            "reignStart": "0975-12-31T23:00:00.000Z"
         },
         {
             "_No ": "2",
@@ -20,7 +25,12 @@
             "_Décès": "23 juin\n1018",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Henri Ier Le Fort",
+            "birthDate": "0964-12-31T23:00:00.000Z",
+            "deathDate": "1018-06-22T22:00:00.000Z",
+            "lifeSpan": 53.47120976702693,
+            "reignStart": "0994-07-09T22:00:00.000Z"
         },
         {
             "_No ": "3",
@@ -31,7 +41,10 @@
             "_Décès": "26 mai\n1055",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Adalbert Le Victorieux",
+            "deathDate": "1055-05-25T22:00:00.000Z",
+            "reignStart": "1018-06-22T22:00:00.000Z"
         },
         {
             "_No ": "4",
@@ -42,7 +55,12 @@
             "_Décès": "10 juin\n1075",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Ernest Le Brave",
+            "birthDate": "1026-12-31T23:00:00.000Z",
+            "deathDate": "1075-06-09T22:00:00.000Z",
+            "lifeSpan": 48.438936688182054,
+            "reignStart": "1055-05-25T22:00:00.000Z"
         },
         {
             "_No ": "5",
@@ -53,7 +71,12 @@
             "_Décès": "12 octobre\n1095",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Léopold II Le Beau",
+            "birthDate": "1049-12-31T23:00:00.000Z",
+            "deathDate": "1095-10-11T22:00:00.000Z",
+            "lifeSpan": 45.77769107738922,
+            "reignStart": "1075-06-09T22:00:00.000Z"
         },
         {
             "_No ": "6",
@@ -64,7 +87,12 @@
             "_Décès": "15 novembre\n1136",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Léopold III Le Pieux",
+            "birthDate": "1072-12-31T23:00:00.000Z",
+            "deathDate": "1136-11-14T23:00:00.000Z",
+            "lifeSpan": 63.8698946590279,
+            "reignStart": "1095-10-11T22:00:00.000Z"
         },
         {
             "_No ": "7",
@@ -75,7 +103,12 @@
             "_Décès": "18 octobre\n1141",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Léopold IV",
+            "birthDate": "1107-12-31T23:00:00.000Z",
+            "deathDate": "1141-10-17T22:00:00.000Z",
+            "lifeSpan": 33.79661001480751,
+            "reignStart": "1136-11-14T23:00:00.000Z"
         },
         {
             "_No ": "8",
@@ -86,7 +119,12 @@
             "_Décès": "13 janvier\n1177",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Henri II Jasomirgott",
+            "birthDate": "1106-12-31T23:00:00.000Z",
+            "deathDate": "1177-01-12T23:00:00.000Z",
+            "lifeSpan": 70.03566123876602,
+            "reignStart": "1141-10-17T22:00:00.000Z"
         },
         {
             "_No ": "9",
@@ -97,7 +135,12 @@
             "_Décès": "13 janvier\n1177",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Henri II Jasomirgott",
+            "birthDate": "1106-12-31T23:00:00.000Z",
+            "deathDate": "1177-01-12T23:00:00.000Z",
+            "lifeSpan": 70.03566123876602,
+            "reignStart": "1155-12-31T23:00:00.000Z"
         },
         {
             "_No ": "10",
@@ -108,7 +151,12 @@
             "_Décès": "31 décembre\n1194",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Léopold V Le Vieux",
+            "birthDate": "1156-12-31T23:00:00.000Z",
+            "deathDate": "1194-12-30T23:00:00.000Z",
+            "lifeSpan": 37.99667344298651,
+            "reignStart": "1177-01-12T23:00:00.000Z"
         },
         {
             "_No ": "11",
@@ -119,7 +167,12 @@
             "_Décès": "16 avril\n1198",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Frédéric Ier Le Catholique",
+            "birthDate": "1174-12-31T23:00:00.000Z",
+            "deathDate": "1198-04-15T22:00:00.000Z",
+            "lifeSpan": 23.28852292198562,
+            "reignStart": "1194-12-30T23:00:00.000Z"
         },
         {
             "_No ": "12",
@@ -130,7 +183,12 @@
             "_Décès": "26 juillet\n1230",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Léopold VI Le Glorieux",
+            "birthDate": "1175-12-31T23:00:00.000Z",
+            "deathDate": "1230-07-25T22:00:00.000Z",
+            "lifeSpan": 54.566372569822335,
+            "reignStart": "1198-04-15T22:00:00.000Z"
         },
         {
             "_No ": "13",
@@ -141,7 +199,12 @@
             "_Décès": "15 juin\n1246",
             "attribs": [
                 "Maison de Babenberg"
-            ]
+            ],
+            "name": "Frédéric II Le Batailleur",
+            "birthDate": "1211-04-24T22:00:00.000Z",
+            "deathDate": "1246-06-14T22:00:00.000Z",
+            "lifeSpan": 35.1410364346975,
+            "reignStart": "1230-07-25T22:00:00.000Z"
         },
         {
             "_No ": "14",
@@ -152,7 +215,12 @@
             "_Décès": "26 août\n1278",
             "attribs": [
                 "Interrègne"
-            ]
+            ],
+            "name": "Ottokar",
+            "birthDate": "1229-12-31T23:00:00.000Z",
+            "deathDate": "1278-08-25T22:00:00.000Z",
+            "lifeSpan": 48.64975552772017,
+            "reignStart": "1259-12-31T23:00:00.000Z"
         },
         {
             "_No ": "15",
@@ -163,7 +231,12 @@
             "_Décès": "1291",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Rodolphe Ier",
+            "birthDate": "1218-04-30T22:00:00.000Z",
+            "deathDate": "1290-12-31T23:00:00.000Z",
+            "lifeSpan": 72.67237976595457,
+            "reignStart": "1278-08-25T22:00:00.000Z"
         },
         {
             "_No ": "16",
@@ -174,7 +247,12 @@
             "_Décès": "1er mai\n1308",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Albert Ier",
+            "birthDate": "1255-06-30T22:00:00.000Z",
+            "deathDate": "1308-04-30T22:00:00.000Z",
+            "lifeSpan": 52.83339151385724,
+            "reignStart": "1281-12-31T23:00:00.000Z"
         },
         {
             "_No ": "17",
@@ -185,7 +263,12 @@
             "_Décès": "10 mai\n1290",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Rodophe II",
+            "birthDate": "1269-12-31T23:00:00.000Z",
+            "deathDate": "1290-05-09T22:00:00.000Z",
+            "lifeSpan": 20.353486610493942,
+            "reignStart": "1281-12-31T23:00:00.000Z"
         },
         {
             "_No ": "18",
@@ -196,7 +279,12 @@
             "_Décès": "3 juillet\n1307",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Rodolphe III",
+            "birthDate": "1280-12-31T23:00:00.000Z",
+            "deathDate": "1307-07-02T22:00:00.000Z",
+            "lifeSpan": 26.497349934176153,
+            "reignStart": "1297-12-31T23:00:00.000Z"
         },
         {
             "_No ": "19",
@@ -207,7 +295,12 @@
             "_Décès": "13 janvier\n1330",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Frédéric III Le Bel",
+            "birthDate": "1285-12-31T23:00:00.000Z",
+            "deathDate": "1330-01-12T23:00:00.000Z",
+            "lifeSpan": 44.031020486389174,
+            "reignStart": "1308-04-30T22:00:00.000Z"
         },
         {
             "_No ": "20",
@@ -218,7 +311,12 @@
             "_Décès": "28 février\n1326",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Léopold VII Le Glorieux",
+            "birthDate": "1290-08-03T22:00:00.000Z",
+            "deathDate": "1326-02-27T23:00:00.000Z",
+            "lifeSpan": 35.56826400724633,
+            "reignStart": "1308-04-30T22:00:00.000Z"
         },
         {
             "_No ": "21",
@@ -229,7 +327,12 @@
             "_Décès": "16 août\n1358",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Albert II",
+            "birthDate": "1298-12-11T23:00:00.000Z",
+            "deathDate": "1358-08-15T22:00:00.000Z",
+            "lifeSpan": 59.67530704486288,
+            "reignStart": "1330-01-12T23:00:00.000Z"
         },
         {
             "_No ": "22",
@@ -240,7 +343,12 @@
             "_Décès": "17 février\n1339",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Othon d'Autriche",
+            "birthDate": "1301-07-22T22:00:00.000Z",
+            "deathDate": "1339-02-16T23:00:00.000Z",
+            "lifeSpan": 37.57241193636192,
+            "reignStart": "1330-01-12T23:00:00.000Z"
         },
         {
             "_No ": "23",
@@ -251,7 +359,12 @@
             "_Décès": "27 juillet\n1365",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Rodolphe IV Le Fondateur",
+            "birthDate": "1339-10-31T23:00:00.000Z",
+            "deathDate": "1365-07-26T22:00:00.000Z",
+            "lifeSpan": 25.736211786233344,
+            "reignStart": "1358-08-15T22:00:00.000Z"
         },
         {
             "_No ": "24",
@@ -262,7 +375,12 @@
             "_Décès": "8 juillet\n1386",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Léopold VIII",
+            "birthDate": "1351-10-31T23:00:00.000Z",
+            "deathDate": "1386-07-07T22:00:00.000Z",
+            "lifeSpan": 34.68369188507179,
+            "reignStart": "1365-07-26T22:00:00.000Z"
         },
         {
             "_No ": "25",
@@ -273,7 +391,12 @@
             "_Décès": "29 août\n1395",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Albert III À la Tresse",
+            "birthDate": "1349-09-08T22:00:00.000Z",
+            "deathDate": "1395-08-28T22:00:00.000Z",
+            "lifeSpan": 45.96945864733704,
+            "reignStart": "1365-07-26T22:00:00.000Z"
         },
         {
             "_No ": "(26)",
@@ -282,7 +405,12 @@
             "_Naissance": "9 septembre\n1349",
             "_Début du règne": "9 septembre\n1379",
             "_Décès": "29 août\n1395",
-            "attribs": []
+            "attribs": [],
+            "name": "Albert III À la Tresse",
+            "birthDate": "1349-09-08T22:00:00.000Z",
+            "deathDate": "1395-08-28T22:00:00.000Z",
+            "lifeSpan": 45.96945864733704,
+            "reignStart": "1379-09-08T22:00:00.000Z"
         },
         {
             "_No ": "(27)",
@@ -291,7 +419,12 @@
             "_Naissance": "19 septembre\n1377",
             "_Début du règne": "29 août\n1395",
             "_Décès": "14 septembre\n1404",
-            "attribs": []
+            "attribs": [],
+            "name": "Albert IV Le Patient",
+            "birthDate": "1377-09-18T22:00:00.000Z",
+            "deathDate": "1404-09-13T22:00:00.000Z",
+            "lifeSpan": 26.98481146087873,
+            "reignStart": "1395-08-28T22:00:00.000Z"
         },
         {
             "_No ": "(28)",
@@ -300,7 +433,12 @@
             "_Naissance": "16 août\n1397",
             "_Début du règne": "14 septembre\n1404",
             "_Décès": "27 octobre\n1439",
-            "attribs": []
+            "attribs": [],
+            "name": "Albert V L'Illustre",
+            "birthDate": "1397-08-15T22:00:00.000Z",
+            "deathDate": "1439-10-26T22:00:00.000Z",
+            "lifeSpan": 42.19388488469989,
+            "reignStart": "1404-09-13T22:00:00.000Z"
         },
         {
             "_No ": "(29)",
@@ -309,7 +447,12 @@
             "_Naissance": "22 février\n1440",
             "_Début du règne": "22 février\n1440",
             "_Décès": "23 novembre\n1457",
-            "attribs": []
+            "attribs": [],
+            "name": "Ladislas Ier le Posthume",
+            "birthDate": "1440-02-21T23:00:00.000Z",
+            "deathDate": "1457-11-22T23:00:00.000Z",
+            "lifeSpan": 17.752589033313484,
+            "reignStart": "1440-02-21T23:00:00.000Z"
         },
         {
             "_No ": "(30)",
@@ -320,7 +463,12 @@
             "_Décès": "10 juin\n1424",
             "attribs": [
                 "Branche léopoldienne"
-            ]
+            ],
+            "name": "Ernest 1er 'Le Fer",
+            "birthDate": "1376-12-31T23:00:00.000Z",
+            "deathDate": "1424-06-09T22:00:00.000Z",
+            "lifeSpan": 47.43686272362425,
+            "reignStart": "1405-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(31)",
@@ -331,7 +479,12 @@
             "_Décès": "19 août\n1493",
             "attribs": [
                 "Branche léopoldienne"
-            ]
+            ],
+            "name": "Frédéric V à la Grosse Lèvre",
+            "birthDate": "1415-09-20T22:00:00.000Z",
+            "deathDate": "1493-08-18T22:00:00.000Z",
+            "lifeSpan": 77.91261969787196,
+            "reignStart": "1424-06-09T22:00:00.000Z"
         },
         {
             "_No ": "(32)",
@@ -342,7 +495,12 @@
             "_Décès": "2 décembre\n1463",
             "attribs": [
                 "Branche léopoldienne"
-            ]
+            ],
+            "name": "Albert VI Le Noble",
+            "birthDate": "1418-12-11T23:00:00.000Z",
+            "deathDate": "1463-12-01T23:00:00.000Z",
+            "lifeSpan": 44.972860496793224,
+            "reignStart": "1423-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(30)",
@@ -351,7 +509,12 @@
             "_Naissance": "\n1382",
             "_Début du règne": "\n1406",
             "_Décès": "24 juin\n1439",
-            "attribs": []
+            "attribs": [],
+            "name": "Frédéric IV à la Bourse vide",
+            "birthDate": "1381-12-31T23:00:00.000Z",
+            "deathDate": "1439-06-23T22:00:00.000Z",
+            "lifeSpan": 57.47402981124413,
+            "reignStart": "1405-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(31)",
@@ -360,7 +523,12 @@
             "_Naissance": "26 octobre\n1427",
             "_Début du règne": "\n1446",
             "_Décès": "\n1490",
-            "attribs": []
+            "attribs": [],
+            "name": "Sigismond Le Riche",
+            "birthDate": "1427-10-25T22:00:00.000Z",
+            "deathDate": "1489-12-31T23:00:00.000Z",
+            "lifeSpan": 62.18619592918859,
+            "reignStart": "1445-12-31T23:00:00.000Z"
         },
         {
             "_No ": "26",
@@ -371,7 +539,12 @@
             "_Décès": "12 janvier\n1519",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Maximilien Ier",
+            "birthDate": "1459-03-21T23:00:00.000Z",
+            "deathDate": "1519-01-11T23:00:00.000Z",
+            "lifeSpan": 59.80957856766395,
+            "reignStart": "1493-08-18T22:00:00.000Z"
         },
         {
             "_No ": "27",
@@ -382,7 +555,12 @@
             "_Décès": "21 septembre\n1558 Abdication en 1556",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Charles Quint",
+            "birthDate": "1500-02-23T23:00:00.000Z",
+            "deathDate": "1558-09-20T22:00:00.000Z",
+            "lifeSpan": 58.57193052104652,
+            "reignStart": "1518-12-31T23:00:00.000Z"
         },
         {
             "_No ": "28",
@@ -393,7 +571,12 @@
             "_Décès": "25 juillet\n1564",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Ferdinand Ier",
+            "birthDate": "1502-12-31T23:00:00.000Z",
+            "deathDate": "1564-07-24T22:00:00.000Z",
+            "lifeSpan": 61.56446287968496,
+            "reignStart": "1520-12-31T23:00:00.000Z"
         },
         {
             "_No ": "29",
@@ -404,7 +587,12 @@
             "_Décès": "12 octobre\n1576",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Maximilien II",
+            "birthDate": "1527-07-31T22:00:00.000Z",
+            "deathDate": "1576-10-11T22:00:00.000Z",
+            "lifeSpan": 49.20018891558348,
+            "reignStart": "1563-12-31T23:00:00.000Z"
         },
         {
             "_No ": "30",
@@ -415,7 +603,12 @@
             "_Décès": "20 janvier\n1612",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Rodolphe V",
+            "birthDate": "1552-07-17T22:00:00.000Z",
+            "deathDate": "1612-01-19T23:00:00.000Z",
+            "lifeSpan": 59.508522876353844,
+            "reignStart": "1576-10-11T22:00:00.000Z"
         },
         {
             "_No ": "31",
@@ -426,7 +619,12 @@
             "_Décès": "20 mars\n1619",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Matthias Ier",
+            "birthDate": "1557-02-23T23:00:00.000Z",
+            "deathDate": "1619-03-19T23:00:00.000Z",
+            "lifeSpan": 62.06561394142248,
+            "reignStart": "1607-12-31T23:00:00.000Z"
         },
         {
             "_No ": "32",
@@ -437,7 +635,12 @@
             "_Décès": "15 février\n1637",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Ferdinand III",
+            "birthDate": "1578-07-08T22:00:00.000Z",
+            "deathDate": "1637-02-14T23:00:00.000Z",
+            "lifeSpan": 58.60775147105462,
+            "reignStart": "1619-08-27T22:00:00.000Z"
         },
         {
             "_No ": "33",
@@ -448,7 +651,12 @@
             "_Décès": "2 avril\n1657",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Ferdinand IV",
+            "birthDate": "1608-07-12T22:00:00.000Z",
+            "deathDate": "1657-04-01T22:00:00.000Z",
+            "lifeSpan": 48.72105518936049,
+            "reignStart": "1637-02-14T23:00:00.000Z"
         },
         {
             "_No ": "34",
@@ -459,7 +667,12 @@
             "_Décès": "5 mai\n1705",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Léopold IX",
+            "birthDate": "1639-12-31T23:00:00.000Z",
+            "deathDate": "1705-05-04T22:00:00.000Z",
+            "lifeSpan": 65.34003664232212,
+            "reignStart": "1657-04-01T22:00:00.000Z"
         },
         {
             "_No ": "35",
@@ -470,7 +683,12 @@
             "_Décès": "17 avril\n1711",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Joseph Ier",
+            "birthDate": "1678-07-25T22:00:00.000Z",
+            "deathDate": "1711-04-16T22:00:00.000Z",
+            "lifeSpan": 32.72346454752664,
+            "reignStart": "1705-05-04T22:00:00.000Z"
         },
         {
             "_No ": "36",
@@ -481,7 +699,12 @@
             "_Décès": "20 octobre\n1740",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Charles VI",
+            "birthDate": "1685-09-30T22:00:00.000Z",
+            "deathDate": "1740-10-19T22:00:00.000Z",
+            "lifeSpan": 55.05109618951792,
+            "reignStart": "1711-04-16T22:00:00.000Z"
         },
         {
             "_No ": "37",
@@ -492,7 +715,12 @@
             "_Décès": "29 novembre\n1780",
             "attribs": [
                 "Maison de Habsbourg"
-            ]
+            ],
+            "name": "Marie-Thérèse",
+            "birthDate": "1717-05-12T22:00:00.000Z",
+            "deathDate": "1780-11-28T23:00:00.000Z",
+            "lifeSpan": 63.54967361866887,
+            "reignStart": "1740-10-19T22:00:00.000Z"
         },
         {
             "_No ": "(29)",
@@ -501,7 +729,12 @@
             "_Naissance": "14 juin\n1529",
             "_Début du règne": "1564",
             "_Décès": "24 janvier\n1595",
-            "attribs": []
+            "attribs": [],
+            "name": "Ferdinand II",
+            "birthDate": "1529-06-13T22:00:00.000Z",
+            "deathDate": "1595-01-23T23:00:00.000Z",
+            "lifeSpan": 65.61405550193821,
+            "reignStart": "1563-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(30)",
@@ -510,7 +743,12 @@
             "_Naissance": "12 octobre\n1558",
             "_Début du règne": "1602",
             "_Décès": "2 novembre\n1618",
-            "attribs": []
+            "attribs": [],
+            "name": "Maximilien III",
+            "birthDate": "1558-10-11T22:00:00.000Z",
+            "deathDate": "1618-11-01T23:00:00.000Z",
+            "lifeSpan": 60.05884218475853,
+            "reignStart": "1601-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(31)",
@@ -519,7 +757,12 @@
             "_Naissance": "9 octobre\n1586",
             "_Début du règne": "1619",
             "_Décès": "13 septembre\n1632",
-            "attribs": []
+            "attribs": [],
+            "name": "Léopold X",
+            "birthDate": "1586-10-08T22:00:00.000Z",
+            "deathDate": "1632-09-12T22:00:00.000Z",
+            "lifeSpan": 45.931127949239205,
+            "reignStart": "1618-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(32)",
@@ -528,7 +771,12 @@
             "_Naissance": "17 mai\n1628",
             "_Début du règne": "1646",
             "_Décès": "30 décembre\n1662",
-            "attribs": []
+            "attribs": [],
+            "name": "Ferdinand Charles",
+            "birthDate": "1628-05-16T22:00:00.000Z",
+            "deathDate": "1662-12-29T23:00:00.000Z",
+            "lifeSpan": 34.62094818282831,
+            "reignStart": "1645-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(33)",
@@ -537,7 +785,12 @@
             "_Naissance": "27 novembre\n1630",
             "_Début du règne": "30 décembre\n1662",
             "_Décès": "25 juin\n1665",
-            "attribs": []
+            "attribs": [],
+            "name": "Sigismond François",
+            "birthDate": "1630-11-26T23:00:00.000Z",
+            "deathDate": "1665-06-24T22:00:00.000Z",
+            "lifeSpan": 34.57691351179924,
+            "reignStart": "1662-12-29T23:00:00.000Z"
         },
         {
             "_No ": "(29)",
@@ -546,7 +799,12 @@
             "_Naissance": "3 juin\n1540",
             "_Début du règne": "1564",
             "_Décès": "10 juillet\n1590",
-            "attribs": []
+            "attribs": [],
+            "name": "Charles II",
+            "birthDate": "1540-06-02T22:00:00.000Z",
+            "deathDate": "1590-07-09T22:00:00.000Z",
+            "lifeSpan": 50.100960320882706,
+            "reignStart": "1563-12-31T23:00:00.000Z"
         },
         {
             "_No ": "(30)",
@@ -555,7 +813,12 @@
             "_Naissance": "9 juillet\n1578",
             "_Début du règne": "10 juillet\n1590",
             "_Décès": "15 février\n1637",
-            "attribs": []
+            "attribs": [],
+            "name": "Ferdinand III",
+            "birthDate": "1578-07-08T22:00:00.000Z",
+            "deathDate": "1637-02-14T23:00:00.000Z",
+            "lifeSpan": 58.60775147105462,
+            "reignStart": "1590-07-09T22:00:00.000Z"
         },
         {
             "_No ": "(31)",
@@ -564,7 +827,12 @@
             "_Naissance": "12 octobre\n1558",
             "_Début du règne": "Régence\n1593-1595",
             "_Décès": "2 novembre\n1618",
-            "attribs": []
+            "attribs": [],
+            "name": "Maximilien III",
+            "birthDate": "1558-10-11T22:00:00.000Z",
+            "deathDate": "1618-11-01T23:00:00.000Z",
+            "lifeSpan": 60.05884218475853,
+            "reignStart": "1592-12-31T23:00:00.000Z"
         },
         {
             "_No ": "38",
@@ -575,7 +843,12 @@
             "_Décès": "20 février\n1790",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ]
+            ],
+            "name": "Joseph II",
+            "birthDate": "1741-03-12T23:00:00.000Z",
+            "deathDate": "1790-02-19T23:00:00.000Z",
+            "lifeSpan": 48.942825656926566,
+            "reignStart": "1780-11-28T23:00:00.000Z"
         },
         {
             "_No ": "39",
@@ -586,7 +859,12 @@
             "_Décès": "1er mars\n1792",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ]
+            ],
+            "name": "Léopold XII",
+            "birthDate": "1747-05-04T22:00:00.000Z",
+            "deathDate": "1792-02-29T23:00:00.000Z",
+            "lifeSpan": 44.82512759787448,
+            "reignStart": "1790-02-19T23:00:00.000Z"
         },
         {
             "_No ": "40",
@@ -597,7 +875,12 @@
             "_Décès": "2 mars\n1835",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ]
+            ],
+            "name": "François II",
+            "birthDate": "1768-02-11T23:00:00.000Z",
+            "deathDate": "1835-03-01T23:00:00.000Z",
+            "lifeSpan": 67.04860469414156,
+            "reignStart": "1792-02-29T23:00:00.000Z"
         },
         {
             "_No ": "40",
@@ -608,7 +891,12 @@
             "_Décès": "2 mars\n1835",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ]
+            ],
+            "name": "François",
+            "birthDate": "1768-02-11T23:00:00.000Z",
+            "deathDate": "1835-03-01T23:00:00.000Z",
+            "lifeSpan": 67.04860469414156,
+            "reignStart": "1804-08-10T22:00:00.000Z"
         },
         {
             "_No ": "41",
@@ -619,7 +907,12 @@
             "_Décès": "29 juin\n1875",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ]
+            ],
+            "name": "Ferdinand. Fils du précédent",
+            "birthDate": "1793-04-18T22:00:00.000Z",
+            "deathDate": "1875-06-28T22:00:00.000Z",
+            "lifeSpan": 82.191968349795,
+            "reignStart": "1835-03-01T23:00:00.000Z"
         },
         {
             "_No ": "42",
@@ -630,7 +923,12 @@
             "_Décès": "21 novembre\n1916",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ]
+            ],
+            "name": "François-Joseph. Neveu du précédent.",
+            "birthDate": "1830-08-17T22:00:00.000Z",
+            "deathDate": "1916-11-20T23:00:00.000Z",
+            "lifeSpan": 86.26061224163855,
+            "reignStart": "1848-12-01T23:00:00.000Z"
         },
         {
             "_No ": "43",
@@ -641,7 +939,12 @@
             "_Décès": "1er avril\n1922",
             "attribs": [
                 "Maison de Habsbourg-Lorraine"
-            ]
+            ],
+            "name": "Charles. Petit-neveu du précédent.",
+            "birthDate": "1887-08-16T22:00:00.000Z",
+            "deathDate": "1922-03-31T22:00:00.000Z",
+            "lifeSpan": 34.62083410336968,
+            "reignStart": "1916-11-21T23:00:00.000Z"
         },
         {
             "_Rang": "43",
@@ -665,14 +968,14 @@
             "_Rang": "45",
             "_Portrait": "",
             "_Prétendant": "« Charles II »\nCharles de Habsbourg-Lorraine\nNé le 11 janvier 1961 à Starnberg (Allemagne)",
-            "_Période": "Depuis 2007\n11 ans, 5 mois et 6 jours",
+            "_Période": "Depuis 2007\n11 ans, 5 mois et 13 jours",
             "_Titres": "« Prince impérial et archiduc d’Autriche, prince royal de Hongrie et de Bohême »",
             "_Notes": "Fils du précédent et de Regina de Saxe-Meiningen.",
             "attribs": []
         }
     ],
     "length": 64,
-    "lastupdate": "2018-06-13T16:49:38.597Z",
+    "lastupdate": "2018-06-15T13:00:38.654Z",
     "page": "Liste_des_souverains_d'Autriche",
     "dataId": "monarques_aut"
 }
