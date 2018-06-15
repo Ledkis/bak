@@ -29,7 +29,8 @@
     "mysql": "^2.15.0",
     "node-wikipedia": "0.0.2",
     "npm": "^6.1.0",
-    "winston": "2.4.1"
+    "winston": "2.4.1",
+    "d3": "^5.4.0"
   },
   "devDependencies": {
     "standard": "^11.0.1"
