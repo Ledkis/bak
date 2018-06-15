@@ -10,36 +10,51 @@ function makeGraphs(error, apiData) {
                 moment(el.deathDate).isValid()
     })
 
-    let startDate = d3.min(dataset, d => moment(d.birthDate).valueOf());
-    let endDate = d3.max(dataset, d => moment(d.birthDate).valueOf());
+    let startDate = d3.min(dataset, d => moment(d.birthDate).valueOf())
+    let endDate = d3.max(dataset, d => moment(d.deathDate).valueOf())
+
+    //lastData = Array.from(dataset).sort((a, b) => moment(a.deathDate).valueOf() - moment(b.deathDate).valueOf()).slice(-1)[0]
 
     console.log(startDate, endDate)
 
     let w = 960
     let h = 700
 
+    let xPadding = 20
+    let yPadding = 40
+
+    let innerWidth = w - xPadding
+    let innerHeight = h - yPadding
+   
 	// scales
     let xScale = d3.scale.linear()
         .domain([startDate, endDate])
-        .range([0, w]);
+        .range([0, innerWidth]);
 		
     let yScale = d3.scale.linear()
         .domain([0, dataset.length])
-        .range([0, h]);
+        .range([0, innerHeight]);
 		
 
+    // canvas
     let chart = d3.select("body")
         .append("svg")
         .attr("width", w)
         .attr("height", h)
         .attr("class", "chart")
-		
-    chart.append("defs").append("clipPath")
-        .attr("id", "clip")
-        .append("rect")
-        .attr("width", w)
-        .attr("height", h)
 
+    //
+    let xAxis = d3.svg.axis()
+        .scale(xScale)
+        .tickFormat(d => moment(d).format('YYYY'))
+        .orient("bottom")
+
+    chart.append("g")
+        .attr("class", "axis")
+        .attr("transform", `translate(0, ${innerHeight})`)
+        .call(xAxis)
+
+    // timeline
     let timeline = chart.append("g")
         //.attr("transform", "translate(" + m[3] + "," + (h + m[0]) + ")")
         .attr("width", w)
@@ -61,10 +76,10 @@ function makeGraphs(error, apiData) {
         .text(d => d.name)
         .attr("x", d => xScale(moment(d.birthDate).valueOf()))
         .attr("y", (d, i) => yScale(i))
-        .attr("dy", ".5ex")
+        .attr("dy", `${h/dataset.length}px`)
         .attr("text-anchor", "end")
         .attr("class", "laneText")
-        .style("font", 'font: 2px sans-serif')
+        .style("font", `${h/dataset.length}px sans-serif`)
         
 		
 	// //mini item rects
@@ -73,7 +88,7 @@ function makeGraphs(error, apiData) {
         .enter().append("rect")
         // .attr("class", (d, i) => "miniItem" + i)
         .attr("x", d => xScale(moment(d.birthDate).valueOf()))
-        .attr("y", (d, i) => yScale(i))
-        .attr("width", d => xScale(moment(d.deathDate).valueOf()))
+        .attr("y", (d, i) => yScale(i) + 1)
+        .attr("width", d => xScale(moment(d.deathDate).valueOf()) - xScale(moment(d.birthDate).valueOf()))
         .attr("height", h/dataset.length - 2)
 }

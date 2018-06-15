@@ -22,7 +22,7 @@ router.get('/api/data', function(req, res) {
 
 
 /* GET home page. */
-router.get('/', (request, response) => {
+router.get('*', (request, response) => {
     logger.verbose('get', JSON.stringify(request.query))
     const opts = {}
    
