@@ -13,7 +13,7 @@ router.get('/api/data', function(req, res) {
   const opts = {}
   const dataInfo = datamanager.getDataInfo()
   opts.from = 'json'
-  opts.dataId = 'monarques_aut'
+  opts.dataId = 'monarques_fr'
   
   wikiapi.fetchWikiData(opts).then((wikiData) => {
     res.json({data: wikiData}) 
