@@ -48,9 +48,10 @@ wikiapi.fetchWikiData = function (opts) {
     .then((wikiData) => {
       logger.info(`fetchWikiData: ${wikiData.list.length} elements of ${opts.dataId} fetched from ${opts.from}`)
 
-      wikiparser.parseWikiData(wikiData, dataInfo[opts.dataId])
-
-      if (opts.from !== 'json') datamanager.saveWikiDataJSON(opts.dataId, wikiData)
+      if (opts.from !== 'json') {
+        wikiparser.parseWikiData(wikiData, dataInfo[opts.dataId])
+        datamanager.saveWikiDataJSON(opts.dataId, wikiData)
+      }
 
       return wikiData
     })
