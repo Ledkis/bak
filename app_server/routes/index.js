@@ -25,22 +25,14 @@ router.get('/api/data', function(req, res) {
 router.get('/', (request, response) => {
     logger.verbose('get', JSON.stringify(request.query))
     const opts = {}
-    
-    /*
-    if (request.query.optionFrom) {
-      opts.from = request.query.optionFrom
-      opts.dataId = request.query.selectDataId
-    } else {
-      opts.from = 'json'
-      opts.dataId = 'Liste_des_monarques_de_France'
-    }
-    */
+   
+    response.render('pages/index')
+   
+   /*
+   opts.from = 'json'
+   opts.dataId = 'monarques_aut'
+   const dataInfo = datamanager.getDataInfo()
 
-    opts.from = 'json'
-    opts.dataId = 'monarques_aut'
-
-    const dataInfo = datamanager.getDataInfo()
-  
     wikiapi.fetchWikiData(opts).then((wikiData) => {
 
       let datas = wikiData.list.map(el => el._Nom)
@@ -50,7 +42,7 @@ router.get('/', (request, response) => {
       wikiparser.parseWikiData(wikiData, wikiDataInfo)
       datamanager.saveWikiDataJSON(opts.dataId, wikiData)
 
-      /*
+      
       let l1 = datas.length
 
       let dateRegx = /\((?:(\d+)|vers (\d+\/*\d*)|(\D+\d+)|(\d+\D+\d+)) (?:-|–|–|-) (?:(\d+)|(\D+\d+)|vers (\d+\/*\d*)|(\d+\D+\d+))\)/
@@ -100,10 +92,10 @@ router.get('/', (request, response) => {
       datasStr.splice(0, 0, `life moy ${datas.reduce((acc, cur) => acc + cur.life, 0)/datas.length},
                             min: ${datas[0].life},
                             max: ${datas.slice(-1)[0].life}`)
-      */
+      
 
       //response.render('pages/test', {datas: datasStr})
-      response.render('pages/test', {datas})
+      //response.render('pages/test', {datas})
       //logger.verbose('page loaded')
       // response.render('pages/index')
     }).catch(err => {
@@ -113,6 +105,7 @@ router.get('/', (request, response) => {
       response.status(err.status || 500);
       response.render('error', {error: err})
     })
+    */
 })
 
 module.exports = router
