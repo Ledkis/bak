@@ -7,6 +7,20 @@ const wikiparser = require('../../lib/wikiparser')
 
 const router = express.Router();
 
+/* */
+router.get('/api/data', function(req, res) {
+  
+  const opts = {}
+  const dataInfo = datamanager.getDataInfo()
+  opts.from = 'json'
+  opts.dataId = 'monarques_aut'
+  
+  wikiapi.fetchWikiData(opts).then((wikiData) => {
+    res.json({data: wikiData}) 
+  })
+});
+
+
 /* GET home page. */
 router.get('/', (request, response) => {
     logger.verbose('get', JSON.stringify(request.query))
