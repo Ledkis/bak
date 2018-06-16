@@ -45,7 +45,7 @@ datamanager.getDataInfo = function () {
 function saveDataInfo () {
   return writeFileAsync(dataInfoFile, JSON.stringify(dataInfo, null, 4))
     .then(() => logger.verbose(`saveDataInfo: dataInfo saved`))
-    .catch((err) => { logger.err(`saveDataInfo: ${err}`) })
+    .catch(err => logger.err(err, `saveDataInfo`))
 }
 
 /**
@@ -76,7 +76,7 @@ datamanager.saveWikiDataRAW = function (dataId, rawData) {
       logger.verbose(file)
       updateDataInfo(dataId, {raw: true})
     })
-    .catch((err) => { logger.err(`saveWikiDataRAW: ${err}`) })
+    .catch(err => logger.err(err, `saveWikiDataRAW`))
 }
 
 datamanager.getWikiDataJSON = function (page) {
@@ -98,7 +98,7 @@ datamanager.saveWikiDataJSON = function (dataId, parsedWikiData) {
       logger.verbose(`${file} saved`)
       updateDataInfo(dataId, {json: true})
     })
-    .catch((err) => { logger.err(`saveWikiDataJSON: ${err}`) })
+    .catch(err => logger.err(err, `saveWikiDataJSON`))
 }
 
 module.exports = datamanager
