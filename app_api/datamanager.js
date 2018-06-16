@@ -16,6 +16,9 @@ function init () {
   return JSON.parse(fs.readFileSync(dataInfoFile, 'utf8'))
 }
 
+
+// File Path
+
 function getWikiRawFilePath (fileName) {
   return `./data/wiki/raw/${fileName}.html`
 }
@@ -24,34 +27,45 @@ function getWikiJsonFilePath (fileName) {
   return `./data/wiki/json/${fileName}.json`
 }
 
+function getLocationsFilePath () {
+  return `./data/locations/locations.json`
+}
+
+// Data Info
+
 datamanager.getDataInfo = function (dataType) {
   return dataInfo[dataType]
 }
 
-// datamanager.getDataInfo = function () {
-//   return readFileAsync(dataInfoFile, 'utf8').then((dataInfoRaw) => {
-//     return JSON.parse(dataInfoRaw)
-//   })
-// }
-
-/**
-  Private
-*/
 function saveDataInfo () {
   return writeFileAsync(dataInfoFile, JSON.stringify(dataInfo, null, 4))
     .then(() => logger.verbose(`saveDataInfo: dataInfo saved`))
     .catch(err => logger.err(err, `saveDataInfo`))
 }
 
-/**
-  Private
-*/
 function updateWikiDataInfo (dataId, newInfo) {
   dataInfo.wikiData[dataId] = Object.assign(dataInfo.wikiData[dataId], newInfo)
   logger.verbose(`updateDataInfo: ${dataId}: ${JSON.stringify(newInfo)} updated`)
 
   saveDataInfo()
 }
+
+
+// Locations
+
+datamanager.getLocations = function () {
+  readFileAsync(getLocationsFilePath(), 'utf8').then(file => JSON.parse(file))
+  .catch(err => logger.err(err, `getLocations`))
+}
+
+datamanager.saveLocations = function (locations) {
+  writeFileAsync(getLocationsFilePath(), JSON.stringify(locations, null, 4))
+  .catch(err => logger.err(err, `saveLocations`))
+}
+
+
+
+// Wiki
 
 datamanager.getWikiDataRaw = function (page) {
   return readFileAsync(getWikiRawFilePath(page), 'utf8')

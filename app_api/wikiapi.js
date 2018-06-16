@@ -196,7 +196,7 @@ wikiapi.updateLocations = function () {
 
   return Promise.all(promises)
     .then(() => {
-      fs.writeFileSync('places.json', JSON.stringify(locations, null, 4))
+      datamanager.saveLocations(locations)
       logger.info(`updateLocations: completed with ${Object.keys(locations).length} new loc saved`)
     })
 }
