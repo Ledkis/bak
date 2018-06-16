@@ -4,8 +4,8 @@ var moment = require('./lib/my-moment')
 var logger = require('../lib/my-winston')('REPL')
 
 
-require('./app_api/wikiapi').updateParsing()
 require('./app_api/wikiapi').updateData()
+require('./app_api/wikiapi').updateParsing()
 require('./app_api/wikiapi').updateLocations()
 require('./lib/apiutils').getLocation()
 

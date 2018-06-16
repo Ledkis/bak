@@ -8,25 +8,25 @@ const apiutils = require('../lib/apiutils')
 
 const wikiapi = {}
 
-wikiapi.fetchWikiData = function (opts) {
-  logger.info(`fetchWikiData: ${opts.dataId}, from: ${opts.from}`)
+wikiapi.fetchWikiData = function (dataId, from) {
+  logger.info(`fetchWikiData: ${dataId}, from: ${from}`)
 
-  const dataInfo = datamanager.getDataInfo()
+  const wikiDataInfo = datamanager.getDataInfo('wikiData')
 
-  const page = dataInfo[opts.dataId].page
+  const page = wikiDataInfo[dataId].page
   return new Promise((resolve, reject) => {
-    switch (opts.from) {
+    switch (from) {
       case 'wiki':
 
-        logger.info(`fetchWikiData: ${opts.dataId}, fetching from wikipedia...`)
+        logger.info(`fetchWikiData: ${dataId}, fetching from wikipedia...`)
         wikipedia.page.data(page, {content: true, lang: 'fr'}).then((response, page, url) => {
           if (response.error) return reject(response.error)
 
           const pageHtml = response.parse.text['*']
 
-          datamanager.saveWikiDataRAW(opts.dataId, pageHtml)
+          datamanager.saveWikiDataRAW(dataId, pageHtml)
 
-          const scrapCallback = wikiscrapper.getWikiScrapper(dataInfo[opts.dataId].wikiDataType)
+          const scrapCallback = wikiscrapper.getWikiScrapper(wikiDataInfo[dataId].wikiDataType)
 
           resolve(scrapCallback(pageHtml))
         }).catch(err => reject(err))
@@ -34,7 +34,7 @@ wikiapi.fetchWikiData = function (opts) {
 
       case 'raw':
         datamanager.getWikiDataRaw(page).then((pageHtml) => {
-          const scrapCallback = wikiscrapper.getWikiScrapper(dataInfo[opts.dataId].wikiDataType)
+          const scrapCallback = wikiscrapper.getWikiScrapper(wikiDataInfo[dataId].wikiDataType)
           resolve(scrapCallback(pageHtml))
         }).catch(err => reject(err))
         break
@@ -48,11 +48,11 @@ wikiapi.fetchWikiData = function (opts) {
     }
   })
     .then((wikiData) => {
-      logger.info(`fetchWikiData: ${wikiData.list.length} elements of ${opts.dataId} fetched from ${opts.from}`)
+      logger.info(`fetchWikiData: ${wikiData.list.length} elements of ${dataId} fetched from ${from}`)
 
-      if (opts.from !== 'json') {
-        wikiparser.parseWikiData(wikiData, dataInfo[opts.dataId])
-        datamanager.saveWikiDataJSON(opts.dataId, wikiData)
+      if (from !== 'json') {
+        wikiparser.parseWikiData(wikiData, wikiDataInfo[dataId].wikiDataType)
+        datamanager.saveWikiDataJSON(dataId, wikiData)
       }
 
       return wikiData
@@ -62,18 +62,15 @@ wikiapi.fetchWikiData = function (opts) {
 wikiapi.updateData = function () {
   logger.info(`updateData`)
 
-  const dataInfo = datamanager.getDataInfo()
+  const wikiDataInfo = datamanager.getDataInfo('wikiData')
 
   let dataToUpdate = []
   let promises = []
 
-  Object.keys(dataInfo).forEach((dataId) => {
-    const wikiDataInfo = dataInfo[dataId]
-
-    const opts = {dataId: dataId, from: 'wiki'}
+  Object.keys(wikiDataInfo).forEach((dataId) => {
 
     dataToUpdate.push(dataId)
-    const p = this.fetchWikiData(opts).then(() => {
+    const p = this.fetchWikiData(dataId, 'wiki').then(() => {
       logger.info(`updateData: ${dataId} updated`)
     }).catch(err => logger.err(err))
 
@@ -91,22 +88,19 @@ wikiapi.updateData = function () {
 wikiapi.updateParsing = function () {
   logger.info(`updateParsing`)
 
-  const dataInfo = datamanager.getDataInfo()
+  const wikiDataInfo = datamanager.getDataInfo('wikiData')
 
   let dataToUpdate = []
   let promises = []
 
-  Object.keys(dataInfo).forEach((dataId) => {
-    const wikiDataInfo = dataInfo[dataId]
-
-    const opts = {dataId: dataId, from: 'json', page: wikiDataInfo.page}
+  Object.keys(wikiDataInfo).forEach((dataId) => {
 
     dataToUpdate.push(dataId)
-    const p = this.fetchWikiData(opts, dataInfo).then((wikiData) => {
-      let wikiDataInfo = dataInfo[dataId]
-      wikiparser.parseWikiData(wikiData, wikiDataInfo)
-      datamanager.saveWikiDataJSON(opts.dataId, wikiData)
-      logger.info(`updateParsing: ${dataId} updated`)
+    const p = this.fetchWikiData(dataId, 'json')
+      .then((wikiData) => {
+        wikiparser.parseWikiData(wikiData, wikiDataInfo[dataId].wikiDataType)
+        datamanager.saveWikiDataJSON(dataId, wikiData)
+        logger.info(`updateParsing: ${dataId} updated`)
     }).catch(err => logger.err(err))
 
     promises.push(p)
@@ -173,22 +167,19 @@ wikiapi.getAllLocations = function (wikiData) {
 wikiapi.updateLocations = function () {
   logger.info(`updateLocations`)
 
-  const dataInfo = datamanager.getDataInfo()
+  const wikiDataInfo = datamanager.getDataInfo('wikiData')
 
   let dataToUpdate = []
   let promises = []
 
   let locations = {}
 
-  Object.keys(dataInfo).forEach((dataId) => {
-    const wikiDataInfo = dataInfo[dataId]
-
-    const opts = {dataId: dataId, from: 'json', page: wikiDataInfo.page}
+  Object.keys(wikiDataInfo).forEach((dataId) => {
 
     // if(dataId === 'monarques_en'){
       dataToUpdate.push(dataId)
 
-      const p = this.fetchWikiData(opts, dataInfo)
+      const p = this.fetchWikiData(dataId, 'json')
         .then(wikiData => {
           //wikiData.list = wikiData.list.filter(el => el.deathPlace).slice(0, 4)
           return wikiapi.getAllLocations(wikiData)

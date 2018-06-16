@@ -16,11 +16,6 @@ function init () {
   return JSON.parse(fs.readFileSync(dataInfoFile, 'utf8'))
 }
 
-function saveDataInfoSync () {
-  fs.writeFileSync(dataInfoFile, JSON.stringify(dataInfo, null, 4))
-  logger.verbose(`saveDataInfoSync: ${dataInfoFile} saved`)
-}
-
 function getRawFilePath (fileName) {
   return `./data/raw/${fileName}.html`
 }
@@ -29,8 +24,8 @@ function getJsonFilePath (fileName) {
   return `./data/json/${fileName}.json`
 }
 
-datamanager.getDataInfo = function () {
-  return dataInfo
+datamanager.getDataInfo = function (dataType) {
+  return dataInfo[dataType]
 }
 
 // datamanager.getDataInfo = function () {
@@ -51,11 +46,11 @@ function saveDataInfo () {
 /**
   Private
 */
-function updateDataInfo (dataId, newInfo) {
-  dataInfo[dataId] = Object.assign(dataInfo[dataId], newInfo)
+function updateWikiDataInfo (dataId, newInfo) {
+  dataInfo.wikiData[dataId] = Object.assign(dataInfo.wikiData[dataId], newInfo)
   logger.verbose(`updateDataInfo: ${dataId}: ${JSON.stringify(newInfo)} updated`)
 
-  return saveDataInfo()
+  saveDataInfo()
 }
 
 datamanager.getWikiDataRaw = function (page) {
@@ -63,7 +58,7 @@ datamanager.getWikiDataRaw = function (page) {
 }
 
 datamanager.saveWikiDataRAW = function (dataId, rawData) {
-  const {raw, page} = dataInfo[dataId]
+  const {raw, page} = dataInfo.wikiData[dataId]
   if (raw) {
     logger.verbose(`saveWikiDataRAW: data/raw/${page}.html up to date`)
     return
@@ -74,7 +69,7 @@ datamanager.saveWikiDataRAW = function (dataId, rawData) {
   writeFileAsync(file, rawData)
     .then(() => {
       logger.verbose(file)
-      updateDataInfo(dataId, {raw: true})
+      updateWikiDataInfo(dataId, {raw: true})
     })
     .catch(err => logger.err(err, `saveWikiDataRAW`))
 }
@@ -88,7 +83,7 @@ datamanager.getWikiDataJSON = function (page) {
 
 datamanager.saveWikiDataJSON = function (dataId, parsedWikiData) {
   parsedWikiData.lastupdate = new Date()
-  parsedWikiData.page = dataInfo[dataId].page
+  parsedWikiData.page = dataInfo.wikiData[dataId].page
   parsedWikiData.dataId = dataId
 
   const file = getJsonFilePath(parsedWikiData.page)
@@ -96,7 +91,7 @@ datamanager.saveWikiDataJSON = function (dataId, parsedWikiData) {
   writeFileAsync(file, JSON.stringify(parsedWikiData, null, 4))
     .then(() => {
       logger.verbose(`${file} saved`)
-      updateDataInfo(dataId, {json: true})
+      updateWikiDataInfo(dataId, {json: true})
     })
     .catch(err => logger.err(err, `saveWikiDataJSON`))
 }
