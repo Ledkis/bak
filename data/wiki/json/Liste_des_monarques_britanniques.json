@@ -16,7 +16,13 @@
             "birthPlace": "Londres ",
             "deathDate": "1714-07-31T22:00:00.000Z",
             "deathPlace": "Londres",
-            "lifeSpan": 49.47934135083768
+            "lifeSpan": 49.47934135083768,
+            "birthPlaceLat": 51.5073509,
+            "birthPlaceLng": -0.1277583,
+            "birthPlaceId": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+            "deathPlaceLat": 51.5073509,
+            "deathPlaceLng": -0.1277583,
+            "deathPlaceId": "ChIJdd4hrwug2EcRmSrV3Vo6llI"
         },
         {
             "_Rang": "2",
@@ -34,7 +40,13 @@
             "birthPlace": "Hanovre ",
             "deathDate": "1727-06-10T22:00:00.000Z",
             "deathPlace": "Osnabrück",
-            "lifeSpan": 67.03491515910662
+            "lifeSpan": 67.03491515910662,
+            "birthPlaceLat": 52.3758916,
+            "birthPlaceLng": 9.732010400000002,
+            "birthPlaceId": "ChIJhU9JTVELsEcRIEeslG2sJQQ",
+            "deathPlaceLat": 52.2799112,
+            "deathPlaceLng": 8.0471788,
+            "deathPlaceId": "ChIJTV17aZjluUcRYFwAY3fPJgQ"
         },
         {
             "_Rang": "3",
@@ -52,7 +64,13 @@
             "birthPlace": "Hanovre ",
             "deathDate": "1760-10-24T22:00:00.000Z",
             "deathPlace": "Londres",
-            "lifeSpan": 76.98720712950986
+            "lifeSpan": 76.98720712950986,
+            "birthPlaceLat": 52.3758916,
+            "birthPlaceLng": 9.732010400000002,
+            "birthPlaceId": "ChIJhU9JTVELsEcRIEeslG2sJQQ",
+            "deathPlaceLat": 51.5073509,
+            "deathPlaceLng": -0.1277583,
+            "deathPlaceId": "ChIJdd4hrwug2EcRmSrV3Vo6llI"
         },
         {
             "_Rang": "4",
@@ -70,150 +88,17 @@
             "birthPlace": "Londres ",
             "deathDate": "1820-01-28T23:00:00.000Z",
             "deathPlace": "Windsor",
-            "lifeSpan": 81.65271474887689
-        },
-        {
-            "_Rang": "5",
-            "_Portrait": "",
-            "_Nom": "George IV\n(12 août 1762, Londres – 26 juin 1830, Windsor)",
-            "_Règne": "1820 – 1830",
-            "_Dynastie": "Hanovre",
-            "_Notes": "Fils aîné de George III et de Charlotte de Mecklembourg-Strelitz. Prince régent depuis 1811.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Hanovre"
-            ],
-            "name": "George IV",
-            "birthDate": "1762-08-11T22:00:00.000Z",
-            "birthPlace": "Londres ",
-            "deathDate": "1830-06-25T22:00:00.000Z",
-            "deathPlace": "Windsor",
-            "lifeSpan": 67.86997679623812
-        },
-        {
-            "_Rang": "6",
-            "_Portrait": "",
-            "_Nom": "Guillaume IV le Roi-Marin\n(21 août 1765, Londres – 20 juin 1837, Windsor)",
-            "_Règne": "1830 – 1837",
-            "_Dynastie": "Hanovre",
-            "_Notes": "Il était le troisième fils du roi George III, le frère cadet de son prédécesseur George IV et il fut l’avant-dernier monarque de la Maison de Hanovre en Grande-Bretagne. Meurt sans descendance légitime.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Hanovre"
-            ],
-            "name": "Guillaume IV le Roi-Marin",
-            "birthDate": "1765-08-20T22:00:00.000Z",
-            "birthPlace": "Londres ",
-            "deathDate": "1837-06-19T22:00:00.000Z",
-            "deathPlace": "Windsor",
-            "lifeSpan": 71.8289903283435
-        },
-        {
-            "_Rang": "7",
-            "_Portrait": "",
-            "_Nom": "Victoria\n(24 mai 1819, Londres – 22 janvier 1901, Osborne House)",
-            "_Règne": "1837 – 1901",
-            "_Dynastie": "Hanovre",
-            "_Notes": "Fille unique d'Edouard Auguste, duc de Kent et Strathearn, lui-même quatrième fils de George III, et nièce de Guillaume IV. Également impératrice des Indes à partir de 1877.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Hanovre"
-            ],
-            "name": "Victoria",
-            "birthDate": "1819-05-23T22:00:00.000Z",
-            "birthPlace": "Londres ",
-            "deathDate": "1901-01-21T23:00:00.000Z",
-            "deathPlace": "Osborne House",
-            "lifeSpan": 81.66640428391183
-        },
-        {
-            "_Rang": "8",
-            "_Portrait": "",
-            "_Nom": "Édouard VII\n(9 novembre 1841, Londres – 6 mai 1910, Londres)",
-            "_Règne": "1901 – 1910",
-            "_Dynastie": "Saxe-Cobourg-Gotha",
-            "_Notes": "Fils aîné de Victoria et d'Albert de Saxe-Cobourg-Gotha.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Saxe-Cobourg-Gotha puis Windsor"
-            ],
-            "name": "Édouard VII",
-            "birthDate": "1841-11-08T23:00:00.000Z",
-            "birthPlace": "Londres ",
-            "deathDate": "1910-05-05T22:00:00.000Z",
-            "deathPlace": "Londres",
-            "lifeSpan": 68.48589179335191
-        },
-        {
-            "_Rang": "9",
-            "_Portrait": "",
-            "_Nom": "George V\n(3 juin 1865, Londres – 20 janvier 1936, Sandringham House)",
-            "_Règne": "1910 - 1936",
-            "_Dynastie": "Saxe-Cobourg-Gotha (1910-1917)\nWindsor (1917-1936)",
-            "_Notes": "Deuxième fils d'Édouard VII. En 1917, pendant la Première Guerre mondiale, le sentiment anti-allemand parmi la population conduit la famille royale à changer tous leurs titres et leurs noms de famille allemands pour des titres et des noms à consonance anglaise. La maison et la famille royales sont ainsi renommées Windsor par un décret en conseil du roi George V.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Saxe-Cobourg-Gotha puis Windsor"
-            ],
-            "name": "George V",
-            "birthDate": "1865-06-02T22:00:00.000Z",
-            "birthPlace": "Londres ",
-            "deathDate": "1936-01-19T23:00:00.000Z",
-            "deathPlace": "Sandringham House",
-            "lifeSpan": 70.62990113874115
-        },
-        {
-            "_Rang": "10",
-            "_Portrait": "",
-            "_Nom": "Édouard VIII\n(23 juin 1894, Londres – 28 mai 1972, Neuilly-sur-Seine)",
-            "_Règne": "1936",
-            "_Dynastie": "Windsor",
-            "_Notes": "Fils aîné de George V. Abdique le 11 décembre 1936 pour épouser une Américaine divorcée, Wallis Simpson, et reçoit le titre de duc de Windsor.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Saxe-Cobourg-Gotha puis Windsor"
-            ],
-            "name": "Édouard VIII",
-            "birthDate": "1894-06-22T22:00:00.000Z",
-            "birthPlace": "Londres ",
-            "deathDate": "1972-05-27T22:00:00.000Z",
-            "deathPlace": "Neuilly-sur-Seine",
-            "lifeSpan": 77.92904713991389
-        },
-        {
-            "_Rang": "11",
-            "_Portrait": "",
-            "_Nom": "George VI\n(14 décembre 1895, Sandringham House – 6 février 1952, Sandringham House)",
-            "_Règne": "1936 – 1952",
-            "_Dynastie": "Windsor",
-            "_Notes": "Deuxième fils de George V. Il fut roi du Royaume-Uni et des dominions britanniques du 11 décembre 1936 jusqu'à sa mort, le 6 février 1952. Il fut également le dernier Empereur des Indes (jusqu'en 1947), le dernier roi d'Irlande (jusqu'en 1949) et le premier chef du Commonwealth.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Saxe-Cobourg-Gotha puis Windsor"
-            ],
-            "name": "George VI",
-            "birthDate": "1895-12-13T23:00:00.000Z",
-            "birthPlace": "Sandringham House ",
-            "deathDate": "1952-02-05T23:00:00.000Z",
-            "deathPlace": "Sandringham House",
-            "lifeSpan": 56.14625899231333
-        },
-        {
-            "_Rang": "12",
-            "_Portrait": "",
-            "_Nom": "Élisabeth II\n(née le 21 avril 1926, Londres)",
-            "_Règne": "depuis 1952 à...",
-            "_Dynastie": "Windsor",
-            "_Notes": "Fille aînée de George VI.",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Saxe-Cobourg-Gotha puis Windsor"
-            ],
-            "name": "Élisabeth II"
+            "lifeSpan": 81.65271474887689,
+            "deathPlaceLat": 37.0435928,
+            "deathPlaceLng": -95.65879179999999,
+            "deathPlaceId": "ChIJr4pii5qDt4cRwPG767YDclM",
+            "birthPlaceLat": 51.5073509,
+            "birthPlaceLng": -0.1277583,
+            "birthPlaceId": "ChIJdd4hrwug2EcRmSrV3Vo6llI"
         }
     ],
     "length": 12,
-    "lastupdate": "2018-06-16T11:18:22.992Z",
+    "lastupdate": "2018-06-16T15:27:04.935Z",
     "page": "Liste_des_monarques_britanniques",
     "dataId": "monarques_en"
 }

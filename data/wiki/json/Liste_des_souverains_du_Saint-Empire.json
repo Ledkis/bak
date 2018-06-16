@@ -17,181 +17,10 @@
             "lifeSpan": 71.82636650079513,
             "reignStart": "0800-12-24T23:00:00.000Z",
             "reignEnd": "0814-01-27T23:00:00.000Z",
-            "reignSpan": 13.092671307419044
-        },
-        {
-            "_Rang": "2",
-            "_Portrait": "",
-            "_Nom": "Louis Ier le Pieux\n(778 – 20 juin 840)",
-            "_Début du règne": "28 janvier\n814",
-            "_Fin du règne": "22 juin\n840",
-            "_Titres": "Empereur auguste des Romains",
-            "attribs": [
-                "Dynastie carolingienne"
-            ],
-            "name": "Louis Ier le Pieux",
-            "birthDate": "0777-12-31T23:00:00.000Z",
-            "deathDate": "0840-06-19T22:00:00.000Z",
-            "lifeSpan": 62.46797219199116,
-            "reignStart": "0814-01-27T23:00:00.000Z",
-            "reignEnd": "0840-06-21T22:00:00.000Z",
-            "reignSpan": 26.398785281924564
-        },
-        {
-            "_Rang": "3",
-            "_Portrait": "",
-            "_Nom": "Lothaire Ier\n(795 – 29 septembre 855)",
-            "_Début du règne": "22 juin\n840",
-            "_Fin du règne": "23 septembre\n855",
-            "_Titres": "Empereur auguste des Romains\nRoi de Francie\nRoi d'Italie",
-            "attribs": [
-                "Dynastie carolingienne"
-            ],
-            "name": "Lothaire Ier",
-            "birthDate": "0794-12-31T23:00:00.000Z",
-            "deathDate": "0855-09-28T22:00:00.000Z",
-            "lifeSpan": 60.74309077758841,
-            "reignStart": "0840-06-21T22:00:00.000Z",
-            "reignEnd": "0855-09-22T22:00:00.000Z",
-            "reignSpan": 15.252879935932976
-        },
-        {
-            "_Rang": "4",
-            "_Portrait": "",
-            "_Nom": "Louis II le Jeune\n(825 – 12 août 875)",
-            "_Début du règne": "23 septembre\n855",
-            "_Fin du règne": "12 août\n875",
-            "_Titres": "Empereur auguste des Romains\nRoi d'Italie",
-            "attribs": [
-                "Dynastie carolingienne"
-            ],
-            "name": "Louis II le Jeune",
-            "birthDate": "0824-12-31T23:00:00.000Z",
-            "deathDate": "0875-08-11T22:00:00.000Z",
-            "lifeSpan": 50.61009694472394,
-            "reignStart": "0855-09-22T22:00:00.000Z",
-            "reignEnd": "0875-08-11T22:00:00.000Z",
-            "reignSpan": 19.88541859175753
-        },
-        {
-            "_Rang": "5",
-            "_Portrait": "",
-            "_Nom": "Charles II le Chauve\n(13 juillet 823 – 6 octobre 877)",
-            "_Début du règne": "25 décembre\n875",
-            "_Fin du règne": "6 octobre\n877",
-            "_Titres": "Empereur auguste des Romains\nRoi des Francs",
-            "attribs": [
-                "Dynastie carolingienne"
-            ],
-            "name": "Charles II le Chauve",
-            "birthDate": "0823-07-12T22:00:00.000Z",
-            "deathDate": "0877-10-05T22:00:00.000Z",
-            "lifeSpan": 54.23519990143535,
-            "reignStart": "0875-12-24T23:00:00.000Z",
-            "reignEnd": "0877-10-05T22:00:00.000Z",
-            "reignSpan": 1.7822633820908937
-        },
-        {
-            "_Rang": "6",
-            "_Portrait": "",
-            "_Nom": "Charles III le Gros\n(839 – 13 janvier 888)",
-            "_Début du règne": "12 février\n881",
-            "_Fin du règne": "13 janvier\n888",
-            "_Titres": "Empereur auguste des Romains\nRoi de Francie orientale\nRoi d'Italie",
-            "attribs": [
-                "Dynastie carolingienne"
-            ],
-            "name": "Charles III le Gros",
-            "birthDate": "0838-12-31T23:00:00.000Z",
-            "deathDate": "0888-01-12T23:00:00.000Z",
-            "lifeSpan": 49.03317658815718,
-            "reignStart": "0881-02-11T23:00:00.000Z",
-            "reignEnd": "0888-01-12T23:00:00.000Z",
-            "reignSpan": 6.91595309965297
-        },
-        {
-            "_Rang": "7",
-            "_Portrait": "",
-            "_Nom": "Guy de Spolète\n(? – 12 décembre 894)",
-            "_Début du règne": "21 février\n891",
-            "_Fin du règne": "12 décembre\n894",
-            "_Titres": "Empereur des Romains\nRoi d'Italie",
-            "attribs": [
-                "Dynastie widonide"
-            ],
-            "name": "Guy de Spolète",
-            "reignStart": "0891-02-20T23:00:00.000Z",
-            "reignEnd": "0894-12-11T23:00:00.000Z",
-            "reignSpan": 3.8056907397140254
-        },
-        {
-            "_Rang": "8",
-            "_Portrait": "",
-            "_Nom": "Lambert de Spolète\n(vers 880 – 898)",
-            "_Début du règne": "12 décembre\n894",
-            "_Fin du règne": "15 octobre\n898",
-            "_Titres": "Empereur des Romains\nRoi d'Italie",
-            "attribs": [
-                "Dynastie widonide"
-            ],
-            "name": "Lambert de Spolète",
-            "birthDate": "0879-12-31T23:00:00.000Z",
-            "deathDate": "0897-12-31T23:00:00.000Z",
-            "lifeSpan": 18.00173857094944,
-            "reignStart": "0894-12-11T23:00:00.000Z",
-            "reignEnd": "0898-10-14T22:00:00.000Z",
-            "reignSpan": 3.8411694513462518
-        },
-        {
-            "_Rang": "9",
-            "_Portrait": "",
-            "_Nom": "Arnulf Ier de Carinthie\n(? - 8 décembre 899)",
-            "_Début du règne": "22 février\n896",
-            "_Fin du règne": "8 décembre\n899",
-            "_Titres": "Empereur auguste des Romains\nRoi de Francie orientale et d'Italie",
-            "attribs": [
-                "Dynastie carolingienne"
-            ],
-            "name": "Arnulf Ier de Carinthie",
-            "reignStart": "0896-02-21T23:00:00.000Z",
-            "reignEnd": "0899-12-07T23:00:00.000Z",
-            "reignSpan": 3.792001204679083
-        },
-        {
-            "_Rang": "10",
-            "_Portrait": "",
-            "_Nom": "Louis III l'Aveugle\n(vers 882 - 5 juin 928)",
-            "_Début du règne": "22 février\n901",
-            "_Fin du règne": "21 juillet\n905",
-            "_Titres": "Empereur des Romains\nRoi de Provence\nRoi d'Italie",
-            "attribs": [
-                "Dynastie bivinide"
-            ],
-            "name": "Louis III l'Aveugle",
-            "birthDate": "0881-12-31T23:00:00.000Z",
-            "deathDate": "0928-06-04T22:00:00.000Z",
-            "lifeSpan": 46.42383713103851,
-            "reignStart": "0901-02-21T23:00:00.000Z",
-            "reignEnd": "0905-07-20T22:00:00.000Z",
-            "reignSpan": 4.407916201792873
-        },
-        {
-            "_Rang": "11",
-            "_Portrait": "",
-            "_Nom": "Bérenger Ier\n(vers 845 - 7 avril 924)",
-            "_Début du règne": "novembre\n915",
-            "_Fin du règne": "7 avril\n924",
-            "_Titres": "Empereur des Romains\nRoi d'Italie",
-            "attribs": [
-                "Dynastie unrochide"
-            ],
-            "name": "Bérenger Ier",
-            "birthDate": "0844-12-31T23:00:00.000Z",
-            "deathDate": "0924-04-06T22:00:00.000Z",
-            "lifeSpan": 79.26229377285867,
-            "reignStart": "0915-10-31T23:00:00.000Z",
-            "reignEnd": "0924-04-06T22:00:00.000Z",
-            "reignSpan": 8.43263950206598
+            "reignSpan": 13.092671307419044,
+            "deathPlaceLat": 50.7753455,
+            "deathPlaceLng": 6.083886800000001,
+            "deathPlaceId": "ChIJHRmKsHyZwEcRT0QOC64Oo2M"
         },
         {
             "_Rang": "1",
@@ -232,7 +61,10 @@
             "lifeSpan": 28.93146334284756,
             "reignStart": "0967-12-24T23:00:00.000Z",
             "reignEnd": "0983-12-06T23:00:00.000Z",
-            "reignSpan": 15.951046222715044
+            "reignSpan": 15.951046222715044,
+            "deathPlaceLat": 41.9027835,
+            "deathPlaceLng": 12.4963655,
+            "deathPlaceId": "ChIJu46S-ZZhLxMROG5lkwZ3D7k"
         },
         {
             "_Rang": "3",
@@ -253,7 +85,10 @@
             "lifeSpan": 22.05931675530641,
             "reignStart": "0996-05-20T22:00:00.000Z",
             "reignEnd": "1002-01-22T23:00:00.000Z",
-            "reignSpan": 5.673057397938813
+            "reignSpan": 5.673057397938813,
+            "birthPlaceLat": 40.2150909,
+            "birthPlaceLng": -74.6777785,
+            "birthPlaceId": "ChIJEdriz9dewYkRezDBJXouLLQ"
         },
         {
             "_Rang": "4",
@@ -294,7 +129,10 @@
             "lifeSpan": 49.419107396683934,
             "reignStart": "1027-03-25T22:00:00.000Z",
             "reignEnd": "1039-06-03T22:00:00.000Z",
-            "reignSpan": 12.191899902119824
+            "reignSpan": 12.191899902119824,
+            "deathPlaceLat": 52.09073739999999,
+            "deathPlaceLng": 5.1214201,
+            "deathPlaceId": "ChIJNy3TOUNvxkcR6UqvGUz8yNY"
         },
         {
             "_Rang": "6",
@@ -356,27 +194,10 @@
             "lifeSpan": 38.77971484698522,
             "reignStart": "1111-02-11T23:00:00.000Z",
             "reignEnd": "1125-05-22T22:00:00.000Z",
-            "reignSpan": 14.275333054979454
-        },
-        {
-            "_Rang": "9",
-            "_Portrait": "",
-            "_Nom": "Lothaire III le Saxon\n(9 juin 1075, Unterlüß – 4 juin 1137)",
-            "_Début du règne": "4 juin\n1133",
-            "_Fin du règne": "4 décembre\n1137",
-            "_Titres": "Empereur des Romains\nDuc de Saxe (1106-1137)\nRoi des Romains (1125-1137)",
-            "_Notes": "Fils de Gebhard de Supplinbourg.",
-            "attribs": [
-                "Maison de Supplimbourg"
-            ],
-            "name": "Lothaire III le Saxon",
-            "birthDate": "1075-06-08T22:00:00.000Z",
-            "birthPlace": "Unterlüß ",
-            "deathDate": "1137-06-03T22:00:00.000Z",
-            "lifeSpan": 61.98621463821981,
-            "reignStart": "1133-06-03T22:00:00.000Z",
-            "reignEnd": "1137-12-03T23:00:00.000Z",
-            "reignSpan": 4.501233198947731
+            "reignSpan": 14.275333054979454,
+            "deathPlaceLat": 52.09073739999999,
+            "deathPlaceLng": 5.1214201,
+            "deathPlaceId": "ChIJNy3TOUNvxkcR6UqvGUz8yNY"
         },
         {
             "_Rang": "10",
@@ -437,7 +258,10 @@
             "lifeSpan": 31.907454179985447,
             "reignStart": "1191-04-14T22:00:00.000Z",
             "reignEnd": "1197-09-27T22:00:00.000Z",
-            "reignSpan": 6.4559847224789015
+            "reignSpan": 6.4559847224789015,
+            "birthPlaceLat": 51.8125626,
+            "birthPlaceLng": 5.8372264,
+            "birthPlaceId": "ChIJgeMbk2cIx0cRrH4ln8hxjKQ"
         },
         {
             "_Rang": "13",
@@ -458,7 +282,10 @@
             "lifeSpan": 43.379284539267296,
             "reignStart": "1209-10-03T22:00:00.000Z",
             "reignEnd": "1214-12-31T23:00:00.000Z",
-            "reignSpan": 5.243205997841616
+            "reignSpan": 5.243205997841616,
+            "deathPlaceLat": 51.8719603,
+            "deathPlaceLng": 10.5662942,
+            "deathPlaceId": "ChIJva5A6sQUpUcR9NeFQBpDpsw"
         },
         {
             "_Rang": "14",
@@ -479,7 +306,10 @@
             "lifeSpan": 55.96555712985208,
             "reignStart": "1215-07-22T22:00:00.000Z",
             "reignEnd": "1250-12-12T23:00:00.000Z",
-            "reignSpan": 35.39303795879906
+            "reignSpan": 35.39303795879906,
+            "deathPlaceLat": 33.7814741,
+            "deathPlaceLng": -117.8606339,
+            "deathPlaceId": "ChIJP1UyX8PZ3IAR6tnZ5pFCJxg"
         },
         {
             "_Rang": "15",
@@ -500,7 +330,10 @@
             "lifeSpan": 38.642705417177176,
             "reignStart": "1312-06-28T22:00:00.000Z",
             "reignEnd": "1313-08-23T22:00:00.000Z",
-            "reignSpan": 1.1526588499421617
+            "reignSpan": 1.1526588499421617,
+            "birthPlaceLat": 50.357113,
+            "birthPlaceLng": 3.518332,
+            "birthPlaceId": "ChIJswm0aMftwkcRlPT9C-zc9LU"
         },
         {
             "_Rang": "16",
@@ -542,7 +375,10 @@
             "lifeSpan": 62.544861747104086,
             "reignStart": "1355-04-04T22:00:00.000Z",
             "reignEnd": "1378-11-28T23:00:00.000Z",
-            "reignSpan": 23.65289271283234
+            "reignSpan": 23.65289271283234,
+            "birthPlaceLat": 50.03764169999999,
+            "birthPlaceLng": 13.8724605,
+            "birthPlaceId": "ChIJoz87nZKyC0cR2Cpuum2MsE4"
         },
         {
             "_Rang": "18",
@@ -563,7 +399,13 @@
             "lifeSpan": 69.81662867820695,
             "reignStart": "1433-05-31T22:00:00.000Z",
             "reignEnd": "1437-12-08T23:00:00.000Z",
-            "reignSpan": 4.523136455003639
+            "reignSpan": 4.523136455003639,
+            "birthPlaceLat": 49.4521018,
+            "birthPlaceLng": 11.0766654,
+            "birthPlaceId": "ChIJ0xy2ta5Xn0cRtyGMqYWvXd0",
+            "deathPlaceLat": 48.8559107,
+            "deathPlaceLng": 16.0542676,
+            "deathPlaceId": "ChIJp7RUEAJVbUcR0D4WZg-vAAQ"
         },
         {
             "_Rang": "19",
@@ -584,7 +426,13 @@
             "lifeSpan": 77.91261969787196,
             "reignStart": "1452-03-18T23:00:00.000Z",
             "reignEnd": "1493-08-18T22:00:00.000Z",
-            "reignSpan": 41.41894312226352
+            "reignSpan": 41.41894312226352,
+            "birthPlaceLat": 47.2692124,
+            "birthPlaceLng": 11.4041024,
+            "birthPlaceId": "ChIJc8r44c9unUcRDZsdKH0cIJ0",
+            "deathPlaceLat": 48.30694,
+            "deathPlaceLng": 14.28583,
+            "deathPlaceId": "ChIJTYWZ-pWVc0cRxHV5VywpU3w"
         },
         {
             "_Rang": "20",
@@ -605,7 +453,13 @@
             "lifeSpan": 59.80957856766395,
             "reignStart": "1508-02-03T23:00:00.000Z",
             "reignEnd": "1519-01-11T23:00:00.000Z",
-            "reignSpan": 10.937938492919088
+            "reignSpan": 10.937938492919088,
+            "birthPlaceLat": 47.80278999999999,
+            "birthPlaceLng": 16.23318,
+            "birthPlaceId": "ChIJTw3ltPXLbUcRJzjXPKMYFps",
+            "deathPlaceLat": 43.0514515,
+            "deathPlaceLng": -88.2121676,
+            "deathPlaceId": "ChIJZ6Rf0QWpBYgRcRlJn9W6nEw"
         },
         {
             "_Rang": "21",
@@ -626,7 +480,13 @@
             "lifeSpan": 58.57193052104652,
             "reignStart": "1519-06-27T22:00:00.000Z",
             "reignEnd": "1558-02-23T23:00:00.000Z",
-            "reignSpan": 38.66209892514334
+            "reignSpan": 38.66209892514334,
+            "birthPlaceLat": 51.0543422,
+            "birthPlaceLng": 3.7174243,
+            "birthPlaceId": "ChIJrUOUM-Fww0cRQFFNL6uZAAQ",
+            "deathPlaceLat": 40.11362,
+            "deathPlaceLng": -5.7384867,
+            "deathPlaceId": "ChIJ3dlkvM80Pg0RVwjXSaRgNAg"
         },
         {
             "_Rang": "22",
@@ -647,7 +507,13 @@
             "lifeSpan": 61.37828520320974,
             "reignStart": "1556-01-15T23:00:00.000Z",
             "reignEnd": "1564-07-24T22:00:00.000Z",
-            "reignSpan": 8.5229904332966
+            "reignSpan": 8.5229904332966,
+            "birthPlaceLat": 40.4819791,
+            "birthPlaceLng": -3.3635421,
+            "birthPlaceId": "ChIJC-ZpxthLQg0RIxeyVBTrVQU",
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Rang": "23",
@@ -710,7 +576,10 @@
             "lifeSpan": 62.06561394142248,
             "reignStart": "1612-01-19T23:00:00.000Z",
             "reignEnd": "1619-03-19T23:00:00.000Z",
-            "reignSpan": 7.162364730281936
+            "reignSpan": 7.162364730281936,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Rang": "26",
@@ -731,7 +600,13 @@
             "lifeSpan": 58.60775147105462,
             "reignStart": "1619-03-19T23:00:00.000Z",
             "reignEnd": "1637-02-14T23:00:00.000Z",
-            "reignSpan": 17.911387639718818
+            "reignSpan": 17.911387639718818,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ",
+            "birthPlaceLat": 47.070714,
+            "birthPlaceLng": 15.439504,
+            "birthPlaceId": "ChIJu2UwF4c1bkcRm93f0tGKjv4"
         },
         {
             "_Rang": "27",
@@ -752,7 +627,13 @@
             "lifeSpan": 48.72105518936049,
             "reignStart": "1637-02-14T23:00:00.000Z",
             "reignEnd": "1657-04-01T22:00:00.000Z",
-            "reignSpan": 20.126240328913894
+            "reignSpan": 20.126240328913894,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ",
+            "birthPlaceLat": 47.070714,
+            "birthPlaceLng": 15.439504,
+            "birthPlaceId": "ChIJu2UwF4c1bkcRm93f0tGKjv4"
         },
         {
             "_Rang": "28",
@@ -773,7 +654,10 @@
             "lifeSpan": 64.90208560066257,
             "reignStart": "1658-07-31T22:00:00.000Z",
             "reignEnd": "1705-05-04T22:00:00.000Z",
-            "reignSpan": 46.75797586534973
+            "reignSpan": 46.75797586534973,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Rang": "29",
@@ -794,7 +678,10 @@
             "lifeSpan": 32.72346454752664,
             "reignStart": "1705-05-04T22:00:00.000Z",
             "reignEnd": "1711-04-16T22:00:00.000Z",
-            "reignSpan": 5.949471926186027
+            "reignSpan": 5.949471926186027,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Rang": "30",
@@ -815,7 +702,10 @@
             "lifeSpan": 55.05109618951792,
             "reignStart": "1711-04-16T22:00:00.000Z",
             "reignEnd": "1740-10-19T22:00:00.000Z",
-            "reignSpan": 29.51189962832912
+            "reignSpan": 29.51189962832912,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Rang": "31",
@@ -836,7 +726,10 @@
             "lifeSpan": 47.45625623159043,
             "reignStart": "1742-01-23T23:00:00.000Z",
             "reignEnd": "1745-01-19T23:00:00.000Z",
-            "reignSpan": 2.9897944516314503
+            "reignSpan": 2.9897944516314503,
+            "birthPlaceLat": 50.8503463,
+            "birthPlaceLng": 4.3517211,
+            "birthPlaceId": "ChIJ_58PdIbEw0cRMIBML6uZAAE"
         },
         {
             "_Rang": "32",
@@ -878,7 +771,10 @@
             "lifeSpan": 48.942825656926566,
             "reignStart": "1765-08-17T22:00:00.000Z",
             "reignEnd": "1790-02-19T23:00:00.000Z",
-            "reignSpan": 24.509857606019747
+            "reignSpan": 24.509857606019747,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Rang": "34",
@@ -899,7 +795,13 @@
             "lifeSpan": 44.82512759787448,
             "reignStart": "1790-02-19T23:00:00.000Z",
             "reignEnd": "1792-02-29T23:00:00.000Z",
-            "reignSpan": 2.0260511851714957
+            "reignSpan": 2.0260511851714957,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ",
+            "birthPlaceLat": 48.1858124,
+            "birthPlaceLng": 16.312764,
+            "birthPlaceId": "ChIJv3zAHAmobUcRyYvq5F26aU4"
         },
         {
             "_Rang": "35",
@@ -920,11 +822,14 @@
             "lifeSpan": 67.04860469414156,
             "reignStart": "1792-02-29T23:00:00.000Z",
             "reignEnd": "1806-07-11T22:00:00.000Z",
-            "reignSpan": 14.360208172196097
+            "reignSpan": 14.360208172196097,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         }
     ],
     "length": 46,
-    "lastupdate": "2018-06-16T11:18:22.978Z",
+    "lastupdate": "2018-06-16T15:27:04.929Z",
     "page": "Liste_des_souverains_du_Saint-Empire",
     "dataId": "monarques_se"
 }

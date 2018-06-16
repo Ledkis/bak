@@ -16,7 +16,10 @@
             "lifeSpan": 53.73131093269084,
             "reignStart": "0751-10-31T23:00:00.000Z",
             "reignEnd": "0768-10-08T22:00:00.000Z",
-            "reignSpan": 16.939316572779273
+            "reignSpan": 16.939316572779273,
+            "deathPlaceLat": 48.936181,
+            "deathPlaceLng": 2.357443,
+            "deathPlaceId": "ChIJYW0056pu5kcRDeko-brr78c"
         },
         {
             "_Portrait": "",
@@ -53,7 +56,10 @@
             "lifeSpan": 71.82636650079513,
             "reignStart": "0768-10-08T22:00:00.000Z",
             "reignEnd": "0814-01-27T23:00:00.000Z",
-            "reignSpan": 45.30426132409746
+            "reignSpan": 45.30426132409746,
+            "deathPlaceLat": 50.7753455,
+            "deathPlaceLng": 6.083886800000001,
+            "deathPlaceId": "ChIJHRmKsHyZwEcRT0QOC64Oo2M"
         },
         {
             "_Portrait": "",
@@ -139,7 +145,13 @@
             "lifeSpan": 18.21803322450153,
             "reignStart": "0900-01-20T23:00:00.000Z",
             "reignEnd": "0911-09-19T22:00:00.000Z",
-            "reignSpan": 11.660631863305431
+            "reignSpan": 11.660631863305431,
+            "birthPlaceLat": 48.2246432,
+            "birthPlaceLng": 12.6767839,
+            "birthPlaceId": "ChIJ-QEAyWTEdUcRoLU3CaQlHQQ",
+            "deathPlaceLat": 49.0134297,
+            "deathPlaceLng": 12.1016236,
+            "deathPlaceId": "ChIJ9y4icpjBn0cREMs3CaQlHQQ"
         },
         {
             "_Portrait": "",
@@ -231,7 +243,10 @@
             "lifeSpan": 28.93146334284756,
             "reignStart": "0961-05-25T22:00:00.000Z",
             "reignEnd": "0983-12-06T23:00:00.000Z",
-            "reignSpan": 22.533088746974045
+            "reignSpan": 22.533088746974045,
+            "deathPlaceLat": 41.9027835,
+            "deathPlaceLng": 12.4963655,
+            "deathPlaceId": "ChIJu46S-ZZhLxMROG5lkwZ3D7k"
         },
         {
             "_Portrait": "",
@@ -248,7 +263,10 @@
             "deathDate": "1002-01-22T23:00:00.000Z",
             "deathPlace": "Paterno",
             "lifeSpan": 22.05931675530641,
-            "reignEnd": "1002-01-20T23:00:00.000Z"
+            "reignEnd": "1002-01-20T23:00:00.000Z",
+            "birthPlaceLat": 40.2150909,
+            "birthPlaceLng": -74.6777785,
+            "birthPlaceId": "ChIJEdriz9dewYkRezDBJXouLLQ"
         },
         {
             "_Portrait": "",
@@ -285,7 +303,10 @@
             "lifeSpan": 49.419107396683934,
             "reignStart": "1024-09-03T22:00:00.000Z",
             "reignEnd": "1039-06-03T22:00:00.000Z",
-            "reignSpan": 14.746367139640101
+            "reignSpan": 14.746367139640101,
+            "deathPlaceLat": 52.09073739999999,
+            "deathPlaceLng": 5.1214201,
+            "deathPlaceId": "ChIJNy3TOUNvxkcR6UqvGUz8yNY"
         },
         {
             "_Portrait": "",
@@ -377,7 +398,10 @@
             "lifeSpan": 27.45014157260815,
             "reignStart": "1087-05-29T22:00:00.000Z",
             "reignEnd": "1098-03-31T22:00:00.000Z",
-            "reignSpan": 10.8393738406675
+            "reignSpan": 10.8393738406675,
+            "deathPlaceLat": 43.7695604,
+            "deathPlaceLng": 11.2558136,
+            "deathPlaceId": "ChIJrdbSgKZWKhMRAyrH7xd51ZM"
         },
         {
             "_Portrait": "",
@@ -396,25 +420,10 @@
             "lifeSpan": 38.77971484698522,
             "reignStart": "1099-01-05T23:00:00.000Z",
             "reignEnd": "1125-05-22T22:00:00.000Z",
-            "reignSpan": 26.37414411886167
-        },
-        {
-            "_Portrait": "",
-            "_Nom": "Lothaire III le Saxon\n(9 juin 1075, Unterlüß – 4 juin 1137)",
-            "_Début du règne": "30 août\n1125",
-            "_Fin du\nrègne": "4 décembre\n1137",
-            "_Titres": "Roi de Germanie\nEmpereur des Romains (1133-1137)\nRoi d'Italie (1125-1137)\nRoi de Bourgogne (1125-1137)\nDuc de Saxe (1106-1137)",
-            "attribs": [
-                "Maison de Supplimbourg"
-            ],
-            "name": "Lothaire III le Saxon",
-            "birthDate": "1075-06-08T22:00:00.000Z",
-            "birthPlace": "Unterlüß ",
-            "deathDate": "1137-06-03T22:00:00.000Z",
-            "lifeSpan": 61.98621463821981,
-            "reignStart": "1125-08-29T22:00:00.000Z",
-            "reignEnd": "1137-12-03T23:00:00.000Z",
-            "reignSpan": 12.263199563760152
+            "reignSpan": 26.37414411886167,
+            "deathPlaceLat": 52.09073739999999,
+            "deathPlaceLng": 5.1214201,
+            "deathPlaceId": "ChIJNy3TOUNvxkcR6UqvGUz8yNY"
         },
         {
             "_Portrait": "",
@@ -437,23 +446,6 @@
         },
         {
             "_Portrait": "",
-            "_Nom": "Henri Bérenger\n(1137 – 1150)",
-            "_Début du règne": "13 mars\n1147",
-            "_Fin du\nrègne": "août (?)\n1150",
-            "_Titres": "Roi de Germanie",
-            "attribs": [
-                "Maison de Hohenstaufen"
-            ],
-            "name": "Henri Bérenger",
-            "birthDate": "1136-12-31T23:00:00.000Z",
-            "deathDate": "1149-12-31T23:00:00.000Z",
-            "lifeSpan": 12.999582469181433,
-            "reignStart": "1147-03-12T23:00:00.000Z",
-            "reignEnd": "2050-01-10T23:00:00.000Z",
-            "reignSpan": 902.8357871824883
-        },
-        {
-            "_Portrait": "",
             "_Nom": "Frédéric Ier Barberousse\n(1122 – 10 juin 1190, Rivière Göksu Nehri)",
             "_Début du règne": "4 mars\n1152",
             "_Fin du\nrègne": "10 juin\n1190",
@@ -468,7 +460,10 @@
             "lifeSpan": 68.4393473742331,
             "reignStart": "1152-03-03T23:00:00.000Z",
             "reignEnd": "1190-06-09T22:00:00.000Z",
-            "reignSpan": 38.267612157219745
+            "reignSpan": 38.267612157219745,
+            "deathPlaceLat": 36.366478,
+            "deathPlaceLng": 33.8911917,
+            "deathPlaceId": "ChIJJb5LPHbe2BQR-tCpBHSZhFY"
         },
         {
             "_Portrait": "",
@@ -487,7 +482,10 @@
             "lifeSpan": 31.907454179985447,
             "reignStart": "1169-07-26T22:00:00.000Z",
             "reignEnd": "1197-09-27T22:00:00.000Z",
-            "reignSpan": 28.17306310191174
+            "reignSpan": 28.17306310191174,
+            "birthPlaceLat": 51.8125626,
+            "birthPlaceLng": 5.8372264,
+            "birthPlaceId": "ChIJgeMbk2cIx0cRrH4ln8hxjKQ"
         },
         {
             "_Portrait": "",
@@ -506,7 +504,10 @@
             "lifeSpan": 55.96555712985208,
             "reignStart": "1195-12-31T23:00:00.000Z",
             "reignEnd": "1197-12-31T23:00:00.000Z",
-            "reignSpan": 2.001410022108599
+            "reignSpan": 2.001410022108599,
+            "deathPlaceLat": 33.7814741,
+            "deathPlaceLng": -117.8606339,
+            "deathPlaceId": "ChIJP1UyX8PZ3IAR6tnZ5pFCJxg"
         },
         {
             "_Portrait": "",
@@ -541,7 +542,10 @@
             "lifeSpan": 43.379284539267296,
             "reignStart": "1198-03-28T23:00:00.000Z",
             "reignEnd": "1215-07-04T22:00:00.000Z",
-            "reignSpan": 17.267865413617894
+            "reignSpan": 17.267865413617894,
+            "deathPlaceLat": 51.88668879999999,
+            "deathPlaceLng": 10.5522144,
+            "deathPlaceId": "ChIJjTgfas4UpUcRYD-slG2sJQQ"
         },
         {
             "_Portrait": "",
@@ -560,7 +564,10 @@
             "lifeSpan": 55.96555712985208,
             "reignStart": "1215-07-04T22:00:00.000Z",
             "reignEnd": "1250-12-25T23:00:00.000Z",
-            "reignSpan": 35.4779130760157
+            "reignSpan": 35.4779130760157,
+            "deathPlaceLat": 33.7814741,
+            "deathPlaceLng": -117.8606339,
+            "deathPlaceId": "ChIJP1UyX8PZ3IAR6tnZ5pFCJxg"
         },
         {
             "_Portrait": "",
@@ -597,7 +604,13 @@
             "lifeSpan": 26.07035052054457,
             "reignStart": "1237-04-30T22:00:00.000Z",
             "reignEnd": "1254-04-30T22:00:00.000Z",
-            "reignSpan": 16.999664606391644
+            "reignSpan": 16.999664606391644,
+            "birthPlaceLat": 41.1382473,
+            "birthPlaceLng": 16.22868,
+            "birthPlaceId": "ChIJEf44UYIQOBMRdX6jjWsoSlA",
+            "deathPlaceLat": 41.0482276,
+            "deathPlaceLng": 15.7886489,
+            "deathPlaceId": "ChIJ6cn75rZMOBMRrUXmWeNVtJE"
         },
         {
             "_Portrait": "",
@@ -615,24 +628,10 @@
             "lifeSpan": 43.12751117408297,
             "reignStart": "1246-05-21T22:00:00.000Z",
             "reignEnd": "1247-02-15T23:00:00.000Z",
-            "reignSpan": 0.7393489713455216
-        },
-        {
-            "_Portrait": "",
-            "_Nom": "Guillaume Ier\n(Février 1228 – 28 janvier 1256)",
-            "_Début du règne": "1er mai\n1254",
-            "_Fin du\nrègne": "28 janvier\n1256",
-            "_Titres": "Roi de Germanie\nAntiroi de Frédéric II et Conrad IV (1247-1254)\nComte de Hollande et de Zélande (1235-1256)",
-            "attribs": [
-                "Grand Interrègne"
-            ],
-            "name": "Guillaume Ier",
-            "birthDate": "1228-01-31T23:00:00.000Z",
-            "deathDate": "1256-01-27T23:00:00.000Z",
-            "lifeSpan": 27.989623332443514,
-            "reignStart": "1254-04-30T22:00:00.000Z",
-            "reignEnd": "1256-01-27T23:00:00.000Z",
-            "reignSpan": 1.744160842910304
+            "reignSpan": 0.7393489713455216,
+            "deathPlaceLat": 42.7268429,
+            "deathPlaceLng": -92.4805532,
+            "deathPlaceId": "ChIJ9TPQK7YJ8IcRgeuMYK0g6bM"
         },
         {
             "_Portrait": "",
@@ -651,7 +650,10 @@
             "lifeSpan": 63.24006196796193,
             "reignStart": "1257-01-12T23:00:00.000Z",
             "reignEnd": "1272-04-01T22:00:00.000Z",
-            "reignSpan": 15.2171730653835
+            "reignSpan": 15.2171730653835,
+            "deathPlaceLat": 51.75976600000001,
+            "deathPlaceLng": -0.5678569000000001,
+            "deathPlaceId": "ChIJ1zhP3jFDdkgRqmBQrlbtAM4"
         },
         {
             "_Portrait": "",
@@ -670,7 +672,13 @@
             "lifeSpan": 60.36525961062399,
             "reignStart": "1257-03-31T22:00:00.000Z",
             "reignEnd": "1272-04-01T22:00:00.000Z",
-            "reignSpan": 15.003730398297023
+            "reignSpan": 15.003730398297023,
+            "birthPlaceLat": 39.8628316,
+            "birthPlaceLng": -4.027323099999999,
+            "birthPlaceId": "ChIJ8f21C60Lag0R_q11auhbf8Y",
+            "deathPlaceLat": 37.3890924,
+            "deathPlaceLng": -5.9844589,
+            "deathPlaceId": "ChIJkWK-FBFsEg0RSFb-HGIY8DQ"
         },
         {
             "_Portrait": "",
@@ -689,7 +697,13 @@
             "lifeSpan": 73.20615755285871,
             "reignStart": "1273-09-28T22:00:00.000Z",
             "reignEnd": "1291-07-14T22:00:00.000Z",
-            "reignSpan": 17.79091973141132
+            "reignSpan": 17.79091973141132,
+            "birthPlaceLat": 50.405632,
+            "birthPlaceLng": 8.1563561,
+            "birthPlaceId": "ChIJN5gwlsU0vEcRJJqf0clRBwY",
+            "deathPlaceLat": 49.3172765,
+            "deathPlaceLng": 8.441217199999999,
+            "deathPlaceId": "ChIJIW-mXZy2l0cR0BvbENXUIgQ"
         },
         {
             "_Portrait": "",
@@ -707,7 +721,10 @@
             "lifeSpan": 43.499752447574785,
             "reignStart": "1292-05-04T22:00:00.000Z",
             "reignEnd": "1298-06-22T22:00:00.000Z",
-            "reignSpan": 6.132911695654257
+            "reignSpan": 6.132911695654257,
+            "deathPlaceLat": 49.591966,
+            "deathPlaceLng": 8.047813999999999,
+            "deathPlaceId": "ChIJV5PDsNoilkcRwCTbENXUIgQ"
         },
         {
             "_Portrait": "",
@@ -726,7 +743,13 @@
             "lifeSpan": 52.83339151385724,
             "reignStart": "1298-06-23T22:00:00.000Z",
             "reignEnd": "1308-04-30T22:00:00.000Z",
-            "reignSpan": 9.850989411144651
+            "reignSpan": 9.850989411144651,
+            "birthPlaceLat": 47.55219,
+            "birthPlaceLng": 7.7922914,
+            "birthPlaceId": "ChIJUbiGjeq0kUcRdsPMeH6B9PQ",
+            "deathPlaceLat": 47.4789604,
+            "deathPlaceLng": 8.2159655,
+            "deathPlaceId": "ChIJFcqmDchqkEcRKORULcxQmv8"
         },
         {
             "_Portrait": "",
@@ -745,7 +768,10 @@
             "lifeSpan": 38.642705417177176,
             "reignStart": "1308-11-26T23:00:00.000Z",
             "reignEnd": "1313-08-23T22:00:00.000Z",
-            "reignSpan": 4.739202949638482
+            "reignSpan": 4.739202949638482,
+            "birthPlaceLat": 50.357113,
+            "birthPlaceLng": 3.518332,
+            "birthPlaceId": "ChIJswm0aMftwkcRlPT9C-zc9LU"
         },
         {
             "_Portrait": "",
@@ -783,7 +809,10 @@
             "lifeSpan": 41.030274406729774,
             "reignStart": "1326-01-06T23:00:00.000Z",
             "reignEnd": "1330-01-12T23:00:00.000Z",
-            "reignSpan": 4.016509579252141
+            "reignSpan": 4.016509579252141,
+            "deathPlaceLat": 47.87654819999999,
+            "deathPlaceLng": 15.8906026,
+            "deathPlaceId": "ChIJhex9jXHqbUcR61HEQJ7w1zs"
         },
         {
             "_Portrait": "",
@@ -802,7 +831,10 @@
             "lifeSpan": 62.544861747104086,
             "reignStart": "1346-07-10T22:00:00.000Z",
             "reignEnd": "1378-11-28T23:00:00.000Z",
-            "reignSpan": 32.38681606512568
+            "reignSpan": 32.38681606512568,
+            "birthPlaceLat": 50.03764169999999,
+            "birthPlaceLng": 13.8724605,
+            "birthPlaceId": "ChIJoz87nZKyC0cR2Cpuum2MsE4"
         },
         {
             "_Portrait": "",
@@ -821,7 +853,13 @@
             "lifeSpan": 45.45188014355759,
             "reignStart": "1349-01-29T23:00:00.000Z",
             "reignEnd": "1349-05-23T22:00:00.000Z",
-            "reignSpan": 0.31200731933806536
+            "reignSpan": 0.31200731933806536,
+            "birthPlaceLat": 51.8164261,
+            "birthPlaceLng": 10.9773091,
+            "birthPlaceId": "ChIJtZXKOPKgpUcRnAakIs5h7uM",
+            "deathPlaceLat": 38.2009055,
+            "deathPlaceLng": -84.87328350000001,
+            "deathPlaceId": "ChIJyVMZi0xzQogRXEJniKAYZFM"
         },
         {
             "_Portrait": "",
@@ -840,7 +878,10 @@
             "lifeSpan": 58.46515214777397,
             "reignStart": "1376-06-09T22:00:00.000Z",
             "reignEnd": "1400-08-19T22:00:00.000Z",
-            "reignSpan": 24.192146313750452
+            "reignSpan": 24.192146313750452,
+            "birthPlaceLat": 49.4521018,
+            "birthPlaceLng": 11.0766654,
+            "birthPlaceId": "ChIJ0xy2ta5Xn0cRtyGMqYWvXd0"
         },
         {
             "_Portrait": "",
@@ -859,7 +900,13 @@
             "lifeSpan": 58.03267692012841,
             "reignStart": "1400-08-20T22:00:00.000Z",
             "reignEnd": "1410-05-17T22:00:00.000Z",
-            "reignSpan": 9.738735223858122
+            "reignSpan": 9.738735223858122,
+            "birthPlaceLat": 49.4403198,
+            "birthPlaceLng": 11.8633445,
+            "birthPlaceId": "ChIJLYKqaDEqoEcRJlnBZB5odU8",
+            "deathPlaceLat": 49.8519223,
+            "deathPlaceLng": 8.3602742,
+            "deathPlaceId": "ChIJabtyKIyEvUcRIETbENXUIgQ"
         },
         {
             "_Portrait": "",
@@ -878,7 +925,13 @@
             "lifeSpan": 69.81662867820695,
             "reignStart": "1411-07-20T22:00:00.000Z",
             "reignEnd": "1437-12-08T23:00:00.000Z",
-            "reignSpan": 26.38806181281386
+            "reignSpan": 26.38806181281386,
+            "birthPlaceLat": 49.4521018,
+            "birthPlaceLng": 11.0766654,
+            "birthPlaceId": "ChIJ0xy2ta5Xn0cRtyGMqYWvXd0",
+            "deathPlaceLat": 48.8559107,
+            "deathPlaceLng": 16.0542676,
+            "deathPlaceId": "ChIJp7RUEAJVbUcR0D4WZg-vAAQ"
         },
         {
             "_Portrait": "",
@@ -896,7 +949,10 @@
             "lifeSpan": 60.04503857026496,
             "reignStart": "1410-09-30T22:00:00.000Z",
             "reignEnd": "1411-01-07T23:00:00.000Z",
-            "reignSpan": 0.27116687315048676
+            "reignSpan": 0.27116687315048676,
+            "deathPlaceLat": 49.1950602,
+            "deathPlaceLng": 16.6068371,
+            "deathPlaceId": "ChIJEVE_wDqUEkcRsLEUZg-vAAQ"
         },
         {
             "_Portrait": "",
@@ -936,7 +992,13 @@
             "lifeSpan": 77.91261969787196,
             "reignStart": "1440-02-01T23:00:00.000Z",
             "reignEnd": "1493-08-18T22:00:00.000Z",
-            "reignSpan": 53.54513325621562
+            "reignSpan": 53.54513325621562,
+            "birthPlaceLat": 47.2692124,
+            "birthPlaceLng": 11.4041024,
+            "birthPlaceId": "ChIJc8r44c9unUcRDZsdKH0cIJ0",
+            "deathPlaceLat": 48.30694,
+            "deathPlaceLng": 14.28583,
+            "deathPlaceId": "ChIJTYWZ-pWVc0cRxHV5VywpU3w"
         },
         {
             "_Portrait": "",
@@ -956,7 +1018,13 @@
             "lifeSpan": 59.80957856766395,
             "reignStart": "1486-02-15T23:00:00.000Z",
             "reignEnd": "1519-01-11T23:00:00.000Z",
-            "reignSpan": 32.9014285029809
+            "reignSpan": 32.9014285029809,
+            "birthPlaceLat": 47.80278999999999,
+            "birthPlaceLng": 16.23318,
+            "birthPlaceId": "ChIJTw3ltPXLbUcRJzjXPKMYFps",
+            "deathPlaceLat": 43.0514515,
+            "deathPlaceLng": -88.2121676,
+            "deathPlaceId": "ChIJZ6Rf0QWpBYgRcRlJn9W6nEw"
         },
         {
             "_Portrait": "",
@@ -976,7 +1044,13 @@
             "lifeSpan": 58.57193052104652,
             "reignStart": "1519-06-27T22:00:00.000Z",
             "reignEnd": "1556-08-02T22:00:00.000Z",
-            "reignSpan": 37.101377851701265
+            "reignSpan": 37.101377851701265,
+            "birthPlaceLat": 51.0543422,
+            "birthPlaceLng": 3.7174243,
+            "birthPlaceId": "ChIJrUOUM-Fww0cRQFFNL6uZAAQ",
+            "deathPlaceLat": 40.11362,
+            "deathPlaceLng": -5.7384867,
+            "deathPlaceId": "ChIJ3dlkvM80Pg0RVwjXSaRgNAg"
         },
         {
             "_Portrait": "",
@@ -996,7 +1070,13 @@
             "lifeSpan": 61.37828520320974,
             "reignStart": "1531-01-04T23:00:00.000Z",
             "reignEnd": "1564-07-24T22:00:00.000Z",
-            "reignSpan": 33.55293629118554
+            "reignSpan": 33.55293629118554,
+            "birthPlaceLat": 40.4819791,
+            "birthPlaceLng": -3.3635421,
+            "birthPlaceId": "ChIJC-ZpxthLQg0RIxeyVBTrVQU",
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1056,7 +1136,10 @@
             "lifeSpan": 62.06561394142248,
             "reignStart": "1612-06-12T22:00:00.000Z",
             "reignEnd": "1619-03-19T23:00:00.000Z",
-            "reignSpan": 6.765482293727227
+            "reignSpan": 6.765482293727227,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1076,7 +1159,13 @@
             "lifeSpan": 58.60775147105462,
             "reignStart": "1619-08-27T22:00:00.000Z",
             "reignEnd": "1637-02-14T23:00:00.000Z",
-            "reignSpan": 17.47069869105229
+            "reignSpan": 17.47069869105229,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ",
+            "birthPlaceLat": 47.070714,
+            "birthPlaceLng": 15.439504,
+            "birthPlaceId": "ChIJu2UwF4c1bkcRm93f0tGKjv4"
         },
         {
             "_Portrait": "",
@@ -1096,7 +1185,13 @@
             "lifeSpan": 48.72105518936049,
             "reignStart": "1636-12-21T23:00:00.000Z",
             "reignEnd": "1657-04-01T22:00:00.000Z",
-            "reignSpan": 20.276825214298263
+            "reignSpan": 20.276825214298263,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ",
+            "birthPlaceLat": 47.070714,
+            "birthPlaceLng": 15.439504,
+            "birthPlaceId": "ChIJu2UwF4c1bkcRm93f0tGKjv4"
         },
         {
             "_Portrait": "",
@@ -1116,7 +1211,10 @@
             "lifeSpan": 20.832734416175555,
             "reignStart": "1653-05-30T22:00:00.000Z",
             "reignEnd": "1654-07-08T22:00:00.000Z",
-            "reignSpan": 1.106114430823357
+            "reignSpan": 1.106114430823357,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1136,7 +1234,10 @@
             "lifeSpan": 64.90208560066257,
             "reignStart": "1658-07-17T22:00:00.000Z",
             "reignEnd": "1705-05-04T22:00:00.000Z",
-            "reignSpan": 46.796306563447565
+            "reignSpan": 46.796306563447565,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1156,7 +1257,10 @@
             "lifeSpan": 32.72346454752664,
             "reignStart": "1690-01-22T23:00:00.000Z",
             "reignEnd": "1711-04-16T22:00:00.000Z",
-            "reignSpan": 21.226878945723275
+            "reignSpan": 21.226878945723275,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1176,18 +1280,10 @@
             "lifeSpan": 55.05109618951792,
             "reignStart": "1711-10-26T23:00:00.000Z",
             "reignEnd": "1740-10-19T22:00:00.000Z",
-            "reignSpan": 28.983369496521718
-        },
-        {
-            "_Portrait": "Interrègne (1740-1742)",
-            "_Nom": "",
-            "_Début du règne": "",
-            "_Fin du\nrègne": "",
-            "_Titres": "",
-            "_Armoiries": "",
-            "attribs": [
-                "Maison de Habsbourg"
-            ]
+            "reignSpan": 28.983369496521718,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1207,7 +1303,10 @@
             "lifeSpan": 47.45625623159043,
             "reignStart": "1742-01-13T23:00:00.000Z",
             "reignEnd": "1745-01-19T23:00:00.000Z",
-            "reignSpan": 3.0171735217013356
+            "reignSpan": 3.0171735217013356,
+            "birthPlaceLat": 50.8503463,
+            "birthPlaceLng": 4.3517211,
+            "birthPlaceId": "ChIJ_58PdIbEw0cRMIBML6uZAAE"
         },
         {
             "_Portrait": "",
@@ -1247,7 +1346,10 @@
             "lifeSpan": 48.942825656926566,
             "reignStart": "1764-03-26T22:00:00.000Z",
             "reignEnd": "1790-02-19T23:00:00.000Z",
-            "reignSpan": 25.903452272576896
+            "reignSpan": 25.903452272576896,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1267,7 +1369,13 @@
             "lifeSpan": 44.82512759787448,
             "reignStart": "1790-09-29T22:00:00.000Z",
             "reignEnd": "1792-02-29T23:00:00.000Z",
-            "reignSpan": 1.4183499090786713
+            "reignSpan": 1.4183499090786713,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ",
+            "birthPlaceLat": 48.1858124,
+            "birthPlaceLng": 16.312764,
+            "birthPlaceId": "ChIJv3zAHAmobUcRyYvq5F26aU4"
         },
         {
             "_Portrait": "",
@@ -1287,7 +1395,10 @@
             "lifeSpan": 67.04860469414156,
             "reignStart": "1792-07-06T22:00:00.000Z",
             "reignEnd": "1806-08-05T22:00:00.000Z",
-            "reignSpan": 14.078317829934905
+            "reignSpan": 14.078317829934905,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1307,7 +1418,13 @@
             "lifeSpan": 51.71906336201291,
             "reignStart": "1806-07-24T22:00:00.000Z",
             "reignEnd": "1813-10-18T22:00:00.000Z",
-            "reignSpan": 7.236288219470626
+            "reignSpan": 7.236288219470626,
+            "birthPlaceLat": 41.919229,
+            "birthPlaceLng": 8.738635,
+            "birthPlaceId": "ChIJgyOd0rNp2hIRAF-V_aUZCAQ",
+            "deathPlaceLat": -15.9650104,
+            "deathPlaceLng": -5.7089241,
+            "deathPlaceId": "ChIJ4-UsNRPi6gQRpp8ZUARPgK4"
         },
         {
             "_Portrait": "",
@@ -1327,7 +1444,10 @@
             "lifeSpan": 73.00629034134856,
             "reignStart": "1806-08-31T22:00:00.000Z",
             "reignEnd": "1813-02-04T23:00:00.000Z",
-            "reignSpan": 6.431457638874629
+            "reignSpan": 6.431457638874629,
+            "birthPlaceLat": 49.4874592,
+            "birthPlaceLng": 8.466039499999999,
+            "birthPlaceId": "ChIJRT-OUSTMl0cRh-YGpHr-5LE"
         },
         {
             "_Portrait": "",
@@ -1367,7 +1487,10 @@
             "lifeSpan": 67.04860469414156,
             "reignStart": "1815-06-19T22:00:00.000Z",
             "reignEnd": "1835-03-01T23:00:00.000Z",
-            "reignSpan": 19.699354994740936
+            "reignSpan": 19.699354994740936,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1427,7 +1550,10 @@
             "lifeSpan": 65.21705898592488,
             "reignStart": "1849-05-25T22:00:00.000Z",
             "reignEnd": "1850-11-28T23:00:00.000Z",
-            "reignSpan": 1.5114387473162807
+            "reignSpan": 1.5114387473162807,
+            "deathPlaceLat": 52.40420169999999,
+            "deathPlaceLng": 13.0384999,
+            "deathPlaceId": "ChIJUXWcySz0qEcRFgU6MTKjVdA"
         },
         {
             "_Portrait": "",
@@ -1447,7 +1573,10 @@
             "lifeSpan": 86.26061224163855,
             "reignStart": "1850-04-30T22:00:00.000Z",
             "reignEnd": "1866-08-23T22:00:00.000Z",
-            "reignSpan": 16.315187854644517
+            "reignSpan": 16.315187854644517,
+            "deathPlaceLat": 45.525587,
+            "deathPlaceLng": 4.874339,
+            "deathPlaceId": "ChIJhfn1JAjf9EcRwwNatGC74cQ"
         },
         {
             "_Portrait": "",
@@ -1507,7 +1636,13 @@
             "lifeSpan": 56.66098550962716,
             "reignStart": "1888-03-08T23:00:00.000Z",
             "reignEnd": "1888-06-14T22:00:00.000Z",
-            "reignSpan": 0.2682008072262492
+            "reignSpan": 0.2682008072262492,
+            "birthPlaceLat": 52.3905689,
+            "birthPlaceLng": 13.0644729,
+            "birthPlaceId": "ChIJt9Y6hM31qEcRm-yqC5j4ZcU",
+            "deathPlaceLat": 52.3905689,
+            "deathPlaceLng": 13.0644729,
+            "deathPlaceId": "ChIJt9Y6hM31qEcRm-yqC5j4ZcU"
         },
         {
             "_Portrait": "",
@@ -1527,11 +1662,17 @@
             "lifeSpan": 82.3506528767417,
             "reignStart": "1888-06-14T22:00:00.000Z",
             "reignEnd": "1918-11-08T23:00:00.000Z",
-            "reignSpan": 30.399095578052027
+            "reignSpan": 30.399095578052027,
+            "birthPlaceLat": 52.3905689,
+            "birthPlaceLng": 13.0644729,
+            "birthPlaceId": "ChIJt9Y6hM31qEcRm-yqC5j4ZcU",
+            "deathPlaceLat": 52.0346547,
+            "deathPlaceLng": 5.3456721,
+            "deathPlaceId": "ChIJJefbAXtbxkcRDQ0duuYYyvs"
         }
     ],
     "length": 81,
-    "lastupdate": "2018-06-16T11:18:23.097Z",
+    "lastupdate": "2018-06-16T15:27:04.935Z",
     "page": "Liste_des_souverains_d'Allemagne",
     "dataId": "monarques_ge"
 }
