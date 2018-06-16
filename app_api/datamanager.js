@@ -55,7 +55,10 @@ function updateWikiDataInfo (dataId, newInfo) {
 
 datamanager.getLocations = function () {
   return readFileAsync(getLocationsFilePath(), 'utf8').then(file => JSON.parse(file))
-    .catch(err => logger.err(err, `getLocations`))
+    .catch(err => {
+      logger.err(err, `getLocations`)
+      return {}
+    })
 }
 
 datamanager.saveLocations = function (locations) {

@@ -1,10 +1,12 @@
 const fs = require('fs')
+const config = require('config')
 const wikipedia = require('../lib/my-node-wikipedia')
 const logger = require('../lib/my-winston')(__filename)
 const datamanager = require('./datamanager')
 const wikiscrapper = require('../lib/wikiscrapper')
 const wikiparser = require('../lib/wikiparser')
 const apiutils = require('../lib/apiutils')
+const utils = require('../lib/utils')
 
 const wikiapi = {}
 
@@ -114,55 +116,49 @@ wikiapi.updateParsing = function () {
     })
 }
 
-wikiapi.getLocation = function (wikiObj, locations, force){
+function updateWikiObjLocation (location, wikiObjsToUpdate){
 
-  let promises = []
-  let searchedLocations = []
+    return apiutils.getLocation(location).then(res => {
 
-  let locTypesToGet = ['birthPlace', 'deathPlace']
+      wikiObjsToUpdate.forEach(wikiObjToUpdate => {
+        let wikiObj = wikiObjToUpdate.wikiObj
+        let locType = wikiObjToUpdate.locType
 
-  locTypesToGet.forEach(locType => {
-    if(wikiObj[locType] && (force || !wikiObj[`${locType}Id`])) {
-      let p = apiutils.getLocation(wikiObj.birthPlace).then(res => {
         wikiObj[`${locType}Lat`] = res.geometry.location.lat
         wikiObj[`${locType}Lng`] = res.geometry.location.lng
         wikiObj[`${locType}Id`] = res.place_id
-        locations[res.place_id] = res
-      }).catch(err => logger.err(err, `getLocation: ${wikiObj.name} ${locType} ${wikiObj.birthPlace}`))
-      promises.push(p)
-      searchedLocations.push(wikiObj[locType])
-    }
-  })
+      })
 
-  return Promise.all(promises)
-    .then(() => {
-      if(wikiObj.name && searchedLocations.length > 0)
-        logger.info(`getLocation: ${wikiObj.name}: [${searchedLocations.join(' ')}] completed`)
-      return locations
-    })
+    logger.info(`updateWikiObjLocation: updated ${location} for [${wikiObjsToUpdate.map(el => el.wikiObj.name).join(', ')}]`)
+    return res
+  }).catch(err => {
+    logger.err(err, `updateWikiObjLocation: ${location} for ${wikiObjsToUpdate.length} wikiObj(s)`)
+    return {}
+  })
 }
 
-wikiapi.getAllLocations = function (wikiData, locations, force) {
-  logger.info(`getAllLocations`)
-
-  let promises = []
-
+function getWikiObjsForLocationUpdate (wikiData, force) {
+  
+  let wikiObjToUpdates = []
+  
+  let locTypesToGet = ['birthPlace', 'deathPlace']
+    
   wikiData.list.forEach(wikiObj => {
-    let p = wikiapi.getLocation(wikiObj, locations, force).then(locs => {
-      locations = Object.assign(locations, locs)
-      return locations
+
+    locTypesToGet.forEach(locType => {
+      if(wikiObj[locType] && (force || !wikiObj[`${locType}Id`])) {  
+        let wikiObjToUpdate = {loc: wikiObj[locType], wikiObj: wikiObj, locType: locType, dataId: wikiData.dataId}
+        wikiObjToUpdates.push(wikiObjToUpdate)
+      }
     })
-    promises.push(p)
   })
 
-  return Promise.all(promises)
-    .then(() => {
-      logger.info(`getAllLocations: ${wikiData.dataId} completed`)
-      datamanager.saveWikiDataJSON(wikiData.dataId, wikiData)
-      return locations
-    })
+  return wikiObjToUpdates
 }
 
+/**
+ * force: force the update even if wikiObj[`${locType}Id`] exists
+ */
 wikiapi.updateLocations = function (force) {
   logger.info(`updateLocations`)
 
@@ -170,33 +166,69 @@ wikiapi.updateLocations = function (force) {
 
   return datamanager.getLocations().then(locations => {
 
+    // for logging
     let dataToUpdate = []
-    let promises = []
+    let fetchPromises = []
+    // [{loc, wikiObj, locType, dataId}, ...]
+    let wikiObjsToUpdate = []
+    // used to save the data at the end
+    let wikiDatas = {}
 
     Object.keys(wikiDataInfo).forEach((dataId) => {
 
       // if(dataId === 'monarques_en'){
         dataToUpdate.push(dataId)
 
-        const p = this.fetchWikiData(dataId, 'json')
+        const fetchP = this.fetchWikiData(dataId, 'json')
           .then(wikiData => {
-            //wikiData.list = wikiData.list.filter(el => el.deathPlace).slice(0, 4)
-            return wikiapi.getAllLocations(wikiData, locations, force)
-          }).then(locs => {
-            locations = Object.assign(locations, locs)
-            return locations
+            wikiData.list = wikiData.list.filter(el => el.deathPlace)//.slice(0, 4)
+            let objs =  getWikiObjsForLocationUpdate(wikiData, force)
+            wikiObjsToUpdate.push(...objs)
+
+            wikiDatas[wikiData.dataId] = wikiData
           })
 
-        promises.push(p)
+        fetchPromises.push(fetchP)
       // }
     })
 
     logger.info(`updateLocations: force ${!!force}, to update : ${JSON.stringify(dataToUpdate)}`)
 
-    return Promise.all(promises)
-      .then(() => {
-        datamanager.saveLocations(locations)
-        logger.info(`updateLocations: completed with ${Object.keys(locations).length} new loc saved`)
+    return Promise.all(fetchPromises).then(() => {
+
+        let p = Promise.resolve([])
+
+        // optim: we search once for each location for several objects
+        let locGroups = utils.groupsBy(wikiObjsToUpdate, 'loc')
+
+        // we sequences the apis call
+        Object.keys(locGroups).forEach(loc => {
+          // we propagate the locs
+          p = p.then((locs) => {
+            return updateWikiObjLocation(loc, locGroups[loc]).then(newLoc => {
+              return [...locs, newLoc]
+            })
+            // we wait between each google geocode api call
+            .then((locs) => utils.wait(+config.get('apiCall').googleWait, locs))
+          })
+        })
+
+        // the last promise: all calls have been made
+        p.then((locs) => {
+          
+          // save location 
+          locs.forEach(loc => locations[loc.place_id] = loc)
+          datamanager.saveLocations(locations)
+
+          // save wiki data
+          let wikiDataToSave = utils.groupsBy(wikiObjsToUpdate, 'dataId')
+
+          Object.keys(wikiDataToSave).forEach(dataId => {
+            datamanager.saveWikiDataJSON(dataId, wikiDatas[dataId])
+          })
+
+          logger.info(`updateLocations: completed with ${locs.length} new loc saved`)
+        })
       })
   })
 }
