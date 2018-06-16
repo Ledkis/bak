@@ -132,7 +132,11 @@ function updateWikiObjLocation (location, wikiObjsToUpdate){
     logger.info(`updateWikiObjLocation: updated ${location} for [${wikiObjsToUpdate.map(el => el.wikiObj.name).join(', ')}]`)
     return res
   }).catch(err => {
-    logger.err(err, `updateWikiObjLocation: ${location} for ${wikiObjsToUpdate.length} wikiObj(s)`)
+    // TODO: hack
+    if(err.message.includes('OVER_QUERY_LIMIT'))
+      logger.err(`updateWikiObjLocation: OVER_QUERY_LIMIT: ${location} for ${wikiObjsToUpdate.length} wikiObj(s)`)
+    else 
+      logger.err(err, `updateWikiObjLocation: ${location} for ${wikiObjsToUpdate.length} wikiObj(s)`)
     return {}
   })
 }
