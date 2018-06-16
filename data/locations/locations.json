@@ -4080,5 +4080,2554 @@
             "locality",
             "political"
         ]
+    },
+    "ChIJCZ0YyM-EkEcR0LjWTbprHwo": {
+        "address_components": [
+            {
+                "long_name": "Neudingen",
+                "short_name": "Neudingen",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Schwarzwald-Baar-Kreis",
+                "short_name": "Schwarzwald-Baar-Kreis",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Freiburg",
+                "short_name": "Freiburg",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Baden-Württemberg",
+                "short_name": "BW",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "78166",
+                "short_name": "78166",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "78166 Neudingen, Germany",
+        "geometry": {
+            "location": {
+                "lat": 47.910891,
+                "lng": 8.570458
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 47.9183695,
+                    "lng": 8.5864654
+                },
+                "southwest": {
+                    "lat": 47.9034114,
+                    "lng": 8.5544506
+                }
+            }
+        },
+        "partial_match": true,
+        "place_id": "ChIJCZ0YyM-EkEcR0LjWTbprHwo",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJqVPfD0wEn0cRYHk4CaQlHQE": {
+        "address_components": [
+            {
+                "long_name": "Bavaria",
+                "short_name": "BY",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Bavaria, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 50.5647142,
+                    "lng": 13.8396371
+                },
+                "southwest": {
+                    "lat": 47.2701115,
+                    "lng": 8.9763497
+                }
+            },
+            "location": {
+                "lat": 48.7904472,
+                "lng": 11.4978895
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.5647142,
+                    "lng": 13.8396371
+                },
+                "southwest": {
+                    "lat": 47.2701115,
+                    "lng": 8.9763497
+                }
+            }
+        },
+        "place_id": "ChIJqVPfD0wEn0cRYHk4CaQlHQE",
+        "types": [
+            "administrative_area_level_1",
+            "political"
+        ]
+    },
+    "ChIJk_E62n8PpEcR0Hk0dMGOIAE": {
+        "address_components": [
+            {
+                "long_name": "Thuringia",
+                "short_name": "TH",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Thuringia, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 51.6489359,
+                    "lng": 12.6539326
+                },
+                "southwest": {
+                    "lat": 50.20434669999999,
+                    "lng": 9.876984000000002
+                }
+            },
+            "location": {
+                "lat": 51.0109892,
+                "lng": 10.845346
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 51.6489359,
+                    "lng": 12.6539326
+                },
+                "southwest": {
+                    "lat": 50.20434669999999,
+                    "lng": 9.876984000000002
+                }
+            }
+        },
+        "place_id": "ChIJk_E62n8PpEcR0Hk0dMGOIAE",
+        "types": [
+            "administrative_area_level_1",
+            "political"
+        ]
+    },
+    "ChIJO4Z5OftQERMRh-3yAhWj7VA": {
+        "address_components": [
+            {
+                "long_name": "Paterno",
+                "short_name": "Paterno",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Paternò",
+                "short_name": "Paternò",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Province of Catania",
+                "short_name": "CT",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Sicily",
+                "short_name": "Sicily",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Italy",
+                "short_name": "IT",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "95047",
+                "short_name": "95047",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "95047 Paterno, Province of Catania, Italy",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 37.5816495,
+                    "lng": 14.9215745
+                },
+                "southwest": {
+                    "lat": 37.5538773,
+                    "lng": 14.8825949
+                }
+            },
+            "location": {
+                "lat": 37.5671795,
+                "lng": 14.9017568
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 37.5816495,
+                    "lng": 14.9215745
+                },
+                "southwest": {
+                    "lat": 37.5538773,
+                    "lng": 14.8825949
+                }
+            }
+        },
+        "place_id": "ChIJO4Z5OftQERMRh-3yAhWj7VA",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJG0RAg5pApUcRK3yArM4ONAo": {
+        "address_components": [
+            {
+                "long_name": "Goslar",
+                "short_name": "GS",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Goslar",
+                "short_name": "GS",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Lower Saxony",
+                "short_name": "NDS",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Goslar, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 52.005989,
+                    "lng": 10.6512008
+                },
+                "southwest": {
+                    "lat": 51.8440181,
+                    "lng": 10.3159359
+                }
+            },
+            "location": {
+                "lat": 51.9059531,
+                "lng": 10.4289963
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 52.005989,
+                    "lng": 10.6512008
+                },
+                "southwest": {
+                    "lat": 51.8440181,
+                    "lng": 10.3159359
+                }
+            }
+        },
+        "place_id": "ChIJG0RAg5pApUcRK3yArM4ONAo",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJ-_ysjkv3wEcRQGtNL6uZAAQ": {
+        "address_components": [
+            {
+                "long_name": "Liège",
+                "short_name": "Liège",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Liege",
+                "short_name": "LG",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Walloon Region",
+                "short_name": "WAL",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Belgium",
+                "short_name": "BE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Liège, Belgium",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 50.68819,
+                    "lng": 5.675110099999999
+                },
+                "southwest": {
+                    "lat": 50.56109010000001,
+                    "lng": 5.5230701
+                }
+            },
+            "location": {
+                "lat": 50.6325574,
+                "lng": 5.5796662
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.68819,
+                    "lng": 5.675110099999999
+                },
+                "southwest": {
+                    "lat": 50.56109010000001,
+                    "lng": 5.5230701
+                }
+            }
+        },
+        "place_id": "ChIJ-_ysjkv3wEcRQGtNL6uZAAQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJKYIAvHRHvkcRVOIC2FKKkfc": {
+        "address_components": [
+            {
+                "long_name": "Cochem",
+                "short_name": "Cochem",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Cochem-Zell",
+                "short_name": "Cochem-Zell",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rhineland-Palatinate",
+                "short_name": "RP",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "56812",
+                "short_name": "56812",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "56812 Cochem, Germany",
+        "geometry": {
+            "location": {
+                "lat": 50.146944,
+                "lng": 7.166666999999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1540937,
+                    "lng": 7.182674400000001
+                },
+                "southwest": {
+                    "lat": 50.1397932,
+                    "lng": 7.1506596
+                }
+            }
+        },
+        "place_id": "ChIJKYIAvHRHvkcRVOIC2FKKkfc",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJtb7UOAUjokcRgNlh8Ci3HQQ": {
+        "address_components": [
+            {
+                "long_name": "Bamberg",
+                "short_name": "BA",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Bamberg",
+                "short_name": "BA",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Upper Franconia",
+                "short_name": "Upper Franconia",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Bavaria",
+                "short_name": "BY",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Bamberg, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 49.9286322,
+                    "lng": 10.9607048
+                },
+                "southwest": {
+                    "lat": 49.84264590000001,
+                    "lng": 10.8265043
+                }
+            },
+            "location": {
+                "lat": 49.8988135,
+                "lng": 10.9027636
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 49.9286322,
+                    "lng": 10.9607048
+                },
+                "southwest": {
+                    "lat": 49.84264590000001,
+                    "lng": 10.8265043
+                }
+            }
+        },
+        "place_id": "ChIJtb7UOAUjokcRgNlh8Ci3HQQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJ4c24AitMFBMRXfIh1QbKHiA": {
+        "address_components": [
+            {
+                "long_name": "Messina",
+                "short_name": "Messina",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Messina",
+                "short_name": "Messina",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Province of Messina",
+                "short_name": "ME",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Sicily",
+                "short_name": "Sicily",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Italy",
+                "short_name": "IT",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Messina, Province of Messina, Italy",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 38.3015773,
+                    "lng": 15.6361362
+                },
+                "southwest": {
+                    "lat": 38.0546577,
+                    "lng": 15.4656128
+                }
+            },
+            "location": {
+                "lat": 38.1938137,
+                "lng": 15.5540152
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 38.3015773,
+                    "lng": 15.6361362
+                },
+                "southwest": {
+                    "lat": 38.0546577,
+                    "lng": 15.4656128
+                }
+            }
+        },
+        "place_id": "ChIJ4c24AitMFBMRXfIh1QbKHiA",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJpRHDIW2ZLRMR7L0W8blnWDY": {
+        "address_components": [
+            {
+                "long_name": "Iesi",
+                "short_name": "Iesi",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Iesi",
+                "short_name": "Iesi",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Province of Ancona",
+                "short_name": "AN",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Marche",
+                "short_name": "Marche",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Italy",
+                "short_name": "IT",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "60035",
+                "short_name": "60035",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "60035 Iesi, Province of Ancona, Italy",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 43.5498949,
+                    "lng": 13.2869414
+                },
+                "southwest": {
+                    "lat": 43.50110830000001,
+                    "lng": 13.2042067
+                }
+            },
+            "location": {
+                "lat": 43.5270861,
+                "lng": 13.2463797
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 43.5498949,
+                    "lng": 13.2869414
+                },
+                "southwest": {
+                    "lat": 43.50110830000001,
+                    "lng": 13.2042067
+                }
+            }
+        },
+        "place_id": "ChIJpRHDIW2ZLRMR7L0W8blnWDY",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJh8D4I2y94UcRAuJIEVbx8iY": {
+        "address_components": [
+            {
+                "long_name": "Normandy",
+                "short_name": "Normandy",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "France",
+                "short_name": "FR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Normandy, France",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 50.072097,
+                    "lng": 1.8031111
+                },
+                "southwest": {
+                    "lat": 48.1798839,
+                    "lng": -1.954995
+                }
+            },
+            "location": {
+                "lat": 48.87987039999999,
+                "lng": 0.1712529
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.072097,
+                    "lng": 1.8031111
+                },
+                "southwest": {
+                    "lat": 48.1798839,
+                    "lng": -1.954995
+                }
+            }
+        },
+        "place_id": "ChIJh8D4I2y94UcRAuJIEVbx8iY",
+        "types": [
+            "administrative_area_level_1",
+            "political"
+        ]
+    },
+    "ChIJkxogSP7rPxMRjOFixI8ItQ8": {
+        "address_components": [
+            {
+                "long_name": "Martirano",
+                "short_name": "Martirano",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Martirano",
+                "short_name": "Martirano",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Provincia di Catanzaro",
+                "short_name": "CZ",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Calabria",
+                "short_name": "Calabria",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Italy",
+                "short_name": "IT",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "88040",
+                "short_name": "88040",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "88040 Martirano CZ, Italy",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 39.0851636,
+                    "lng": 16.2537716
+                },
+                "southwest": {
+                    "lat": 39.0763612,
+                    "lng": 16.2442567
+                }
+            },
+            "location": {
+                "lat": 39.0802292,
+                "lng": 16.2487175
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 39.0851636,
+                    "lng": 16.2537716
+                },
+                "southwest": {
+                    "lat": 39.0763612,
+                    "lng": 16.2442567
+                }
+            }
+        },
+        "place_id": "ChIJkxogSP7rPxMRjOFixI8ItQ8",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJwUpnQPfutYkRhIEWnA8KtZE": {
+        "address_components": [
+            {
+                "long_name": "Winchester",
+                "short_name": "Winchester",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Virginia",
+                "short_name": "VA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "22601",
+                "short_name": "22601",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "Winchester, VA 22601, USA",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 39.204733,
+                    "lng": -78.1369529
+                },
+                "southwest": {
+                    "lat": 39.13097,
+                    "lng": -78.200731
+                }
+            },
+            "location": {
+                "lat": 39.1856597,
+                "lng": -78.1633341
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 39.204733,
+                    "lng": -78.1369529
+                },
+                "southwest": {
+                    "lat": 39.13097,
+                    "lng": -78.200731
+                }
+            }
+        },
+        "place_id": "ChIJwUpnQPfutYkRhIEWnA8KtZE",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJzZKmF26YlEcRjUmCDbFx1k4": {
+        "address_components": [
+            {
+                "long_name": "Nancy",
+                "short_name": "Nancy",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Meurthe-et-Moselle",
+                "short_name": "Meurthe-et-Moselle",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Grand Est",
+                "short_name": "Grand Est",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "France",
+                "short_name": "FR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Nancy, France",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 48.7092969,
+                    "lng": 6.2126329
+                },
+                "southwest": {
+                    "lat": 48.66686499999999,
+                    "lng": 6.134240999999999
+                }
+            },
+            "location": {
+                "lat": 48.692054,
+                "lng": 6.184417
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 48.7092969,
+                    "lng": 6.2126329
+                },
+                "southwest": {
+                    "lat": 48.66686499999999,
+                    "lng": 6.134240999999999
+                }
+            }
+        },
+        "place_id": "ChIJzZKmF26YlEcRjUmCDbFx1k4",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJD7fiBh9u5kcRYJSMaMOCCwQ": {
+        "address_components": [
+            {
+                "long_name": "Paris",
+                "short_name": "Paris",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Paris",
+                "short_name": "Paris",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Île-de-France",
+                "short_name": "Île-de-France",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "France",
+                "short_name": "FR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Paris, France",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 48.9021449,
+                    "lng": 2.4699208
+                },
+                "southwest": {
+                    "lat": 48.815573,
+                    "lng": 2.224199
+                }
+            },
+            "location": {
+                "lat": 48.856614,
+                "lng": 2.3522219
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 48.9021449,
+                    "lng": 2.4699208
+                },
+                "southwest": {
+                    "lat": 48.815573,
+                    "lng": 2.224199
+                }
+            }
+        },
+        "place_id": "ChIJD7fiBh9u5kcRYJSMaMOCCwQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJAVkDPzdOqEcRcDteW0YgIQQ": {
+        "address_components": [
+            {
+                "long_name": "Berlin",
+                "short_name": "Berlin",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Berlin",
+                "short_name": "Berlin",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Berlin, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 52.6754542,
+                    "lng": 13.7611175
+                },
+                "southwest": {
+                    "lat": 52.338234,
+                    "lng": 13.088346
+                }
+            },
+            "location": {
+                "lat": 52.52000659999999,
+                "lng": 13.404954
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 52.6754542,
+                    "lng": 13.7611175
+                },
+                "southwest": {
+                    "lat": 52.338234,
+                    "lng": 13.088346
+                }
+            }
+        },
+        "place_id": "ChIJAVkDPzdOqEcRcDteW0YgIQQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJp5cfhSCM10cRF_6pUFowvM0": {
+        "address_components": [
+            {
+                "long_name": "Sandringham Estate",
+                "short_name": "Sandringham Estate",
+                "types": [
+                    "establishment",
+                    "museum",
+                    "park",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "long_name": "Sandringham",
+                "short_name": "Sandringham",
+                "types": [
+                    "postal_town"
+                ]
+            },
+            {
+                "long_name": "Norfolk",
+                "short_name": "Norfolk",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "England",
+                "short_name": "England",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United Kingdom",
+                "short_name": "GB",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "PE35 6EN",
+                "short_name": "PE35 6EN",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "Sandringham Estate, Sandringham PE35 6EN, UK",
+        "geometry": {
+            "location": {
+                "lat": 52.8296856,
+                "lng": 0.5124889
+            },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+                "northeast": {
+                    "lat": 52.83103458029149,
+                    "lng": 0.5138378802915021
+                },
+                "southwest": {
+                    "lat": 52.8283366197085,
+                    "lng": 0.511139919708498
+                }
+            }
+        },
+        "place_id": "ChIJp5cfhSCM10cRF_6pUFowvM0",
+        "types": [
+            "establishment",
+            "museum",
+            "park",
+            "point_of_interest"
+        ]
+    },
+    "ChIJiYt6yYP8vUcRsmgIHyCnNt0": {
+        "address_components": [
+            {
+                "long_name": "Wallhausen",
+                "short_name": "Wallhausen",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Bad Kreuznach",
+                "short_name": "Bad Kreuznach",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rhineland-Palatinate",
+                "short_name": "RP",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "55595",
+                "short_name": "55595",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "55595 Wallhausen, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 49.9077872,
+                    "lng": 7.801601299999999
+                },
+                "southwest": {
+                    "lat": 49.8700791,
+                    "lng": 7.712431400000001
+                }
+            },
+            "location": {
+                "lat": 49.8874331,
+                "lng": 7.7686926
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 49.9077872,
+                    "lng": 7.801601299999999
+                },
+                "southwest": {
+                    "lat": 49.8700791,
+                    "lng": 7.712431400000001
+                }
+            }
+        },
+        "place_id": "ChIJiYt6yYP8vUcRsmgIHyCnNt0",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJx8qYb7jUpEcRMD6slG2sJQQ": {
+        "address_components": [
+            {
+                "long_name": "Göttingen",
+                "short_name": "Göttingen",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Göttingen",
+                "short_name": "GÖ",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Lower Saxony",
+                "short_name": "NDS",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Göttingen, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 51.590855,
+                    "lng": 10.0535673
+                },
+                "southwest": {
+                    "lat": 51.4830199,
+                    "lng": 9.800138200000001
+                }
+            },
+            "location": {
+                "lat": 51.54128040000001,
+                "lng": 9.915803499999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 51.590855,
+                    "lng": 10.0535673
+                },
+                "southwest": {
+                    "lat": 51.4830199,
+                    "lng": 9.800138200000001
+                }
+            }
+        },
+        "place_id": "ChIJx8qYb7jUpEcRMD6slG2sJQQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJH09si357KRMRBzyUhWu4pbA": {
+        "address_components": [
+            {
+                "long_name": "Buonconvento",
+                "short_name": "Buonconvento",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Buonconvento",
+                "short_name": "Buonconvento",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Province of Siena",
+                "short_name": "SI",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Tuscany",
+                "short_name": "Tuscany",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Italy",
+                "short_name": "IT",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "53022",
+                "short_name": "53022",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "53022 Buonconvento, Province of Siena, Italy",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 43.1403194,
+                    "lng": 11.4898865
+                },
+                "southwest": {
+                    "lat": 43.12239080000001,
+                    "lng": 11.4763534
+                }
+            },
+            "location": {
+                "lat": 43.13605690000001,
+                "lng": 11.4796048
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 43.1403194,
+                    "lng": 11.4898865
+                },
+                "southwest": {
+                    "lat": 43.12239080000001,
+                    "lng": 11.4763534
+                }
+            }
+        },
+        "place_id": "ChIJH09si357KRMRBzyUhWu4pbA",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJ2V-Mo_l1nkcRfZixfUq4DAE": {
+        "address_components": [
+            {
+                "long_name": "Munich",
+                "short_name": "Munich",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Upper Bavaria",
+                "short_name": "Upper Bavaria",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Bavaria",
+                "short_name": "BY",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Munich, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 48.2482197,
+                    "lng": 11.7228755
+                },
+                "southwest": {
+                    "lat": 48.0616018,
+                    "lng": 11.360796
+                }
+            },
+            "location": {
+                "lat": 48.1351253,
+                "lng": 11.5819805
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2482197,
+                    "lng": 11.7228755
+                },
+                "southwest": {
+                    "lat": 48.0616018,
+                    "lng": 11.360796
+                }
+            }
+        },
+        "place_id": "ChIJ2V-Mo_l1nkcRfZixfUq4DAE",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJi3lwCZyTC0cRkEAWZg-vAAQ": {
+        "address_components": [
+            {
+                "long_name": "Prague",
+                "short_name": "Prague",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hlavní město Praha",
+                "short_name": "Hlavní město Praha",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Prague",
+                "short_name": "Prague",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Czechia",
+                "short_name": "CZ",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Prague, Czechia",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 50.177403,
+                    "lng": 14.7067945
+                },
+                "southwest": {
+                    "lat": 49.94193629999999,
+                    "lng": 14.2244533
+                }
+            },
+            "location": {
+                "lat": 50.0755381,
+                "lng": 14.4378005
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.177403,
+                    "lng": 14.7067945
+                },
+                "southwest": {
+                    "lat": 49.94193629999999,
+                    "lng": 14.2244533
+                }
+            }
+        },
+        "place_id": "ChIJi3lwCZyTC0cRkEAWZg-vAAQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJwXaSnLde6EcR60gDsV2bqEI": {
+        "address_components": [
+            {
+                "long_name": "Soissons",
+                "short_name": "Soissons",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Aisne",
+                "short_name": "Aisne",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hauts-de-France",
+                "short_name": "Hauts-de-France",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "France",
+                "short_name": "FR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "02200",
+                "short_name": "02200",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "02200 Soissons, France",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 49.3980239,
+                    "lng": 3.3576299
+                },
+                "southwest": {
+                    "lat": 49.3550941,
+                    "lng": 3.289411
+                }
+            },
+            "location": {
+                "lat": 49.376636,
+                "lng": 3.32342
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 49.3980239,
+                    "lng": 3.3576299
+                },
+                "southwest": {
+                    "lat": 49.3550941,
+                    "lng": 3.289411
+                }
+            }
+        },
+        "place_id": "ChIJwXaSnLde6EcR60gDsV2bqEI",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJRQQjESq06UcRc7mrQVFPgn4": {
+        "address_components": [
+            {
+                "long_name": "Samoussy",
+                "short_name": "Samoussy",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Aisne",
+                "short_name": "Aisne",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hauts-de-France",
+                "short_name": "Hauts-de-France",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "France",
+                "short_name": "FR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "02840",
+                "short_name": "02840",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "02840 Samoussy, France",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 49.614225,
+                    "lng": 3.7969661
+                },
+                "southwest": {
+                    "lat": 49.56250199999999,
+                    "lng": 3.6957481
+                }
+            },
+            "location": {
+                "lat": 49.588338,
+                "lng": 3.745970999999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 49.614225,
+                    "lng": 3.7969661
+                },
+                "southwest": {
+                    "lat": 49.56250199999999,
+                    "lng": 3.6957481
+                }
+            }
+        },
+        "place_id": "ChIJRQQjESq06UcRc7mrQVFPgn4",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJ8YkJE4XsvUcRsvQcS3Zn4fs": {
+        "address_components": [
+            {
+                "long_name": "Ingelheim am Rhein",
+                "short_name": "Ingelheim am Rhein",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mainz-Bingen",
+                "short_name": "Mainz-Bingen",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Darmstadt",
+                "short_name": "DA",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rhineland-Palatinate",
+                "short_name": "RP",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "55218",
+                "short_name": "55218",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "55218 Ingelheim am Rhein, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 50.00917339999999,
+                    "lng": 8.1377572
+                },
+                "southwest": {
+                    "lat": 49.92956969999999,
+                    "lng": 7.976504899999999
+                }
+            },
+            "location": {
+                "lat": 49.9764195,
+                "lng": 8.0560682
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.00917339999999,
+                    "lng": 8.1377572
+                },
+                "southwest": {
+                    "lat": 49.92956969999999,
+                    "lng": 7.976504899999999
+                }
+            }
+        },
+        "place_id": "ChIJ8YkJE4XsvUcRsvQcS3Zn4fs",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJtWnH--ZJvEcR67HSg3IC0nQ": {
+        "address_components": [
+            {
+                "long_name": "3",
+                "short_name": "3",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Schloßplatz",
+                "short_name": "Schloßpl.",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Weilburg",
+                "short_name": "Weilburg",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Limburg-Weilburg",
+                "short_name": "Limburg-Weilburg",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Gießen",
+                "short_name": "GI",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hessen",
+                "short_name": "HE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "35781",
+                "short_name": "35781",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "Schloßpl. 3, 35781 Weilburg, Germany",
+        "geometry": {
+            "location": {
+                "lat": 50.4857615,
+                "lng": 8.261392599999999
+            },
+            "location_type": "ROOFTOP",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.4871104802915,
+                    "lng": 8.262741580291502
+                },
+                "southwest": {
+                    "lat": 50.4844125197085,
+                    "lng": 8.260043619708497
+                }
+            }
+        },
+        "place_id": "ChIJtWnH--ZJvEcR67HSg3IC0nQ",
+        "types": [
+            "establishment",
+            "point_of_interest"
+        ]
+    },
+    "ChIJl1Xz6r8lpEcRIG8liFxmIwo": {
+        "address_components": [
+            {
+                "long_name": "Memleben",
+                "short_name": "Memleben",
+                "types": [
+                    "political",
+                    "sublocality",
+                    "sublocality_level_1"
+                ]
+            },
+            {
+                "long_name": "Kaiserpfalz",
+                "short_name": "Kaiserpfalz",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Burgenlandkreis",
+                "short_name": "BLK",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Saxony-Anhalt",
+                "short_name": "SA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "06642",
+                "short_name": "06642",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "Memleben, 06642 Kaiserpfalz, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 51.2675205,
+                    "lng": 11.5003818
+                },
+                "southwest": {
+                    "lat": 51.261677,
+                    "lng": 11.4820402
+                }
+            },
+            "location": {
+                "lat": 51.2655818,
+                "lng": 11.4904706
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 51.2675205,
+                    "lng": 11.5003818
+                },
+                "southwest": {
+                    "lat": 51.261677,
+                    "lng": 11.4820402
+                }
+            }
+        },
+        "place_id": "ChIJl1Xz6r8lpEcRIG8liFxmIwo",
+        "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+        ]
+    },
+    "ChIJE6_2BeNPakcRCZg1RXy8bxo": {
+        "address_components": [
+            {
+                "long_name": "Neszmély",
+                "short_name": "Neszmély",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hungary",
+                "short_name": "HU",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "2544",
+                "short_name": "2544",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "Neszmély, 2544 Hungary",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 47.752278,
+                    "lng": 18.445723
+                },
+                "southwest": {
+                    "lat": 47.68481999999999,
+                    "lng": 18.3395219
+                }
+            },
+            "location": {
+                "lat": 47.734063,
+                "lng": 18.3542633
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 47.752278,
+                    "lng": 18.445723
+                },
+                "southwest": {
+                    "lat": 47.68481999999999,
+                    "lng": 18.3395219
+                }
+            }
+        },
+        "place_id": "ChIJE6_2BeNPakcRCZg1RXy8bxo",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJCejpe-m8_UcRVO67aiT1XYA": {
+        "address_components": [
+            {
+                "long_name": "Chasseneuil-du-Poitou",
+                "short_name": "Chasseneuil-du-Poitou",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Vienne",
+                "short_name": "Vienne",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Nouvelle-Aquitaine",
+                "short_name": "Nouvelle-Aquitaine",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "France",
+                "short_name": "FR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Chasseneuil-du-Poitou, France",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 46.6796561,
+                    "lng": 0.3879041
+                },
+                "southwest": {
+                    "lat": 46.6152619,
+                    "lng": 0.324141
+                }
+            },
+            "location": {
+                "lat": 46.650703,
+                "lng": 0.374772
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 46.6796561,
+                    "lng": 0.3879041
+                },
+                "southwest": {
+                    "lat": 46.6152619,
+                    "lng": 0.324141
+                }
+            }
+        },
+        "place_id": "ChIJCejpe-m8_UcRVO67aiT1XYA",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJxZZwR28JvUcRAMawKVBDIgQ": {
+        "address_components": [
+            {
+                "long_name": "Frankfurt",
+                "short_name": "Frankfurt",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Darmstadt",
+                "short_name": "DA",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hesse",
+                "short_name": "HE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Frankfurt, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 50.2272095,
+                    "lng": 8.8003977
+                },
+                "southwest": {
+                    "lat": 50.0152145,
+                    "lng": 8.4727299
+                }
+            },
+            "location": {
+                "lat": 50.1109221,
+                "lng": 8.6821267
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.2272095,
+                    "lng": 8.8003977
+                },
+                "southwest": {
+                    "lat": 50.0152145,
+                    "lng": 8.4727299
+                }
+            }
+        },
+        "place_id": "ChIJxZZwR28JvUcRAMawKVBDIgQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJ0TEy5UwJpUcR_n1cgyLndIQ": {
+        "address_components": [
+            {
+                "long_name": "14",
+                "short_name": "14",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Susenburger Straße",
+                "short_name": "Susenburger Str.",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Elbingerode (Harz)",
+                "short_name": "Elbingerode (Harz)",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Harz",
+                "short_name": "Harz",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Sachsen-Anhalt",
+                "short_name": "SA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "38875",
+                "short_name": "38875",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "Susenburger Str. 14, 38875 Elbingerode (Harz), Germany",
+        "geometry": {
+            "location": {
+                "lat": 51.76566,
+                "lng": 10.80033
+            },
+            "location_type": "ROOFTOP",
+            "viewport": {
+                "northeast": {
+                    "lat": 51.7670089802915,
+                    "lng": 10.8016789802915
+                },
+                "southwest": {
+                    "lat": 51.7643110197085,
+                    "lng": 10.7989810197085
+                }
+            }
+        },
+        "place_id": "ChIJ0TEy5UwJpUcR_n1cgyLndIQ",
+        "types": [
+            "establishment",
+            "health",
+            "pharmacy",
+            "point_of_interest",
+            "store"
+        ]
+    },
+    "ChIJRfxLjwuJpkcRup6Gmu5DWBw": {
+        "address_components": [
+            {
+                "long_name": "Merseburg",
+                "short_name": "Merseburg",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Saalekreis",
+                "short_name": "Saalekreis",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Saxony-Anhalt",
+                "short_name": "SA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Merseburg, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 51.39024269999999,
+                    "lng": 12.039412
+                },
+                "southwest": {
+                    "lat": 51.29035349999999,
+                    "lng": 11.8983787
+                }
+            },
+            "location": {
+                "lat": 51.3563278,
+                "lng": 11.9917462
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 51.39024269999999,
+                    "lng": 12.039412
+                },
+                "southwest": {
+                    "lat": 51.29035349999999,
+                    "lng": 11.8983787
+                }
+            }
+        },
+        "place_id": "ChIJRfxLjwuJpkcRup6Gmu5DWBw",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJtZbjc2Nl5kcRl7My9Zx1Odw": {
+        "address_components": [
+            {
+                "long_name": "Neuilly-sur-Seine",
+                "short_name": "Neuilly-sur-Seine",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hauts-de-Seine",
+                "short_name": "Hauts-de-Seine",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Île-de-France",
+                "short_name": "Île-de-France",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "France",
+                "short_name": "FR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Neuilly-sur-Seine, France",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 48.898395,
+                    "lng": 2.2845899
+                },
+                "southwest": {
+                    "lat": 48.8740669,
+                    "lng": 2.245686
+                }
+            },
+            "location": {
+                "lat": 48.884831,
+                "lng": 2.26851
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 48.898395,
+                    "lng": 2.2845899
+                },
+                "southwest": {
+                    "lat": 48.8740669,
+                    "lng": 2.245686
+                }
+            }
+        },
+        "place_id": "ChIJtZbjc2Nl5kcRl7My9Zx1Odw",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJL8wmboFUo0cRMKywKVBDIgQ": {
+        "address_components": [
+            {
+                "long_name": "Bad Hersfeld",
+                "short_name": "Bad Hersfeld",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hersfeld-Rotenburg",
+                "short_name": "Hersfeld-Rotenburg",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kassel",
+                "short_name": "KS",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Hesse",
+                "short_name": "HE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Germany",
+                "short_name": "DE",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "36251",
+                "short_name": "36251",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "36251 Bad Hersfeld, Germany",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 50.9094229,
+                    "lng": 9.829156
+                },
+                "southwest": {
+                    "lat": 50.8135087,
+                    "lng": 9.6127028
+                }
+            },
+            "location": {
+                "lat": 50.8701345,
+                "lng": 9.7019675
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 50.9094229,
+                    "lng": 9.829156
+                },
+                "southwest": {
+                    "lat": 50.8135087,
+                    "lng": 9.6127028
+                }
+            }
+        },
+        "partial_match": true,
+        "place_id": "ChIJL8wmboFUo0cRMKywKVBDIgQ",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    "ChIJB6uQ7gJvoocRfO6GfwptZko": {
+        "address_components": [
+            {
+                "long_name": "600",
+                "short_name": "600",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "West Adams Street",
+                "short_name": "W Adams St",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Osborne",
+                "short_name": "Osborne",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Osborne County",
+                "short_name": "Osborne County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kansas",
+                "short_name": "KS",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "67473",
+                "short_name": "67473",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "600 W Adams St, Osborne, KS 67473, USA",
+        "geometry": {
+            "location": {
+                "lat": 39.4411958,
+                "lng": -98.70231360000001
+            },
+            "location_type": "ROOFTOP",
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4425447802915,
+                    "lng": -98.70096461970851
+                },
+                "southwest": {
+                    "lat": 39.4398468197085,
+                    "lng": -98.70366258029152
+                }
+            }
+        },
+        "place_id": "ChIJB6uQ7gJvoocRfO6GfwptZko",
+        "types": [
+            "establishment",
+            "point_of_interest"
+        ]
     }
 }
