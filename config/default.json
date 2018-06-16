@@ -1,7 +1,7 @@
 {
   "NODE_ENV": "debug",
   "dataInfoFile":"./config/data_info.json",
-  "logLevel": "info",
+  "logLevel": "debug",
   "parsing": {
     "wikiDatePlaceRegx": "\\((?:vers )?(?:((?:[^\\d\\(\\)\\,\\-\\–]*\\d*){0,4}\\d+))(?:,? (\\D*))? ?(?:-|–) ?(?:vers )?(?:((?:[^\\d\\(\\)\\,\\-\\–]*\\d*){0,4}\\d+))(?:,? (\\D*))?\\)"
   },
@@ -11,5 +11,8 @@
     "reignEnd": ["_Fin du règne", "_Fin du\nrègne"],
     "birthDate": ["_Naissance"],
     "deathDate": ["_Décès"]  
+  },
+  "apiKey":{
+    "google": "AIzaSyAq-SoSY8Dw59k9wK-n0bUc9_YQbcbAcUQ"
   }
 }
