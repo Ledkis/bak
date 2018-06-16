@@ -114,19 +114,19 @@ wikiapi.updateParsing = function () {
     })
 }
 
-wikiapi.getLocation = function (wikiObj){
+wikiapi.getLocation = function (wikiObj, locations, force){
 
-  let locations = {}
   let promises = []
   let searchedLocations = []
 
   let locTypesToGet = ['birthPlace', 'deathPlace']
 
   locTypesToGet.forEach(locType => {
-    if(wikiObj[locType]) {
+    if(wikiObj[locType] && (force || !wikiObj[`${locType}Id`])) {
       let p = apiutils.getLocation(wikiObj.birthPlace).then(res => {
         wikiObj[`${locType}Lat`] = res.geometry.location.lat
         wikiObj[`${locType}Lng`] = res.geometry.location.lng
+        wikiObj[`${locType}Id`] = res.place_id
         locations[res.place_id] = res
       }).catch(err => logger.err(err, `getLocation: ${wikiObj.name} ${locType} ${wikiObj.birthPlace}`))
       promises.push(p)
@@ -142,14 +142,13 @@ wikiapi.getLocation = function (wikiObj){
     })
 }
 
-wikiapi.getAllLocations = function (wikiData) {
+wikiapi.getAllLocations = function (wikiData, locations, force) {
   logger.info(`getAllLocations`)
 
   let promises = []
-  let locations = {}
 
   wikiData.list.forEach(wikiObj => {
-    let p = wikiapi.getLocation(wikiObj).then(locs => {
+    let p = wikiapi.getLocation(wikiObj, locations, force).then(locs => {
       locations = Object.assign(locations, locs)
       return locations
     })
@@ -164,41 +163,42 @@ wikiapi.getAllLocations = function (wikiData) {
     })
 }
 
-wikiapi.updateLocations = function () {
+wikiapi.updateLocations = function (force) {
   logger.info(`updateLocations`)
 
   const wikiDataInfo = datamanager.getDataInfo('wikiData')
 
-  let dataToUpdate = []
-  let promises = []
+  return datamanager.getLocations().then(locations => {
 
-  let locations = {}
+    let dataToUpdate = []
+    let promises = []
 
-  Object.keys(wikiDataInfo).forEach((dataId) => {
+    Object.keys(wikiDataInfo).forEach((dataId) => {
 
-    // if(dataId === 'monarques_en'){
-      dataToUpdate.push(dataId)
+      // if(dataId === 'monarques_en'){
+        dataToUpdate.push(dataId)
 
-      const p = this.fetchWikiData(dataId, 'json')
-        .then(wikiData => {
-          //wikiData.list = wikiData.list.filter(el => el.deathPlace).slice(0, 4)
-          return wikiapi.getAllLocations(wikiData)
-        }).then(locs => {
-          locations = Object.assign(locations, locs)
-          return locations
-        })
+        const p = this.fetchWikiData(dataId, 'json')
+          .then(wikiData => {
+            //wikiData.list = wikiData.list.filter(el => el.deathPlace).slice(0, 4)
+            return wikiapi.getAllLocations(wikiData, locations, force)
+          }).then(locs => {
+            locations = Object.assign(locations, locs)
+            return locations
+          })
 
-      promises.push(p)
-    // }
-  })
-
-  logger.info(`updateLocations: to update : ${JSON.stringify(dataToUpdate)}`)
-
-  return Promise.all(promises)
-    .then(() => {
-      datamanager.saveLocations(locations)
-      logger.info(`updateLocations: completed with ${Object.keys(locations).length} new loc saved`)
+        promises.push(p)
+      // }
     })
+
+    logger.info(`updateLocations: force ${!!force}, to update : ${JSON.stringify(dataToUpdate)}`)
+
+    return Promise.all(promises)
+      .then(() => {
+        datamanager.saveLocations(locations)
+        logger.info(`updateLocations: completed with ${Object.keys(locations).length} new loc saved`)
+      })
+  })
 }
 
 module.exports = wikiapi

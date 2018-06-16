@@ -6,7 +6,7 @@ var logger = require('../lib/my-winston')('REPL')
 
 require('./app_api/wikiapi').updateData()
 require('./app_api/wikiapi').updateParsing()
-require('./app_api/wikiapi').updateLocations()
+require('./app_api/wikiapi').updateLocations(true)
 require('./lib/apiutils').getLocation()
 
 var wikiapi = require('./app_api/wikiapi'); var data;
