@@ -16,12 +16,12 @@ function init () {
   return JSON.parse(fs.readFileSync(dataInfoFile, 'utf8'))
 }
 
-function getRawFilePath (fileName) {
-  return `./data/raw/${fileName}.html`
+function getWikiRawFilePath (fileName) {
+  return `./data/wiki/raw/${fileName}.html`
 }
 
-function getJsonFilePath (fileName) {
-  return `./data/json/${fileName}.json`
+function getWikiJsonFilePath (fileName) {
+  return `./data/wiki/json/${fileName}.json`
 }
 
 datamanager.getDataInfo = function (dataType) {
@@ -54,7 +54,7 @@ function updateWikiDataInfo (dataId, newInfo) {
 }
 
 datamanager.getWikiDataRaw = function (page) {
-  return readFileAsync(getRawFilePath(page), 'utf8')
+  return readFileAsync(getWikiRawFilePath(page), 'utf8')
 }
 
 datamanager.saveWikiDataRAW = function (dataId, rawData) {
@@ -64,7 +64,7 @@ datamanager.saveWikiDataRAW = function (dataId, rawData) {
     return
   }
 
-  const file = getRawFilePath(page)
+  const file = getWikiRawFilePath(page)
 
   writeFileAsync(file, rawData)
     .then(() => {
@@ -75,7 +75,7 @@ datamanager.saveWikiDataRAW = function (dataId, rawData) {
 }
 
 datamanager.getWikiDataJSON = function (page) {
-  return readFileAsync(getJsonFilePath(page), 'utf8')
+  return readFileAsync(getWikiJsonFilePath(page), 'utf8')
     .then((rawData) => {
       return JSON.parse(rawData)
     })
@@ -86,7 +86,7 @@ datamanager.saveWikiDataJSON = function (dataId, parsedWikiData) {
   parsedWikiData.page = dataInfo.wikiData[dataId].page
   parsedWikiData.dataId = dataId
 
-  const file = getJsonFilePath(parsedWikiData.page)
+  const file = getWikiJsonFilePath(parsedWikiData.page)
 
   writeFileAsync(file, JSON.stringify(parsedWikiData, null, 4))
     .then(() => {
