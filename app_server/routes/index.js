@@ -8,18 +8,27 @@ const wikiparser = require('../../lib/wikiparser')
 const router = express.Router();
 
 /* */
-router.get('/api/data', function(req, res) {
+router.get('/api/data/map', function(req, res) {
   
-  const opts = {}
-  const dataInfo = datamanager.getDataInfo()
-  opts.from = 'json'
-  opts.dataId = 'monarques_fr'
-  
-  wikiapi.fetchWikiData(opts).then((wikiData) => {
-    res.json({data: wikiData}) 
+  wikiapi.fetchWikiData('monarques_ge', 'json').then(wikiData => {
+
+    let data = wikiData.list.filter(el => {
+      return el.deathPlaceLat && el.deathPlaceLng
+    }).map(el => {
+      return {lat: el.deathPlaceLat, lng: el.deathPlaceLng}
+    })
+
+    res.json({data}) 
   })
 });
 
+router.get('/api/data/timeline', function(req, res) {
+  
+  wikiapi.fetchWikiData('monarques_ge', 'json').then(wikiData => {
+   
+    res.json({data: wikiData}) 
+  })
+});
 
 /* GET home page. */
 router.get('*', (request, response) => {

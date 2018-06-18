@@ -1,5 +1,5 @@
 queue()
-    .defer(d3.json, "/api/data")
+    .defer(d3.json, "/api/data/timeline")
     .await(makeGraphs);
 
 function makeGraphs(error, apiData) {
@@ -17,7 +17,7 @@ function makeGraphs(error, apiData) {
 
     console.log(startDate, endDate)
 
-    let w = 960
+    let w = 700
     let h = 700
 
     let xPadding = 20
@@ -37,7 +37,7 @@ function makeGraphs(error, apiData) {
 		
 
     // canvas
-    let chart = d3.select("body")
+    let chart = d3.select("#timeline")
         .append("svg")
         .attr("width", w)
         .attr("height", h)
@@ -91,4 +91,26 @@ function makeGraphs(error, apiData) {
         .attr("y", (d, i) => yScale(i) + 1)
         .attr("width", d => xScale(moment(d.deathDate).valueOf()) - xScale(moment(d.birthDate).valueOf()))
         .attr("height", h/dataset.length - 2)
+}
+
+function initMap() {
+
+    queue()
+    .defer(d3.json, "/api/data/map")
+    .await(init)
+
+    function init(error, posList) {
+    
+        var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 4,
+        center: posList.data[0]
+        })
+        
+        posList.data.forEach(el => {
+            new google.maps.Marker({
+                    position: el,
+                    map: map
+                })
+        })
+    }
 }
