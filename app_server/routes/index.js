@@ -5,12 +5,14 @@ const wikiapi = require('../../app_api/wikiapi')
 const datamanager = require('../../app_api/datamanager')
 const wikiparser = require('../../lib/wikiparser')
 
-const router = express.Router();
+const router = express.Router()
+
+let curDataId = 'monarques_fr'
 
 /* */
-router.get('/api/data/map', function(req, res) {
-  
-  wikiapi.fetchWikiData('monarques_ge', 'json').then(wikiData => {
+router.get('/api/data/map', function(request, response) {
+
+  wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {
 
     let data = wikiData.list.filter(el => {
       return el.deathPlaceLat && el.deathPlaceLng
@@ -18,15 +20,15 @@ router.get('/api/data/map', function(req, res) {
       return {lat: el.deathPlaceLat, lng: el.deathPlaceLng}
     })
 
-    res.json({data}) 
+    response.json({data}) 
   })
 });
 
-router.get('/api/data/timeline', function(req, res) {
-  
-  wikiapi.fetchWikiData('monarques_ge', 'json').then(wikiData => {
+router.get('/api/data/timeline', function(request, response) {
+    
+  wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {
    
-    res.json({data: wikiData}) 
+    response.json({data: wikiData}) 
   })
 });
 
@@ -34,6 +36,8 @@ router.get('/api/data/timeline', function(req, res) {
 router.get('*', (request, response) => {
     logger.verbose('get', JSON.stringify(request.query))
     const opts = {}
+
+    if(request.query.dataId) curDataId = request.query.dataId
    
     response.render('pages/index')
    
