@@ -9,23 +9,9 @@ const router = express.Router()
 
 let curDataId = 'monarques_fr'
 
-/* */
-router.get('/api/data/map', function(request, response) {
-
-  wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {
-
-    wikiData.list = wikiData.list.filter(el => {
-      return el.deathPlaceLat && el.deathPlaceLng
-    })
-
-    response.json({data: wikiData}) 
-  })
-});
-
-router.get('/api/data/timeline', function(request, response) {
+router.get('/api/data', function(request, response) {
     
   wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {
-   
     response.json({data: wikiData}) 
   })
 });
