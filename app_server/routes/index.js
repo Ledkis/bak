@@ -14,13 +14,11 @@ router.get('/api/data/map', function(request, response) {
 
   wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {
 
-    let data = wikiData.list.filter(el => {
+    wikiData.list = wikiData.list.filter(el => {
       return el.deathPlaceLat && el.deathPlaceLng
-    }).map(el => {
-      return {lat: el.deathPlaceLat, lng: el.deathPlaceLng}
     })
 
-    response.json({data}) 
+    response.json({data: wikiData}) 
   })
 });
 

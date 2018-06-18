@@ -1,9 +1,12 @@
 queue()
     .defer(d3.json, "/api/data/timeline")
-    .await(makeGraphs);
+    .await(makeTimeLine);
 
-function makeGraphs(error, apiData) {
-    const dataset = apiData.data.list.filter(el => {
+function makeTimeLine(error, apiData) {
+
+    const wikiData = apiData.data 
+
+    const dataset = wikiData.list.filter(el => {
         return el.birthDate && 
                 moment(el.birthDate).isValid() && 
                 el.deathDate && 
@@ -93,24 +96,26 @@ function makeGraphs(error, apiData) {
         .attr("height", h/dataset.length - 2)
 }
 
-function initMap() {
+function makeMap() {
 
     queue()
     .defer(d3.json, "/api/data/map")
-    .await(init)
+    .await((error, apiData) => {
 
-    function init(error, posList) {
+        const wikiData = apiData.data
+
+        let center = {lat: wikiData.list[0].deathPlaceLat, lng: wikiData.list[0].deathPlaceLng}
     
         var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4,
-        center: posList.data[0]
+            zoom: 4,
+            center: center
         })
         
-        posList.data.forEach(el => {
+        wikiData.list.forEach(wikiObj => {
             new google.maps.Marker({
-                    position: el,
+                    position: {lat: wikiObj.deathPlaceLat, lng: wikiObj.deathPlaceLng},
                     map: map
                 })
         })
-    }
+    })
 }
