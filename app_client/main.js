@@ -116,7 +116,7 @@ function makeMap() {
             constructor(pos, name, map){
                 super()
         
-                this.pos = new google.maps.LatLng(pos.lat, pos.lng)
+                this.pos = pos
                 this.name = name
         
                 // Define a property to hold the image's div. We'll
@@ -126,6 +126,12 @@ function makeMap() {
         
                 // Explicitly call setMap on this overlay.
                 this.setMap(map)
+
+                this.clickCallback = function () {}
+            }
+
+            onClick(cb){
+                this.clickCallback = cb
             }
         
             onAdd(){
@@ -133,9 +139,10 @@ function makeMap() {
                 this.div.classList.add('marker')
                 this.div.style.position = 'absolute'
                 this.div.innerHTML = this.name
-        
+                this.div.addEventListener('click', this.clickCallback)
+
                 let panes = this.getPanes()
-                panes.overlayLayer.appendChild(this.div)
+                panes.overlayImage.appendChild(this.div)
             }
         
             draw(){
@@ -149,6 +156,14 @@ function makeMap() {
                 this.div.parentNode.removeChild(this.div)
                 this.div = null
             }
+
+            show(){
+                this.div.style.display = 'block'
+            }
+
+            hide(){
+                this.div.style.display = 'none'
+            }
         }
         
         wikiData.list.forEach(wikiObj => {
@@ -156,8 +171,21 @@ function makeMap() {
             //         position: {lat: wikiObj.deathPlaceLat, lng: wikiObj.deathPlaceLng},
             //         map: map
             //     })
-            let pos = {lat: wikiObj.deathPlaceLat, lng: wikiObj.deathPlaceLng}
-            new OverlayMarker(pos, wikiObj.name, map)
+            let pos = new google.maps.LatLng(wikiObj.deathPlaceLat, wikiObj.deathPlaceLng)
+            let marker = new OverlayMarker(pos, wikiObj.name, map)
+            let infoWindow = new google.maps.InfoWindow({
+                content: wikiObj.name,
+                position: pos
+            })
+            marker.onClick(() => {
+                infoWindow.open(map)
+                marker.hide()
+            })
+            infoWindow.addListener('closeclick', () => {
+                marker.show()
+            })
+
+            
         })
 
         
