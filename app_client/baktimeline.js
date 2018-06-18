@@ -1,4 +1,4 @@
-class Timeline {
+class BakTimeline {
     constructor(wikiData){
         this.wikiData = wikiData
         this.dataset = wikiData.list.filter(el => {
@@ -33,7 +33,7 @@ class Timeline {
         .range([0, this.innerHeight]);
         
     // canvas
-    let chart = d3.select("#timeline")
+    let chart = d3.select("#bakTimeline")
         .append("svg")
         .attr("width", this.w)
         .attr("height", this.h)

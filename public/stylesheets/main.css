@@ -10,11 +10,11 @@
     font-size: 11px;
 }
 
-#timeline {
+#bakTimeline {
     display: inline-block;
 }
 
-#map {
+#bakMap {
     display: inline-block;
     height: 700px;
     width: 700px;
