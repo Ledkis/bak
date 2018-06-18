@@ -106,16 +106,60 @@ function makeMap() {
 
         let center = {lat: wikiData.list[0].deathPlaceLat, lng: wikiData.list[0].deathPlaceLng}
     
-        var map = new google.maps.Map(document.getElementById('map'), {
+        let map = new google.maps.Map(document.getElementById('map'), {
             zoom: 4,
             center: center
         })
+
+        class OverlayMarker extends google.maps.OverlayView {
+            // https://developers.google.com/maps/documentation/javascript/examples/overlay-simple?hl=fr
+            constructor(pos, name, map){
+                super()
+        
+                this.pos = new google.maps.LatLng(pos.lat, pos.lng)
+                this.name = name
+        
+                // Define a property to hold the image's div. We'll
+                // actually create this div upon receipt of the onAdd()
+                // method so we'll leave it null for now.
+                this.div = null
+        
+                // Explicitly call setMap on this overlay.
+                this.setMap(map)
+            }
+        
+            onAdd(){
+                this.div = document.createElement('div')
+                this.div.classList.add('marker')
+                this.div.style.position = 'absolute'
+                this.div.innerHTML = this.name
+        
+                let panes = this.getPanes()
+                panes.overlayLayer.appendChild(this.div)
+            }
+        
+            draw(){
+                let overlayProjection = this.getProjection()
+                let position = overlayProjection.fromLatLngToDivPixel(this.pos)
+                this.div.style.left = position.x + 'px'
+                this.div.style.top = position.y + 'px'
+            }
+        
+            onRemove(){
+                this.div.parentNode.removeChild(this.div)
+                this.div = null
+            }
+        }
         
         wikiData.list.forEach(wikiObj => {
-            new google.maps.Marker({
-                    position: {lat: wikiObj.deathPlaceLat, lng: wikiObj.deathPlaceLng},
-                    map: map
-                })
+            // new google.maps.Marker({
+            //         position: {lat: wikiObj.deathPlaceLat, lng: wikiObj.deathPlaceLng},
+            //         map: map
+            //     })
+            let pos = {lat: wikiObj.deathPlaceLat, lng: wikiObj.deathPlaceLng}
+            new OverlayMarker(pos, wikiObj.name, map)
         })
+
+        
     })
 }
