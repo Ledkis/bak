@@ -77,7 +77,7 @@ class BakMap {
             this.markers.push(marker)
 
             let infoWindow = new google.maps.InfoWindow({
-                content: wikiObj.name,
+                content: `<p>${Object.keys(wikiObj).reduce((acc, key) => acc = `${acc}<br>${key}: ${wikiObj[key]}`, '')}</p>`,
                 position: pos
             })
             
