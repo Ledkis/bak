@@ -8,16 +8,18 @@ class BakMap {
             zoom: 4,
             center: this.center
         })
+
+        this.markers = []
     }
         
     draw(){
         class OverlayMarker extends google.maps.OverlayView {
             // https://developers.google.com/maps/documentation/javascript/examples/overlay-simple?hl=fr
-            constructor(pos, name, bmap){
+            constructor(pos, wikiObj, bmap){
                 super()
         
                 this.pos = pos
-                this.name = name
+                this.wikiObj = wikiObj
         
                 // Define a property to hold the image's div. We'll
                 // actually create this div upon receipt of the onAdd()
@@ -38,7 +40,7 @@ class BakMap {
                 this.div = document.createElement('div')
                 this.div.classList.add('marker')
                 this.div.style.position = 'absolute'
-                this.div.innerHTML = this.name
+                this.div.innerHTML = this.wikiObj.name
                 this.div.addEventListener('click', this.clickCallback)
         
                 let panes = this.getPanes()
@@ -70,8 +72,10 @@ class BakMap {
 
             let pos = new google.maps.LatLng(wikiObj.deathPlaceLat, wikiObj.deathPlaceLng)
             
-            let marker = new OverlayMarker(pos, wikiObj.name, this.bmap)
+            let marker = new OverlayMarker(pos, wikiObj, this.bmap)
             
+            this.markers.push(marker)
+
             let infoWindow = new google.maps.InfoWindow({
                 content: wikiObj.name,
                 position: pos
@@ -86,7 +90,15 @@ class BakMap {
                 marker.show()
             })
         })
+    }
 
-        
+    onSelectionChange(selection){
+        this.markers.forEach(marker => {
+            if(selection.map(el => el.name).includes(marker.wikiObj.name)){
+                marker.show()
+            } else {
+                marker.hide()
+            }
+        })
     }
 }

@@ -10,10 +10,15 @@ function initFRONT() {
             return el.deathPlaceLat && el.deathPlaceLng
           })
 
-        let timeline = new BakTimeline(wikiData)
-        timeline.draw()
-
         let bmap = new BakMap(wikiData)
         bmap.draw()
+
+        let timeline = new BakTimeline(wikiData)
+        timeline.draw((selection) => {
+            bmap.onSelectionChange(selection)
+        })
+
+        
+        
     })
 }

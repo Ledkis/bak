@@ -10,7 +10,8 @@ const router = express.Router()
 let curDataId = 'monarques_fr'
 
 router.get('/api/data', function(request, response) {
-    
+  logger.verbose('/api/data', JSON.stringify(request.query.dataId), 'curDataId', curDataId)
+
   wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {
     response.json({data: wikiData}) 
   })
@@ -18,8 +19,7 @@ router.get('/api/data', function(request, response) {
 
 /* GET home page. */
 router.get('*', (request, response) => {
-    logger.verbose('get', JSON.stringify(request.query))
-    const opts = {}
+    logger.verbose('get', JSON.stringify(request.query.dataId), 'curDataId', curDataId)
 
     if(request.query.dataId) curDataId = request.query.dataId
    
