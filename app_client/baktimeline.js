@@ -26,7 +26,7 @@ class BakTimeline {
         let innerWidth = w - xPadding
         let innerHeight = h - yPadding
 
-        let time = startDate
+        let time = moment(startDate)
  
         // scales
         let xScale = d3.scale.linear()
@@ -70,17 +70,27 @@ class BakTimeline {
             .attr("y2", h)
             .attr("stroke", "lightgray")
 
+        let timeSelectorText = timeline.append("text")
+            .text(`selectionTime: ${time.years()}`)
+            .attr("x", 100)
+            .attr("y", h)
+            //.attr("dy", 0)
+            
+            .attr("class", "laneText")
+            //.style("font", `${h/dataset.length}px sans-serif`)
+
         chart.on('mousemove', function ()  {
             let [mouseX, mouseY] = d3.mouse(this)
             //onMouseMove(mouseX, mouseY)
             timeSelector.attr("x1", mouseX).attr("x2", mouseX)
 
             time = moment(xScale.invert(mouseX))
-            
+
+            timeSelectorText.text(`selectionTime: ${time.years()}`)
 
             selection = dataset.filter(el => { 
-                let isSelected = moment(el.birthDate).year() <= time.year() &&
-                moment(el.deathDate).year() >= time.year()
+                let isSelected = moment(el.birthDate).valueOf() <= time.valueOf() &&
+                moment(el.deathDate).valueOf() >= time.valueOf()
                 return isSelected
             })
 
