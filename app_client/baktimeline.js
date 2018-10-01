@@ -17,8 +17,8 @@ class BakTimeline {
         let startDate = d3.min(dataset, d => moment(d.birthDate).valueOf())
         let endDate = d3.max(dataset, d => moment(d.deathDate).valueOf())
 
-        let w = 700
-        let h = 700
+        let w = 500
+        let h = 500
 
         let xPadding = 20
         let yPadding = 40
