@@ -2,6 +2,7 @@
   "NODE_ENV": "debug",
   "dataInfoFile":"./config/data_info.json",
   "logLevel": "debug",
+  "logDir":"log",
   "parsing": {
     "wikiDatePlaceRegx": "\\((?:vers )?(?:((?:[^\\d\\(\\)\\,\\-\\–]*\\d*){0,4}\\d+))(?:,? (\\D*))? ?(?:-|–) ?(?:vers )?(?:((?:[^\\d\\(\\)\\,\\-\\–]*\\d*){0,4}\\d+))(?:,? (\\D*))?\\)"
   },
