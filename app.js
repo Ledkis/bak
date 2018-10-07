@@ -1,10 +1,10 @@
+require('dotenv').config()
 const config = require('config')
 const express = require('express')
 const bodyParser = require('body-parser')
 const path = require('path')
 const createError = require('http-errors');
 const logger = require('./lib/my-winston')(__filename, 'verbose')
-const flash = require('./lib/flash')
 const wikiapi = require('./app_api/wikiapi')
 const datamanager = require('./app_api/datamanager')
 
