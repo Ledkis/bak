@@ -1,13 +1,12 @@
 # Bak
 
 ## Starter
+```
 git clone https://github.com/Ledkis/bak
-
 npm install
-
 npm run start
-
 http://localhost:3000/
+```
 
 
 ## Description
