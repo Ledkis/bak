@@ -22,7 +22,9 @@ router.get('*', (request, response) => {
     logger.verbose('get', JSON.stringify(request.query.dataId), 'curDataId', curDataId)
 
     if(request.query.dataId) curDataId = request.query.dataId
-   
+
+    //const googleApiUrl = `https://maps.googleapis.com/maps/api/js?key=${process.env.GOOGLE_API_KEY}&callback=initFRONT`
+    //response.render('pages/index', { googleApiUrl});
     response.render('pages/index')
 })
 
