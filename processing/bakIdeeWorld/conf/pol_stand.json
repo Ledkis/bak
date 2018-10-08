@@ -1,0 +1,24 @@
+{
+"pols":[
+    {"id": 0, "amp" : 0, "pQuant" : 1, "pTps": 1, "phQuant": 0, "phTps": 0},
+
+    {"id": 1, "amp" : 0.375, "pQuant" : 100, "pTps": 16, "phQuant": 0, "phTps": 0},
+    {"id": 2, "amp" : 0.125, "pQuant" : 100, "pTps": 16, "phQuant": 0, "phTps": 1.57079635},
+    {"id": 3, "amp" : 0.375, "pQuant" : 100, "pTps": 16, "phQuant": 0, "phTps": 3.1415927},
+    {"id": 4, "amp" : 0.125, "pQuant" : 100, "pTps": 16, "phQuant": 0, "phTps": 1.57079635},
+
+    {"id": 5, "amp" : 0.0833, "pQuant" : 100, "pTps": 4, "phQuant": 0, "phTps": 0},
+    {"id": 6, "amp" : 0.0833, "pQuant" : 100, "pTps": 4, "phQuant": 0, "phTps": 1.57079635},
+    {"id": 7, "amp" : 0.0833, "pQuant" : 100, "pTps": 4, "phQuant": 0, "phTps": 3.1415927},
+    {"id": 8, "amp" : 0.0833, "pQuant" : 100, "pTps": 4, "phQuant": 0, "phTps": 1.57079635},
+
+    {"id": 9, "amp" : 0.025, "pQuant" : 100, "pTps": 1, "phQuant": 0, "phTps": 0},
+    {"id": 10, "amp" : 0.025, "pQuant" : 100, "pTps": 1, "phQuant": 0, "phTps": 1.57079635},
+    {"id": 11, "amp" : 0.025, "pQuant" : 100, "pTps": 1, "phQuant": 0, "phTps": 3.1415927},
+    {"id": 12, "amp" : 0.025, "pQuant" : 100, "pTps": 1, "phQuant": 0, "phTps": 1.57079635},
+
+
+
+
+  ]
+}

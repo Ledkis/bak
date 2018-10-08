@@ -1,0 +1,26 @@
+{
+  "aIdees":[
+    {"id": 0, "idee" : 0, "idPolx" : 0, "idPoly" : 0, "color" : "FF000000"},
+
+    {"id": 1, "idee" : 0, "idPolx" : 1, "idPoly" : 2, "color" : "FFFF0000"},
+    {"id": 2, "idee" : 0, "idPolx" : 3, "idPoly" : 4, "color" : "FFFF0000"},
+  ],
+  "rIdees":[
+    {"id": 3, "idAIdee" : 1, "ridee" : 0, "idPolx" : 5, "idPoly" : 6, "color" : "FF00FF00"},
+    {"id": 4, "idAIdee" : 1, "ridee" : 0, "idPolx" : 7, "idPoly" : 8, "color" : "FF00FF00"},
+    {"id": 5, "idAIdee" : 2, "ridee" : 0, "idPolx" : 5, "idPoly" : 6, "color" : "FF00FF00"},
+    {"id": 6, "idAIdee" : 2, "ridee" : 0, "idPolx" : 7, "idPoly" : 8, "color" : "FF00FF00"},
+
+    {"id": 7, "idAIdee" : 3, "ridee" : 0, "idPolx" : 9, "idPoly" : 10, "color" : "FF0000FF"},
+    {"id": 8, "idAIdee" : 3, "ridee" : 0, "idPolx" : 11, "idPoly" : 12, "color" : "FF0000FF"},
+    {"id": 9, "idAIdee" : 4, "ridee" : 0, "idPolx" : 9, "idPoly" : 10, "color" : "FF0000FF"},
+    {"id": 10, "idAIdee" : 4, "ridee" : 0, "idPolx" : 11, "idPoly" : 12, "color" : "FF0000FF"},
+    {"id": 11, "idAIdee" : 5, "ridee" : 0, "idPolx" : 9, "idPoly" : 10, "color" : "FF0000FF"},
+    {"id": 12, "idAIdee" : 5, "ridee" : 0, "idPolx" : 11, "idPoly" : 12, "color" : "FF0000FF"},
+    {"id": 13, "idAIdee" : 6, "ridee" : 0, "idPolx" : 9, "idPoly" : 10, "color" : "FF0000FF"},
+    {"id": 14, "idAIdee" : 6, "ridee" : 0, "idPolx" : 11, "idPoly" : 12, "color" : "FF0000FF"},
+  ],
+  "bRIdees":[
+    {"id": 15, "idPosIdee" : 1, "idNegIdee" : 2, "idPol" : 9, "color" : "FFED02E2"},
+  ],
+}
