@@ -2,7 +2,7 @@
 // Daniel Shiffman
 // http://natureofcode.com
 
-float GRAVITY = 0.13;
+float GRAVITY = 0.15;
 
 int MOVER_NBR = 10;
 
