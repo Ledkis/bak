@@ -23,9 +23,9 @@ router.get('*', (request, response) => {
 
     if(request.query.dataId) curDataId = request.query.dataId
 
-    //const googleApiUrl = `https://maps.googleapis.com/maps/api/js?key=${process.env.GOOGLE_API_KEY}&callback=initFRONT`
-    //response.render('pages/index', { googleApiUrl});
-    response.render('pages/index')
+    const googleApiUrl = `https://maps.googleapis.com/maps/api/js?key=${process.env.GOOGLE_API_KEY}&callback=initFRONT`
+    response.render('pages/index', { googleApiUrl});
+    //response.render('pages/index')
 })
 
 module.exports = router
