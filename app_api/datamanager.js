@@ -10,7 +10,7 @@ const datamanager = {}
 
 const dataInfoFile = config.get('dataInfoFile')
 
-const dataInfo = init()
+datamanager.dataInfo = init()
 
 function init () {
   return JSON.parse(fs.readFileSync(dataInfoFile, 'utf8'))

@@ -1,6 +1,7 @@
 {
   "NODE_ENV": "debug",
   "dataInfoFile":"./config/data_info.json",
+  "dbUrl": "mongodb://localhost:27017",
   "logLevel": "debug",
   "logDir":"log",
   "parsing": {
