@@ -10,21 +10,25 @@ init()
 function init(){
   return new Promise((resolve, reject) => {
     MongoClient.connect(url, function(err, db) {
-      if (err) throw err;
-      const dbo = db.db("bak")
+      if (err) {
+        logger.err(err)
+      } else {
 
-      deleteCollections(dbo)
-        .then(() => {
-          return createCollectionsFromJSON(dbo)        
-        })
-        .then(() => {
-          db.close()
-          logger.info(`init: end`)        
-        })
-        .catch(err => {
-          db.close()
-          logger.err(err)        
-        })
+        const dbo = db.db("bak")
+
+        deleteCollections(dbo)
+          .then(() => {
+            return createCollectionsFromJSON(dbo)        
+          })
+          .then(() => {
+            db.close()
+            logger.info(`init: end`)        
+          })
+          .catch(err => {
+            db.close()
+            logger.err(err)        
+          })
+        }
     })
   })
 }

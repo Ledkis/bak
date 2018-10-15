@@ -10,7 +10,7 @@ const datamanager = {}
 
 const dataInfoFile = config.get('dataInfoFile')
 
-datamanager.dataInfo = init()
+datamanager.dataInfo = init() // TODO: moche ? 
 
 function init () {
   return JSON.parse(fs.readFileSync(dataInfoFile, 'utf8'))
@@ -34,17 +34,17 @@ function getLocationsFilePath () {
 // Data Info
 
 datamanager.getDataInfo = function (dataType) {
-  return dataInfo[dataType]
+  return datamanager.dataInfo[dataType]
 }
 
 function saveDataInfo () {
-  return writeFileAsync(dataInfoFile, JSON.stringify(dataInfo, null, 4))
+  return writeFileAsync(dataInfoFile, JSON.stringify(datamanager.dataInfo, null, 4))
     .then(() => logger.verbose(`saveDataInfo: dataInfo saved`))
     .catch(err => logger.err(err, `saveDataInfo`))
 }
 
 function updateWikiDataInfo (dataId, newInfo) {
-  dataInfo.wikiData[dataId] = Object.assign(dataInfo.wikiData[dataId], newInfo)
+  datamanager.dataInfo.wikiData[dataId] = Object.assign(datamanager.dataInfo.wikiData[dataId], newInfo)
   logger.verbose(`updateDataInfo: ${dataId}: ${JSON.stringify(newInfo)} updated`)
 
   saveDataInfo()
@@ -75,7 +75,7 @@ datamanager.getWikiDataRaw = function (page) {
 }
 
 datamanager.saveWikiDataRAW = function (dataId, rawData) {
-  const {raw, page} = dataInfo.wikiData[dataId]
+  const {raw, page} = datamanager.dataInfo.wikiData[dataId]
   if (raw) {
     logger.verbose(`saveWikiDataRAW: data/raw/${page}.html up to date`)
     return
@@ -100,7 +100,7 @@ datamanager.getWikiDataJSON = function (page) {
 
 datamanager.saveWikiDataJSON = function (dataId, parsedWikiData) {
   parsedWikiData.lastupdate = new Date()
-  parsedWikiData.page = dataInfo.wikiData[dataId].page
+  parsedWikiData.page = datamanager.dataInfo.wikiData[dataId].page
   parsedWikiData.dataId = dataId
 
   const file = getWikiJsonFilePath(parsedWikiData.page)

@@ -16,18 +16,23 @@ router.get('/api/data', function(request, response) {
 
   const url = config.get('dbUrl')
 
-  //wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {})
   MongoClient.connect(url, function(err, db) {
-    if (err) throw err
-    var dbo = db.db("bak")
+    if (err) {
+      logger.err(`get /api/data ${curDataId}: can't connect to mongodb: fetch data from JSON`)
+      wikiapi.fetchWikiData(curDataId, 'json').then(wikiData => {
+        response.json({data: wikiData})
+      })  
+    } else {
+      var dbo = db.db("bak")
 
-    dbo.collection(curDataId).find({}).toArray(function(err, result) {
-      if (err) throw err
-      db.close()
-      const wikiData = {list: result}
-      response.json({data: wikiData}) 
-    });
-  });
+      dbo.collection(curDataId).find({}).toArray(function(err, result) {
+        if (err) throw err
+        db.close()
+        const wikiData = {list: result}
+        response.json({data: wikiData}) 
+      });
+    }
+  })
 });
 
 /* GET home page. */
