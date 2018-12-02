@@ -14,9 +14,6 @@
     "birthDate": ["_Naissance"],
     "deathDate": ["_Décès"]  
   },
-  "apiKey": {
-    "google": "AIzaSyAq-SoSY8Dw59k9wK-n0bUc9_YQbcbAcUQ"
-  },
   "apiCall": {
     "googleWait": 1000
   }

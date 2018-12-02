@@ -1,0 +1,12 @@
+<table style="width:100%">
+  <tr>
+    <th>name</th>
+    <th>type</th>
+  </tr>
+  <% @files.each do |file| %>
+    <tr>
+      <td><%= file.name %></td>
+      <td><%= file.doc_type %></td>
+    </tr>
+  <% end %>
+</table> 
